@@ -1,0 +1,3 @@
+*.loc utf16 eol=crlf
+
+*.hash binary
