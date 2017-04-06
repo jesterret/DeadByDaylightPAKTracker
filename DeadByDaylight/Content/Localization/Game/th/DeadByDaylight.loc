@@ -74,7 +74,44 @@ Oily Coil
 Rusted Jaws
 Stitched Bag
 Trap Setters
-Add-ons Add-ons Add-ons Adrenaline
+Add-ons Add-ons Add-ons A risky ECT procedure using a deep wavelength that soothes various mental illnesses. With Mu Yi's Spark as its source, this procedure can cause moderate anxiety in the patient.<br><li><b>Moderately increases</b>  your terror radius in Treatment mode.</li><li><b>Moderately decreases</b>  your terror radius in Punishment mode.</li><br>Survivors with <b>Madness (2/3)</b> have the following affliction:<br><li>The Terror Radius heartbeat has a <b>Tremendous chance</b> to play as if the survivor was on the edge of the Killer's terror radius for a duration of <b>15/20 seconds</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"Elctroconvulsive therapy is one of the safest medical procedures." -Mu Yi's Awakening Center.</span>
+"Calm" - Class II
+An ECT procedure using a deep wavelength that soothes various mental illnesses. With Mu Yi's Spark as its source, this procedure can cause mild anxiety in the patient.<br><li><b>Slightly increases</b> your terror radius in Treatment mode.</li><li><b>Slightly decreases</b>  your terror radius in Punishment mode.</li><br>Survivors with <b>Madness (2/3)</b> have the following affliction:<br><li>The Terror Radius heartbeat has a <b>Considerable chance</b> to play as if the survivor was on the edge of the Killer's terror radius for a duration of <b>10/15 seconds</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li>
+"Calm" - Class I
+An experimental version of the ECT procedure annotated by Doctor Mu Yi himself. Uses a deep wavelength that soothes various mental illnesses. With Mu Yi's Spark as its source, this procedure causes uncontrollable fear and anxiety in the patient.<br><li><b>Considerably increases</b> your terror radius in Treatment mode.</li><li><b>Considerably decreases</b>  your terror radius in Punishment mode.</li><br>Survivors with <b>Madness 3</b> have the following affliction:<br><li>The Terror Radius heartbeat <b>constantly</b> plays as if the survivor was on the edge of the Killer's terror radius.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"Higher quality seizures trigger catatonia. At least it gives me <u>peace</u> for the time it lasts." -Mu Yi</span>
+"Calm" - Mu Yi's Notes
+An experimental ECT procedure developed within the Fog. Uses a high stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause serious cases of hallucination in the patient.<br><li>Survivor auras are shown for <b>2 seconds</b> when their Madness increases.</li><br>Survivors with <b>Madness (2/3)</b> have the following affliction:<br><li><b>Moderate/Considerable chance</b> to see an illusory Doctor.</li><li><i>Afflictions</i> of the same type do not stack.</li>
+"Restraint" - Class III
+An experimental ECT procedure developed within the Fog. Uses a wavelength that links the patient's and Doctor's minds. This procedure is known to cause mild cases of hallucination in the patient.<br><li>Survivor auras are shown for <b>1 second</b> when their Madness increases.</li><br>Survivors with <b>Madness (2/3)</b> have the following affliction:<br><li><b>Slight/Moderate chance</b> to see an illusory Doctor.</li><li><i>Afflictions</i> of the same type do not stack.</li>
+"Restraint" - Class II
+An experimental ECT procedure developed within the Fog, crudely annotated. Uses an unbearable stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause severe cases of hallucination in the patient.<br><li>Survivor auras are shown for <b>3 seconds</b> when their Madness increases.</li><br>Survivors with <b>Madness (2/3)</b> have the following affliction:<br><li><b>Considerable/Tremendous chance</b> to see an illusory Doctor.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"I CAN SEE THEIR DISGUSTING <u>ILLNESSES</u>." -Unsigned Notes</span>
+"Restraint" - Mu Yi's Notes
+Mu Yi's Awakening Center ECT procedure for disciplinary action which uses a fixed dose at very high voltage. Can cause a state of serious paranoia in the patient.<br><li><b>Considerably increases</b> the amount of Madness caused by your Shock Therapy attack.</li><li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with <b>Madness 3</b> have the following affliction:<br><li>The Killer's red stain has a <b>Moderate chance</b> to appear behind the survivor for a duration of <b>4 seconds</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"Respect of our patients is at the core of our principles." -Mu Yi's Awakening Center.</span>
+"Discipline" - Class III
+Mu Yi's Awakening Center ECT procedure for disciplinary action which uses a fixed dose at high voltage. Can cause a state of moderate paranoia in the patient.<br><li><b>Moderately increases</b> the amount of Madness caused by your Shock Therapy attack.</li><li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with <b>Madness 3</b> have the following affliction:<br><li>The Killer's red stain has a <b>Slight chance</b> to appear behind the survivor for a duration of <b>3 seconds</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"We re-educate our patients with the greatest care." -Mu Yi's Awakening Center.</span>
+"Discipline" - Class II
+Mu Yi's Awakening Center ECT procedure for disciplinary action, annotated by Doctor Mu Yi himself. The intolerably high voltage leaves the patient in a severe state of paranoia.<br><li><b>Tremendously increases</b> the amount of Madness caused by your Shock Therapy attack.</li><li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with <b>Madness 3</b> have the following affliction:<br><li>The Killer's red stain has a <b>Considerable chance</b> to appear behind the survivor for a duration of <b>5 seconds</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"To avoid relapse from our most tenacious subjects, use <u>maximum</u> levels when proceeding with disciplinary actions." -Mu Yi</span>
+"Discipline" - Mu Yi's Notes
+An experimental electrode that can withstand very high charges for a longer period of time.<br><li><b>Increases</b> your Shock Therapy attack range by <b>6 meters</b>.</li><li><b>Increases</b> the static noise obscuring survivors' view for <b>3 seconds</b>.</li><li>Residual shock energy causes static noise to reappear <b>once</b> after <b>20 seconds</b>.</li>
+High Stimulus Electrode
+A glass-like Xiangqi piece molded from The Fog Itself. It is engraved with the dull symbol JiIridescent General
+A moldy electrode which can nevertheless conduct a weak electrical current.<br><li><b>Increases</b> your Shock Therapy attack range by <b>2 meters</b>.</li><li><b>Increases</b> the static noise obscuring survivors' view for <b>1 second</b>.</li><li>Residual shock energy causes static noise to reappear <b>once</b> after <b>45 seconds</b>.</li>
+Moldy Electrode
+A Xiangqi piece made of Nanmu wood and labelled with the black symbol pào ("catapult"). This gift from an Elder brings back distant memories and imbues The Doctor with devastating focus.<br><li>Allows to see the Electroconvulsive shock area of attack.</li>
+Nanmu Catapult
+A high stimulus ECT procedure, part of a patient's daily routine at the Awakening Center. Can cause a state of moderate confusion in the patient.<br><li><b>Moderately increases</b> the amount of Madness caused by your static field.</li><li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with <b>Madness</b> have the following afflictions:<br><li><b>15% chance</b> that a Skill Check appears in a random location on screen.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"Side effects are very rare." -Mu Yi's Awakening Center.</span>
+"Order" - Class II
+A conventional ECT procedure, part of a patient's daily routine at the Awakening Center. Can cause a state of mild confusion in the patient.<br><li><b>Slightly increases</b> the amount of Madness caused by your static field.</li><li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with <b>Madness</b> have the following afflictions:<br><li><b>10% chance</b> that a Skill Check appears in a random location on screen.</li><li><i>Afflictions</i> of the same type do not stack.</li>
+"Order" - Class I
+An experimental version of the ECT procedure, annotated by Doctor Mu Yi himself. The long, constant stimulus leaves the patient in a state of severe confusion.<br><li><b>Tremendously increases</b> the amount of Madness caused by your static field.</li><li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with Madness have the following afflictions:<br><li><b>25% chance</b> that a Skill Check appears in a random location on screen.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"The stimulus must be kept active at a <u>convulsive</u> level." -Mu Yi</span>
+"Order" - Mu Yi's Notes
+A like-new standard electrode equipment to conduct electroconvulsive treatments.<br><li><b>Increases</b> your Shock Therapy attack range by <b>4 meters</b>.</li><li><b>Increases</b> the static noise obscuring survivors' view for <b>2 seconds</b>.</li><li>Residual shock energy causes static noise to reappear <b>once</b> after <b>30 seconds</b>.</li>
+Polished Electrode
+An experimental ECT procedure developed within the Fog, crudely annotated. The extra surge of power causes extreme muscle tension which depletes the patient's energy.<br><li>Shake it off takes an extra <b>2 seconds</b> to complete.</li><br>Survivors with <b>Madness 3</b> have the following affliction:<br><li>Suffer from <b>Exhaustion</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"BREAK THEIR IMPURE BODIES" - Unsigned Notes</span>
+"Obedience" - Mu Yi's Notes
+A good luck charm which sharpens the mind.<br><li>Shock Therapy attack changes from a cone to a beam with a <b>20 meter</b> range and a <b>2 meter</b> width.</li>
+Tiger Fang Charm
+Adrenaline
 Agitation
 Anti-Hemorrhagic Syringe
 Ardent Raven Wreath
@@ -82,6 +119,11 @@ Ardent Shrike Wreath
 Ardent Spotted Owl Wreath
 Ardent Tanager Wreath
 Aura Reading
+Autohaven Wreckers
+Autohaven Wreckers
+Autohaven Wreckers
+Autohaven Wreckers
+Autohaven Wreckers
 Autohaven Wreckers
 Azarov Axe
 Azarov's Key
@@ -142,6 +184,27 @@ Electric Jacket
 Legacy Claudette 3
 Legacy Claudette 2
 Legacy Claudette 1
+A sleevless doctor's coat that has seen better days. Mu Yi always appreciated the dramatic look of a red tie and a black shirt combination.
+Doctor's Coat
+A sleevless doctor's coat. Mu Yi appreciates the dramatic look of blood on his coat.
+A sleevless doctor's coat. Mu Yi appreciates the dramatic look of blood on his coat.
+Bloody Doctor's Coat
+A furious Doctor, overcharged with his madenning electronconvulsive power.
+Awakening Center Coat
+Strapped in his electroconvulsive gear, The Doctor is forever forced in a maniacal grin.
+Mu Yi
+Strapped in his electroconvulsive gear, The Doctor has no choice but to get blood all over...eyes and mouth included.
+Strapped in his electroconvulsive gear, The Doctor has no choice but to get blood all over...eyes and mouth included.
+Bloody Mu Yi
+The Stick, crackling furiously with the power of Mu Yi's Spark.
+Mu Yi's Spark
+An instrument of punishment when all other treatments failed.
+The Stick
+An instrument of punishment when all other treatment failed. They often do.
+An instrument of punishment when all other treatment failed. They often do.
+The Bloody Stick
+Official garments of chief staff at Mu Yi's Awakening Center.
+Tesla Rod
 Awarded to the winner of the PandaTV tournament only
 The Golden Shirt
 Awarded to all participants of the PandaTV tournament
@@ -155,6 +218,27 @@ Surf Tones
 Legacy Dwight 3
 Legacy Dwight 2
 Legacy Dwight 1
+Short shorts showing off the flashy Lazer Bears' colors.
+Lazer shorts
+Short shorts with the flashy Lazer Bears' colors under a thick layer of blood.
+Short shorts with the flashy Lazer Bears' colors under a thick layer of blood.
+Bloody Lazer Shorts
+Common track pants complimented by flashy silver sneakers.
+Soft Track Pants
+A highly focused and competitive young woman. She's in it to win it.
+Feng Min
+A highly focused and competitive young woman...covered in blood.
+A highly focused and competitive young woman...covered in blood.
+Bloody Feng Min
+A relaxed hairdo when spending time away from the cameras.
+Relaxed Bun
+Lazer Bears' official polo shirt for the 2016 e-sports tournament.
+Lazer Bears tournament polo
+Nothing like a blood smeared polo shirt to intimidate the competition. 
+Nothing like a blood smeared polo shirt to intimidate the competition. 
+Bloody Lazer Bears
+A comfy and soft wool wrap that keeps you warm and cozy on rainy afternoons.
+Day Off Wrap
 Dull Hammer
 Ripped jeans
 White stitch jeans
@@ -230,6 +314,11 @@ Cleaver
 Coal Tower
 Coldwind Cattle Tag-81
 Coldwind Farm
+Coldwind Farm
+Coldwind Farm
+Coldwind Farm
+Coldwind Farm
+Coldwind Farm
 Common
 Crescent Moon Bouquet
 Crispleaf Amaranth Sachet
@@ -286,6 +375,7 @@ Grisly Chain
 Hazy Reagent
 Heart Locket
 Heavy Duty Battery
+Hex Skill Check
 Hollow Shell
 Hope
 Hydrofuge Cargo
@@ -311,12 +401,15 @@ Jake
 Jake Park
 Jeans Tucked into Riding Boots
 Jogging Hoodie
+The Doctor
 The Shape
 Key
 Key
 Key
 Knitted Beret
 Haddonfield
+Haddonfield
+Mu Yi's Awakening Centre
 Last Breath
 Last Standing
 Leader
@@ -326,6 +419,8 @@ Lightweight
 Logwood Dye
 Long Guide Bar
 Low Amp Filament
+Originally a military facility, this building was converted into a treatment center for those suffering from internet addiction. But in Mu Yi's clinic, treatment turned to torture. At the heart of the facility, the Doctor's tools have been arranged in a twisted ritual circle, ready for research, as he refines his methods on an endless stream of terrified sinners.
+Treatment Theatre
 Foundry Lampkin Lane
 MacMillan Ledger Page
 MacMillan's Phalanx Bone
@@ -351,7 +446,6 @@ Mors Ambitio
 Murky Reagent
 New Moon Bouquet
 No One Escaped
-No One Escapes Death
 No One Left Behind
 Black Salt Statuette
 Black Splinter
@@ -359,21 +453,63 @@ Bound Envelope
 Cream Chalk Pouch
 Cut Coin
 Decrepit Clapboard
+<b>Slightly increases</b> the chance to be sent to Mu Yi's Awakening Center when burnt.<br><li>Stacks.</li><br><span class="FlavorText">"A yellow carbon-copy certificate which admits a patient into immediate detention for emergency treatment. Copied information are smudged and unreadable."</span>
+Emergency Certificate
 <b><b><b>Harvest Festival Leaflet
 Ivory Chalk Pouch
 Vigo's Jar of Salty Lips
+<b>Considerably increases</b> the chance to be sent to Mu Yi's Awakening Center when burnt.<br><li>Stacks.</li><br><span class="FlavorText">"A Psychiatric report signed by Mu Yi. It describes the mental illness which causes serious disruption to the patient's ability to live independently: Internet Addiction."</span>
+Psychiatric Assessment Report
 Putrid Oak
 Rotten Oak
 Salt Pouch
+<b>Tremendously increases</b> the chance to be sent to Mu Yi's Awakening Center when burnt.<br><span class="FlavorText">"Bent reading glasses. Speckles of dried blood can be seen on the shattered lens."</span>
+Shattered Glasses
 Shiny Coin
+Allows you to take on the role of The Doctor for the next trial. <i>Your current perks and add-ons will not be used.</i><br><span class="FlavorText">"Rowdiness can be cured.<br>Authorities must be obeyed."</span>
+Shock Splinter
 <b>Strode Realty Key
 Odd Stamp
-Perk Perk Perk Decisive Strike
+Perk Perk Perk You are fueled by unexpected energy when on the verge of escape. <span class="Highlight1">Instantly heal from injury</span> and sprint at <span class="Highlight2">150%</span> your normal running speed for <span class="Highlight3">5 seconds</span> when the exit gates are powered. Adrenaline does not apply if you are disabled at the moment it should take effect.<br><i>Adrenaline</i> ignores <b>Exhaustion</b>.<br>Causes <b>Exhaustion</b> for <span class="Highlight4">50 seconds</span>.
+You are fueled by unexpected energy when on the verge of escape. <span class="Highlight1">Instantly heal from injury</span> and sprint at <span class="Highlight2">150%</span> your normal running speed for <span class="Highlight3">3 seconds</span> when the exit gates are powered. Adrenaline does not apply if you are disabled at the moment it should take effect.<br><i>Adrenaline</i> ignores <b>Exhaustion</b>.<br>Causes <b>Exhaustion</b> for <span class="Highlight4">60 seconds</span>.
+When Balanced Landing is active, stagger effects from long falls are reduced by <span class="Highlight1">75%</span>.<br>Upon landing start sprinting at <span class="Highlight2">150%</span> your normal running speed for a maximum of <span class="Highlight3">3 seconds</span> if not exhausted.<br>Causes <b>Exhaustion</b> for <span class="Highlight4">40 seconds</span>.<br><span class="FlavorText">"I've jumped from higher places." -Nea</span>
+When Balanced Landing is active, stagger effects from long falls are reduced by <span class="Highlight1">75%</span>.<br><span class="FlavorText">"I've jumped from higher places." -Nea</span>
+When Balanced Landing is active, stagger effects from long falls are reduced by <span class="Highlight1">50%</span>.<br><span class="FlavorText">"I've jumped from higher places." -Nea</span>
+The growing odds of a successful escape fill you with hope and give you wings. Your movement speed is increased by <span class="Highlight1">7%</span> as soon as the exit gates are powered for <span class="Highlight3">120 seconds</span>.
+The growing odds of a successful escape fill you with hope and give you wings. Your movement speed is increased by <span class="Highlight1">6%</span> as soon as the exit gates are powered for <span class="Highlight3">120 seconds</span>.
+The growing odds of a successful escape fill you with hope and give you wings. Your movement speed is increased by <span class="Highlight1">5%</span> as soon as the exit gates are powered for <span class="Highlight3">120 seconds</span>.
+When starting to run, break into a sprint at <span class="Highlight1">150%</span> your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <br>Causes <b>Exhaustion</b> for <span class="Highlight3">40 seconds</span>.<br><i>Sprint Burst</i> cannot be used while <b>Exhausted</b>.
+When starting to run, break into a sprint at <span class="Highlight1">150%</span> your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <br>Causes <b>Exhaustion</b> for <span class="Highlight3">50 seconds</span>.<br><i>Sprint Burst</i> cannot be used while <b>Exhausted</b>.
+When starting to run, break into a sprint at <span class="Highlight1">150%</span> your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>.<br>Causes <b>Exhaustion</b> for <span class="Highlight3">60 seconds</span>.<br><i>Sprint Burst</i> cannot be used while <b>Exhausted</b>.
+Your acute senses are on high alert.<br>When the Killer performs the break action within a <span class="Highlight1">36 meter</span> range, the killer is revealed to you for <span class="Highlight2">3 seconds</span>.<br>This effect can only be triggered once every <span class="Highlight3">30 seconds</span>.<br><span class="FlavorText">Your acute senses are on high alert.<br>When the Killer performs the break action within a <span class="Highlight1">24 meter</span> range, the killer is revealed to you for <span class="Highlight2">3 seconds</span>.<br>This effect can only be triggered once every <span class="Highlight3">45 seconds</span>.<br><span class="FlavorText">Your acute senses are on high alert.<br>When the Killer performs the break action within a <span class="Highlight1">12 meter</span> range, the killer is revealed to you for <span class="Highlight2">3 seconds</span>.<br>This effect can only be triggered once every <span class="Highlight3">60 seconds</span>.<br><span class="FlavorText">Alert
+Decisive Strike
 Dying light
+You are fuelled by your hate for progress.<br>Overcharge a generator by performing the <b>Break Generator</b> action. The next survivor interacting with that generator is faced with a <span class="Highlight1">tremendously</span> difficult Skill Check. Failing the Skill Check results in an additional <span class="Highlight2">5%</span> generator regression.<br>Succeeding the Skill Check grants no progress but prevents the generator explosion.
+You are fuelled by your hate for progress.<br>Overcharge a generator by performing the <b>Break Generator</b> action. The next survivor interacting with that generator is faced with a <span class="Highlight1">considerably</span> difficult Skill Check. Failing the Skill Check results in an additional <span class="Highlight2">4%</span> generator regression.<br>Succeeding the Skill Check grants no progress but prevents the generator explosion.
+You are fuelled by your hate for progress.<br>Overcharge a generator by performing the <b>Break Generator</b> action. The next survivor interacting with that generator is faced with a <span class="Highlight1">moderately</span> difficult Skill Check. Failing the Skill Check results in an additional <span class="Highlight2">3%</span> generator regression.<br>Succeeding the Skill Check grants no progress but prevents the generator explosion.
+Overcharge
+A Hex rooting its power on hope. You are animated by the power of your Hex totem when the survivors are on the verge of escaping. Once the exit gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, successful attacks put survivors into the dying state automatically, cooldowns on successful and missed attacks are decreased by <span class="Highlight1">8%</span> and your movement speed is increased by <span class="Highlight2">4%</span>.<br>The hex effects persist as long as the related hex totem is standing.<br><span class="FlavorText">"And the beast became faster and more powerful as if the Entity's shadowy whips were lashing at its back."</span>
+A Hex rooting its power on hope. You are animated by the power of your Hex totem when the survivors are on the verge of escaping. Once the exit gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, cooldowns on successful and missed attacks are decreased by <span class="Highlight1">8%</span> and your movement speed is increased by <span class="Highlight2">4%</span>.<br>The hex effects persist as long as the related hex totem is standing.<br><span class="FlavorText">"And the beast became faster and more powerful as if the Entity's shadowy whips were lashing at its back."</span>
+A Hex rooting its power on hope. You are animated by the power of your Hex totem when the survivors are on the verge of escaping. Once the exit gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, cooldowns on successful and missed attacks are decreased by <span class="Highlight1">4%</span> and your movement speed is increased by <span class="Highlight2">3%</span>.<br>The hex effects persist as long as the related hex totem is standing.<br><span class="FlavorText">"And the beast became faster and more powerful as if the Entity's shadowy whips were lashing at its back."</span>
+Hex: No one escapes Death
+After performing a vault, break into a sprint at <span class="Highlight1">150%</span> of your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <i>Activates in chases only.</i><br>Causes <b>Exhaustion</b> for <span class="Highlight3">40 seconds</span>.<br><i>Lithe</i> cannot be used while Exhausted.<br><span class="FlavorText">After performing a vault, break into a sprint at <span class="Highlight1">150%</span> of your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <i>Activates in chases only.</i><br>Causes <b>Exhaustion</b> for <span class="Highlight3">50 seconds</span>.<br><i>Lithe</i> cannot be used while Exhausted.<br><span class="FlavorText">After performing a vault, break into a sprint at <span class="Highlight1">150%</span> of your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <i>Activates in chases only.</i><br>Causes <b>Exhaustion</b> for <span class="Highlight3">60 seconds</span>.<br><i>Lithe</i> cannot be used while Exhausted.<br><span class="FlavorText">Lithe
+Meticulous in your approach, terrifying in your application.<br>While in a chase, your terror radius is increased by <span class="Highlight1">8 meters</span>. Otherwise your terror radius is decreased by <span class="Highlight2">8 meters</span> and your field of view is <span class="Highlight3">considerably</span> increased.<br><i>Field of view gains do not stack.</i><br><span class="FlavorText">"It's time for your treatment!" -The Doctor</span>
+Meticulous in your approach, terrifying in your application.<br>While in a chase, your terror radius is increased by <span class="Highlight1">7 meters</span>. Otherwise your terror radius is decreased by <span class="Highlight2">7 meters</span> and your field of view is <span class="Highlight3">moderately</span> increased.<br><i>Field of view gains do not stack.</i><br><span class="FlavorText">"It's time for your treatment!" -The Doctor</span>
+Meticulous in your approach, terrifying in your application.<br>While in a chase, your terror radius is increased by <span class="Highlight1">6 meters</span>. Otherwise your terror radius is decreased by <span class="Highlight2">6 meters</span> and your field of view is <span class="Highlight3">slightly</span> increased.<br><i>Field of view gains do not stack.</i><br><span class="FlavorText">"It's time for your treatment!" -The Doctor</span>
+Monitor & Abuse
 Object of Obsession
+Overwhelming Presence
+Your presence alone instills great fear. Survivors within your terror radius suffer from <b>inefficiency</b>.<br>Affected survivors' item consumption rates are increased by <span class="Highlight1">50%</span>.<br><span class="FlavorText">"Shit!! I dropped the gauze!"</span>
+Your presence alone instills great fear. Survivors within your terror radius suffer from <b>inefficiency</b>.<br>Affected survivors' item consumption rates are increased by <span class="Highlight1">45%</span>.<br><span class="FlavorText">"Shit!! I dropped the gauze!"</span>
+Your presence alone instills great fear. Survivors within your terror radius suffer from <b>inefficiency</b>.<br>Affected survivors' item consumption rates are increased by <span class="Highlight1">40%</span>.<br><span class="FlavorText">"Shit!! I dropped the gauze!"</span>
 Play with your food
 Save the best for last
 Sole Survivor
+You are apt at handling machinery with the greatest care and precision.<br>The noises caused by your repairs and their hearing distance are reduced by <span class="Highlight2">8 meters</span>. On a failed repair Skill Check, there is a <span class="Highlight1">50%</span> chance the generator explosion will be prevented.<br><span class="FlavorText">You are apt at handling machinery with the greatest care and precision.<br>The noises caused by your repairs and their hearing distance are reduced by <span class="Highlight2">4 meters</span>. On a failed repair Skill Check, there is a <span class="Highlight1">40%</span> chance the generator explosion will be prevented.<br><span class="FlavorText">You are apt at handling machinery with the greatest care and precision.<br>On a failed repair Skill Check, there is a <span class="Highlight1">30%</span> chance the generator explosion will be prevented.<br><span class="FlavorText">Technician
+Is it a gift, or a curse? The Entity has ignited a corrupted and inexhaustible spark in the Doctor's heart which allows him to generate electroconvulsive power at will. His insidious treatment corrupts the minds of those it touches. Victims shocked by the corrupt spark begin to lose their grip on reality and, with repeated exposure, inevitably succumb to madness.<br><li>Grants the ability to generate a static field in a <b>32 meter</b> radius that increases survivors' madness.</li></li>Grants the ability to charge and release a shock therapy attack that greatly increases survivors' madness.</li></li> Survivors falling into madness scream, giving you a visual cue at unlimited range.</li></li>Survivors with <b>Madness 3</b> regularly scream giving you a visual cue at unlimited range.</li>
+Mu Yi's Spark
+Mu Yi's Spark
+Mu Yi's Spark
 Evil Within
 Paths
 Paths
@@ -393,6 +529,8 @@ Prove Thyself
 Quarter Moon Bouquet
 Quick & Quiet
 Quitter Bonus
+With The Doctor, hit a survivor with the Shock Therapy attack {1} time(s).
+Rite of Mind Shock
 Rite of the Dark Within
 Rancid Abattoir
 Raven Wreath
@@ -410,11 +548,17 @@ Rotten Fields
 Rubber Gloves
 Rubber and Hooks
 Rusted Chain
+Bonus Hit
+Attack Bonus
+Shocked
+Madness Tier Up
 Stalker
 Evil Within
+Feng Min
 Ace Visconti
 Laurie Strode
 Saboteur
+Score_ThrillOfTheHunt_Name
 Scraps
 Scratched Coin
 Scratched Pearl
@@ -427,6 +571,7 @@ Setting Tools
 Shadowborn
 Sharp Mustache Jake
 Shelter Woods
+Shock Therapy
 Shop Lubricant
 Shredded Plate
 Shrike Wreath
@@ -439,6 +584,7 @@ Slaughterhouse Casual
 Slippery Meat
 Sloppy Butcher
 Small Game
+Snap Out Of It
 Spark Plug
 Speed Limiter
 Spies from the Shadows
@@ -458,6 +604,8 @@ Styptic Agent
 Suffocation Pit
 Sweat Pants
 Sweet William Sachet
+Switch to Punishment
+Switch to Treatment
 TEACHABLE PERKS
 BLOODWEB
 ENTITY
@@ -469,6 +617,10 @@ The Awaking
 Hillbilly
 The Hunt Ritual
 The Initiation
+The Macmillan Estate
+The Macmillan Estate
+The Macmillan Estate
+The Macmillan Estate
 The Macmillan Estate
 The Reconstruction Ritual
 The Savior Ritual
@@ -578,35 +730,67 @@ Kindred
 Spencer's Last Breath
 Rite of the Last Breath
 BLOODWEB
+CONTINUE
+EXTRAS
+HELP & TUTORIALS
 LOADOUT
+MAIN MENU
+NEWS
+PLAY AS KILLER
+PLAY AS SURVIVOR
+SCROLL LIST
+SETTINGS & CONTROLS
 SHRINE
+SOCIAL
+SWITCH TO KILLER
+SWITCH TO SPECTATOR
+SWITCH TO SURVIVOR
 [ESC]
 ADD-ON
 ADD-ONS
 ALTRUISM
+AUDIO
 AUTO-ADJUST
+Enables access to DLC Killer Characters.
 BLOODPOINTS
 BLOODWEB
 BOLDNESS
 BOOSTS LOST
 BRUTALITY
-PERK CONSEQUENCES
+PERK COMMON CONTROLS
+CONSEQUENCES
+CONSOLE
+CONTROLLER SENSITIVITY
 DEVIOUSNESS
 ESCAPED
+GRAPHICS
 HUNTER
-Add-on LOADOUT
+Add-on Enables usage of items & add-ons.
+KILLER CONTROLS
+LOADOUT
+MOUSE SENSITIVITY
 MYSTERY BOX
 OBJECTIVES
 OFFERING
 OFFERING BONUS
 OFFERINGS
+Enables usage of offerings.
 PERK
-Add-on PUBLIC
+Add-on PRESS
+PUBLIC
+Perks - {0}
+Items / Addons - {1}
+Offerings - {2}
+Map - {3}
+Enables usage of perks.
 SACRIFICE
 SHRINE OF SECRETS
 SHRINE OF SECRETS STATUS
 SURVIVAL
+SURVIVOR CONTROLS
 TEST BUILD
+TEST BUILD
+TO CONTINUE
 {0} + ADD-ONS
 INTERACT / INTERACTIONS
 SKILL CHECK
@@ -616,12 +800,61 @@ Offering
 Perk
 Perk Buff
 Reward
-<br><br><li>EAC PATCH NOTES
+<br><br><li>A profile with access to Xbox Live Is Required.
+AGE RESTRICTION
+APPLICATION SUSPENDED
+AVAILABLE IN PLAYSTATION STORE!
+AVAILABLE IN XBOX ONE MARKETPLACE!
+Controller Disconnected
+The collection of fine people who made Dead by Daylight possible, served in a handy list.
+Credits
+Daily challenges rewarding Bloodpoints.
+Daily Rituals
+EAC Guides and tutorials to help you understand the basics and more.
+Help
+In order to access this content, a network connection is required.
+In order to access this content, a patch is required.
+In order to access this content, a system update is required.
+JOIN GAME FAILURE
+JOIN LOBBY ERROR
+Joining private game refused
+An invite-only unranked mode where you and your friends take on the roles of survivors, killer or spectator. Matches and loadout in Kill Your Friends can be customized.
+Kill Your Friends
+NO NETWORK CONNECTION
+News
+The latest news, dev posts and patch notes.
+ONLINE STATUS ERROR
+PATCH NOTES
+PATCH REQUIRED
 PRESTIGE {0}
-Steam <li>{0} Common
+PROFILE STATE CHANGE
+Play as a brutal Killer in ranked matches. Sacrifice survivors to please the Entity.
+Killer
+Play as a survivor in ranked matches. Escape the killer and live another day.
+Survivor
+Please reconnect a controller to continue playing.
+Quit game
+Quit
+SYSTEM UPDATE REQUIRED
+Various options to cusomize your experience.
+Settings & Controls
+Steam Invite friends to survive against an unlnown killer in ranked matches.
+Survive With Friends
+Controller sensitivity for camera rotation.
+The game you're trying to join is not available anymore
+Mouse sensitivity for camera rotation.
+Unable to join private match. Connection refused by host
+You cannot join a lobby while searching for a game.
+You have been signed out from your current profile.
+You've suspended Dead By Daylight and you have been removed from your online session.
+Your age restricts you from accessing this content.
+<li>{0} Trying to join a matchmaking server from invite.
+Unable to join private match
+Common
 Rare
 Teachable
 Ultra Rare
 Uncommon
 Very Rare
+{0} {1}
 {0} {1}
