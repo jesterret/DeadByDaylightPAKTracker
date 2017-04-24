@@ -1,4 +1,3 @@
-Un dispositivo mecánico que limita la cantidad de combustible que los motores pequeños pueden admitir, lo que obliga a mantener una velocidad segura y constante.<br><li>La motosierra no provoca automáticamente el estado agonizante.</li><li>Obtén un <b>50 % </b>adicional en puntos para eventos puntuados usando la motosierra.</li>
 "Todo visible" - Sangre
 "Todo visible" - Barro
 "Guerrero invidente" - Barro
@@ -287,6 +286,11 @@ Ayuda
 Intentar Huir
 Análisis de Auras
 Desguace Autohaven
+Desguace Autohaven
+Desguace Autohaven
+Desguace Autohaven
+Desguace Autohaven
+Desguace Autohaven
 Hacha de Azarov
 Llave de Azarov
 Última morada de Azarov
@@ -385,13 +389,16 @@ The BIG hat
 Pantalones tácticos con manchas de barro, botas de combate y una triste y vacía cartuchera.<br><span class="FlavorText">"Estamos solos, así que deberías ir acostumbrándote". (Bill)</span>
 Pantalones militares
 Pantalones tácticos ensangrentados, botas de combate y una cartuchera que sigue triste y vacía.<br><span class="FlavorText">"¡La madre que me parió!". (Bill)</span>
+Pantalones tácticos ensangrentados, botas de combate y una cartuchera que sigue triste y vacía.<br><span class="FlavorText">"¡La madre que me parió!". (Bill)</span>
 Pantalones de veterano
 La boina del ejército con la insignia amarilla del primer grupo de las fuerzas especiales.<br><span class="FlavorText">"Ni la guerra te prepara para algo así". (Bill)</span>
 Bill
 La cara y el atuendo de un soldado experimentado en el que se puede confiar".<br><span class="FlavorText">"¡En pie, soldado! No vas a escapar de este combate con tanta facilidad". (Bill)</span>
+La cara y el atuendo de un soldado experimentado en el que se puede confiar".<br><span class="FlavorText">"¡En pie, soldado! No vas a escapar de este combate con tanta facilidad". (Bill)</span>
 Bill veterano
 La chaqueta militar con cicatrices de guerra característica de Overbeck.<br><span class="FlavorText">"¡El verdadero servicio militar!". (Bill)</span>
 Chaqueta de combate
+Una chaqueta de combate ensangrentada que demuestra a cuántos desafíos se ha enfrentado Bill.<br><span class="FlavorText">"¡Cúbreme! Ya estaba demasiado viejo para esta mierda hace quince años...". (Bill)</span>
 Una chaqueta de combate ensangrentada que demuestra a cuántos desafíos se ha enfrentado Bill.<br><span class="FlavorText">"¡Cúbreme! Ya estaba demasiado viejo para esta mierda hace quince años...". (Bill)</span>
 Chaqueta de veterano
 A unique top for Claudette, exclusively for Sxyhxy
@@ -677,6 +684,11 @@ Ocultarse
 Torre de Carbón
 Etiqueta de Ganado Coldwind N.º 81
 Granja Coldwind
+Granja Coldwind
+Granja Coldwind
+Granja Coldwind
+Granja Coldwind
+Granja Coldwind
 Recoger
 Ropa cómoda, elegante y casual para cualquier ocasión.
 Común
@@ -812,6 +824,7 @@ Cadena Macabra
 El cabello recogido en una cola de caballo es el look diario de Claudette.
 Colgar
 Escape por la Trampilla
+Escape por la Trampilla
 Reactivo Brumoso
 Curar
 Curar
@@ -826,6 +839,7 @@ Batería de Larga Duración
 Ayudar a otros aumenta tu moral. Por cada superviviente que rescates de un gancho, gana un <span class="Highlight1">100 %</span> adicional de aumento en velocidad para curar hasta un máximo de un <span class="Highlight2">100 %</span> durante <span class="Highlight3">90 segundos</span>.<br><span class="FlavorText">"Confío en que podremos salir sanos y salvos si nos ayudamos entre nosotros".</span>
 Ayudar a otros aumenta tu moral. Por cada superviviente que rescates de un gancho, gana un <span class="Highlight1">25 %</span> adicional de aumento en velocidad para curar hasta un máximo del <span class="Highlight2">100 %</span> durante <span class="Highlight3">30 segundos</span>.<br><span class="FlavorText">"Confío en que podremos salir sanos y salvos si nos ayudamos entre nosotros".</span>
 Ayudar a otros aumenta tu moral. Por cada superviviente que rescates de un gancho, gana un <span class="Highlight1">50 %</span> adicional de aumento en velocidad para curar hasta un máximo de un <span class="Highlight2">100 %</span> durante <span class="Highlight3">60 segundos</span>.<br><span class="FlavorText">"Confío en que podremos salir sanos y salvos si nos ayudamos entre nosotros".</span>
+Área de éxito de maleficio
 Esconderse
 Esconderse
 Su delantal de carnicero, que estuvo alguna vez manchado de sangre de animales, está ahora bañado de la sangre de sus víctimas.
@@ -913,6 +927,8 @@ Salvado de las Manos del Asesino
 Asesino Aturdido
 Boina Tejida
 Backwater Swamp
+Backwater Swamp
+Haddonfield
 Haddonfield
 Último Suspiro
 El Último en Pie
@@ -924,6 +940,7 @@ Liviana y cálida a la vez para correr por las mañanas.
 Al igual que un sabueso, hueles rastros de sangre a larga distancia. Las marcas de sangre fresca son <span class="Highlight1">considerablemente más perceptibles</span> y pueden rastrearse durante <span class="Highlight2">4 segundos</span> más de lo normal.<br><span class="FlavorText">"Guijarros que brillan a la luz de la luna, mi vida gotea formando un reguero muy fácil de seguir".</span>
 Al igual que un sabueso, hueles rastros de sangre a larga distancia. Las marcas de sangre fresca son <span class="Highlight1">moderadamente más perceptibles</span> y pueden rastrearse durante <span class="Highlight2">3 segundos</span> más de lo normal.<br><span class="FlavorText">"Guijarros que brillan a la luz de la luna; mi vida gotea formando un reguero muy fácil de seguir".</span>
 Al igual que un sabueso, hueles rastros de sangre a larga distancia. Las marcas de sangre fresca son <span class="Highlight1">ligeramente más perceptibles</span> y pueden rastrearse durante <span class="Highlight2">2 segundos</span> más de lo normal.<br><span class="FlavorText">"Guijarros que brillan a la luz de la luna; mi vida gotea formando un reguero muy fácil de seguir".</span>
+Asilo Crotus Prenn
 Asilo Crotus Prenn
 Tinte de Palo de Campeche
 Espada Larga
@@ -976,7 +993,6 @@ Mors Ambitiosa
 Reactivo Turbio
 Ramillete de Luna Nueva
 Nadie Ha Escapado
-Nadie escapa de la muerte
 Nadie Se Queda Atrás
 Ninguno
 Ninguno
@@ -1110,6 +1126,17 @@ Abrir Trampilla
 CASILLA DE HABILIDAD EXTRA II
 CASILLA DE HABILIDAD EXTRA III
 CASILLA DE HABILIDAD EXTRA IV
+Cuando estás a punto de escapar, una energía inesperada te invade. <span class="Highlight1">Te curas de cualquier herida al instante</span> y corres a un <span class="Highlight2">150 %</span> de tu velocidad normal de carrera durante <span class="Highlight3">5 segundos</span> cuando una puerta de salida se abre.<br><i>Adrenalina</i> no hace efecto si estás incapacitado en el momento en que debería actuar y permite ignorar el <b>agotamiento</b>.<br>Causa <b>agotamiento</b> durante <span class="Highlight4">50 segundos</span>.
+Cuando estás a punto de escapar, una energía inesperada te invade. <span class="Highlight1">Te curas de cualquier herida al instante</span> y corres a un <span class="Highlight2">150 %</span> de tu velocidad normal de carrera durante <span class="Highlight3">3 segundos</span> cuando una puerta de salida se abre.<br><i>Adrenalina</i> no hace efecto si estás incapacitado en el momento en que debería actuar y permite ignorar el <b>agotamiento</b>.<br>Causa <b>agotamiento</b> durante <span class="Highlight4">60 segundos</span>.
+Cuando Caída equilibrada está activa, el tambaleo por caídas grandes se reduce un <span class="Highlight1">75 %</span>.<br>Al tocar el suelo, empiezas a correr un <span class="Highlight2">150 %</span> más rápido que la velocidad normal durante un máximo de <span class="Highlight3">3 segundos</span> si no sufres de agotamiento.<br>Causa <b>agotamiento</b> durante <span class="Highlight4">40 segundos</span>.<br><span class="FlavorText">"He saltado desde lugares más altos". (Nea)</span>
+Cuando Caída equilibrada está activa, el tambaleo por caídas grandes se reduce un <span class="Highlight1">75 %</span>.<br><span class="FlavorText">"He saltado desde lugares más altos". (Nea)</span>
+Cuando Caída equilibrada está activa, el tambaleo por caídas grandes se reduce un <span class="Highlight1">50 %</span>.<br><span class="FlavorText">"He saltado desde lugares más altos". (Nea)</span>
+La probabilidad cada vez mayor de huir con éxito te llena de esperanza y de alegría. Tu velocidad de movimiento aumenta en un <span class="Highlight1">7 %</span> tan pronto como se accionan las puertas de salida durante <span class="Highlight3">120 segundos</span>.
+La probabilidad cada vez mayor de huir con éxito te llena de esperanza y de alegría. Tu velocidad de movimiento aumenta en un <span class="Highlight1">6 %</span> tan pronto como se accionan las puertas de salida durante <span class="Highlight3">120 segundos</span>.
+La probabilidad cada vez mayor de huir con éxito te llena de esperanza y de alegría. Tu velocidad de movimiento aumenta en un <span class="Highlight1">5 %</span> tan pronto como se accionan las puertas de salida durante <span class="Highlight3">120 segundos</span>.
+Cuando empiezas a correr, haces un esprint a un <span class="Highlight1">150 %</span> de tu velocidad normal de carrera durante un máximo de <span class="Highlight2">3 segundos</span>.<br>Causa <b>agotamiento</b> durante <span class="Highlight3">40 segundos</span>.<br><i>Impulso de carrera</i> no se puede usar cuando sufres <b>agotamiento</b>.
+Cuando empiezas a correr, haces un esprint a un <span class="Highlight1">150 %</span> de tu velocidad normal de carrera durante un máximo de <span class="Highlight2">3 segundos</span>.<br>Causa <b>agotamiento</b> durante <span class="Highlight3">50 segundos</span>.<br><i>Impulso de carrera</i> no se puede usar cuando sufres <b>agotamiento</b>.
+Cuando empiezas a correr, haces un esprint a un <span class="Highlight1">150 %</span> de tu velocidad normal de carrera durante un máximo de <span class="Highlight2">3 segundos</span>.<br>Causa <b>agotamiento</b> durante <span class="Highlight3">60 segundos</span>.<br><i>Impulso de carrera</i> no se puede usar cuando sufres <b>agotamiento</b>.
 Parece que la suerte siempre está de tu parte. Al sacar un objeto de un baúl, hay un <span class="Highlight1">50 %</span> de probabilidades de que venga con un accesorio <span class="Highlight2">muy raro</span> o inferior.<br><span class="FlavorText">Parece que la suerte siempre está de tu parte. Al sacar un objeto de un baúl, hay un <span class="Highlight1">50 %</span> de probabilidades de que venga con un accesorio <span class="Highlight2">raro</span> o inferior.<br><span class="FlavorText">Parece que la suerte siempre está de tu parte. Al sacar un objeto de un baúl, hay un <span class="Highlight1">50 %</span> de probabilidades de que venga con un accesorio de rareza <span class="Highlight2">poco común</span> o inferior.<br><span class="FlavorText">As en la Manga
 Te invade una energía inesperada cuando salvas a un aliado de un gancho dentro del radio de terror del asesino.<br>Una vez por prueba y durante los <span class="Highlight1">20 segundos</span> siguientes al rescate de un aliado dentro del radio de terror, el efecto del daño que os hubiera dejado en estado agonizante generará un temporizador de desangrado que dura <span class="Highlight2">30 segundos</span>.<br>Si recibes daño durante ese tiempo o el temporizador llega a cero, quedarás en estado agonizante.<br><span class="FlavorText">"Seguro que duele un montón, pero no te matará, así que levanta, soldado. ¡En marcha!". (Bill)</span>
 Te invade una energía inesperada cuando salvas a un aliado de un gancho dentro del radio de terror del asesino.<br>Una vez por prueba y durante los <span class="Highlight1">20 segundos</span> siguientes al rescate de un aliado dentro del radio de terror, el efecto del daño que os hubiera dejado en estado agonizante generará un temporizador de desangrado que dura <span class="Highlight2">35 segundos</span>.<br>Si recibes daño durante ese tiempo o el temporizador llega a cero, quedarás en estado agonizante.<br><span class="FlavorText">"Seguro que duele un montón, pero no te matará, así que levanta, soldado. ¡En marcha!". (Bill)</span>
@@ -1125,17 +1152,18 @@ Las batallas a tus espaldas te han enseñado un par de cosas sobre supervivencia.
 Irrompible
 Valiéndote de lo que tengas a mano, apuñalas a tu agresor en un último intento de escapar. Si eres la obsesión, una vez por partida, cuando te atrape el asesino, llevarás a cabo una revisión de habilidades para escapar automáticamente de su agarre y aturdirlo durante <span class="Highlight1">5 segundos</span>.<br>Si no eres la obsesión, una vez por partida, mientras estés en manos del asesino, y cuando el medidor de movimiento alcance el 35 %, llevarás a cabo una revisión de habilidades para rellenar automáticamente el resto del medidor y escapar del agarre del asesino.<br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Valiéndote de lo que tengas a mano, apuñalas a tu agresor en un último intento de escapar. Si eres la obsesión, una vez por partida, cuando te atrape el asesino, llevarás a cabo una revisión de habilidades para escapar automáticamente de su agarre y aturdirlo durante <span class="Highlight1">4 segundos</span>.<br>Si no eres la obsesión, una vez por partida, mientras estés en manos del asesino, y cuando el medidor de movimiento alcance el 40 %, llevarás a cabo una revisión de habilidades para rellenar automáticamente el resto del medidor y escapar del agarre del asesino.<br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Valiéndote de lo que tengas a mano, apuñalas a tu agresor en un último intento de escapar. Si eres la obsesión, una vez por partida, cuando te atrape el asesino, llevarás a cabo una revisión de habilidades para escapar automáticamente de su agarre y aturdirlo durante <span class="Highlight1">3 segundos</span>.<br>Si no eres la obsesión, una vez por partida, mientras estés en manos del asesino, y cuando el medidor de movimiento alcance el 45 %, llevarás a cabo una revisión de habilidades para rellenar automáticamente el resto del medidor y escapar del agarre del asesino.<br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Golpe decisivo
 Te <b>obsesionas</b> con un superviviente.<br>La velocidad de la acción altruista de tu obsesión aumenta un <span class="Highlight1">50 %</span>. Una vez que la obsesión sea asesinada o sacrificada, el resto de supervivientes recibe una penalización de las velocidades de reparación, curación y sabotaje del <span class="Highlight2">25 %</span>.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>La velocidad de la acción altruista de tu obsesión aumenta un <span class="Highlight1">44 %</span>. Una vez que la obsesión sea asesinada o sacrificada, el resto de supervivientes recibe una penalización de las velocidades de reparación, curación y sabotaje del <span class="Highlight2">22 %</span>.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>La velocidad de la acción altruista de tu obsesión aumenta un <span class="Highlight1">38 %</span>. Una vez que la obsesión sea asesinada o sacrificada, el resto de supervivientes recibe una penalización de las velocidades de reparación, curación y sabotaje del <span class="Highlight2">19 %</span>.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Luz Extinta
-Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes despierta tu apetito. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, el Devorador de esperanza recibe una medalla.<br><li><span class="Highlight4">1 medalla</span>: La velocidad de reparación de todos los supervivientes se reduce un 5 %.</li><li><span class="Highlight3">3 medallas</span>: Los ataques dejan a los supervivientes en estado moribundo automáticamente.</li><li><span class="Highlight2">5 medallas</span>: Otorga la habilidad de matar supervivientes con tus propias manos.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes despierta tu apetito. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, el Devorador de esperanza recibe una medalla.<br><li><span class="Highlight2">3 medallas</span>: Los ataques dejan a los supervivientes en estado moribundo automáticamente.</li><li><span class="Highlight2">5 medallas</span>: Otorga la habilidad de matar supervivientes con tus propias manos.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes despierta tu apetito. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, el Devorador de esperanza recibe una medalla.<br><li><span class="Highlight2">5 medallas</span>: Otorga la habilidad de matar supervivientes con tus propias manos.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Maleficio: Devorador de Esperanza
+Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes despierta tu apetito. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, el Devorador de esperanza recibe una medalla.<br><li><span class="Highlight2">3 medallas</span>: Los ataques dejan a los supervivientes en estado moribundo automáticamente.</li><li><span class="Highlight2">5 medallas</span>: Otorga la habilidad de matar supervivientes con tus propias manos.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes despierta tu apetito. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, el Devorador de esperanza recibe una medalla.<br><li><span class="Highlight2">5 medallas</span>: Otorga la habilidad de matar supervivientes con tus propias manos.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Maleficio: Devorador de Esperanza
+Un maleficio que basa su poder en la esperanza. Te anima la fuerza de tu tótem de maleficio cuando los supervivientes están a punto de escapar. Cuando las puertas de salida se abren, se aplica este maleficio a cualquier tótem opaco que quede en el mapa. Cuando este maleficio se activa, los ataques con éxito automáticamente hacen que los supervivientes queden en estado agonizante. Además, los tiempos de recuperación para ataques con éxito y fallidos se reducen en un <span class="Highlight1">8 %</span> y se acelera en un <span class="Highlight2">4 %</span> tu velocidad de movimiento.<br>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.<br><span class="FlavorText">"Y la bestia se volvió más veloz y poderosa, como si el sombrío látigo del Ente estuviera azotando su lomo".</span>
+Un maleficio que basa su poder en la esperanza. Te anima la fuerza de tu tótem de maleficio cuando los supervivientes están a punto de escapar. Cuando las puertas de salida se abren, se aplica este maleficio a cualquier tótem opaco que quede en el mapa. Cuando este maleficio se activa, los tiempos de recuperación para ataques con éxito y fallidos se reducen en un <span class="Highlight1">8 %</span> y se acelera en un <span class="Highlight2">4 %</span> tu velocidad de movimiento.<br>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.<br><span class="FlavorText">"Y la bestia se volvió más veloz y poderosa, como si el sombrío látigo del Ente estuviera azotando su lomo".</span>
+Un maleficio que basa su poder en la esperanza. Te anima la fuerza de tu tótem de maleficio cuando los supervivientes están a punto de escapar. Cuando las puertas de salida se abren, se aplica este maleficio a cualquier tótem opaco que quede en el mapa. Cuando este maleficio se activa, los tiempos de recuperación para ataques con éxito y fallidos se reducen en un <span class="Highlight1">4 %</span> y se acelera en un <span class="Highlight2">3 %</span> tu velocidad de movimiento.<br>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.<br><span class="FlavorText">"Y la bestia se volvió más veloz y poderosa, como si el sombrío látigo del Ente estuviera azotando su lomo".</span>
+Maleficio: Nadie escapa de la muerte
 Un maleficio que afecta a la habilidad del superviviente para reparar generadores. <span class="Highlight1">Todos los supervivientes</span> se ven afectados por la <i>Ruina</i>, lo que provoca que:<br><li>La buena Revisión de habilidades cause un <span class="Highlight2">5%</span> de retroceso en la reparación del generador.</li><li>La gran Revisión de habilidades otorgue un <span class="Highlight3">0%</span> de progresión adicional en el generador.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que afecta a la habilidad del superviviente para reparar generadores. <span class="Highlight1">3 supervivientes</span> se ven afectados por la <i>Ruina</i>, lo que provoca que:<br><li>La buena Revisión de habilidades cause un <span class="Highlight2">5%</span> de retroceso en la reparación del generador.</li><li>La gran Revisión de habilidades otorgue un <span class="Highlight3">0%</span> de progresión adicional en el generador.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que afecta a la habilidad del superviviente para reparar generadores. <span class="Highlight1">2 supervivientes</span> se ven afectados por la <i>Ruina</i>, lo que provoca que:<br><li>La buena Revisión de habilidades cause un <span class="Highlight2">5%</span> de retroceso en la reparación del generador.</li><li>La gran Revisión de habilidades otorgue un <span class="Highlight3">0%</span> de progresión adicional en el generador.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Maleficio: Ruina
 Un maleficio que perjudica la capacidad propia de analizar auras. Golpear a un enemigo mientras haya un Tótem de maleficio activo reduce la efectividad de su habilidad de análisis de auras un <span class="Highlight1">100%</span>. Este efecto se aplica a los últimos 4 supervivientes golpeados.<br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que perjudica la capacidad propia de analizar auras. Golpear a un enemigo mientras haya un Tótem de maleficio activo reduce la efectividad de su habilidad de análisis de auras un <span class="Highlight1">100%</span>. Este efecto se aplica a los últimos 3 supervivientes golpeados.<br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que perjudica la capacidad propia de analizar auras. Golpear a un enemigo mientras haya un Tótem de maleficio activo reduce la efectividad de su habilidad de análisis de auras un <span class="Highlight1">100%</span>. Este efecto se aplica a los últimos 2 supervivientes golpeados.<br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Maleficio: El Tercer sello
-Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes te llena de emoción y fortalece tus tótems. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, <i>Emoción de la cacería</i> recibe una medalla, hasta un máximo de 5.<br><li>Gana un <span class="Highlight2">8 %</span> más de puntos de sangre por las acciones de la categoría de Cazador por cada medalla.</li><li>La velocidad de purificación de los supervivientes se reduce un <span class="Highlight3">10 %</span> por cada medalla.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i>
-Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes te llena de emoción y fortalece tus tótems. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, <i>Emoción de la cacería</i> recibe una medalla, hasta un máximo de 5.<br><li>Gana un <span class="Highlight2">6 %</span> más de puntos de sangre por las acciones de la categoría de Cazador por cada medalla.</li><li>La velocidad de purificación de los supervivientes se reduce un <span class="Highlight3">7 %</span> por cada medalla.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i>
-Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes te llena de emoción y fortalece tus tótems. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, <i>Emoción de la cacería</i> recibe una medalla, hasta un máximo de 5.<br><li>Gana un <span class="Highlight2">4 %</span> más de puntos de sangre por las acciones de la categoría de Cazador por cada medalla.</li><li>La velocidad de purificación de los supervivientes se reduce un <span class="Highlight3">4 %</span> por cada medalla.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i>
 Maleficio: La Emoción de la cacería
 Un vínculo sobrenatural te une al asesino. Cuando mires en la misma dirección que el asesino, vuestro vínculo mostrará el aura de cada uno al otro. Este efecto solo se aplica si estás fuera del radio de terror del asesino.<br>Cuando seas la obsesión del asesino, este efecto será válido dentro de un rango máximo de <span class="Highlight1">72 metros</span>. Si no, se aplicará dentro de un rango máximo de <span class="Highlight1">64 metros</span>.<br><i>Aumenta las probabilidades de que seas la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Un vínculo sobrenatural te une al asesino. Cuando mires en la misma dirección que el asesino, vuestro vínculo mostrará el aura de cada uno al otro. Este efecto solo se aplica si estás fuera del radio de terror del asesino.<br>Cuando seas la obsesión del asesino, este efecto será válido dentro de un rango máximo de <span class="Highlight1">64 metros</span>. Si no, se aplicará dentro de un rango máximo de <span class="Highlight1">56 metros</span>.<br><i>Aumenta las probabilidades de que seas la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Un vínculo sobrenatural te une al asesino. Cuando mires en la misma dirección que el asesino, vuestro vínculo mostrará el aura de cada uno al otro. Este efecto solo se aplica si estás fuera del radio de terror del asesino.<br>Cuando seas la obsesión del asesino, este efecto será válido dentro de un rango máximo de <span class="Highlight1">56 metros</span>. Si no, se aplicará dentro de un rango máximo de <span class="Highlight1">44 metros</span>.<br><i>Aumenta las probabilidades de que seas la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Objeto de obsesión
 Fortalece el potencial de la habilidad de analizar auras. Aumenta el rango del análisis de auras <span class="Highlight1">8 metros</span>.<br><span class="FlavorText">Fortalece el potencial de la habilidad de analizar auras. Aumenta el rango del análisis de auras <span class="Highlight1">6 metros</span>.<br><span class="FlavorText">Fortalece el potencial de la habilidad de analizar auras. Aumenta el rango del análisis de auras <span class="Highlight1">4 metros</span>.<br><span class="FlavorText">A mano descubierta
 Te <b>obsesionas</b> con un superviviente.<br>Cada vez que persigas a tu obsesión y la dejes escapar, recibirás una ficha, hasta un máximo de 3. Cada ficha aumenta tu velocidad de movimiento un <span class="Highlight1">5 %</span>. Cada acción ofensiva consume 1 ficha.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>Cada vez que persigas a tu obsesión y la dejes escapar, recibirás una ficha, hasta un máximo de 3. Cada ficha aumenta tu velocidad de movimiento un <span class="Highlight1">4 %</span>. Cada acción ofensiva consume 1 ficha.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>Cada vez que persigas a tu obsesión y la dejes escapar, recibirás una ficha, hasta un máximo de 3. Cada ficha aumenta tu velocidad de movimiento un <span class="Highlight1">3 %</span>. Cada acción ofensiva consume 1 ficha.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Juega con la comida
-Te <b>obsesionas</b> con un superviviente.<br>Mientras tu obsesión siga viva, el tiempo de enfriamiento de los ataques fallidos se reduce en un <span class="Highlight1">20 %</span>. El tiempo de enfriamiento de los ataques con éxito se reduce en un <span class="Highlight2">33 %</span>. <br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>Mientras tu obsesión siga viva, el tiempo de enfriamiento de los ataques fallidos se reduce en un <span class="Highlight1">18 %</span>. El tiempo de enfriamiento de los ataques con éxito se reduce en un <span class="Highlight2">29 %</span>. <br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>Mientras tu obsesión siga viva, el tiempo de enfriamiento de los ataques fallidos se reduce en un <span class="Highlight1">14 %</span>. El tiempo de enfriamiento de los ataques con éxito se reduce en un <span class="Highlight2">25 %</span>. <br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Deja lo mejor para el final
+Deja lo mejor para el final
 A medida que tus amigos caigan en manos del asesino, tus probabilidades de sobrevivir aumentarán debido a una fuerza inexplicable. Cada superviviente asesinado o sacrificado perturba la capacidad del asesino para analizar tu aura.<br><li>1 asesinado o sacrificado: el alcance del análisis de auras del asesino se reduce un <span class="Highlight1">50 %</span>.</li><li>2 asesinados o sacrificados: el alcance del análisis de auras del asesino se reduce un <span class="Highlight2">75 %</span>.</li><li>3 asesinados o sacrificados: <span class="Highlight3">Inmune</span> al análisis de auras del asesino.</li><br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">A medida que tus amigos caigan en manos del asesino, tus probabilidades de sobrevivir aumentarán debido a una fuerza inexplicable. Cada superviviente asesinado o sacrificado perturba la capacidad del asesino para analizar tu aura.<br><li>1 asesinado o sacrificado: el alcance del análisis de auras del asesino se reduce un <span class="Highlight1">35 %</span>.</li><li>2 asesinados o sacrificados: el alcance del análisis de auras del asesino se reduce un <span class="Highlight2">60 %</span>.</li><li>3 asesinados o sacrificados: el alcance del análisis de auras del asesino se reduce un <span class="Highlight3">85 %</span>.</li><br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">A medida que tus amigos caigan en manos del asesino, tus probabilidades de sobrevivir aumentarán debido a una fuerza inexplicable. Cada superviviente asesinado o sacrificado perturba la capacidad del asesino para analizar tu aura.<br><li>1 o más asesinados o sacrificados: el alcance del análisis de auras del asesino se reduce un <span class="Highlight1">40 %</span>.</li><br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Único superviviente
 Al final todo saldrá bien, simplemente lo sabes.  Tu confianza fortalece la esperanza de aquellos que están a tu alrededor. Por cada superviviente vivo, otorga un <span class="Highlight1">3 %</span> de suerte adicional al resto de supervivientes.<br><span class="FlavorText">Al final todo saldrá bien, simplemente lo sabes.  Tu confianza fortalece la esperanza de aquellos que están a tu alrededor. Por cada superviviente vivo, otorga un <span class="Highlight1">2 %</span> de suerte adicional al resto de supervivientes.<br><span class="FlavorText">Al final todo saldrá bien, simplemente lo sabes.  Tu confianza fortalece la esperanza de aquellos a tu alrededor. Por cada superviviente vivo, otorga un <span class="Highlight1">1 %</span> de suerte adicional al resto de supervivientes.<br><span class="FlavorText">Subir la apuesta
 La fuente del poder de la Bruja, un dedo ennegrecido que se usa como catalizador de su terrible poder. La Bruja puede moldear y dar forma al barro a su antojo. Con simples dibujos rituales, crea dobles falsos de sí misma hechos de barro y podredumbre que puede usar con distintos efectos. <br><li>Otorga la habilidad de crear y mantener <b>10</b> trampas fantasma.</li><li> Otorga la habilidad de viajar al instante hasta las trampas activadas cuando estén dentro de un rango de <b>32 metros</b>.</li>
@@ -1155,6 +1183,7 @@ RECOMPENSA DE PRESTIGIO I
 RECOMPENSA DE PRESTIGIO I
 RECOMPENSA DE PRESTIGIO I
 RECOMPENSA DE PRESTIGIO I
+RECOMPENSA DE PRESTIGIO I
 RECOMPENSA DE PRESTIGIO II
 RECOMPENSA DE PRESTIGIO II
 RECOMPENSA DE PRESTIGIO II
@@ -1168,6 +1197,8 @@ RECOMPENSA DE PRESTIGIO II
 RECOMPENSA DE PRESTIGIO II
 RECOMPENSA DE PRESTIGIO II
 RECOMPENSA DE PRESTIGIO II
+RECOMPENSA DE PRESTIGIO II
+RECOMPENSA DE PRESTIGIO III
 RECOMPENSA DE PRESTIGIO III
 RECOMPENSA DE PRESTIGIO III
 RECOMPENSA DE PRESTIGIO III
@@ -1185,6 +1216,8 @@ Caminos
 Caminos
 Desempeña acciones cooperativas para un total de {1} acción(ones) completa(s).
 Roble Petrificado
+Trampa de fantasma
+Trampa de fantasma
 Recoger
 Colocar Trampa
 Instinto de Saqueador
@@ -1204,6 +1237,8 @@ Bombea más gasolina al sistema de ignición para asegurar un arranque rápido y po
 Ramillete de Luna en Cuarto Menguante
 Rápido y Silencioso
 Bonificación de Abandono
+Golpea a un superviviente con el ataque Terapia de choque del doctor {1} vez/veces.
+Ritual de choque mental
 Con la Bruja, teletranspórtate y golpea a un superviviente {1} vez/veces.
 Rito de Carne y Barro
 Con la Forma, sube el nivel del Mal Interior {1} veces.
@@ -1235,6 +1270,7 @@ Campos Podridos
 Guantes de Goma
 Gomas y Ganchos
 Cadena Oxidada
+Golpe extra
 Trampa activada
 Colocar trampa
 Ataque fantasma
@@ -1256,6 +1292,7 @@ Saboteador
 Sacrificio
 Sacrificio
 Tijeras diseñadas para cortar la tela fácilmente.<br><li><b>Aumentan moderadamente</b> la velocidad de curación.</li><li>Acumulable.</li>
+Score_ThrillOfTheHunt_Name
 Chatarra
 Moneda rayada
 Perla rayada
@@ -1285,6 +1322,7 @@ Vestimenta Informal para el Matadero
 Carne Resbalosa
 Carnicero Chapucero
 Caza Menor
+Cordura
 Alguien se dio prisa en pintar lo que parecen ser instrucciones de reparación en este trozo de corteza.<br><li><b>Aumenta moderadamente</b> la eficacia de reparación de la caja de herramientas.</li><li>Acumulable.</li>
 Bujía
 Herramientas especializadas diseñadas para instalar rápidamente y sin esfuerzo las trampas para osos.<br><li><b>Reducen considerablemente</b> el tiempo de instalación de trampas para osos.</li><li>Afectadas por la habilidad de Reparador.</li><li>Afecta a todas las trampas para osos.</li><li>Acumulable.</li>
@@ -1311,7 +1349,6 @@ Forcejear
 Forcejear
 Forcejear
 Astringente
-Suburbios
 Abre {1} puerta(s) de salida con {0} con éxito.
 Pozo de Asfixia
 Sorpresa
@@ -1345,6 +1382,10 @@ El símbolo de Kratin, que representa la muerte rápida, está dibujado con el dedo
 El símbolo de Kuntin-Takkho, que representa el rápido descenso hacia una presa, está dibujado con el dedo y hollín sobre el medio de la campana.<br><li><b>Reduce ligeramente</b> el tiempo de reaparición de la campana.</li><li>Le afecta la habilidad de Reparador.</li><li>Acumulable.</li>
 El símbolo de Kuntin-Takkho, que representa el rápido descenso hacia una presa, está estampado en tinta blanca sobre el medio de la campana.<br><li><b>Reduce considerablemente</b> el tiempo de reaparición de la campana.</li><li>Le afecta la habilidad de Reparador.</li><li>Acumulable.</li>
 La Finca Macmillan
+La Finca Macmillan
+La Finca Macmillan
+La Finca Macmillan
+La Finca Macmillan
 El símbolo de Ohuwe-Onmnea, que representa una tormenta violenta, está dibujado con el dedo y barro en el medio de la campana.<br><li><b>Otorga un aumento</b> a la velocidad de movimiento durante <b>1 segundo</b> después de que reaparezca.</li>
 El símbolo de Ohuwe-Onmnea, que representa una tormenta violenta, está dibujado con el dedo y hollín sobre el medio de la campana.<br><li><b>Otorga un aumento</b> a la velocidad de movimiento durante <b>0.5 segundos</b> después de que reaparezca.</li>
 El Ritual de Reconstrucción
@@ -1362,9 +1403,6 @@ Los cuervos que se encuentren en el mundo pueden comunicarse directamente contig
 Los cuervos que se encuentren en el mundo pueden comunicarse directamente contigo. El <span class="Highlight1">50 %</span> de las veces, los cuervos te dan una pista visual cuando te encuentras en un radio de <span class="Highlight2">24 metros</span>.<br><span class="FlavorText">"En las sombras atormentan, marcando nuestras mentes con cada grito".</span>
 Los cuervos que se encuentren en el mundo pueden comunicarse directamente contigo. El <span class="Highlight1">75 %</span> de las veces, los cuervos te dan una pista visual cuando te encuentras en un radio de <span class="Highlight2">36 metros</span>.<br><span class="FlavorText">"En las sombras atormentan, marcando nuestras mentes con cada grito".</span>
 El aseado y común Dwight, listo para empezar la jornada.
-La probabilidad cada vez mayor de huir con éxito te llena de esperanza y de alegría. Tu velocidad de movimiento aumenta en un <span class="Highlight1">5 %</span> tan pronto como las puertas se accionen durante <span class="Highlight3">120 segundos</span>.
-La probabilidad cada vez mayor de huir con éxito te llena de esperanza y de alegría. Tu velocidad de movimiento aumenta en un <span class="Highlight1">6 %</span> tan pronto como se accionan las puertas de salida durante <span class="Highlight3">120 segundos</span>.
-La probabilidad cada vez mayor de huir con éxito te llena de esperanza y de alegría. Tu velocidad de movimiento aumenta en un <span class="Highlight1">7 %</span> tan pronto como las puertas de salida se accionen durante <span class="Highlight3">120 segundos</span>.
 Los ganchos se clavan profundamente en la carne, el dolor le da paso a la ira pura.
 Las capas de mugre y dolor no pueden ocultar la mirada de determinación de Meg.
 Las capas de mugre y dolor no pueden ocultar la mirada de determinación de Meg.
@@ -1418,9 +1456,9 @@ Tipos
 IMPREDECIBILIDAD
 Reaparecer
 Descolgar
-A diferencia de las demás bestias de la niebla, te has adaptado a la luz. Puedes resistir luces intensas. La resistencia a la ceguera aumenta en un <span class="Highlight2">20 %</span>. La recuperación de la vista en caso de ceguera aumenta en un <span class="Highlight3">15 %</span>.<br><span class="FlavorText">"Estos monstruos... ¡Se adaptan! Aparecen con nuevas y extrañas habilidades". -Diario de Vigo</span>
-A diferencia de las demás bestias de la niebla, te has adaptado a la luz. Tu visión se debilita en un <span class="Highlight1">10 %</span>, pero puedes resistir luces intensas. Resistencia a la ceguera aumenta en un <span class="Highlight2">60 %</span>. La recuperación de la vista en caso de ceguera aumenta en un <span class="Highlight3">45 %</span>.<br><span class="FlavorText">"Estos monstruos... ¡Se adaptan! Aparecen con nuevas y extrañas habilidades". -Diario de Vigo</span>
-A diferencia de las demás bestias de la niebla, te has adaptado a la luz. Tu visión se debilita en un <span class="Highlight1">5 %</span>, pero puedes resistir luces intensas. Resistencia a la ceguera aumenta en un <span class="Highlight2">40 %</span>. La recuperación de la vista en caso de ceguera aumenta en un <span class="Highlight3">30 %</span>.<br><span class="FlavorText">"Estos monstruos... ¡Se adaptan! Aparecen con nuevas y extrañas habilidades". -Diario de Vigo</span>
+A diferencia de las demás bestias de la niebla, te has adaptado a la luz. Tu visión se debilita en un <span class="Highlight1">25 %</span>, pero puedes resistir luces intensas. La resistencia a la ceguera aumenta en un <span class="Highlight2">20 %</span>. La recuperación de la vista en caso de ceguera aumenta en un <span class="Highlight3">50 %</span>.<br><span class="FlavorText">"Estos monstruos... ¡Se adaptan! Aparecen con nuevas y extrañas habilidades". -Diario de Vigo</span>
+A diferencia de las demás bestias de la niebla, te has adaptado a la luz. Tu visión se debilita en un <span class="Highlight1">35 %</span>, pero puedes resistir luces intensas. Resistencia a la ceguera aumenta en un <span class="Highlight2">60 %</span>. La recuperación de la vista en caso de ceguera aumenta en un <span class="Highlight3">50 %</span>.<br><span class="FlavorText">"Estos monstruos... ¡Se adaptan! Aparecen con nuevas y extrañas habilidades". -Diario de Vigo</span>
+A diferencia de las demás bestias de la niebla, te has adaptado a la luz. Tu visión se debilita en un <span class="Highlight1">30 %</span>, pero puedes resistir luces intensas. Resistencia a la ceguera aumenta en un <span class="Highlight2">40 %</span>. La recuperación de la vista en caso de ceguera aumenta en un <span class="Highlight3">50 %</span>.<br><span class="FlavorText">"Estos monstruos... ¡Se adaptan! Aparecen con nuevas y extrañas habilidades". -Diario de Vigo</span>
 Apertura
 Desbloquea el potencial en la habilidad de analizar auras. Se te revela(n) <span class="Highlight1">1</span> aura de los generadores durante <span class="Highlight2">4 segundos</span> al iniciar una prueba. Si tienes en la mano un mapa que pueda rastrear generadores, aquellos generadores revelados por Déjà Vu se añaden al mapa.
 Desbloquea el potencial en la habilidad de analizar auras. Se te revela <span class="Highlight1">1</span> aura de los generadores durante <span class="Highlight2">8 segundos</span> al iniciar una prueba. Si tienes en la mano un mapa que pueda rastrear generadores, aquellos generadores revelados por Déjà Vu se añaden al mapa.
@@ -1440,9 +1478,9 @@ Desbloquea el potencial en la habilidad de analizar auras. Las auras de aliados 
 Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de supervivientes moribundos cuando se encuentran en un radio de <span class="Highlight1">12 metros</span>.
 Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de supervivientes moribundos cuando se encuentran en un radio de <span class="Highlight1">24 metros</span>.
 Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de supervivientes moribundos cuando se encuentran en un radio de <span class="Highlight1">36 metros</span>.
-Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de los supervivientes durante <span class="Highlight1">2 segundos</span> cuando las puertas de salida se accionan.
-Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de los supervivientes durante <span class="Highlight1">4 segundos</span> cuando las puertas de salida se accionan.
-Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de los supervivientes durante <span class="Highlight1">6 segundos</span> cuando las puertas de salida se accionan.
+Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de los supervivientes durante <span class="Highlight1">5 segundos</span> cuando las puertas de salida se accionan.
+Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de los supervivientes durante <span class="Highlight1">7 segundos</span> cuando las puertas de salida se accionan.
+Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de los supervivientes durante <span class="Highlight1">9 segundos</span> cuando las puertas de salida se accionan.
 Desbloquea el potencial en la habilidad de analizar auras. Cuando las puertas de salida se accionan, se te revela el aura del asesino durante <span class="Highlight1">3 segundos</span>.<br><span class="FlavorText">Desbloquea el potencial en la habilidad de analizar auras. Cuando se accionan las puertas de salida, se te revela el aura del asesino durante <span class="Highlight1">5 segundos</span>.<br><span class="FlavorText">Desbloquea el potencial en la habilidad de analizar auras. Cuando las puertas de salida se accionan, se te revela el aura del asesino durante <span class="Highlight1">7 segundos</span>.<br><span class="FlavorText">Desbloquea la habilidad para autocurarte sin un objeto curativo a un <span class="Highlight1">30 %</span> de la velocidad normal. Las revisiones de habilidades activadas en esta situación tienen reducida el área de éxito en un <span class="Highlight2">20 %</span>. Aumenta la eficacia de la propiedad de autocuración del objeto curativo en un <span class="Highlight3">50 %</span>.
 Desbloquea la habilidad para autocurarte sin un objeto curativo a un <span class="Highlight1">40 %</span> de la velocidad normal. Las revisiones de habilidades activadas en esta situación tienen reducida el área de éxito en un <span class="Highlight2">10 %</span>. Aumenta la eficacia de la propiedad de autocuración del objeto curativo en un <span class="Highlight3">75 %</span>.
 Desbloquea la habilidad para autocurarte sin un objeto curativo a un <span class="Highlight1">50 %</span> de la velocidad normal. Aumenta la eficacia de la propiedad de autocuración del objeto curativo en un <span class="Highlight3">100 %</span>.
@@ -1469,9 +1507,6 @@ La transpiración, la impermeabilidad y el sellado hacen de esta chaqueta cortavi
 Ladrillo de Cera
 Lo Conseguiremos
 Aro Entretejido
-Cuando empieces a correr, haz un esprint a un <span class="Highlight1">150 %</span> de tu velocidad normal de carrera durante un máximo de <span class="Highlight2">3 segundos</span>. Necesitas una recuperación de <span class="Highlight3">40 segundos</span> antes de poder usar el esprint de nuevo. Mientras se corre, la recuperación lleva el doble de tiempo.
-Cuando empieces a correr, haz un esprint a un <span class="Highlight1">150 %</span> de tu velocidad normal de carrera durante un máximo de <span class="Highlight2">3 segundos</span>. Necesitas una recuperación de <span class="Highlight3">50 segundos</span> antes de poder usar el esprint de nuevo. Mientras se corre, la recuperación lleva el doble de tiempo.
-Cuando empieces a correr, haz un esprint a un <span class="Highlight1">150 %</span> de tu velocidad normal de carrera durante un máximo de <span class="Highlight2">3 segundos</span>. Necesitas una recuperación de <span class="Highlight3">60 segundos</span> antes de poder usar el esprint de nuevo. Mientras se corre, la recuperación lleva el doble de tiempo.
 Cuando la sed de sangre está a toda marcha, su arma reluce con una espesa capa de sangre coagulada. 
 Cuando la sed de sangre está a toda marcha, su arma reluce con una espesa capa de sangre coagulada. 
 Cuando la locura está en pleno apogeo, es difícil contener la sangre de sus víctimas.
@@ -1492,12 +1527,6 @@ Espectro
 Depósito de Desguace
 Taller Ruinoso
 Cable Amarillo
-Te sientes animado por una fuerza invisible cuando los supervivientes están a punto de escapar. Una vez que la puerta de salida se abra, los tiempos de enfriamiento para ataques con éxito y fallidos se reducen en un <span class="Highlight1">4 %</span> y tu velocidad de movimiento aumenta en un <span class="Highlight2">3 %</span> durante <span class="Highlight3">120 segundos</span>.<br><span class="FlavorText">"Y la bestia se volvió más veloz y poderosa, como si el sombrío látigo del ente estuviera azotando su lomo".</span>
-Te sientes animado por una fuerza invisible cuando los supervivientes están a punto de escapar. Una vez que la puerta de salida se abra, los tiempos de enfriamiento para ataques con éxito y fallidos se reducen en un <span class="Highlight1">8 %</span> y tu velocidad de movimiento aumenta en un <span class="Highlight2">4 %</span> durante <span class="Highlight3">120 segundos</span>.<br><span class="FlavorText">"Y la bestia se volvió más veloz y poderosa, como si el sombrío látigo del ente estuviera azotando su lomo".</span>
-Te sientes animado por una fuerza invisible cuando los supervivientes están a punto de escapar. Una vez que la puerta de salida se abra, en los ataques con éxito se activa <span class="Highlight4">automáticamente el estado agonizante</span>, los tiempos de enfriamiento para ataques con éxito y fallidos se reducen en un <span class="Highlight1">8 %</span> y tu velocidad de movimiento aumenta en un <span class="Highlight2">4 %</span> durante <span class="Highlight3">120 segundos</span>.<br><span class="FlavorText">"Y la bestia se volvió más veloz y poderosa, como si el sombrío látigo del ente estuviera azotando su lomo".</span>
-Cuando estás a punto de escapar, una energía inesperada te invade. <span class="Highlight1">Te curas de cualquier herida o te recuperas del estado agonizante al instante</span> y corres a un <span class="Highlight2">150 %</span> de tu velocidad normal de carrera durante <span class="Highlight3">5 segundos </span> cuando una puerta de salida se abre, sin tener en cuenta si estás incapacitado en el momento en que debería actuar.
-Cuando estás a punto de escapar, una energía inesperada te invade. <span class="Highlight1">Te curas de cualquier herida al instante</span> y corres a un <span class="Highlight2">150 %</span> de tu velocidad normal de carrera durante <span class="Highlight3">3 segundos </span> cuando una puerta de salida se abre. La adrenalina no hace efecto si estás incapacitado en el momento en que debería actuar.
-Cuando estás a punto de escapar, una energía inesperada te invade. <span class="Highlight1">Te curas de cualquier herida al instante</span> y corres a un <span class="Highlight2">150 %</span> de tu velocidad normal de carrera durante <span class="Highlight3">5 segundos </span> cuando una puerta de salida se abre. La adrenalina no hace efecto si estás incapacitado en el momento en que debería actuar.
 Te motivas cuando te encuentras en aprietos. Otorga un <span class="Highlight1">3 %</span> de velocidad adicional a las reparaciones, sabotajes, curaciones y búsquedas cuando estás herido(a).<br><span class="FlavorText">"Concéntrate, incluso en estos tiempos de desesperación".</span>
 Te motivas en situaciones extremas. Otorga un <span class="Highlight1">6 %</span> de velocidad adicional en las reparaciones, sabotajes, curaciones y búsquedas cuando estás herido(a).<br><span class="FlavorText">"Concéntrate incluso en momentos de desesperación".</span>
 Te motivas en situaciones extremas. Otorga un <span class="Highlight1">9 %</span> de velocidad adicional en las reparaciones, sabotajes, curaciones y búsquedas cuando estás herido(a).<br><span class="FlavorText">"Concéntrate incluso en momentos de desesperación".</span>
@@ -1510,9 +1539,9 @@ No haces tanto ruido como los demás cuando saltas velozmente sobre obstáculos o 
 Te emocionas al pensar en colgar a tu presa. Aumenta tu velocidad para transportar cuerpos en un <span class="Highlight1">12 %</span>. Mientras transportas un cuerpo, tu radio de terror aumenta <span class="Highlight2">3 metros</span>.<br><span class="FlavorText">"En algún momento, la emoción de enganchar a uno de nosotros se volvió más importante que el deseo de matarnos".</span>
 Te emocionas al pensar en colgar a tu presa. Aumenta tu velocidad para transportar cuerpos en un <span class="Highlight1">18 %</span>. Mientras transportas un cuerpo, tu radio de terror aumenta <span class="Highlight2">6 metros</span>.<br><span class="FlavorText">"En algún momento, la emoción de enganchar a uno de nosotros se volvió más importante que el deseo de matarnos".</span>
 Te emocionas al pensar en colgar a tu presa. Aumenta tu velocidad para transportar cuerpos en un <span class="Highlight1">6 %</span>.<br><span class="FlavorText">"En algún momento, la emoción de enganchar a uno de nosotros se volvió más importante que el deseo de matarnos".</span>
-Posees una vista aguda en medio de la oscuridad nocturna. Tu vista se agudiza en un <span class="Highlight1">10 %</span> y tu campo de visión es <span class="Highlight2">ligeramente</span> más amplio de lo normal. Por ser altamente sensible a la luz, tu ceguera aumenta un <span class="Highlight3">50 %</span> más rápido de lo normal y tardas un <span class="Highlight4">50 %</span> más de tiempo en recuperarte de este estado.<br><span class="FlavorText">"Brillando en la oscuridad más profunda, sus ojos atraviesan la noche y hace arder tu alma".</span>
-Posees una vista aguda en medio de la oscuridad nocturna. Tu vista se agudiza en un <span class="Highlight1">20 %</span> y tu campo de visión es <span class="Highlight2">considerablemente</span> más amplio de lo normal. Por ser altamente sensible a la luz, tu ceguera aumenta un <span class="Highlight3">50 %</span> más rápido de lo normal y tardas un <span class="Highlight4">75 %</span> más de tiempo en recuperarte de este estado.<br><span class="FlavorText">"Brillando en la oscuridad más profunda, sus ojos atraviesan la noche y hace arder tu alma".</span>
-Posees una vista aguda en medio de la oscuridad nocturna. Tu vista se agudiza en un <span class="Highlight1">5 %</span>. Por ser altamente sensible a la luz, tu ceguera aumenta un <span class="Highlight3">50 %</span> más rápido de lo normal y tardas un <span class="Highlight4">25 %</span> más de tiempo en recuperarte de este estado.<br><span class="FlavorText">"Brillando en la oscuridad más profunda, sus ojos atraviesan la noche y hace arder tu alma".</span>
+Posees una vista aguda en medio de la oscuridad nocturna. Tu vista se agudiza en un <span class="Highlight1">30 %</span> y tu campo de visión es <span class="Highlight2">ligeramente</span> más amplio de lo normal. Por ser altamente sensible a la luz, tu ceguera aumenta un <span class="Highlight3">25 %</span> más rápido de lo normal y tardas un <span class="Highlight4">50 %</span> más de tiempo en recuperarte de este estado.<br><span class="FlavorText">"Brillando en la oscuridad más profunda, sus ojos atraviesan la noche y hace arder tu alma".</span>
+Posees una vista aguda en medio de la oscuridad nocturna. Tu vista se agudiza en un <span class="Highlight1">35 %</span> y tu campo de visión es <span class="Highlight2">considerablemente</span> más amplio de lo normal. Por ser altamente sensible a la luz, tu ceguera aumenta un <span class="Highlight3">30 %</span> más rápido de lo normal y tardas un <span class="Highlight4">50 %</span> más de tiempo en recuperarte de este estado.<br><span class="FlavorText">"Brillando en la oscuridad más profunda, sus ojos atraviesan la noche y hace arder tu alma".</span>
+Posees una vista aguda en medio de la oscuridad nocturna. Tu vista se agudiza en un <span class="Highlight1">25 %</span>. Por ser altamente sensible a la luz, tu ceguera aumenta un <span class="Highlight3">20 %</span> más rápido de lo normal y tardas un <span class="Highlight4">50 %</span> más de tiempo en recuperarte de este estado.<br><span class="FlavorText">"Brillando en la oscuridad más profunda, sus ojos atraviesan la noche y hace arder tu alma".</span>
 Tienes un entendimiento rudimentario de la voz del Ente. Oyes esporádicamente el susurro del Ente cuando te encuentras en un radio de <span class="Highlight1">32 metros</span> de un superviviente.<br><span class="FlavorText">"No están claros los motivos de la Niebla, pero es innegable que está a menudo del lado de la bestia". -Cuaderno</span>
 Tienes un entendimiento rudimentario de la voz del Ente. Oyes esporádicamente el susurro del Ente cuando te encuentras en un radio de <span class="Highlight1">40 metros</span> de un superviviente.<br><span class="FlavorText">"No están claros los motivos de la Niebla, pero es innegable que está a menudo del lado de la bestia". -Cuaderno</span>
 Tienes un entendimiento rudimentario de la voz del Ente. Oyes esporádicamente el susurro del Ente cuando te encuentras en un radio de <span class="Highlight1">48 metros</span> de un superviviente.<br><span class="FlavorText">"No están claros los motivos de la Niebla, pero es innegable que está a menudo del lado de la bestia". -Cuaderno</span>
@@ -1554,9 +1583,9 @@ Tu enorme fuerza te permite hacer trizas la defensa de la presa. Destruye barric
 Tus horrorosas emanaciones alcanzan distancias sobrenaturales. Tu radio de terror aumenta en un <span class="Highlight1">16 %</span>. Gana un <span class="Highlight2">10 %</span> adicional en puntos de sangre en la categoría de Malicia.<br><span class="FlavorText">"Deléitate en su miedo".</span>
 Tus horrorosas emanaciones alcanzan distancias sobrenaturales. Tu radio de terror aumenta en un <span class="Highlight1">24 %</span>. Gana un <span class="Highlight2">15 %</span> adicional en puntos de sangre en la categoría de Malicia.<br><span class="FlavorText">"Deléitate en su miedo".</span>
 Tus horrorosas emanaciones alcanzan distancias sobrenaturales. Tu radio de terror aumenta en un <span class="Highlight1">8 %</span>. Gana un <span class="Highlight2">5 %</span> adicional en puntos de sangre en la categoría de Malicia.<br><span class="FlavorText">"Deléitate en su miedo".</span>
-Te aferras tan poderosamente a los supervivientes que la posibilidad de escape es casi nula. Los efectos del forcejeo del superviviente se reducen en un <span class="Highlight1">20 %</span>. El tiempo necesario para librarse de ti aumenta en un <span class="Highlight2">15 %</span>.
-Te aferras tan poderosamente a los supervivientes que la posibilidad de escape es casi nula. Los efectos del forcejeo del superviviente se reducen en un <span class="Highlight1">40 %</span>. El tiempo necesario para librarse de ti aumenta en un <span class="Highlight2">27 %</span>.
-Te aferras tan poderosamente a los supervivientes que la posibilidad de escape es casi nula. Los efectos del forcejeo del superviviente se reducen en un <span class="Highlight1">60 %</span>. El tiempo necesario para librarse de ti aumenta en un <span class="Highlight2">36 %</span>.
+Te aferras tan poderosamente a los supervivientes que la posibilidad de escape es casi nula. Los efectos del forcejeo del superviviente se reducen en un <span class="Highlight1">25 %</span>. El tiempo necesario para librarse de ti aumenta en un <span class="Highlight2">4 %</span>.
+Te aferras tan poderosamente a los supervivientes que la posibilidad de escape es casi nula. Los efectos del forcejeo del superviviente se reducen en un <span class="Highlight1">50 %</span>. El tiempo necesario para librarse de ti aumenta en un <span class="Highlight2">8 %</span>.
+Te aferras tan poderosamente a los supervivientes que la posibilidad de escape es casi nula. Los efectos del forcejeo del superviviente se reducen en un <span class="Highlight1">75 %</span>. El tiempo necesario para librarse de ti aumenta en un <span class="Highlight2">12 %</span>.
 Tu mera presencia infunde un gran miedo. Los supervivientes que se encuentren dentro de tu radio de terror tienen un <span class="Highlight1">3 %</span> más de probabilidades de activar las Revisiones de habilidades cuando reparan, curan o sabotean. La zona de éxito de las Revisiones de habilidades activadas se reduce en un <span class="Highlight2">5 %</span>.<br><span class="FlavorText">"Su presencia nos sobreviene".</span>
 Tu mera presencia infunde un gran miedo. Los supervivientes que se encuentren dentro de tu radio de terror tienen un <span class="Highlight1">5 %</span> más de probabilidades de activar las Revisiones de habilidades cuando reparan, curan o sabotean. La zona de éxito de las Revisiones de habilidades activadas se reduce en un <span class="Highlight2">10 %</span>.<br><span class="FlavorText">"Su presencia nos sobreviene".</span>
 Tu mera presencia infunde un gran miedo. Los supervivientes que se encuentren dentro de tu radio de terror tienen un <span class="Highlight1">8 %</span> más de probabilidades de activar las Revisiones de habilidades cuando reparan, curan o sabotean. El área de éxito de las Revisiones de habilidades activadas se reduce en un <span class="Highlight2">15 %</span>.<br><span class="FlavorText">"Su presencia nos sobreviene".</span>
@@ -1703,10 +1732,7 @@ Fotografía Chamuscada de una boda
 Eres muy sensible a la respiración de tu presa. La respiración de los supervivientes que sufren es un <span class="Highlight1">25 %</span> más ruidosa.<br><span class="FlavorText">Eres muy sensible a la respiración de tu presa. La respiración de los supervivientes que sufren es un <span class="Highlight1">50 %</span> más ruidosa.<br><span class="FlavorText">Eres muy sensible a la respiración de tu presa. La respiración de los supervivientes que sufren es un <span class="Highlight1">50 %</span> más ruidosa y la respiración normal lo es un <span class="Highlight2">25 %</span> más.<br><span class="FlavorText">Su coraje se desvanece ante la evidencia de su mortalidad innegable. Todos los supervivientes reciben una penalización de las velocidades de reparación, curación y sabotaje por cada superviviente herido, moribundo o enganchado.<br><li>Con 1 superviviente herido, moribundo o enganchado la velocidad de acción se reduce un <span class="Highlight1">4</span>.</li><li>Con 2 supervivientes heridos, moribundos o enganchados la velocidad de acción se reduce un <span class="Highlight2">7%</span>.</li><li>Con 3 supervivientes heridos, moribundos o enganchados la velocidad de acción se reduce un <span class="Highlight3">10%</span>.</li><li>Con 4 supervivientes heridos, moribundos o enganchados la velocidad de acción se reduce un <span class="Highlight4">13%</span>.</li><br><span class="FlavorText">"Ella juega con nosotros y disfruta con nuestro dolor."</span>
 Su coraje se desvanece ante la evidencia de su mortalidad innegable. Todos los supervivientes reciben una penalización de las velocidades de reparación, curación y sabotaje por cada superviviente herido, moribundo o enganchado.<br><li>Con 1 superviviente herido, moribundo o enganchado la velocidad de acción se reduce un <span class="Highlight1">5%</span>.</li><li>Con 2 supervivientes heridos, moribundos o enganchados la velocidad de acción se reduce un <span class="Highlight2">8%</span>.</li><li>Con 3 supervivientes heridos, moribundos o enganchados la velocidad de acción se reduce un <span class="Highlight3">11%</span>.</li><li>Con 4 supervivientes heridos, moribundos o enganchados la velocidad de acción se reduce un <span class="Highlight4">14%</span>.</li><br><span class="FlavorText">"Ella juega con nosotros y disfruta con nuestro dolor."</span>
 Su coraje se desvanece ante la evidencia de su mortalidad innegable. Todos los supervivientes reciben una penalización de las velocidades de reparación, curación y sabotaje por cada superviviente herido, moribundo o enganchado.<br><li>Con 1 superviviente herido, moribundo o enganchado la velocidad de acción se reduce un <span class="Highlight1">6 %</span>.</li><li>Con 2 supervivientes heridos, moribundos o enganchados la velocidad de acción se reduce un <span class="Highlight2">9 %</span>.</li><li>Con 3 supervivientes heridos, moribundos o enganchados la velocidad de acción se reduce un <span class="Highlight3">12 %</span>.</li><li>Con 4 supervivientes heridos, moribundos o enganchados la velocidad de acción se reduce un <span class="Highlight4">15 %</span>.</li><br><span class="FlavorText">"Ella juega con nosotros y disfruta con nuestro dolor."</span>
-Desbloquea el potencial de la habilidad de analizar auras. Se te revelan las auras de los supervivientes que se están curando o están siendo curados si se encuentran en un radio de <span class="Highlight1">20 metros</span>.<br><span class="FlavorText">Desbloquea el potencial de la habilidad de analizar auras. Se te revelan las auras de los supervivientes que se están curando o están siendo curados si se encuentran en un radio de <span class="Highlight1">24 metros</span>.<br><span class="FlavorText">Desbloquea el potencial de la habilidad de analizar auras. Se te revelan las auras de los supervivientes que se están curando o están siendo curados si se encuentran en un radio de <span class="Highlight1">28 metros</span>.<br><span class="FlavorText">Cuando la Caída equilibrada está activa, el tambaleo por caídas grandes se reduce un <span class="Highlight1">50 %</span>. Este efecto solo puede desencadenarse una vez cada <span class="Highlight2">40 segundos</span> .<br><span class="FlavorText">"He saltado desde lugares más altos." -Nea</span>
-Cuando la Caída equilibrada está activa, el tambaleo por caídas grandes se reduce un <span class="Highlight1">75 %</span>. Este efecto solo puede desencadenarse una vez cada <span class="Highlight2">40 segundos</span>.<br><span class="FlavorText">"He saltado desde lugares más altos." -Nea</span>
-Cuando la Caída equilibrada está activa, el tambaleo por caídas grandes se reduce un <span class="Highlight1">75 %</span>. Al tocar suelo, empiezas a correr un <span class="Highlight3">150 %</span> más rápido que la velocidad normal durante un máximo de <span class="Highlight4">3 segundos</span>. Este efecto solo puede desencadenarse una vez cada <span class="Highlight2">40 segundos</span>.<br><span class="FlavorText">"He saltado desde lugares más altos." -Nea</span>
-Los años que has pasado huyendo de la policía te han enseñado un par de cosas sobre el sigilo. La velocidad mientras avanzas agachada aumenta un <span class="Highlight1">40 %</span> mientras estás herida.<br><span class="FlavorText">"La pintura aún está fresca, pero hace tiempo que me he ido." -Nea</span>
+Desbloquea el potencial de la habilidad de analizar auras. Se te revelan las auras de los supervivientes que se están curando o están siendo curados si se encuentran en un radio de <span class="Highlight1">20 metros</span>.<br><span class="FlavorText">Desbloquea el potencial de la habilidad de analizar auras. Se te revelan las auras de los supervivientes que se están curando o están siendo curados si se encuentran en un radio de <span class="Highlight1">24 metros</span>.<br><span class="FlavorText">Desbloquea el potencial de la habilidad de analizar auras. Se te revelan las auras de los supervivientes que se están curando o están siendo curados si se encuentran en un radio de <span class="Highlight1">28 metros</span>.<br><span class="FlavorText">Los años que has pasado huyendo de la policía te han enseñado un par de cosas sobre el sigilo. La velocidad mientras avanzas agachada aumenta un <span class="Highlight1">40 %</span> mientras estás herida.<br><span class="FlavorText">"La pintura aún está fresca, pero hace tiempo que me he ido." -Nea</span>
 Los años que has pasado huyendo de la policía te han enseñado un par de cosas sobre el sigilo. La velocidad mientras avanzas agachada aumenta un <span class="Highlight1">45 %</span> mientras estás herida.<br><span class="FlavorText">"La pintura aún está fresca, pero hace tiempo que me he ido." -Nea</span>
 Los años que has pasado huyendo de la policía te han enseñado un par de cosas sobre el sigilo. La velocidad mientras avanzas agachada aumenta un <span class="Highlight1">50 %</span> mientras estás herida.<br><span class="FlavorText">"La pintura aún está fresca, pero hace tiempo que me he ido." -Nea</span>
 Las largas salidas nocturnas te han enseñado a sacar partido de lo que tienes. Reduce la velocidad de consumo de la carga de objetos en un  <span class="Highlight1">10 %</span> para ti y para los aliados en un rango de <span class="Highlight2">8 metros</span>.<br><span class="FlavorText">"¡Lo estás haciendo mal! Déjame que te enseñe cómo se hace." -Nea</span>
@@ -1729,22 +1755,22 @@ Mirada Sorpresa
 ACEPTO
 GUARDAR LOS CAMBIOS
 ATRÁS
-SÉ UN(A) ASESINO(A)
-SÉ UN(A) SUPERVIVIENTE
 RED DE SANGRE
 CANCELAR
 PERSONAJE
 ELEGIR UN MAPA
 HAZ CLIC PARA CONTINUAR
 CERRAR EL MENÚ
+CONTINUAR
 CONTROLES
 CREAR UNA SALA DE ESPERA
 CRÉDITOS
 PERSONALIZAR
 RITUALES DIARIOS
 SALIR DEL GRUPO
+EXTRAS
 IR A LA SALA DE ESPERA
-AYUDA
+AYUDA Y TUTORIALES
 INVITAR A AMIGOS
 UNIRSE A UNA SALA DE ESPERA
 MATAR A TUS AMIGOS
@@ -1754,13 +1780,17 @@ ABANDONAR
 ABANDONAR LA SALA DE ESPERA
 ABANDONAR PARTIDA
 EQUIPAMIENTO
+MENÚ PRINCIPAL
 NUEVO CONTENIDO
+NOVEDADES
 SIGUIENTE
 NO
 ACEPTAR
 ABRIR EN EL NAVEGADOR
 ABRIR EL MENÚ
 JUGAR
+JUGAR COMO ASESINO
+JUGAR COMO SUPERVIVIENTE
 PULSA CUALQUIER TECLA
 ANTERIOR
 PARTIDA PRIVADA
@@ -1773,15 +1803,20 @@ REGENERAR RED
 QUITAR RITUAL
 RESTABLECER AJUSTES POR DEFECTO
 REGRESAR A LA SALA DE ESPERA
-CONFIGURACIÓN
+DESPLAZAR LISTA
+CONFIGURACIÓN Y CONTROLES
 SANTUARIO
 OMITIR
+SOCIAL
 OBSERVAR
 ENVIAR
 SOBREVIVE CON AMIGOS
 SUPERVIVIENTE
 TUTORIALES DEL MODO SUPERVIVIENTE
 INTERCAMBIAR ROLES
+CAMBIAR A ASESINO
+CAMBIAR A ESPECTADOR
+CAMBIAR A SUPERVIVIENTE
 TUTORIALES
 NO LISTO
 MEJORAR
@@ -1793,9 +1828,10 @@ AÑADIDO AL INVENTARIO
 TODO
 Permitir asesinos de DLC
 ALTRUISMO
+AUDIO
 AJUSTE AUTOMÁTICO
 DISPONIBLE
-Permitir la información de DLC
+Habilita el acceso a todos los asesinos descargables.
 BIOGRAFÍA
 PUNTOS DE SANGRE
 PUNTOS DE SANGRE ACUMULADOS
@@ -1808,8 +1844,11 @@ HABILIDADES DE PERSONAJES
 PERSONAJES
 ELEGIR
 HAZ CLIC PARA CONTINUAR
+CONTROLES COMUNES
 COMPLETADO
 CONSECUENCIAS
+CONSOLA
+SENSIBILIDAD DEL MANDO
 CONTROLES
 COSTE
 PERSONALIZACIÓN
@@ -1829,6 +1868,7 @@ SÍGUEME / VEN AQUÍ
 PANTALLA COMPLETA
 MANUAL DEL JUEGO
 MANDO
+GRÁFICOS
 AURICULARES
 AYUDA
 HORAS
@@ -1842,12 +1882,14 @@ OBJETO OBTENIDO
 OBJETO PERDIDO
 OBJETOS
 OBJETOS / ACCESORIOS
-Información de los Objetos y Accesorios
+Habilita el uso de objetos y accesorios.
 TECLADO
 ASESINO
 CLASIFICACIÓN<br>DE ASESINOS
+CONTROLES DE ASESINO
 VÍDEOS TUTORIALES DEL MODO ASESINO
 ASESINOS
+IDIOMA
 IDIOMA
 MENOS DE UNA HORA
 EQUIPAMIENTO
@@ -1861,6 +1903,7 @@ AJUSTES DE PARTIDA<br>MODIFICADOS
 MÁX.
 MÚSICA DEL MENÚ
 VICTORIA DESPIADADA
+SENSIBILIDAD DEL RATÓN
 SILENCIAR FUERA DE JUEGO
 CAJA MISTERIOSA
 NINGUNA
@@ -1871,7 +1914,7 @@ OFRENDAS
 CLASIFICACIÓN DE ASESINOS EN LÍNEA
 CLASIFICACIÓN DE SUPERVIVIENTES EN LÍNEA
 O
-Información de las Ofrendas
+Habilita el uso de ofrendas.
 PÁGINA
 CASILLA DE HABILIDADES BLOQUEADA
 CASILLA DE HABILIDADES BLOQUEADA
@@ -1885,9 +1928,14 @@ APUNTAR A
 PODER
 ACCESORIOS DE PODERES
 PODERES
+PULSA
 PRESIONA LA BARRA ESPACIADORA PARA CONTINUAR
 PÚBLICO
-Información de las Habilidades
+Habilidades: {0}
+Objetos / Accesorios: {1}
+Ofrendas: {2}
+Mapa: {3}
+Habilita el uso de habilidades.
 CALIDAD
 ALEATORIO
 CLASIFICACIÓN
@@ -1909,9 +1957,12 @@ CASILLA BLOQUEADA
 ESTADO
 SUPERVIVENCIA
 CLASIFICACIÓN<br>DE SUPERVIVIENTES
+CONTROLES DE SUPERVIVIENTE
 VÍDEOS TUTORIALES DEL MODO SUPERVIVIENTE
 SUPERVIVIENTES
 VERSIÓN BETA
+VERSIÓN BETA
+PARA CONTINUAR
 TOTAL
 El administrador de la partida ha deshabilitado esta casilla.
 Esta casilla se desbloqueará en el nivel 1
@@ -1964,8 +2015,12 @@ Recompensa
 <li>Pueden jugar entre 2 y 5 jugadores.</li><li>Todos los jugadores pueden cambiar de papel en la sala de espera.</li><li>La partida puede empezar cuando haya 1 asesino, ¡ni uno más, ni uno menos!</li><li>Se pueden usar objetos, accesorios, habilidades y ofrendas recogidos en otros modos, no se perderán.</li><li>No se ganan puntos de sangre.</li><li>No se ganan objetos, accesorios ni ofrendas.</li><li>No puedes ganar ni perder posiciones.</li>
 Comienza una nueva temporada. Tu posición se reiniciará:
 Hay una nueva versión del juego disponible. Debes actualizar tu cliente para usar las aplicaciones de red.
-ERROR AL ACEPTAR INVITACIÓN
+Se necesita un perfil con acceso a Xbox Live.
+RESTRICCIÓN DE EDAD
+APLICACIÓN SUSPENDIDA
+¡DISPONIBLE EN PLAYSTATION®STORE!
 ¡DISPONIBLE EN LA TIENDA DE STEAM!
+¡DISPONIBLE EN LA TIENDA XBOX!
 Accede a los tutoriales en cualquier momento al presionar la tecla [Esc] y al seleccionar Ayuda en la lista de opciones.
 Determina si el juego se muestra en pantalla completa o en una ventana.
 Ya lo tienes. Vuelve a comprarlo y obtén:
@@ -1985,14 +2040,20 @@ PUNTOS DE SANGRE
 PRÓXIMAMENTE
 CONFIRMACIÓN
 ERROR DE CONEXIÓN
+ERROR DE CONEXIÓN
 SALA DE ESPERA CREADA
 Regula la estereofonía (el equilibrio del audio) para auriculares o altavoces.
 No es posible empezar con {0} asesino(s).
 Cambia el idioma del juego. <FONT COLOR="#dd0000">Hay que reiniciar el juego para que se aplique el cambio.</FONT>
 Haz clic aquí para chatear...
 Completa los rituales y el Ente te recompensará.
+Mando desconectado
 Controla el número de características visuales del juego. Selecciona Ultra para una mayor calidad visual y Baja para un mejor rendimiento.
+Una útil lista con el grupo de gente increíble que ha hecho posible Dead by Daylight.
+Créditos
 RITUALES DIARIOS
+Desafíos diarios que dan como recompensa puntos de sangre.
+Rituales diarios
 Controla si el juego se silencia cuando la aplicación no está seleccionada.
 Controla la resolución en la que se muestra el juego. <FONT COLOR="#dd0000">No se puede modificar si el ajuste automático está activado.</FONT>
 Desconectado Del Servidor
@@ -2010,13 +2071,23 @@ BUSCAR LA
 FELICITAR<br>¡Da la enhorabuena a este jugador! Por ejemplo: por ayudar a conseguir objetivos, ser muy bueno con los rescates , conocer muy bien el juego o porque es divertido jugar con él.
 VANDALISMO: ABUSO INTENCIONADO DURANTE EL JUEGO / TROLEO<br>Denuncia a este jugador por usar las habilidades o la mecánica del juego en detrimento de la partida. Por ejemplo: obstruir la partida, bloquear cuerpos, colaborar con el asesino.
 ACOSO: ABUSO VERBAL<br>Denuncia a este jugador por un comportamiento abusivo en el canal de chat. Por ejemplo: insultos, intimidación, expresiones de odio, acoso.
+Guías y tutoriales que te ayudarán a aprender las nociones básicas del juego entre otras cosas.
+Ayuda
 Señala una categoría con el cursor para ver más información
 ERROR DE INICIACIÓN
+Para acceder a este contenido necesitas conexión a Internet.
+Para acceder a este contenido necesitas un parche.
+Para acceder a este contenido necesitas actualizar el sistema.
 Aumenta tu nivel de prestigio
 Aumentar el prestigio de tu Red de sangre tiene los siguientes efectos:<br><ul><li>Reinicia el progreso de este personaje al nivel 1.</li><li>Desbloquea una recompensa de prestigio para el personaje.</li><li>Pierde todos los objetos, accesorios , habilidades y ofrendas para el personaje.</li><li>Aumenta ligeramente las probabilidades de conseguir objetos mejores en la Red de sangre.</li><li>Las habilidades que se pueden enseñar seguirán disponibles para el resto de personajes.</li></ul><br>¿Confirmas que quieres aumentar el prestigio?
 Invierte el control del eje Y.
+ERROR AL UNIRSE A LA PARTIDA
+ERROR AL UNIRSE A LA SALA DE ESPERA
 SE UNIÓ A LA SALA DE ESPERA
+Unión a partida privada rechazada
 Expulsado del Servidor
+Un modo sin clasificación al que se accede solo por invitación. Tus amigos y tú adoptaréis los roles de supervivientes, asesino y espectador. Se pueden personalizar las partidas y el equipamiento.
+Matar a tus amigos
 ABANDONAR LA SALA DE ESPERA
 ABANDONAR PARTIDA
 NIVEL
@@ -2030,46 +2101,72 @@ NUEVO CONTENIDO
 NUEVO EVENTO
 NUEVA VERSIÓN DISPONIBLE
 NO SE ENCONTRARON PARTIDAS
+SIN CONEXIÓN A INTERNET
+Novedades
+Las últimas noticias, publicaciones de los desarrolladores y notas sobre parches.
+ERROR DEL ESTADO EN LÍNEA
 NOTAS SOBRE EL PARCHE
+PARCHE NECESARIO
 PRESTIGIO {0}
+CAMBIO EN EL ESTADO DEL PERFIL
+Juega como un brutal asesino en partidas por clasificación. Sacrifica a supervivientes para honrar al Ente.
+Asesino
+Juega como superviviente en partidas por clasificación. Escapa al asesino y vive para ver otro amanecer.
+Superviviente
+Reconecta el mando para seguir jugando.
 SALIR DEL JUEGO
+Salir del juego
+Salir
 DENUNCIAR
 RESTABLECER AJUSTES POR DEFECTO
 ¿VOLVER A LA SALA DE ESPERA?
 Denuncias restantes: 
-¿Restablecer la combinación de teclas por defecto?
 ERROR DE GUARDADO
 BUSCANDO JUEGOS
 FIN DE LA TEMPORADA
 SELECCIONAR CATEGORÍA
 FUENTE:
 SUPERVIVIENTE ESCAPANDO
+ACTUALIZACIÓN DE SISTEMA NECESARIA
 Di:
 Primero elige una categoría.
 Controla el volumen para todos los sonidos y la música del juego.
 Ajusta el volúmen de la música del menú.
+Varias opciones para personalizar tu experiencia.
+Configuración y controles
 Steam está desconectado
+Invita a amigos a sobrevivir contra un asesino desconocido en partidas por clasificación.
+Sobrevive con amigos
 EL ANFITRIÓN HA ABANDONADO LA PARTIDA
 TUTORIAL
+Sensibilidad del mando para la rotación de la cámara.
 La partida no se ha iniciado correctamente y puede que no se guarde como es debido. Reiniciar la partida podría solucionar el problema.
+La partida a la que intentas unirte ya no está disponible.
+Sensibilidad del ratón para la rotación de la cámara.
 Esta acción te sacará del grupo de la partida privada y regresarás a la sala de espera. No volverás a formar parte de tu grupo actual.
 Esta acción te llevará a ti y a tu grupo actual a la sala de espera. No podrás regresar al menú de resultados de esta partida.
 ¿DESBLOQUEAR ESTE NODO?
 ANTIDEPORTIVO<br>Denuncia a este jugador por perder la partida a propósito, por no participar o por desconectarse de la partida para evitar una derrota. Por ejemplo: ausentarse del teclado, abandonar por rabia, mantenerse inactivo y negarse a seguir el juego normalmente.
+Imposible unirse a la partida privada. El anfitrión te lo ha impedido.
 ESPERANDO
 ESPERANDO A 1 VÍCTIMA MÁS
 ESPERANDO A {0} VÍCTIMA(S) MÁS
 Advertencia
-No puedes aceptar una invitación mientras se busca una partida.
+No puedes unirte a la sala de espera mientras buscas una partida.
 Se te ha expulsado del servidor porque no se ha podido validar tu cuenta a través de Easy Anti-Cheat (código de error {0}).
 Se te ha expulsado del servidor porque no se ha podido verificar y autenticar tu cuenta de Steam (código de error {0}).
+Te has desconectado de tu perfil actual.
 Te has desconectado del servidor porque no se ha podido validar la cuenta del anfitrión a través de Easy Anti-Cheat (código de error {0}).
 Te has desconectado del servidor porque no se ha podido verificar y autenticar la cuenta de Steam del anfitrión (código de error {0}).
 Parece que tienes problemas de conexión. Ten en cuenta que se impondrán penalizaciones graves por desconexiones frecuentes.
+Has puesto Dead by Daylight en suspensión y se te ha eliminado de la sesión en línea.
+Debido a tu edad, no puedes acceder a este contenido.
 Actualmente Steam está desconectado. La funcionalidad del juego no está disponible en estas circunstancias.  Asegúrate de que tus conexiones a internet y a Steam estén activas.
 <li>Hasta 4 personas pueden formar parte de un grupo de supervivientes: tú y hasta tres amigos.</li><li>Una vez que todos los participantes estén presentes, pulsa Listo para buscar un asesino.</li>
 SOLO {0}
 No es posible unirse a una partida ya empezada
+Intentando unirse a la búsqueda de jugadores a través de invitación...
+Imposible unirse a la partida privada
 Nivel de Habilidad Inválido
 ALTO
 BAJO
@@ -2081,6 +2178,7 @@ Enseñable
 Ultrararo(a)
 Poco Común
 Muy Raro(a)
+{1} {0}
 {1} {0}
 SIENDO CURADO POR 
 BUSCA AYUDA

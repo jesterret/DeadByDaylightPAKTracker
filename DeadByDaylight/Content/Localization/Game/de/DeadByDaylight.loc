@@ -1,4 +1,3 @@
-Eine mechanische Vorrichtung, welche die Kraftstoffmenge festlegt, die von kleinen Motoren zwingend benötigt wird, um eine gleichbleibende und zuverlässige Geschwindigkeit zu gewährleisten.<br><li>Die Kettensäge erzeugt nicht automatisch Todesstatus.</li><li>Erhalte <b>50%</b> mehr Blutpunkte für Events mit Kettensägenpunkten.</li>
 "Allsehend" - Blut
 "Allsehend" - Schlamm
 "Blinder Krieger" - Schlamm
@@ -285,6 +284,11 @@ Helfen
 Fluchtversuch
 Aura-Lesen
 Autohaven-Schrottplatz
+Autohaven-Schrottplatz
+Autohaven-Schrottplatz
+Autohaven-Schrottplatz
+Autohaven-Schrottplatz
+Autohaven-Schrottplatz
 Azarovs Axt
 Azarovs Schlüssel
 Azarovs Ruhestätte
@@ -381,11 +385,11 @@ Der TPGS-Hut
 Exclusive item for the Thailand BIG tournament
 The BIG hat
 Schlammverschmierte Kampfhose, Kampfstiefel und ein trauriges, leeres Holster.<br><span class="FlavorText">Militärhose
-Blutverschmierte Kampfhose, Kampfstiefel und ein Holster, das immer noch sehr traurig und sehr leer ist.<br><span class="FlavorText">Veteranenhose
+Blutverschmierte Kampfhose, Kampfstiefel und ein Holster, das immer noch sehr traurig und sehr leer ist.<br><span class="FlavorText">Blutverschmierte Kampfhose, Kampfstiefel und ein Holster, das immer noch sehr traurig und sehr leer ist.<br><span class="FlavorText">Veteranenhose
 Bills Armeebarett mit dem gelben Schildabzeichen der 1st Special Forces Group.<br><span class="FlavorText">Bill
-Das Gesicht und die Ausstattung eines erfahrenen Soldaten, dem man vertrauen kann.<br><span class="FlavorText">Bill der Veteran
+Das Gesicht und die Ausstattung eines erfahrenen Soldaten, dem man vertrauen kann.<br><span class="FlavorText">Das Gesicht und die Ausstattung eines erfahrenen Soldaten, dem man vertrauen kann.<br><span class="FlavorText">Bill der Veteran
 Kampfgezeichnete Militärjacke mit Feldjacke
-Eine blutbesudelte Feldjacke, die verdeutlicht, wie vielen Herausforderungen Bill sich schon stellen musste.<br><span class="FlavorText">Veteranenjacke
+Eine blutbesudelte Feldjacke, die verdeutlicht, wie vielen Herausforderungen Bill sich schon stellen musste.<br><span class="FlavorText">Eine blutbesudelte Feldjacke, die verdeutlicht, wie vielen Herausforderungen Bill sich schon stellen musste.<br><span class="FlavorText">Veteranenjacke
 A unique top for Claudette, exclusively for Sxyhxy
 TEAMSXY gear
 Violett passt zu allem, oder?
@@ -632,6 +636,11 @@ Maskieren
 Kohlelager
 Coldwind Rindermarke-81 
 Coldwind Farm
+Coldwind Farm
+Coldwind Farm
+Coldwind Farm
+Coldwind Farm
+Coldwind Farm
 Sammeln
 Bequeme, elegant-lässige Kleidung für beliebigen Anlass.
 Gewöhnliche(r/s)
@@ -767,6 +776,7 @@ Grässliche Kette
 Haare, vernünftigerweise zum Pferdeschwanz gebunden, sind Claudettes Alltagslook.
 Aufhängen
 Flucht durch die Bodenluke
+Flucht durch die Bodenluke
 Trübes Reagenzglas
 Heilen
 Heilen
@@ -781,6 +791,7 @@ Hochleistungsbatterie
 Anderen zu helfen erhöht deine Arbeitsmoral. Für jeden Überlebenden, den du von einem Haken rettest, erhältst du zusätzlich <span class="Highlight1">100%</span> Geschwindigkeitsanstieg bei Heilungen, der bis zu einem Maximum von  <span class="Highlight2">100%</span> ansteigen kann, für die Dauer von <span class="Highlight3">90 Sekunden</span>.<br><span class="FlavorText">"Ich bin zuversichtlich, dass wir alle in einem Stück entkommen können, wenn wir uns gegenseitig helfen."</span>
 Anderen zu helfen erhöht deine Arbeitsmoral. Für jeden Überlebenden, den du von einem Haken rettest, erhältst du zusätzlich <span class="Highlight1">25%</span> Geschwindigkeitsanstieg bei Heilungen, der bis zu einem Maximum von  <span class="Highlight2">100%</span> ansteigen kann, für die Dauer von <span class="Highlight3">30</span> Sekunden.<br><span class="FlavorText">"Ich bin zuversichtlich, dass wir alle in einem Stück entkommen können, wenn wir uns gegenseitig helfen."</span>
 Anderen zu helfen erhöht deine Arbeitsmoral. Für jeden Überlebenden, den du von einem Haken rettest, erhältst du zusätzlich <span class="Highlight1">50%</span> Geschwindigkeitsanstieg bei Heilungen, der bis zu einem Maximum von  <span class="Highlight2">100%</span> ansteigen kann, für die Dauer von <span class="Highlight3">60</span> Sekunden.<br><span class="FlavorText">"Ich bin zuversichtlich, dass wir alle in einem Stück entkommen können, wenn wir uns gegenseitig helfen."</span>
+Fluch-Fähigkeitscheck
 Sich Verstecken
 Sich Verstecken
 Seine Gummischürze, einst mit dem Blut von Tieren befleckt, wird nun vom Blut seiner Opfer befeuchtet.
@@ -868,6 +879,8 @@ Aus dem Killergriff retten
 Killerbetäubung
 Gestrickte Baskenmütze
 Backwater-Sumpf
+Backwater-Sumpf
+Haddonfield
 Haddonfield
 Letzter Atem
 Letzter Mann
@@ -879,6 +892,7 @@ Ein Leichtgewicht und doch warm für Joggings früh am Morgen.
 Wie ein jagender Laufhund, riechst du Blutspuren auf eine lange Distanz. Frische Blutspuren sind <span class="Highlight1">deutlich besser wahrnehmbar</span> als normal und können <span class="Highlight2">4 Sekunden</span> länger als normal verfolgt werden.<br><span class="FlavorText">"Kieselsteine schimmern im Mondlicht; mein Leben sickert wie Wasser in einer Rinne dahin, so einfach zu verfolgen."</span>
 Wie ein jagender Laufhund, riechst du Blutspuren auf eine lange Distanz. Frische Blutspuren sind <span class="Highlight1">etwas besser wahrnehmbar</span> als normal und können <span class="Highlight2">3 Sekunden</span> länger als normal verfolgt werden.<br><span class="FlavorText">"Kieselsteine schimmern im Mondlicht; mein Leben sickert wie Wasser in einer Rinne dahin, so einfach zu verfolgen."</span>
 Wie ein jagender Laufhund, riechst du Blutspuren auf eine lange Distanz. Frische Blutspuren sind <span class="Highlight1">ein wenig besser wahrnehmbar</span> als normal und können <span class="Highlight2">2 Sekunde</span> länger als normal verfolgt werden.<br><span class="FlavorText">"Kieselsteine schimmern im Mondlicht; mein Leben sickert wie Wasser in einer Rinne dahin, so einfach zu verfolgen."</span>
+Crotus Prenn Zuflucht
 Crotus Prenn Zuflucht
 Blauholzfärbemittel
 Lange Führungsschiene
@@ -931,7 +945,6 @@ Mordlust
 Dunkles Reagenzglas
 Neumondbouquet
 Niemand ist entkommen
-Niemand entrinnt dem Tod
 Niemand wird zurückgelassen
 Niemand
 Niemand
@@ -1061,6 +1074,14 @@ Bodenluke Öffnen
 PERK-SLOT II
 PERK-SLOT III
 PERK-SLOT IV
+Du bist erfüllt von unerwarteter Energie, wenn die Flucht kurz bevorsteht. <span class="Highlight1">Sofortige Erholung von Verletzungen</span> und ein Sprint mit <span class="Highlight2">150%</span> deiner normalen Laufgeschwindigkeit für <span class="Highlight3">5 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. Adrenalin wirkt nicht, wenn du zum Nutzungszeitpunkt blockiert bist.<br><i>Adrenalin</i> ignoriert <b>Erschöpfung</b>.<br>Verursacht <span class="Highlight4">50 Sekunden</span> lang <b>Erschöpfung</b>.
+Du bist erfüllt von unerwarteter Energie, wenn die Flucht kurz bevorsteht. <span class="Highlight1">Sofortige Erholung von Verletzungen</span> und ein Sprint mit <span class="Highlight2">150%</span> deiner normalen Laufgeschwindigkeit für <span class="Highlight3">3 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. Adrenalin wirkt nicht, wenn du zum Nutzungszeitpunkt blockiert bist.<br><i>Adrenalin</i> ignoriert <b>Erschöpfung</b>.<br>Verursacht <span class="Highlight4">60 Sekunden</span> lang <b>Erschöpfung</b>.
+Wenn die Ausgewogene Landung aktiviert ist, werden die Taumeleffekte von tiefen Stürzen um <span class="Highlight1">75%</span> reduziert.<br>Nach der Landung beginnt dein Sprint mit <span class="Highlight2">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight3">3 Sekunden</span>, wenn du nicht erschöpft bist. <br>Verursacht <span class="Highlight4">40 Sekunden</span> lang <b>Erschöpfung</b>.<br><span class="FlavorText">Wenn die Ausgewogene Landung aktiviert ist, werden die Taumeleffekte von tiefen Stürzen um <span class="Highlight1">75%</span> reduziert.<br><span class="FlavorText">Wenn die Ausgewogene Landung aktiviert ist, werden die Taumeleffekte von tiefen Stürzen um <span class="Highlight1">50%</span> reduziert.<br><span class="FlavorText">Die wachsende Chance auf eine erfolgreiche Flucht erfüllt dich mit Hoffnung und verleiht dir Flügel. Deine Bewegungsgeschwindigkeit ist für <span class="Highlight3">120 Sekunden</span> um <span class="Highlight1">7%</span> erhöht, sobald die Ausgangstore mit Energie versorgt sind.
+Die wachsende Chance auf eine erfolgreiche Flucht erfüllt dich mit Hoffnung und verleiht dir Flügel. Deine Bewegungsgeschwindigkeit ist für <span class="Highlight3">120 Sekunden</span> um <span class="Highlight1">6%</span> erhöht, sobald die Ausgangstore mit Energie versorgt sind.
+Die wachsende Chance auf eine erfolgreiche Flucht erfüllt dich mit Hoffnung und verleiht dir Flügel. Deine Bewegungsgeschwindigkeit ist für <span class="Highlight3">120 Sekunden</span> um <span class="Highlight1">5%</span> erhöht, sobald die Ausgangstore mit Energie versorgt sind.
+Wenn du zu rennen beginnst, verfalle in einen Sprint mit <span class="Highlight1">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight2">3 Sekunden</span>.<br>Verursacht <span class="Highlight3">40 Sekunden</span> lang <b>Erschöpfung</b>.<br><i>Sprintboost</i> kann bei <b>Erschöpfung</b> nicht verwendet werden.
+Wenn du zu rennen beginnst, verfalle in einen Sprint mit <span class="Highlight1">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight2">3 Sekunden</span>.<br>Verursacht <span class="Highlight3">50 Sekunden</span> lang <b>Erschöpfung</b>.<br><i>Sprintboost</i> kann bei <b>Erschöpfung</b> nicht verwendet werden.
+Wenn du zu rennen beginnst, verfalle in einen Sprint mit <span class="Highlight1">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight2">3 Sekunden</span>.<br>Verursacht <span class="Highlight3">60 Sekunden</span> lang <b>Erschöpfung</b>.<br><i>Sprintboost</i> kann bei <b>Erschöpfung</b> nicht verwendet werden.
 Fortuna scheint es stets gut mit dir zu meinen. Beim Herausnehmen eines Items aus einer Kiste besteht eine <span class="Highlight1">50%</span> Chance, dass ein Add-on von <span class="Highlight2">sehr seltener</span> Rarität oder geringer beigefügt ist.<br><span class="FlavorText">"Nicht alles, was glänzt, ist Gold. Aber Gold ist an diesem Ort keinen Pfifferling wert, daher sollte sich dies als nützlich erweisen."-Ace</span>
 Fortuna scheint es stets gut mit dir zu meinen. Beim Herausnehmen eines Items aus einer Kiste besteht eine <span class="Highlight1">50%</span> Chance, dass ein Add-on von <span class="Highlight2">seltener</span> Rarität oder geringer beigefügt ist.<br><span class="FlavorText">"Nicht alles, was glänzt, ist Gold. Aber Gold ist an diesem Ort keinen Pfifferling wert, daher sollte sich dies als nützlich erweisen."-Ace</span>
 Fortuna scheint es stets gut mit dir zu meinen. Beim Herausnehmen eines Items aus einer Kiste besteht eine <span class="Highlight1">50%</span> Chance, dass ein Add-on von <span class="Highlight2">ungewöhnlicher</span> Rarität oder geringer beigefügt ist.<br><span class="FlavorText">"Nicht alles, was glänzt, ist Gold. Aber Gold ist an diesem Ort keinen Pfifferling wert, daher sollte sich dies als nützlich erweisen."-Ace</span>
@@ -1070,10 +1091,10 @@ Du erledigst den Job ... egal, zu welchem Preis.<br>Wenn du der <b>letzte Überle
 In vergangenen Gefechten hast du so einiges über das Überleben gelernt.<br>Gewährt die Fähigkeit, dich <b>einmal pro Runde</b> vollständig von einem Todesstatus zu erholen. Beschleunigt Todeserholung um <span class="Highlight1">15%</span>.<br><span class="FlavorText">In vergangenen Gefechten hast du so einiges über das Überleben gelernt.<br>Gewährt die Fähigkeit, dich <b>einmal pro Runde</b> vollständig von einem Todesstatus zu erholen. Beschleunigt Todeserholung um <span class="Highlight1">20%</span>.<br><span class="FlavorText">In vergangenen Gefechten hast du so einiges über das Überleben gelernt.<br>Gewährt die Fähigkeit, dich <b>einmal pro Runde</b> vollständig von einem Todesstatus zu erholen. Beschleunigt Todeserholung um <span class="Highlight1">25%</span>.<br><span class="FlavorText">Unbeugsam
 Unter Verwendung dessen, was du zur Hand hast, stichst du in einem ultimativen Fluchtversuch auf deinen Angreifer ein. Führe einmal pro Spiel einen Fähigkeitscheck erfolgreich durch, wenn du die Besessenheit bist und vom Killer geschnappt wurdest, um automatisch dem Griff des Killers zu entkommen und ihn für <span class="Highlight1">5 Sekunden</span> zu betäuben.<br>Solltest du nicht die Besessenheit sein, dann schaffe es einmal pro Spiel, während du dich im Griff des Killers befindest und der Bewegungsmesser 35% erreicht hat, einen Fähigkeitscheck erfolgreich durchzuführen, um automatisch den Rest des Bewegungsmessers aufzufüllen und dem Griff des Killers zu entkommen.<br><i>Erhöht die Chancen, zur <b>Besessenheit</b> des Killers zu werden. Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Unter Verwendung dessen, was du zur Hand hast, stichst du in einem ultimativen Fluchtversuch auf deinen Angreifer ein. Führe einmal pro Spiel einen Fähigkeitscheck erfolgreich durch, wenn du die Besessenheit bist und vom Killer geschnappt wurdest, um automatisch dem Griff des Killers zu entkommen und ihn für <span class="Highlight1">4 Sekunden</span> zu betäuben.<br>Solltest du nicht die Besessenheit sein, dann schaffe es einmal pro Spiel, während du dich im Griff des Killers befindest und der Bewegungsmesser 40% erreicht hat, einen Fähigkeitscheck erfolgreich durchzuführen, um automatisch den Rest des Bewegungsmessers aufzufüllen und dem Griff des Killers zu entkommen.<br><i>Erhöht die Chancen, zur <b>Besessenheit</b> des Killers zu werden. Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Unter Verwendung dessen, was du zur Hand hast, stichst du in einem ultimativen Fluchtversuch auf deinen Angreifer ein. Führe einmal pro Spiel einen Fähigkeitscheck erfolgreich durch, wenn du die Besessenheit bist und vom Killer geschnappt wurdest, um automatisch dem Griff des Killers zu entkommen und ihn für <span class="Highlight1">3 Sekunden</span> zu betäuben.<br>Solltest du nicht die Besessenheit sein, dann schaffe es einmal pro Spiel, während du dich im Griff des Killers befindest und der Bewegungsmesser 45% erreicht hat, einen Fähigkeitscheck erfolgreich durchzuführen, um automatisch den Rest des Bewegungsmessers aufzufüllen und dem Griff des Killers zu entkommen.<br><i>Erhöht die Chancen, zur <b>Besessenheit</b> des Killers zu werden. Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Entscheidungsschlag
 Du <b>suchst</b> einen Überlebenden heim.<br>Die Handlungsgeschwindigkeit deiner selbstlosen Besessenheit ist um <span class="Highlight1">50%</span> erhöht. Sobald die Besessenheit zerstört oder geopfert wird, erhält jeder andere Überlebende eine Strafe von <span class="Highlight2">25%</span> auf die Reparatur-, Heilungs- und Sabotagegeschwindigkeit.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Das ist doch kein Mann..." Du <b>suchst</b> einen Überlebenden heim.<br>Die Handlungsgeschwindigkeit deiner selbstlosen Besessenheit ist um <span class="Highlight1">44%</span> erhöht. Sobald die Besessenheit zerstört oder geopfert wird, erhält jeder andere Überlebende eine Strafe von <span class="Highlight2">22%</span> auf die Reparatur-, Heilungs- und Sabotagegeschwindigkeit.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim.<br>Die Handlungsgeschwindigkeit deiner selbstlosen Besessenheit ist um <span class="Highlight1">38%</span> erhöht. Sobald die Besessenheit zerstört oder geopfert wird, erhält jeder andere Überlebende eine Strafe von <span class="Highlight2">19%</span> auf die Reparatur-, Heilungs- und Sabotagegeschwindigkeit.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Erlischendes Licht
-Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden entfacht deinen Hunger. Wenn ein Überlebender in mindestens <span class="Highlight1">24 Metern</span> Entfernung von einem Haken gerettet wird, erhält die aufgezehrte Hoffnung ein Zeichen.<br><li><span class="Highlight4">1 Zeichen</span>: 5% verringerte Reparaturgeschwindigkeit für alle Überlebenden.</li><li><span class="Highlight3">3 Zeichen</span>: Angriffe versetzen die Überlebenden automatisch in den Todesstatus.</li><li><span class="Highlight2">5 Zeichen</span>: Dies gewährt die Fähigkeit, Überlebende mit deiner eigenen Hand zu töten. </li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i><br><span class="FlavorText">"Wenn du nichts unternimmst, klebt ihr Blut an deinen Händen. Wenn du sie rettest, wird ihr Hunger wachsen."</span>
 Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden entfacht deinen Hunger. Wenn ein Überlebender in mindestens <span class="Highlight1">24 Metern</span> Entfernung von einem Haken gerettet wird, erhält die aufgezehrte Hoffnung ein Zeichen.<br><li><span class="Highlight3">3 Zeichen</span>: Angriffe versetzen die Überlebenden automatisch in den Todesstatus.</li><li><span class="Highlight2">5 Zeichen</span>: Dies gewährt die Fähigkeit, Überlebende mit deiner eigenen Hand zu töten. </li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i><br><span class="FlavorText">"Wenn du nichts unternimmst, klebt ihr Blut an deinen Händen. Wenn du sie rettest, wird ihr Hunger wachsen."</span>
 Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden entfacht deinen Hunger. Wenn ein Überlebender in mindestens <span class="Highlight1">24 Metern</span> Entfernung von einem Haken gerettet wird, erhält die aufgezehrte Hoffnung ein Zeichen.<br><li><span class="Highlight2">5 Zeichen</span>: Dies gewährt die Fähigkeit, Überlebende mit deiner eigenen Hand zu töten. </li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i><br><span class="FlavorText">"Wenn du nichts unternimmst, klebt ihr Blut an deinen Händen. Wenn du sie rettest, wird ihr Hunger wachsen."</span>
 Fluch: Aufgezehrte Hoffnung
+Ein Fluch, der seine Macht aus Hoffnung bezieht. Du wirst von der Macht deines verfluchten Totems getrieben, wenn die Überlebenden kurz davor sind zu flüchten. Sobald die Ausgangstore mit Energie versorgt sind, wird dieser Fluch auf ein glanzloses Totem angewendet, wenn auf der Karte noch eines existiert. Solange der Fluch aktiv ist, versetzen erfolgreiche Angriffe Überlebende automatisch in den Todesstatus, Abkühlzeiten werden bei erfolgreichen und misslungenen Angriffen um <span class="Highlight1">8%</span> verringert und deine Bewegungsgeschwindigkeit ist um <span class="Highlight2">4%</span> erhöht.<br>Die Flucheffekte bleiben bestehen, solange das entsprechende Fluchtotem existiert.<br><span class="FlavorText">Ein Fluch, der seine Macht aus Hoffnung bezieht. Du wirst von der Macht deines verfluchten Totems getrieben, wenn die Überlebenden kurz davor sind zu flüchten. Sobald die Ausgangstore mit Energie versorgt sind, wird dieser Fluch auf ein glanzloses Totem angewendet, wenn auf der Karte noch eines existiert. Solange der Fluch aktiv ist, werden Abkühlzeiten bei erfolgreichen und misslungenen Angriffen um <span class="Highlight1">8%</span> verringert und deine Bewegungsgeschwindigkeit ist um <span class="Highlight2">4%</span> erhöht.<br>Die Flucheffekte bleiben bestehen, solange das entsprechende Fluchtotem existiert.<br><span class="FlavorText">Ein Fluch, der seine Macht aus Hoffnung bezieht. Du wirst von der Macht deines verfluchten Totems getrieben, wenn die Überlebenden kurz davor sind zu flüchten. Sobald die Ausgangstore mit Energie versorgt sind, wird dieser Fluch auf ein glanzloses Totem angewendet, wenn auf der Karte noch eines existiert. Solange der Fluch aktiv ist, werden Abkühlzeiten bei erfolgreichen und misslungenen Angriffen um <span class="Highlight1">4%</span> verringert und deine Bewegungsgeschwindigkeit ist um <span class="Highlight2">3%</span> erhöht.<br>Die Flucheffekte bleiben bestehen, solange das entsprechende Fluchtotem existiert.<br><span class="FlavorText">Fluch: Niemand entrinnt dem Tod
 Ein Fluch, der die Fähigkeiten der Überlebenden bei der Reparatur von Generatoren beeinflusst. <span class="Highlight1">Alle Überlebenden</span> sind vom <i>Ruin</i> betroffen, der das Folgende erzeugt:<br><li>Gute Fähigkeitschecks resultieren in <span class="Highlight2">5%</span> Rückgang am Generator.</li><li>Großartige Fähigkeitschecks gewähren <span class="Highlight3">0%</span> zusätzlichen Rückgang am Generator.</li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i><br><span class="FlavorText">"Auf dir liegt ein Fluch, der wird dich ruinieren."</span>
 Ein Fluch, der die Fähigkeiten der Überlebenden bei der Reparatur von Generatoren beeinflusst. <span class="Highlight1">3 Überlebende</span> sind vom <i>Ruin</i> betroffen, der das Folgende erzeugt:<br><li>Gute Fähigkeitschecks resultieren in <span class="Highlight2">5%</span> Rückgang am Generator.</li><li>Großartige Fähigkeitschecks gewähren <span class="Highlight3">0%</span> zusätzlichen Rückgang am Generator.</li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i><br><span class="FlavorText">"Auf dir liegt ein Fluch, der wird dich ruinieren."</span>
 Ein Fluch, der die Fähigkeiten der Überlebenden bei der Reparatur von Generatoren beeinflusst. <span class="Highlight1">2 Überlebende</span> sind vom <i>Ruin</i> betroffen, der das Folgende erzeugt:<br><li>Gute Fähigkeitschecks resultieren in <span class="Highlight2">5%</span> Rückgang am Generator.</li><li>Großartige Fähigkeitschecks gewähren <span class="Highlight3">0%</span> zusätzlichen Rückgang am Generator.</li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i><br><span class="FlavorText">"Auf dir liegt ein Fluch, der wird dich ruinieren."</span>
@@ -1082,9 +1103,6 @@ Ein Fluch, der die eigene Aura-Lesefähigkeit behindert. Wird ein Überlebender ge
 Ein Fluch, der die eigene Aura-Lesefähigkeit behindert. Wird ein Überlebender geschlagen, während das verfluchte Totem aktiv ist, verringert sich die Effektivität seiner Aura-Lesefähigkeit um <span class="Highlight1">100%</span>. Dieser Effekt gilt für die 3 zuletzt geschlagenen Überlebenden.<br><i>Die Flucheffekte halten so lange an, wie das verfluchte Totem besteht.</i><br><span class="FlavorText">"Sie berührte deine Haut, du trägst das Zeichen der Hexe!"</span>
 Ein Fluch, der die eigene Aura-Lesefähigkeit behindert. Wird ein Überlebender geschlagen, während das verfluchte Totem aktiv ist, verringert sich die Effektivität seiner Aura-Lesefähigkeit um <span class="Highlight1">100%</span>. Dieser Effekt gilt für die 2 zuletzt geschlagenen Überlebenden.<br><i>Die Flucheffekte halten so lange an, wie das verfluchte Totem besteht.</i><br><span class="FlavorText">"Sie berührte deine Haut, du trägst das Zeichen der Hexe!"</span>
 Fluch: Das Dritte Siegel
-Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden erfüllt dich mit Erregung und stärkt deine Totems. Wenn ein Überlebender in mindestens <span class="Highlight1">24 Metern</span> Entfernung von einem Haken gerettet wird, erhält der <i>Nervenkitzel der Jagd</i> ein bis maximal 5 Zeichen.<br><li>Verdiene <span class="Highlight2">8%</span> mehr Blutpunkte für Aktionen in der Jagdkategorie für jedes Zeichen.</li><li>Die Zerstörungsgeschwindigkeit der Überlebenden ist für jedes Zeichen um <span class="Highlight3">10%</span> verringert.</li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i>
-Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden erfüllt dich mit Erregung und stärkt deine Totems. Wenn ein Überlebender in mindestens <span class="Highlight1">24 Metern</span> Entfernung von einem Haken gerettet wird, erhält der <i>Nervenkitzel der Jagd</i> ein bis maximal 5 Zeichen.<br><li>Verdiene <span class="Highlight2">6%</span> mehr Blutpunkte für Aktionen in der Jagdkategorie für jedes Zeichen.</li><li>Die Zerstörungsgeschwindigkeit der Überlebenden ist für jedes Zeichen um <span class="Highlight3">7%</span> verringert.</li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i>
-Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden erfüllt dich mit Erregung und stärkt deine Totems. Wenn ein Überlebender in mindestens <span class="Highlight1">24 Metern</span> Entfernung von einem Haken gerettet wird, erhält der <i>Nervenkitzel der Jagd</i> ein bis maximal 5 Zeichen.<br><li>Verdiene <span class="Highlight2">4%</span> mehr Blutpunkte für Aktionen in der Jagdkategorie für jedes Zeichen.</li><li>Die Zerstörungsgeschwindigkeit der Überlebenden ist für jedes Zeichen um <span class="Highlight3">4%</span> verringert.</li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i>
 Fluch: Nervenkitzel der Jagd
 Eine übernatürliche Verbundenheit fesselt dich an den Killer. Wenn du in die Richtung des Killers schaust, wird euch durch eure Verbundenheit die Aura des anderen angezeigt. Dieser Effekt tritt nur ein, wenn du dich außerhalb des Terrorradius des Killers befindest.<br>Als Besessenheit des Killers gilt dieser Effekt bis zu einer maximalen Reichweite von <span class="Highlight1">72 Metern</span>. Anderenfalls gilt er bis zu einer maximalen Reichweite von <span class=Eine übernatürliche Verbundenheit fesselt dich an den Killer. Wenn du in die Richtung des Killers schaust, wird euch durch eure Verbundenheit die Aura des anderen angezeigt. Dieser Effekt tritt nur ein, wenn du dich außerhalb des Terrorradius des Killers befindest.<br>Als Besessenheit des Killers gilt dieser Effekt bis zu einer maximalen Reichweite von <span class="Highlight1">72 Metern</span>. Anderenfalls gilt er bis zu einer maximalen Reichweite von <span class=Eine übernatürliche Verbundenheit fesselt dich an den Killer. Wenn du in die Richtung des Killers schaust, wird euch durch eure Verbundenheit die Aura des anderen angezeigt. Dieser Effekt tritt nur ein, wenn du dich außerhalb des Terrorradius des Killers befindest.<br>Als Besessenheit des Killers gilt dieser Effekt bis zu einer maximalen Reichweite von <span class=Objekt der Besessenheit
 Dies stärkt das Potential der eigenen Aura-Lesefähigkeit. Dies erhöht den Bereich der Aura-Lesefähigkeit um <span class="Highlight1">8 Meter</span>.<br><span class="FlavorText">"Aufpassen ist es, was mich die ganzen Jahre am Leben gehalten hat. Das und mein gutes Aussehen natürlich."-Ace</span>
@@ -1092,7 +1110,7 @@ Dies stärkt das Potential der eigenen Aura-Lesefähigkeit. Dies erhöht den Bereic
 Dies stärkt das Potential der eigenen Aura-Lesefähigkeit. Dies erhöht den Bereich der Aura-Lesefähigkeit um <span class="Highlight1">4 Meter</span>.<br><span class="FlavorText">"Aufpassen ist es, was mich die ganzen Jahre am Leben gehalten hat. Das und mein gutes Aussehen natürlich."-Ace</span>
 Mit offener Hand
 Du <b>suchst</b> einen Überlebenden heim.<br>Jedes Mal, wenn du deiner Besessenheit nachgehst und sie entkommen lässt, erhältst du einen Bonus bis hin zu maximal 3 Boni. Jeder Bonus verbessert deine Bewegungsgeschwindigkeit um <span class="Highlight1">5%</span>. Jeder Offensivangriff verbraucht einen Bonus.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim.<br>Jedes Mal, wenn du deiner Besessenheit nachgehst und sie entkommen lässt, erhältst du einen Bonus bis hin zu maximal 3 Boni. Jeder Bonus verbessert deine Bewegungsgeschwindigkeit um <span class="Highlight1">4%</span>. Jeder Offensivangriff verbraucht einen Bonus.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim.<br>Jedes Mal, wenn du deiner Besessenheit nachgehst und sie entkommen lässt, erhältst du einen Bonus bis hin zu maximal 3 Boni. Jeder Bonus verbessert deine Bewegungsgeschwindigkeit um <span class="Highlight1">3%</span>. Jeder Offensivangriff verbraucht einen Bonus.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Spiele mit deinem Essen
-Du <b>suchst</b> einen Überlebenden heim.<br>Solange deine Besessenheit andauert, ist die Abkühlungszeit erfolgloser Angriffe um <span class="Highlight1">20%</span> verringert. Die Abkühlungszeit erfolgreicher Angriffe ist um <span class="Highlight2">33%</span> verringert.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim.<br>Solange deine Besessenheit andauert, ist die Abkühlungszeit erfolgloser Angriffe um <span class="Highlight1">18%</span> verringert. Die Abkühlungszeit erfolgreicher Angriffe ist um <span class="Highlight2">29%</span> verringert.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim.<br>Solange deine Besessenheit andauert, ist die Abkühlungszeit erfolgloser Angriffe um <span class="Highlight1">14%</span> verringert. Die Abkühlungszeit erfolgreicher Angriffe ist um <span class="Highlight2">25%</span>verringert.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Das Beste kommt zum Schluss
+Das Beste kommt zum Schluss
 Weil mehrere deiner Freunde dem Killer in die Hände fallen, erhöhen sich deine Überlebenschancen durch eine unerklärliche Kraft. Jeder getötete oder geopferte Überlebende unterbricht die Aura-Lesefähigkeit des Killers dir gegenüber.<br><li>1 Getöteter oder Geopferter: Verringert den Aura-Lesebereich des Killers um <span class="Highlight1">50%</span>.</li><li>2 Getötete oder Geopferte: Verringert den Aura-Lesebereich des Killers um <span class="Highlight2">75%</span>.</li><li>3 Getötete oder Geopferte: <span class="Highlight3">Immun</span> gegenüber des Aura-Lesens des Killers.</li><br><i>Erhöht die Chancen, zur <b>Besessenheit</b> des Killers zu werden. Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Weil mehrere deiner Freunde dem Killer in die Hände fallen, erhöhen sich deine Überlebenschancen durch eine unerklärliche Kraft. Jeder getötete oder geopferte Überlebende unterbricht die Aura-Lesefähigkeit des Killers dir gegenüber.<br><li>1 Getöteter oder Geopferter: Verringert den Aura-Lesebereich des Killers um <span class="Highlight1">35%</span>.</li><li>2 Getötete oder Geopferte: Verringert den Aura-Lesebereich des Killers um <span class=Weil mehrere deiner Freunde dem Killer in die Hände fallen, erhöhen sich deine Überlebenschancen durch eine unerklärliche Kraft. Jeder getötete oder geopferte Überlebende unterbricht die Aura-Lesefähigkeit des Killers dir gegenüber.<br><li>1 oder mehr Getötete oder Geopferte: Verringert den Aura-Lesebereich des Killers um <span class="Highlight1">40%</span>.</li><br><i>Erhöht die Chancen, zur <b>Besessenheit</b> des Killers zu werden. Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Einziger Überlebender 
 Am Ende wird alles gut; das weißt du doch.  Dein Selbstvertrauen bestärkt das Gefühl der Hoffnung für jene um dich herum. Für jeden anderen Überlebenden, der noch lebt, gibt es einen <span class="Highlight1">3%</span> Glücksbonus für alle verbleibenden Überlebenden.<br><span class="FlavorText">"Was soll ich sagen? Ich bin bloß ein sehr glücklicher Kerl... "Ich bin mir sicher, dass etwas davon auf dich abfärbt." -Ace</span>
 Am Ende wird alles gut; das weißt du doch.  Dein Selbstvertrauen bestärkt das Gefühl der Hoffnung für jene um dich herum. Für jeden anderen Überlebenden, der noch lebt, gibt es einen <span class="Highlight1">2%</span> Glücksbonus für alle verbleibenden Überlebenden.<br><span class="FlavorText">"Was soll ich sagen? Ich bin bloß ein sehr glücklicher Kerl... "Ich bin mir sicher, dass etwas davon auf dich abfärbt." -Ace</span>
@@ -1114,6 +1132,7 @@ EHRENPREIS I
 EHRENPREIS I
 EHRENPREIS I
 EHRENPREIS I
+EHRENPREIS I
 EHRENPREIS II
 EHRENPREIS II
 EHRENPREIS II
@@ -1127,6 +1146,8 @@ EHRENPREIS II
 EHRENPREIS II
 EHRENPREIS II
 EHRENPREIS II
+EHRENPREIS II
+EHRENPREIS III
 EHRENPREIS III
 EHRENPREIS III
 EHRENPREIS III
@@ -1144,6 +1165,8 @@ Wege
 Wege
 Tätige kooperative Aktionen für insgesamt {1} Gesamtaktion(en).
 Versteinerte Eiche
+Phantomfalle
+Phantomfalle
 Aufheben
 Falle aufstellen
 Plündererspürsinn
@@ -1163,6 +1186,8 @@ Pumpt mehr Treibstoff in die Zündanlage, um einen schnellen und kraftvollen Star
 Viertelmondbouquet
 Schnell & Leise
 Aufgeber-Bonus
+Triff einen Überlebenden {1}-mal mit dem Schocktherapieangriff des Doktors.
+Psychischer Schock
 Teleportiere und schlage als Die Hexe einen Überlebenden {1} Mal.
 Ritual des Fleisches und Schlamms
 Erhöhe die Diabolik als Der Wandler {1} Mal.
@@ -1194,6 +1219,7 @@ Faulige Felder
 Gummihandschuhe
 Gummischürze und Haken
 Verrostete Kette
+Bonustreffer
 Falle ausgelöst
 Set Trap
 Phantomangriff
@@ -1214,6 +1240,7 @@ Saboteur
 Opfer
 Opfer
 Eine Schere, entworfen, um einfach durch Stoffe zu schneiden.<br><li><b>Erhöht leicht</b> die Heilungsgeschwindigkeit.</li><li>Effekt summiert sich.</li>
+Score_ThrillOfTheHunt_Name
 Schrottteile
 Zerkratzte Münze
 Zerkratzte Perle
@@ -1243,6 +1270,7 @@ Schlachthaushose
 Gerissenes Fleisch
 Schlampiger Schlachter
 Niederwild
+Beruhige dich
 Jemand hat schnell etwas auf dieses Rindenstück gemalt, das allem Anschein nach, Reparaturanleitungen sind.<br><li><b>Erhöht leicht</b> die Reparaturwirksamkeit der Werkzeugkiste.</li><li>Effekt summiert sich.</li>
 Zündkerze
 Spezialisierte Werkzeuge, hergestellt, um schnell und ohne großen Aufwand, Bärenfallen zu legen.<br><li><b>Verringert deutlich</b> die Einstellzeit der Bärenfallen.</li><li>Beeinflusst vom Tüftler-Perk.</li><li>Betrifft alle Bärenfallen.</li><li>Effekt summiert sich.</li>
@@ -1269,7 +1297,6 @@ Kämpfen
 Kämpfen
 Kämpfen
 Blutstillungsmittel
-Außenbezirke
 Öffne erfolgreich {1} Ausgangstor(e) mit {0}.
 Grubenschacht
 Überraschung
@@ -1303,6 +1330,10 @@ Das Kratin-Symbol, das für schnelles Passieren steht, wurde mit rußigen Fingern 
 Das Kuntin-Takkho- Symbol, das für ein rasches Herabstürzen auf die Beute steht, wurde mit rußigen Fingern auf den Glockenkörper gemalt.<br><li><b>Verringert leicht</b> die Zeit bis zum Wiedererscheinen der Glocke.</li><li>Beeinflusst vom Tüftler-Perk.</li><li>Effekt summiert sich.</li>
 Das Kuntin-Takkho-Symbol, das für ein rasches Herabstürzen auf die Beute steht, wurde mit weißer Tinte auf den Glockenkörper geprägt.<br><li><b>Vermindert deutlich</b> die Zeit bis zum Wiedererscheinen der Glocke.</li><li>Beeinflusst vom Tüftler-Perk.</li><li>Effekt summiert sich.</li>
 Das MacMillan-Anwesen
+Das MacMillan-Anwesen
+Das MacMillan-Anwesen
+Das MacMillan-Anwesen
+Das MacMillan-Anwesen
 Das Ohuwe-Onmnea- Symbol, das für einen gewaltigen Sturm steht, wurde mit lehmigen Fingern auf den Glockenkörper gemalt.<br><li><b>Gewährt einen Boost</b> an Bewegungsgeschwindigkeit für <b>1 Sekunde</b>, nach dem Wiedererscheinen.</li>
 Das Ohuwe-Onmnea-Symbol, das für einen gewaltigen Sturm steht, wurde mit rußigen Fingern auf den Glockenkörper gemalt.<br><li><b>Gewährt einen Schub</b> an Bewegungsgeschwindigkeit für <b>0.5 Sekunden</b> nach dem Wiedererscheinen.</li>
 Das Wiederaufbauritual
@@ -1320,9 +1351,6 @@ Die in der Welt gefundenen Krähen können direkt mit dir kommunizieren. <span cla
 Die in der Welt gefundenen Krähen können direkt mit dir kommunizieren. <span class="Highlight1">50%</span> der Zeit geben dir krächzende Krähen einen visuellen Hinweis, wenn du dich im Umkreis von <span class="Highlight2">24 Metern</span> befindest.<br><span class="FlavorText">"In den Schatten quälen sie, unsere Gedanken mit jedem Schrei vernarbend."</span>
 Die in der Welt gefundenen Krähen können direkt mit dir kommunizieren. <span class="Highlight1">75%</span> der Zeit geben dir krächzende Krähen einen visuellen Hinweis, wenn du dich im Umkreis von <span class="Highlight2">36 Metern</span> befindest.<br><span class="FlavorText">"In den Schatten quälen sie, unsere Gedanken mit jedem Schrei vernarbend."</span>
 Der gewöhnliche, frisch rasierte Dwight ist bereit für einen Arbeitstag.
-Die wachsende Chance auf eine erfolgreiche Flucht, erfüllt dich mit Hoffnung und verleiht dir Flügel. Deine Bewegungsgeschwindigkeit ist für <span class="Highlight3">120 Sekunden</span> um <span class="Highlight1">5%</span> erhöht, sobald die Ausgangstore mit Energie versorgt sind.
-Die wachsende Chance auf eine erfolgreiche Flucht, erfüllt dich mit Hoffnung und verleiht dir Flügel. Deine Bewegungsgeschwindigkeit ist für <span class="Highlight3">120 Sekunden</span> um <span class="Highlight1">6%</span> erhöht, sobald die Ausgangstore mit Energie versorgt sind.
-Die wachsende Chance auf eine erfolgreiche Flucht, erfüllt dich mit Hoffnung und verleiht dir Flügel. Deine Bewegungsgeschwindigkeit ist für <span class="Highlight3">120 Sekunden</span> um <span class="Highlight1">7%</span> erhöht, sobald die Ausgangstore mit Energie versorgt sind.
 Die Haken bohren sich tief ins Fleisch und der Schmerz führt zu wahren Tobsuchtsanfällen. 
 Selbst die Schichten aus Schmutz und Verletzung können nicht die Entschlossenheit aus Megs Gesicht entfernen.
 Selbst die Schichten aus Schmutz und Verletzung können nicht die Entschlossenheit aus Megs Gesicht entfernen.
@@ -1376,9 +1404,9 @@ Typen
 UNVORHERSEHBARKEIT
 Enthüllen
 Aushaken
-Im Gegensatz zu anderen Ungeheuern des Nebels, hast du dich an das Licht gewöhnt. Du kannst grelles Licht aushalten. Die Widerstandskraft gegen Erblindung wird um <span class="Highlight2">20%</span> erhöht. Erholung von der Erblindung wird um <span class="Highlight3">15%</span> erhöht.<br><span class="FlavorText">"Diese Monster... sie passen sich an! Sie tauchen mit seltsamen neuen Fähigkeiten auf." -Vigo's Journal</span>
-Im Gegensatz zu anderen Ungeheuern des Nebels, hast du dich an das Licht gewöhnt. Deine Sicht ist um <span class="Highlight1">10%</span> verringert, aber du kannst grelles Licht aushalten. Die Widerstandskraft gegen Erblindung ist um <span class="Highlight2">60%</span> erhöht. Erholung von Erblindung ist um <span class="Highlight3">45%</span> erhöht.<br><span class="FlavorText">"Diese Monster... sie passen sich an! Sie tauchen mit seltsamen neuen Fähigkeiten auf.." -Vigo's Journal</span>
-Im Gegensatz zu anderen Ungeheuern des Nebels, hast du dich an das Licht gewöhnt. Deine Sicht ist um <span class="Highlight1">5%</span> verringert, aber du kannst grelles Licht aushalten. Die Widerstandskraft gegen Erblindung ist um <span class="Highlight2">40%</span> erhöht. Erholung von Erblindung ist um <span class="Highlight3">30%</span> erhöht.<br><span class="FlavorText">"Diese Monster... sie passen sich an! Sie tauchen mit seltsamen neuen Fähigkeiten auf." -Vigo's Journal</span>
+Im Gegensatz zu anderen Ungeheuern des Nebels, hast du dich an das Licht gewöhnt. Deine Sicht ist um <span class="Highlight1">25%</span> verringert, aber du kannst grelles Licht aushalten. Die Widerstandskraft gegen Erblindung wird um <span class="Highlight2">20%</span> erhöht. Erholung von der Erblindung wird um <span class="Highlight3">50%</span> erhöht.<br><span class="FlavorText">"Diese Monster... sie passen sich an! Sie tauchen mit seltsamen neuen Fähigkeiten auf." -Vigo's Journal</span>
+Im Gegensatz zu anderen Ungeheuern des Nebels, hast du dich an das Licht gewöhnt. Deine Sicht ist um <span class="Highlight1">35%</span> verringert, aber du kannst grelles Licht aushalten. Die Widerstandskraft gegen Erblindung ist um <span class="Highlight2">60%</span> erhöht. Erholung von Erblindung ist um <span class="Highlight3">50%</span> erhöht.<br><span class="FlavorText">"Diese Monster... sie passen sich an! Sie tauchen mit seltsamen neuen Fähigkeiten auf.." -Vigo's Journal</span>
+Im Gegensatz zu anderen Ungeheuern des Nebels, hast du dich an das Licht gewöhnt. Deine Sicht ist um <span class="Highlight1">30%</span> verringert, aber du kannst grelles Licht aushalten. Die Widerstandskraft gegen Erblindung ist um <span class="Highlight2">40%</span> erhöht. Erholung von Erblindung ist um <span class="Highlight3">50%</span> erhöht.<br><span class="FlavorText">"Diese Monster... sie passen sich an! Sie tauchen mit seltsamen neuen Fähigkeiten auf." -Vigo's Journal</span>
 Wird entriegelt
 Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. <span class="Highlight1">1</span> Generatorenauren werden dir angezeigt für <span class="Highlight2">4 Sekunden</span> bei Beginn einer Runde. Wenn du eine Karte hältst, die Generatoren aufspüren kann, werden die durch Déjà-Vu angezeigten Generatoren, der Karte hinzugefügt.
 Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. <span class="Highlight1">1</span> Generatorenauren werden dir angezeigt für <span class="Highlight2">8 Sekunden</span> bei Beginn einer Runde. Wenn du eine Karte hältst, die Generatoren aufspüren kann, werden die durch Déjà-Vu angezeigten Generatoren, der Karte hinzugefügt.
@@ -1397,9 +1425,9 @@ Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Die Auren von sterben
 Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Zeigt die Auren von sterbenden Überlebenden an, wenn du im Umkreis von <span class="Highlight1">12 Metern</span> stehst.  
 Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Zeigt die Auren von sterbenden Überlebenden an, wenn du im Umkreis von <span class="Highlight1">24 Metern</span> stehst.  
 Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Zeigt die Auren von sterbenden Überlebenden an, wenn du im Umkreis von <span class="Highlight1">36 Metern</span> stehst.  
-Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Die Auren der Überlebenden werden dir angezeigt für die Dauer von <span class="Highlight1">2 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. 
-Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Die Auren der Überlebenden werden dir angezeigt für die Dauer von <span class="Highlight1">4 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. 
-Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Die Auren der Überlebenden werden dir angezeigt für die Dauer von <span class="Highlight1">6 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. 
+Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Die Auren der Überlebenden werden dir angezeigt für die Dauer von <span class="Highlight1">5 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. 
+Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Die Auren der Überlebenden werden dir angezeigt für die Dauer von <span class="Highlight1">7 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. 
+Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Die Auren der Überlebenden werden dir angezeigt für die Dauer von <span class="Highlight1">9 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. 
 Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Wenn die Ausgangstore mit Energie versorgt sind, wird dir die Aura des Killers für <span class="Highlight1">3 Sekunden</span> angezeigt.<br><span class="FlavorText">Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Wenn die Ausgangstore mit Energie versorgt sind, wird dir die Aura des Killers für <span class="Highlight1">5 Sekunden</span> angezeigt.<br><span class="FlavorText">Schaltet Potenzial in der eigenen Aura-Lesefähigkeit frei. Wenn die Ausgangstore mit Energie versorgt sind, wird dir die Aura des Killers für <span class="Highlight1">7 Sekunden</span> angezeigt.<br><span class="FlavorText">Schaltet die Fähigkeit frei, dich selbst ohne Heilungsgegenstand zu heilen bei <span class="Highlight1">30%</span> der normalen Heilungsgeschwindigkeit. In dieser Situation veranlasste Fähigkeitschecks, haben eine um <span class="Highlight2">20%</span> verringerte Erfolgszone zur Folge. Erhöht die Effizienz des Heilungsgegenstands Selbstheilung um <span class="Highlight3">50%</span>.
 Schaltet die Fähigkeit frei, dich selbst ohne Heilungsgegenstand zu heilen bei <span class="Highlight1">40%</span> der normalen Heilungsgeschwindigkeit. In dieser Situation veranlasste Fähigkeitschecks, haben eine um <span class="Highlight2">10%</span> verringerte Erfolgszone zur Folge. Erhöht die Effizienz des Heilungsgegenstands Selbstheilung um <span class="Highlight3">75%</span>.
 Schaltet die Fähigkeit frei, dich selbst ohne Heilungsgegenstand zu heilen bei <span class="Highlight1">50%</span> der normalen Heilungsgeschwindigkeit. Erhöht die Effizienz des Heilungsobjekts Selbstheilung um <span class="Highlight3">100%</span>.
@@ -1426,7 +1454,6 @@ Wasserfest, atmungsaktiv und winddicht sind die Eigenschaften, die diese Windjac
 Wachsblock
 Wir schaffen das
 Geschlungener Ring
-Wenn du zu rennen beginnst, verfalle in einen Sprint mit <span class="Highlight1">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight2">3 Sekunden</span>. Eine Erholungsphase von <span class="Highlight3Wenn du zu rennen beginnst, verfalle in einen Sprint mit <span class="Highlight1">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight2">3 Sekunden</span>. Eine Erholungsphase von <span class="Highlight3Wenn du zu rennen beginnst, verfalle in einen Sprint mit <span class="Highlight1">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight2">3 Sekunden</span>. Eine Erholungsphase von <span class="Highlight3">60 Sekunden</span> ist notwendig, um den Sprintboost erneut nutzen zu können. Die Erholungsphase ist beim Laufen doppelt so lang.
 Wenn der Blutrausch in vollem Gang ist, funkelt seine Waffe stark mit geronnenem Blut.
 Wenn der Blutrausch in vollem Gang ist, funkelt seine Waffe stark mit geronnenem Blut.
 Wenn die Ekstase aktiviert ist, ist es schwer, das Blut seiner Opfer im Zaum zu halten.
@@ -1447,12 +1474,6 @@ Geist
 Schrottplatz
 Werkstatt
 Gelbes Kabel
-Du wirst von einer unsichtbaren Kraft getrieben, wenn die Überlebenden kurz vorm Entkommen sind. Sobald die Ausgangstore mit Energie versorgt sind, werden die Abkühlungszeiten von erfolgreichen und misslungenen Angriffen um <span class="Highlight1">4%</span> verringert und deine Bewegungsgeschwindigkeit ist um <span class="Highlight2">3%</span> für <span class="Highlight3">120 Sekunden</span> erhöht.<br><span class="FlavorText">"Und die Bestie wurde schneller und kräftiger, als prasselten die schattenhaften Peitschen des Entitus auf ihrem Rücken nieder."</span>
-Du wirst von einer unsichtbaren Kraft getrieben, wenn die Überlebenden kurz vorm Entkommen sind. Sobald die Ausgangstore mit Energie versorgt sind, werden die Abkühlungszeiten von erfolgreichen und misslungenen Angriffen um <span class="Highlight1">8%</span> verringert und deine Bewegungsgeschwindigkeit ist um <span class="Highlight2">4%</span> für <span class="Highlight3">120 Sekunden</span> erhöht.<br><span class="FlavorText">"Und die Bestie wurde schneller und kräftiger, als prasselten die schattenhaften Peitschen des Entitus auf ihrem Rücken nieder."</span>
-Du wirst von einer unsichtbaren Kraft getrieben, wenn die Überlebenden kurz vorm Entkommen sind. Sobald die Ausgangstore mit Energie versorgt sind, verwandeln sich erfolgreiche Angriffe in den <span class="Highlight3">automatischen Todesstatus</span>, Abkühlungen von erfolgreichen und misslungenen Angriffen werden um <span class="Highlight1">8%</span> verringert und deine Bewegungsgeschwindigkeit wird um <span class="Highlight2">4%</span> für <span class="Highlight3">120 Sekunden</span> erhöht.<br><span class="FlavorText">"Und die Bestie wurde schneller und kräftiger, als prasselten die schattenhaften Peitschen des Entitus auf ihrem Rücken nieder."</span>
-Du bist erfüllt von unerwarteter Energie, wenn die Flucht kurz bevorsteht. <span class="Highlight1">Sofortige Erholung von Verletzungen oder vom Tode</span> und ein Sprint mit <span class="Highlight2">150%</span> deiner normalen Laufgeschwindigkeit für <span class="Highlight3">5 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind, unabhängig davon, ob du im Moment des Effekts blockiert bist.
-Du bist erfüllt von unerwarteter Energie, wenn die Flucht kurz bevorsteht. <span class="Highlight1">Sofortige Erholung von Verletzungen</span> und ein Sprint mit <span class="Highlight2">150%</span> deiner normalen Laufgeschwindigkeit für <span class="Highlight3">3 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. Adrenalin wirkt nicht, wenn du zum Nutzungszeitpunkt blockiert bist.
-Du bist erfüllt von unerwarteter Energie, wenn die Flucht kurz bevorsteht. <span class="Highlight1">Sofortige Erholung von Verletzungen</span> und ein Sprint mit <span class="Highlight2">150%</span> deiner normalen Laufgeschwindigkeit für <span class="Highlight3">5 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. Adrenalin wirkt nicht, wenn du zum Nutzungszeitpunkt blockiert bist.
 Du bist motiviert in ernsten Situationen. Gewährt <span class="Highlight1">3%</span> zusätzliche Geschwindigkeit für Reparaturen, Sabotagen, Heilungen und Suchen, wenn du verletzt bist.<br><span class="FlavorText">"Konzentriere dich, auch in diesen hoffnungslosen Zeiten."</span>
 Du bist motiviert in ernsten Situationen. Gewährt <span class="Highlight1">6%</span> zusätzliche Geschwindigkeit für Reparatur, Sabotage, Heilung und Suchen, wenn du verletzt bist.<br><span class="FlavorText">"Konzentriere dich, auch in diesen hoffnungslosen Zeiten."</span>
 Du bist motiviert in ernsten Situationen. Gewährt <span class="Highlight1">9%</span> zusätzliche Geschwindigkeit für Reparaturen, Sabotagen, Heilung und Suchen, wenn du verletzt bist.<br><span class="FlavorText">"Konzentriere dich, auch in diesen hoffnungslosen Zeiten."</span>
@@ -1465,9 +1486,9 @@ Du verursachst weniger Geräusche als andere, wenn du über Hindernisse springst o
 Du bist begeistert bei der Vorfreude auf das Festhaken deiner Beute. Erhöht deine Geschwindigkeit, während des Tragens von Körpern, um <span class="Highlight1">12%</span>. Während des Tragens eines Körpers, ist dein Terroradius erhöht um <span class="Highlight2">3 Meter</span>.<br><span class="FlavorText">"Manchmal ist die Begeisterung, einen von uns festzuhaken, bedeutsamer, als der Wunsch, uns zu töten."</span>
 Du bist begeistert bei der Vorfreude auf das Festhaken deiner Beute. Erhöht deine Geschwindigkeit, während des Tragens von Körpern, um <span class="Highlight1">18%</span>. Während des Tragens eines Körpers, ist dein Terroradius erhöht um <span class="Highlight2">6 Meter</span>.<br><span class="FlavorText">"Manchmal ist die Begeisterung, einen von uns festzuhaken, bedeutsamer, als der Wunsch, uns zu töten."</span>
 Du bist begeistert bei der Vorfreude auf das Festhaken deiner Beute. Erhöht deine Geschwindigkeit, während des Tragens von Körpern, um <span class="Highlight1">6%</span>.<br><span class="FlavorText">"Manchmal, ist die Begeisterung, einen von uns festzuhaken, bedeutsamer, als der Wunsch, uns zu töten."</span>
-Du hast eine scharfe Sicht im Dunkel der Nacht. Deine Sicht ist heller um <span class="Highlight1">10%</span> und dein Blickfeld ist <span class="Highlight2">leicht</span> größer als normal. Hoch sensibel gegenüber Licht, erblindest du <span class="Highlight3">50%</span> schneller als normal und benötigst <span class="Highlight4">50%</span> mehr Zeit, um dich davon zu erholen.<br><span class="FlavorText">"Strahlend in der finstersten Dunkelheit, durchbohren seine Augen die Nacht und brennen sich in deine Seele."</span>
-Du hast eine scharfe Sicht im Dunkel der Nacht. Deine Sicht ist heller um <span class="Highlight1">20%</span> und dein Blickfeld ist <span class="Highlight2">deutlich</span> größer als normal. Hoch sensibel gegenüber Licht, erblindest du <span class="Highlight3">50%</span> schneller als normal und benötigst <span class="Highlight4">75%</span> mehr Zeit, um dich davon zu erholen.<br><span class="FlavorText">"Strahlend in der finstersten Dunkelheit, durchbohren seine Augen die Nacht und brennen sich in deine Seele."</span>
-Du hast eine scharfe Sicht im Dunkel der Nacht. Deine Sicht ist heller um <span class="Highlight1">5%</span>. Hoch sensibel gegenüber Licht, erblindest du <span class="Highlight3">50%</span> schneller als normal und benötigst <span class="Highlight4">25%</span> mehr Zeit, um dich davon zu erholen.<br><span class="FlavorText">"Strahlend in der finstersten Dunkelheit, durchbohren seine Augen die Nacht und brennen sich in deine Seele."</span>
+Du hast eine scharfe Sicht im Dunkel der Nacht. Deine Sicht ist heller um <span class="Highlight1">30%</span> und dein Blickfeld ist <span class="Highlight2">leicht</span> größer als normal. Hoch sensibel gegenüber Licht, erblindest du <span class="Highlight3">25%</span> schneller als normal und benötigst <span class="Highlight4">50%</span> mehr Zeit, um dich davon zu erholen.<br><span class="FlavorText">"Strahlend in der finstersten Dunkelheit, durchbohren seine Augen die Nacht und brennen sich in deine Seele."</span>
+Du hast eine scharfe Sicht im Dunkel der Nacht. Deine Sicht ist heller um <span class="Highlight1">35%</span> und dein Blickfeld ist <span class="Highlight2">deutlich</span> größer als normal. Hoch sensibel gegenüber Licht, erblindest du <span class="Highlight3">25%</span> schneller als normal und benötigst <span class="Highlight4">50%</span> mehr Zeit, um dich davon zu erholen.<br><span class="FlavorText">"Strahlend in der finstersten Dunkelheit, durchbohren seine Augen die Nacht und brennen sich in deine Seele."</span>
+Du hast eine scharfe Sicht im Dunkel der Nacht. Deine Sicht ist heller um <span class="Highlight1">25%</span>. Hoch sensibel gegenüber Licht, erblindest du <span class="Highlight3">20%</span> schneller als normal und benötigst <span class="Highlight4">50%</span> mehr Zeit, um dich davon zu erholen.<br><span class="FlavorText">"Strahlend in der finstersten Dunkelheit, durchbohren seine Augen die Nacht und brennen sich in deine Seele."</span>
 Du hast eine ansatzweise Ahnung von der Stimme des Entitus. Höre vereinzelt das Flüstern des Entitus, wenn du im Umkreis von <span class="Highlight1">32 Metern</span> eines Überlebenden stehst.<br><span class="FlavorText">"Es ist nicht ganz klar, aber es scheint, als suche der Nebel die Nähe der Bestie auf, wie zu seiner Motivation."-Notizbuch</span>
 Du hast eine ansatzweise Ahnung von der Stimme des Entitus. Höre vereinzelt das Flüstern des Entitus, wenn du im Umkreis von <span class="Highlight1">40 Metern</span> eines Überlebenden stehst.<br><span class="FlavorText">"Es ist nicht ganz klar, aber es scheint, als suche der Nebel die Nähe der Bestie auf, wie zu seiner Motivation.."-Notizbuch</span>
 Du hast eine ansatzweise Ahnung von der Stimme des Entitus. Höre vereinzelt das Flüstern des Entitus, wenn du im Umkreis von <span class="Highlight1">48 Metern</span> eines Überlebenden stehst.<br><span class="FlavorText">"Es ist nicht ganz klar, aber es scheint, als suche der Nebel die Nähe der Bestie auf, wie zu seiner Motivation."-Notizbuch</span>
@@ -1509,9 +1530,9 @@ Deine große Stärke erlaubt dir, die Abwehr deiner Opfer zu durchbrechen. Zerstör
 Deine furchteinflößende Erscheinung fällt auf übernatürlich langer Strecke ins Auge. Dein Terrorradius ist erhöht um <span class="Highlight1">16%</span>. Verdiene <span class="Highlight2">10%</span> mehr Blutpunkte für Handlungen in der Hinterhältigkeitskategorie. <br><span class="FlavorText">"Aale dich in ihrer Angst."</span>
 Deine furchteinflößende Erscheinung fällt auf übernatürlich langer Strecke ins Auge. Dein Terrorradius ist erhöht um <span class="Highlight1">24%</span>. Verdiene <span class="Highlight2">15%</span> mehr Blutpunkte für Handlungen in der Hinterhältigkeitskategorie. <br><span class="FlavorText">"Aale dich in ihrer Angst."</span>
 Deine furchteinflößende Erscheinung fällt auf übernatürlich langer Strecke ins Auge. Dein Terrorradius ist erhöht um <span class="Highlight1">8%</span>. Verdiene <span class="Highlight2">5%</span> mehr Blutpunkte für Handlungen in der Hinterhältigkeitskategorie. <br><span class="FlavorText">"Aale dich in ihrer Angst."</span>
-Dein kraftvoller Griff an den Überlebenden macht es nahezu unmöglich zu entkommen. Die Wirksamkeit der Mühen der Überlebenden ist um <span class="Highlight1">20%</span> verringert. Die Zeit, um sich aus deinem Griff zu befreien, ist um <span class="Highlight2">15%</span> erhöht.
-Dein kraftvoller Griff an den Überlebenden macht es nahezu unmöglich zu entkommen. Die Wirksamkeit der Mühen der Überlebenden ist um <span class="Highlight1">40%</span> verringert. Die Zeit, um sich aus deinem Griff zu befreien, ist um <span class="Highlight2">27%</span> erhöht.
-Dein kraftvoller Griff an den Überlebenden macht es nahezu unmöglich zu entkommen. Die Wirksamkeit der Mühen der Überlebenden ist um <span class="Highlight1">60%</span> verringert. Die Zeit, um sich aus deinem Griff zu befreien, ist um <span class="Highlight2">36%</span> erhöht.
+Dein kraftvoller Griff an den Überlebenden macht es nahezu unmöglich zu entkommen. Die Wirksamkeit der Mühen der Überlebenden ist um <span class="Highlight1">25%</span> verringert. Die Zeit, um sich aus deinem Griff zu befreien, ist um <span class="Highlight2">4%</span> erhöht.
+Dein kraftvoller Griff an den Überlebenden macht es nahezu unmöglich zu entkommen. Die Wirksamkeit der Mühen der Überlebenden ist um <span class="Highlight1">50%</span> verringert. Die Zeit, um sich aus deinem Griff zu befreien, ist um <span class="Highlight2">8%</span> erhöht.
+Dein kraftvoller Griff an den Überlebenden macht es nahezu unmöglich zu entkommen. Die Wirksamkeit der Mühen der Überlebenden ist um <span class="Highlight1">75%</span> verringert. Die Zeit, um sich aus deinem Griff zu befreien, ist um <span class="Highlight2">12%</span> erhöht.
 Deine bloße Anwesenheit flößt bereits große Angst ein. Überlebende innerhalb deines Terrorradius haben eine um <span class="Highlight1">3%</span> erhöhte Chance, beim Reparieren, Heilen oder Sabotieren einen Fähigkeitscheck abzurufen. Die abgerufene Erfolgszone eines Fähigkeitschecks ist um <span class="Highlight2">5%</span> verringert.<br><span class="FlavorText">"Seine Anwesenheit bricht über uns herein."</span>
 Deine bloße Anwesenheit flößt bereits große Angst ein. Überlebende innerhalb deines Terrorradius haben eine um <span class="Highlight1">5%</span> erhöhte Chance, beim Reparieren, Heilen oder Sabotieren einen Fähigkeitscheck abzurufen. Die abgerufene Erfolgszone eines Fähigkeitschecks ist um <span class="Highlight2">10%</span> verringert.<br><span class="FlavorText">"Seine Anwesenheit bricht über uns herein."</span>
 Deine bloße Anwesenheit flößt bereits große Angst ein. Überlebende innerhalb deines Terrorradius haben eine um <span class="Highlight1">8%</span> erhöhte Chance, beim Reparieren, Heilen oder Sabotieren einen Fähigkeitscheck abzurufen. Die abgerufene Erfolgszone eines Fähigkeitschecks ist um <span class="Highlight2">15%</span> verringert.<br><span class="FlavorText">"Seine Anwesenheit bricht über uns herein."</span>
@@ -1658,10 +1679,7 @@ Verkohltes Hochzeitsfoto
 Du bist äußerst empfindsam gegenüber der Atmung deines Opfers. Die Atmung von schmerzerfüllten Überlebenden ist <span class="Highlight1">25%</span> lauter.<br><span class="FlavorText">Du bist äußerst empfindsam gegenüber der Atmung deines Opfers. Die Atmung von schmerzerfüllten Überlebenden ist <span class="Highlight1">50%</span> lauter.<br><span class="FlavorText">Du bist äußerst empfindsam gegenüber der Atmung deines Opfers. Die Atmung von schmerzerfüllten Überlebenden ist <span class="Highlight1">50%</span> lauter und die normale Atmung ist <span class="Highlight2">25%</span> lauter.<br><span class="FlavorText">Ihr Mut verblasst im Angesicht ihrer unwiderlegbaren Sterblichkeit. Alle Überlebenden erhalten Strafen für Reparaturen, Heilung und Sabotagegeschwindigkeit für jeden verletzten, getöteten oder aufgehängten Überlebenden.<br><li>1 verletzter, sterbender oder aufgehängter Überlebender: <span class="Highlight1">4%</span> verringerte Aktionsgeschwindigkeit.</li><li>2 verletzte, sterbende oder aufgehängte Überlebende: <span class="Highlight2">7%</span> verringerte Aktionsgeschwindigkeit.</li><li>3 verletzte, sterbende oder aufgehängte Überlebende: <span class="Highlight3">10%</span> verringerte Aktionsgeschwindigkeit.</li><li>4 verletzte, sterbende oder aufgehängte Überlebende: <span class="Highlight4">13%</span> verringerte Aktionsgeschwindigkeit.</li><br><span class="FlavorText">"Sie spielt mit uns und weidet sich an unserem Schmerz."</span>
 Ihr Mut verblasst im Angesicht ihrer unwiderlegbaren Sterblichkeit. Alle Überlebenden erhalten Strafen für Reparaturen, Heilung und Sabotagegeschwindigkeit für jeden verletzten, getöteten oder aufgehängten Überlebenden.<br><li>1 verletzter, sterbender oder aufgehängter Überlebender: <span class="Highlight1">5%</span> verringerte Aktionsgeschwindigkeit.</li><li>2 verletzte, sterbende oder aufgehängte Überlebende: <span class="Highlight2">8%</span> verringerte Aktionsgeschwindigkeit.</li><li>3 verletzte, sterbende oder aufgehängte Überlebende: <span class="Highlight3">11%</span> verringerte Aktionsgeschwindigkeit.</li><li>4 verletzte, sterbende oder aufgehängte Überlebende: <span class="Highlight4">14%</span> verringerte Aktionsgeschwindigkeit.</li><br><span class="FlavorText">"Sie spielt mit uns und weidet sich an unserem Schmerz."</span>
 Ihr Mut verblasst im Angesicht ihrer unwiderlegbaren Sterblichkeit. Alle Überlebenden erhalten Strafen für Reparaturen, Heilung und Sabotagegeschwindigkeit für jeden verletzten, getöteten oder aufgehängten Überlebenden.<br><li>1 verletzter, sterbender oder aufgehängter Überlebender: <span class="Highlight1">6%</span> verringerte Aktionsgeschwindigkeit.</li><li>2 verletzte, sterbende oder aufgehängte Überlebende: <span class="Highlight2">9%</span> verringerte Aktionsgeschwindigkeit.</li><li>3 verletzte, sterbende oder aufgehängte Überlebende: <span class="Highlight3">12%</span> verringerte Aktionsgeschwindigkeit.</li><li>4 verletzte, sterbende oder aufgehängte Überlebende: <span class="Highlight4">15%</span> verringerte Aktionsgeschwindigkeit.</li><br><span class="FlavorText">"Sie spielt mit uns und weidet sich an unserem Schmerz."</span>
-Schaltet Potential in der eigenen Aura-Lesefähigkeit frei. Die Auren von Überlebenden, die heilen oder geheilt werden, werden dir angezeigt, wenn sie sich in <span class="Highlight1">20 Metern</span> Umkreis befinden.<br><span class="FlavorText">Schaltet Potential in der eigenen Aura-Lesefähigkeit frei. Die Auren von Überlebenden, die heilen oder geheilt werden, werden dir angezeigt, wenn sie sich in <span class="Highlight1">24 Metern</span> Umkreis befinden.<br><span class="FlavorText">Schaltet Potential in der eigenen Aura-Lesefähigkeit frei. Die Auren von Überlebenden, die heilen oder geheilt werden, werden dir angezeigt, wenn sie sich in <span class="Highlight1">28 Metern</span> Umkreis befinden.<br><span class="FlavorText">Wenn die Ausgewogene Landung aktiviert ist, werden die Taumeleffekte von tiefen Stürzen um <span class="Highlight1">50%</span> reduziert. Dieser Effekt kann nur einmal aller <span class="Highlight2">40 Sekunden</span> erzeugt werden.<br><span class="FlavorText">"Ich bin schon von höheren Orten gesprungen." -Nea</span>
-Wenn die Ausgewogene Landung aktiviert ist, werden die Taumeleffekte von tiefen Stürzen um <span class="Highlight1">75%</span> reduziert. Dieser Effekt kann nur einmal aller <span class="Highlight2">40 Sekunden</span> erzeugt werden.<br><span class="FlavorText">"Ich bin schon von höheren Orten gesprungen." -Nea</span>
-Wenn die Ausgewogene Landung aktiviert ist, werden die Taumeleffekte von tiefen Stürzen um <span class="Highlight1">75%</span> reduziert. Nach der Landung, beginnt dein Sprint mit <span class="Highlight3">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight4">3 Sekunden</span>. Dieser Effekt kann nur einmal aller <span class="Highlight2">40 Sekunden</span> erzeugt werden.<br><span class="FlavorText">"Ich bin schon von höheren Orten gesprungen." -Nea</span>
-Jahre des Polizei-Ausweichens haben dir ein oder zwei Dinge über Tarnung beigebracht. Deine Bewegungsgeschwindigkeit während des Hinhockens ist erhöht um <span class="Highlight1">40%</span> bei Unverletztheit.<br><span class="FlavorText">"Die Farbe ist noch immer frisch, aber ich bin schon lange weg." -Nea</span>
+Schaltet Potential in der eigenen Aura-Lesefähigkeit frei. Die Auren von Überlebenden, die heilen oder geheilt werden, werden dir angezeigt, wenn sie sich in <span class="Highlight1">20 Metern</span> Umkreis befinden.<br><span class="FlavorText">Schaltet Potential in der eigenen Aura-Lesefähigkeit frei. Die Auren von Überlebenden, die heilen oder geheilt werden, werden dir angezeigt, wenn sie sich in <span class="Highlight1">24 Metern</span> Umkreis befinden.<br><span class="FlavorText">Schaltet Potential in der eigenen Aura-Lesefähigkeit frei. Die Auren von Überlebenden, die heilen oder geheilt werden, werden dir angezeigt, wenn sie sich in <span class="Highlight1">28 Metern</span> Umkreis befinden.<br><span class="FlavorText">Jahre des Polizei-Ausweichens haben dir ein oder zwei Dinge über Tarnung beigebracht. Deine Bewegungsgeschwindigkeit während des Hinhockens ist erhöht um <span class="Highlight1">40%</span> bei Unverletztheit.<br><span class="FlavorText">"Die Farbe ist noch immer frisch, aber ich bin schon lange weg." -Nea</span>
 Jahre des Polizei-Ausweichens haben dir ein oder zwei Dinge über Tarnung beigebracht. Deine Bewegungsgeschwindigkeit während des Hinhockens ist erhöht um <span class="Highlight1">45%</span> bei Unverletztheit.<br><span class="FlavorText">"Die Farbe ist noch immer frisch, aber ich bin schon lange weg." -Nea</span>
 Jahre des Polizei-Ausweichens haben dir ein oder zwei Dinge über Tarnung beigebracht. Deine Bewegungsgeschwindigkeit während des Hinhockens ist erhöht um <span class="Highlight1">50%</span> bei Unverletztheit.<br><span class="FlavorText">"Die Farbe ist noch immer frisch, aber ich bin schon lange weg." -Nea</span>
 Lange Nächte außerhalb haben dir beigebracht, bestens mit dem, was du hast, auszukommen. Verringert den Verbrauch der Item-Einheiten um <span class="Highlight1">10%</span> für dich und Verbündete in <span class="Highlight2">8 Metern</span> Umkreis.<br><span class="FlavorText">"Du machst das falsch! Lass mich dir zeigen, wie man das macht." -Nea</span>
@@ -1684,22 +1702,22 @@ Tödliche Teleportation
 VERSTANDEN
 ÄNDERUNGEN ÜBERNEHMEN
 ZURÜCK
-SEI EIN KILLER
-SEI EIN ÜBERLEBENDER
 BLUTNETZ
 ABBRECHEN
 CHARAKTER
 KARTE AUSWÄHLEN
 KLICKE ZUM FORTFAHREN
 MENÜ SCHLIESSEN
+FORTFAHREN
 STEUERUNG
 LOBBY ERSTELLEN
 CREDITS
 ANPASSEN
 TÄGLICHE RITUALE
 DIE GRUPPE VERLASSEN
+EXTRAS
 GEHE IN DIE LOBBY
-HILFE
+HILFE UND TUTORIALS
 LADE FREUNDE EIN
 TRITT EINER LOBBY BEI
 TÖTE DEINE FREUNDE
@@ -1709,13 +1727,17 @@ VERLASSEN
 DIE LOBBY VERLASSEN
 SPIEL VERLASSEN
 AUSSTATTUNG
+HAUPTMENÜ
 NEUER INHALT
+NEUIGKEITEN
 NÄCHSTE
 NEIN
 OK
 IM BROWSER ÖFFNEN
 MENÜ ÖFFNEN
 SPIELEN
+SPIELE ALS KILLER
+SPIELE ALS ÜBERLEBENDER
 DRÜCKE EINE BELIEBIGE TASTE
 VORHERIGE
 PRIVATE PARTIE
@@ -1728,15 +1750,20 @@ NEUES BLUTNETZ ERSTELLEN
 RITUAL LÖSCHEN
 AUF STANDARD ZURÜCKSETZEN
 ZURÜCK ZUR LOBBY
-EINSTELLUNGEN
+DURCH LISTE SCROLLEN
+EINSTELLUNGEN UND STEUERUNG
 SCHREIN
 ÜBERSPRINGEN
+SOZIAL
 ZUSCHAUEN
 ABSENDEN
 ÜBERLEBE MIT FREUNDEN
 ÜBERLEBENDER
 ÜBERLEBENDEN-TUTORIAL
 ROLLE WECHSELN
+ZU KILLER WECHSELN
+ZU ZUSCHAUER WECHSELN
+ZU ÜBERLEBENDEM WECHSELN
 TUTORIALS
 NICHT BEREIT
 UPGRADE
@@ -1748,9 +1775,10 @@ ZUM INVENTAR HINZUGEFÜGT
 ALLE
 DLC KILLER ERLAUBEN
 SELBSTLOSIGKEIT
+AUDIO
 AUTO-EINSTELLUNG
 VERFÜGBAR
-DLC Details erlauben
+Gewährt Zugang zu DLC-Killer-Charakteren.
 BIOGRAPHIE
 BLUTPUNKTE
 VERDIENTE BLUTPUNKTE
@@ -1763,8 +1791,11 @@ CHARAKTER-PERKS
 CHARAKTERE
 AUSWÄHLEN
 KLICKE ZUM FORTFAHREN
+ALLGEMEINE STEUERUNG
 ABGESCHLOSSEN
 FOLGEN
+KONSOLE
+CONTROLLER-EMPFINDLICHKEIT
 STEUERUNG
 KOSTEN
 ANPASSUNG
@@ -1784,6 +1815,7 @@ FOLGE MIR / KOMM HIERHER
 VOLLBILD
 SPIELANLEITUNG
 GAMEPAD
+GRAFIK
 KOPFHÖRER
 HILFE
 STUNDEN
@@ -1797,12 +1829,14 @@ ITEM VERDIENT
 ITEM VERLOREN
 ITEMS
 ITEMS / ADD-ONS
-Items und Add-On-Details
+Ermöglicht Verwendung von Items und Add-ons.
 TASTATUR
 KILLER
 KILLER<br>RANG
+STEUERUNG FÜR KILLER
 KILLER-TUTORIAL-VIDEOS
 KILLER
+SPRACHE
 SPRACHE
 WENIGER ALS EINE STUNDE
 AUSSTATTUNG
@@ -1816,6 +1850,7 @@ SPIELEINSTELLUNGEN<br>VERÄNDERT
 MAX
 MENÜ-MUSIK
 ERBARMUNGSLOSER SIEG
+MAUSEMPFINDLICHKEIT
 IM HINTERGRUND STUMMSCHALTEN
 GEHEIMKISTE
 KEINE
@@ -1826,7 +1861,7 @@ OPFERGABEN
 ONLINE KILLERRANG
 ONLINE ÜBERLEBENDERRANG
 ODER
-Opfergaben-Details
+Ermöglicht Verwendung von Opfergaben.
 SEITE
 PERK-SLOT GESPERRT
 PERK-SLOT GESPERRT
@@ -1840,9 +1875,10 @@ ZEIGE AUF
 STÄRKE
 STÄRKE ADD-ONS
 STÄRKEN
+DRÜCKE
 DRÜCKE DIE LEERTASTE ZUM FORTFAHREN
 ÖFFENTLICH
-Perks-Details
+Perks Ermöglicht Verwendung von Perks.
 QUALITÄT
 ZUFÄLLIG
 RANG
@@ -1864,9 +1900,12 @@ SLOT GESPERRT
 STATUS
 ÜBERLEBEN
 ÜBERLEBENDER<br>RANG
+STEUERUNG FÜR ÜBERLEBENDE
 ÜBERLEBENDER-TUTORIAL-VIDEOS
 ÜBERLEBENDE
 TEST-BUILD
+TEST-BUILD
+ZUM FORTFAHREN
 GESAMT
 Der Spielverwalter hat diesen Slot gesperrt.
 Dieser Slot wird in Level 1 freigeschaltet.
@@ -1919,8 +1958,12 @@ Preis
 <li>2 bis 5 Spieler können spielen.</li><li>Das Spiel kann beginnen, wenn es 1 Killer gibt, nicht mehr und nicht weniger!</li><li>Items, Add-ons, Perks und Opfergaben, die in anderen Modi gesammelt wurden, können genutzt werden; sie gehen nicht verloren.</li><li>Es werden keine Blutpunkte verdient.</li><li>Keine items, Add-ons oder Opfergaben werden verdient.</li><li>Du kannst Ränge weder gewinnen noch verlieren.</li>
 Eine neue Spielrunde beginnt. Dein Rang wird zurückgesetzt:
 Eine neue Version des Spiels ist jetzt verfügbar. Du musst dein Gerät zuerst aktualisieren, um die Netzwerkfunktionen nutzen zu können.
-FEHLER BEI ANNAHME DER EINLADUNG
+Es wird ein Profil mit Zugang zu Xbox Live benötigt.
+ALTERSBESCHRÄNKUNG
+ANWENDUNG ANGEHALTEN
+VERFÜGBAR AUF DEM PLAYSTATION STORE!
 VERFÜGBAR IM STEAM STORE!
+VERFÜGBAR AUF DEM XBOX ONE-MARKTPLATZ!
 Du erreichst die Tutorials jederzeit durch Drücken der [ESC]-Taste und Hilfe in der Optionsliste.
 Legt fest, ob das Spiel im Vollbild oder Fenstermodus ausgeführt wird.
 Bereits im Besitz. Kaufe erneut & erhalte:
@@ -1940,13 +1983,19 @@ BLUTPUNKTEN
 DEMNÄCHST VERFÜGBAR
 BESTÄTIGUNG
 VERBINDUNGSFEHLER
+VERBINDUNGSFEHLER
 ERSTELLTE LOBBY
 Stimmt den Raumklang (Audio-Balance) für Kopfhörer oder Lautsprecher ab.
 Kann nicht mit {0} Killer(n) begonnen werden.
 Verändert die Sprache des Spiels. <FONT COLOR="#dd0000">Das Spiel muss neu gestartet werden, um diese Änderung anzuwenden.</FONT>
 Klicke hier, um zu chattenAbsolviere die Rituale und der Entitus wird dich belohnen.
+Controller entfernt
 Kontrolliert die Anzahl der optischen Features im Spiel. Wähle Ultra für die beste Wiedergabequalität oder Niedrig für bestmögliche Leistung. 
+Die liebenswerten Leute, die Dead by Daylight möglich gemacht haben. In einer übersichtlichen Liste zusammengefasst.
+Credits
 TÄGLICHE RITUALE
+Tägliche Herausforderungen für Blutpunkte.
+Tägliche Rituale
 Legt fest, ob das Spiel stummgeschaltet werden soll, wenn es im Hintergrund läuft.
 Legt die Auflösung fest, mit der das Spiel ausgeführt wird. <FONT COLOR="#dd0000">Dies kann nicht geändert werden, wenn die Auto-Einstellung aktiviert ist.</FONT>
 Vom Server getrennt
@@ -1964,13 +2013,22 @@ FINDE DEN
 GIB POSITIVES FEEDBACK<br>Gib diesem Spieler eine positive Rückmeldung! Beispiele: Hilfsbereit beim Sicherstellen von Objekten, ein Rock-Star bei Rettungsaktionen, sehr viel Wissen über das Spiel, macht einfach Spaß, gegen ihn zu spielen.
 VORSÄTZLICHE SPIELBEHINDERUNG: VORSÄTZLICHER SPIELMISSBRAUCH / TROLLING<br>Melde diesen Spieler für das vorsätzliche Verwenden von Fähigkeiten oder Spielmechanismen zur Beeinträchtigung des Spiels. Beispiele: Das Spiel für sich beanspruchen, Körperblockaden, Zusammenarbeit mit dem Killer.
 BELÄSTIGUNG: KOMMUNIKATIONSMISSBRAUCH<br>Melde diesen Spieler für missbräuchliches Verhalten im Chat. Beispiele: Beleidigungen, Einschüchterung, Hassreden, Belästigung.
+Anleitungen und Tutorials, die dir die Grundlagen und mehr beibringen.
+Hilfe
 Ziehe für weitere Details die Maus über eine Kategorie
 INITIALISIERUNGSFEHLER
+Um auf diesen Inhalt zuzugreifen, wird eine Netzwerkverbindung benötigt.
+Um auf diesen Inhalt zuzugreifen, wird ein Patch benötigt.
+Um auf diesen Inhalt zuzugreifen, wird ein Systemupdate benötigt.
 Erhöhe dein Ansehen-Level.
 Das Erhöhen deines Blutnetz-Ansehenlevels hat die folgenden Effekte:<br><ul><li>Setzt den Fortschritt für diesen Charakter auf Level 1 zurück.</li><li>Schaltet einen Ansehenspreis für diesen Charakter frei.</li><li>Verliere alle Items, Add-ons, Perks & Opfergaben für diesen Charakter.</li><li>Erhöht leicht die Chancen, bessere Items auf dem Blutnetz zu erhalten.</li><li>Lehrbare Perks bleiben für alle anderen Charaktere verfügbar.</li></ul><br>Bist du sicher, dass du dein Ansehen steigern möchtest?
 Kehrt die Steuerung der Y-Achse um.
+FEHLER BEI SPIELBEITRITT
+FEHLER BEI LOBBYBEITRITT
 DER LOBBY BEIGETRETEN
+Beitritt zu privatem Spiel abgelehnt
 Vom Server verbannt
+Ein einladungsbasierter, nicht gewerteter Modus, bei dem deine Freunde und du in die Rollen der Überlebenden, des Killers oder von Zuschauern schlüpft. Spiele und Ausstattung in Töte deine Freunde
 DIE LOBBY VERLASSEN
 SPIEL VERLASSEN
 LEVEL 
@@ -1984,46 +2042,72 @@ NEUER INHALT
 NEUES EVENT
 NEUE VERSION VERFÜGBAR
 KEINE SPIELE GEFUNDEN
+KEINE NETZWERKVERBINDUNG
+Neuigkeiten
+Die aktuellsten Neuigkeiten, Entwicklerupdates und Patch-Hinweise.
+FEHLER: ONLINE-STATUS
 PATCH-NOTIZEN
+PATCH ERFORDERLICH
 ANSEHEN {0}
+ÄNDERUNG DES PROFILSTATUS
+Spiele als brutaler Killer in gewerteten Spielen. Opfere Überlebende, um den Entitus zufriedenzustellen.
+Killer
+Spiele als ein Überlebender in gewerteten Spielen. Entkomme dem Killer und rette dich selbst.
+Überlebender
+Bitte schließe einen Controller wieder an, um weiterzuspielen.
 SPIEL VERLASSEN
+Spiel beenden
+Beenden
 MELDEN
 AUF STANDARD ZURÜCKSETZEN
 ZUR LOBBY ZURÜCKKEHREN?
 Reports remaining: 
-Sollen alle Tastenbelegungen auf Standard zurückgesetzt werden?
 FEHLER BEIM SPEICHERN
 SUCHE NACH SPIELEN
 SPIELENDE
 KATEGORIE AUSWÄHLEN
 QUELLE:
 ENTKOMMENDER ÜBERLEBENDER
+SYSTEMUPDATE ERFORDERLICH
 Sprich:
 Wähle zuerst eine Kategorie aus.
 Legt die Lautstärke für alle Sounds und Musik im Spiel fest.
 Legt die Lautstärke der Menü-Musik fest.
+Diverse Option, um dein Spielerlebnis individuell anzupassen.
+Einstellungen und Steuerung
 Steam offline
+Lade Freunde ein und überlebt in gewerteten Spielen gemeinsam gegen einen unbekannten Killer.
+Überlebe mit Freunden
 DER HOST HAT DAS SPIEL VERLASSEN
 TUTORIAL
+Controller-Empfindlichkeit für Kamerabewegung.
 Das Spiel wurde nicht richtig geladen und kann dein Spiel nicht ordnungsgemäß speichern. Ein Neustart des Spiels dürfte das Problem beheben.
+Das Spiel, dem du beitreten möchtest, existiert nicht mehr.
+Mausempfindlichkeit für Kamerabewegung.
 Dies wird dich von der Eigenes-Spiel-Gruppe entfernen und in die Lobby zurückbringen. Du wirst nicht länger mit deiner aktuellen Gruppe verbunden.
 Dies wird dich und deine aktuelle Gruppe in die Lobby zurückbringen. Du kannst nicht mehr zu diesem Spielergebnis zurückkehren.
 DIESEN KNOTEN FREISCHALTEN?
 UNKAMERADSCHAFTLICH<br>Melde diesen Spieler aufgrund absichtlicher Spielniederlage, Nicht-Teilnahme oder vorzeitigem Abmelden vom Spiel, um eine Niederlage zu vermeiden. Beispiele: AFK-Verhalten, Spielende aus Wut, Leerlauf und Verweigerung einer normal üblichen Spielteilnahme.
+Beitritt zu privatem Spiel fehlgeschlagen. Verbindung von Host verweigert.
 WARTEN
 WARTEN AUF 1 WEITERES OPFER
 WARTEN AUF {0} WEITERE OPFER
 Warnung
-Die Annahme einer Einladung ist nicht möglich, wenn du ein Spiel suchst.
+Du kannst einer Lobby nicht beitreten, während du ein Spiel suchst.
 Du wurdest vom Server getrennt, da ein Fehler bei der Validierung deines Kontos mit Easy Anti-Cheat (Fehler-Code {0}) aufgetreten ist.
 Du wurdest vom Server getrennt, weil ein Fehler bei der Verifikation und Authentifikation deines Steam-Kontos (Fehler-Code {0}) aufgetreten ist.
+Du wurdest von deinem aktuellen Profil abgemeldet.
 Du wurdest vom Server getrennt, weil ein Fehler bei der Validierung des Host-Kontos mit Easy Anti-Cheat (Fehler-Code {0}) aufgetreten ist.
 Du wurdest vom Server getrennt, weil ein Fehler bei der Verifizierung und Authentifikation des Host-Steam-Kontos (Fehler-Code {0}) aufgetreten ist.
 Es scheint, du hast Verbindungsprobleme. Bitte beachte, dass harte Strafen für häufigen Verbindungsabbruch erteilt werden. 
+Du hast Dead By Daylight angehalten und wurdest aus deiner Online-Sitzung entfernt.
+Aufgrund deines Alters kannst du auf diesen Inhalt nicht zugreifen.
 Dein aktueller Status in Steam ist offline. Unter diesen Umständen ist jegliche Spielfunktion unmöglich. Bitte versichere dich, dass deine Internet- und Steamverbindung aktiv ist.
 <li>Bis zu 4 Überlebende können in einer Überlebendengruppe sein - du und bis zu 3 Freunde.</li><li>Wenn alle Überlebenden anwesend sind, drücke fertig, um auf einen Killer zu treffen.</li>
 NUR {0}
 Du kannst keinem laufenden Spiel beitreten.
+Versuch, über Einladung einem Matchmaking-Server beizutreten.
+Beitritt zu privatem Spiel fehlgeschlagen
 Ungültiges Perk-Level
 HOCH
 NIEDRIG
@@ -2035,6 +2119,7 @@ Lehrbar
 Äusserst seltene(r/s)
 Ungewöhnliche(r/s)
 Sehr seltene(r/s)
+{0} {1}
 {0} {1}
 GEHEILT WERDEN DURCH 
 FINDE HILFE
