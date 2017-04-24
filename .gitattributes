@@ -1,3 +1,6 @@
 *.loc utf16 eol=crlf
 
 *.hash binary
+*.uasset binary
+*.bin binary
+*.umap binary
