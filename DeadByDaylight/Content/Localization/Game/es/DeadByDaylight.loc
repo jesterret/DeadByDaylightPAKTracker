@@ -30,7 +30,7 @@ Juego de 4 Muelles
 Una batería de "uso industrial."<br><li>Añade <b>4 segundos</b> de uso a una linterna estándar.</li><li>Acumulable.</li><br><span class="FlavorText">"Una batería que, según afirman, tiene una duración de 8 horas, dura solo unos segundos en la niebla negra."</span>
 Un badajo hecho de un hueso altamente pulido.<br><li><b>Reduce ligeramente</b> el alcance en el que se puede escuchar la campana.</li><li>Acumulable.</li>
 Una sustancia negra, opaca y pegajosa parecida a la brea. Cuando es aplicada a las trampas para osos, las hace mucho menos visibles.<br><li><b>Oscurece considerablemente</b> la trampa.</li><li>Afecta a todas las trampas para osos.</li>
-Un trozo de cera que se usa para reducir la fricción y facilitar el movimiento de las partes mecánicas.<br><li><b>Reduce moderadamente</b> las áreas de éxito de Revisión de habilidades para sabotear trampas para osos.</li><li>Afecta a todas las trampas para osos.</li><li>Acumulable.</li>
+Un trozo de cera que se usa para reducir la fricción y facilitar el movimiento de las partes mecánicas.<br><li><b>Reduce moderadamente</b> las áreas de éxito de prueba de habilidad para sabotear trampas para osos.</li><li>Afecta a todas las trampas para osos.</li><li>Acumulable.</li>
 Un ámbar color rojo sangre con vetas negras. El ámbar es tibio al tacto. Se puede unir a la llave utilizando la anilla de engarce con el fin de canalizar su habilidad de análisis de auras<br><li>Revela el <b>aura del asesino</b> en un radio de <b>32 metros</b> a <b>grandes expensas</b> de la energía de la llave.</li>
 Un erizado y áspero pedazo de cordel de color carmesí. Se puede atar alrededor de un mapa con el fin de mejorar su habilidad para ver auras.<br><li>Desbloquea la habilidad para rastrear las <b>pertenencias del asesino</b>.</li>
 Un brutal cuchillo de carnicero, forjado con sus propias manos a partir de los metales de la mina.
@@ -55,12 +55,12 @@ Una máscara de sangre esconde los ojos de una muerte inevitable.
 Una máscara de carne y huesos con una sonrisa perversa escalofriante.
 Un aro de llavero común y corriente en apariencia con un lustre azul oscuro inusual. El aro une la Llave al usuario, lo que evita su pérdida incluso en los tiempos más oscuros.<br><li>No pierdas la Llave con la Muerte, pierde en su lugar este accesorio.</li>
 Un trapo común y corriente. Sospechosamente limpio.<br><li><b>Aumenta ligeramente</b> la velocidad de reparación de la caja de herramientas.</li><li>Acumulable.</li>
-Una esponja común y corriente usada para absorber la sangre en exceso, lo que facilita el acceso a las heridas.<br><li><b>Reduce moderadamente</b> la dificultad para la Revisión de habilidades curativas.</li><li>Acumulable.</li>
+Una esponja común y corriente usada para absorber la sangre en exceso, lo que facilita el acceso a las heridas.<br><li><b>Reduce moderadamente</b> la dificultad para la prueba de habilidad curativas.</li><li>Acumulable.</li>
 Lo que alguna vez fue un manto hermoso se encuentra ahora embarrado de las vísceras de su presa.
 Un paquete de vendajes que se halla generalmente en botiquines de primeros auxilios.<br><li>Añade <b>6 cargas</b> al Med-Kit.</li><li>Acumulable.</li>
 Una perla blanca porosa y rayada. Una minúscula argolla le permite sujetarse a la Llave.<br><li><b>Aumenta moderadamente</b> el radio de análisis de auras de la Llave.</li><li>Acumulable.</li>
 Un pesado carrete portátil de alambre de cobre.<br><li>Añade <b>30 cargas</b> a la caja de herramientas.</li><li>Acumulable.</li>
-Un aceite rancio usado para lubricar deficientemente.<br><li><b>Reduce ligeramente</b> el tiempo de enfriamiento de la motosierra</li><li>Acumulable.</li>
+Un aceite rancio usado para lubricar deficientemente.<br><li><b>Reduce ligeramente</b> el tiempo de recuperación de la motosierra</li><li>Acumulable.</li>
 Un kit de repuesto para trampas para osos que sustituye el común sistema de doble muelle por el de 4 muelles helicoidales, lo que le agrega más fuerza al agarre de la trampa para osos.<br><li><b>Aumenta moderadamente</b> la dificultad de liberarse de las trampas para osos.</li><li><b>Aumenta moderadamente</b> el tiempo para liberarse de las trampas para osos.</li><li><b>Aumenta ligeramente</b> el tiempo de instalación de trampas para osos.</li><li>Afecta a todas las trampas para osos.</li><li>Se ven afectadas por la habilidad de Reparador.</li><li>Acumulable.</li>
 Una barba desaliñada hace a Jake.
 Un muelle secundario que mantiene funcional la trampa para osos cuando el muelle principal se vuelve inservible.<br><li><b>Aumenta moderadamente</b> el tiempo de sabotaje de la trampa para osos.</li><li>Afecta a todas las trampas para osos.</li><li>Acumulable.</li>
@@ -68,7 +68,7 @@ Una sustancia viscosa y traslúcida de un espantoso tono lavanda. Esta gelatina d
 Un cable eléctrico pequeño. Ambos extremos están muy dañados, como si el cable hubiese sido violentamente arrancado de su sitio. Puede amarrarse alrededor de un mapa para mejorar su habilidad de análisis de aura.<br><li>Desbloquea la habilidad para rastrear <b>puertas de salida</b>.</li>
 Un pequeño serrucho con una cuchilla de metal.<br><li><b>Aumenta moderadamente</b> la velocidad de sabotaje de la caja de herramientas.</li><li>Acumulable.</li>
 Una cuerda negra lisa de una apariencia suave. Puede amarrarse alrededor de un mapa para mejorar su habilidad de análisis de auras.<br><li>Desbloquea la habilidad para rastrear <b>candados negros</b>.</li>
-Un conjunto especializado de herramientas utilizadas para fijar las trampas para osos con el fin de asegurar su efectividad.<br><li><b>Aumenta moderadamente</b> el tiempo de sabotaje de la trampa para osos.</li><li><b>Aumenta moderadamente</b> el tiempo para inutilizar las trampas para osos. </li><li><b>Aumenta ligeramente</b> el tiempo de instalación de trampas para osos.</li><li><b>Reduce ligeramente</b> el área de éxito de Revisión de habilidades de sabotaje de trampa para osos.</li><li>Afecta a todas las trampas para osos.</li><li>Se ven afectadas por la habilidad de Reparador.</li><li>Acumulable.</li>
+Un conjunto especializado de herramientas utilizadas para fijar las trampas para osos con el fin de asegurar su efectividad.<br><li><b>Aumenta moderadamente</b> el tiempo de sabotaje de la trampa para osos.</li><li><b>Aumenta moderadamente</b> el tiempo para inutilizar las trampas para osos. </li><li><b>Aumenta ligeramente</b> el tiempo de instalación de trampas para osos.</li><li><b>Reduce ligeramente</b> el área de éxito de prueba de habilidad de sabotaje de trampa para osos.</li><li>Afecta a todas las trampas para osos.</li><li>Se ven afectadas por la habilidad de Reparador.</li><li>Acumulable.</li>
 Un sello tallado de una madera dorada robusta. El texto que está en su base es incomprensible: "kw'zvre'od". Puede usarse con un mapa.<br><li><b>Aumenta considerablemente</b> el radio de la habilidad para rastrear mapas.</li><li>Acumulable.</li>
 Una batería estándar de marca desconocida.<br><li>Añade <b>2 segundos</b> de uso a una linterna estándar.</li><li>Acumulable.</li><br><span class="FlavorText">"Otra batería casi vacía".</span>
 Un botiquín de primeros auxilios con todos los suministros necesarios para tratar heridas comunes y graves.<br><li><b>16</b> cargas.</li><li><b>Aumenta considerablemente</b> la velocidad de curación.</li><li>Desbloquea la acción de autocuración.</li>
@@ -98,7 +98,7 @@ El símbolo de Kuntin-Takkho, que representa el rápido descenso hacia una presa, 
 "Cacería Veloz" - Barro
 El símbolo de Ohuwe-Onmnea, que representa una violenta tormenta, está estampado con sangre en el medio de la campana.<br><li>Otorga un aumento de la velocidad de movimiento durante <b>1,5 segundos</b> después de que reaparezca.</li>
 "Vendaval" - Sangre
-Una guía dibujada toscamente que sirve para ajustar y poner a punto el carburador de la motosierra.<br><li><b>Reduce moderadamente</b> el tiempo de carga de la motosierra.</li><li><b>Reduce ligeramente</b> el tiempo de enfriamiento de la motosierra.</li><li><b>Reduce ligeramente</b> el tiempo de penalización cuando se tropieza con objetos.</li><li><b>Reduce ligeramente</b> el ruido de la motosierra.</li><li>Se ve afectada por la habilidad de Reparador.</li><li>Acumulable.</li>
+Una guía dibujada toscamente que sirve para ajustar y poner a punto el carburador de la motosierra.<br><li><b>Reduce moderadamente</b> el tiempo de carga de la motosierra.</li><li><b>Reduce ligeramente</b> el tiempo de recuperación de la motosierra.</li><li><b>Reduce ligeramente</b> el tiempo de penalización cuando se tropieza con objetos.</li><li><b>Reduce ligeramente</b> el ruido de la motosierra.</li><li>Se ve afectada por la habilidad de Reparador.</li><li>Acumulable.</li>
 Guía del Carburador
 Grabados situados en el cuerpo de la motosierra y que cuentan el número de vidas que ha segado. Llena de determinación a su usuario.<br><li><b>Aumenta ligeramente</b> la velocidad de movimiento de la motosierra.</li><li><b>Aumenta ligeramente</b> el tiempo de carga.</li><li>Se ven afectadas por la habilidad de Reparador.</li>
 Grabados de Muertes
@@ -108,25 +108,26 @@ Un sistema de escape de humos improvisado hecho con tuberías de gas negras.<br><
 Silenciador Casero
 Un bastidor de motosierra ligero y duradero con una espada más corta. Hace que la motosierra sea más fácil de manejar.<br><li><b>Reduce ligeramente</b> el alcance del ataque de la motosierra.</li><li><b>Reduce considerablemente</b> el tiempo de penalización cuando se tropieza con objetos.</li><li>Acumulable.</li>
 Bastidor ligero
-Una sustancia especialmente aceitosa preparada por los Thompson que usa para lubricar maquinaria. <br><li><b>Reduce considerablemente</b> el tiempo de enfriamiento de la motosierra.</li><li><b>Reduce ligeramente</b> el tiempo de carga de la motosierra.</li><li>Se ven afectadas por la habilidad de Reparador.</li><li>Acumulable.</li>
+Un dispositivo mecánico que limita la cantidad de combustible que los motores pequeños pueden admitir y que obliga a mantener una velocidad segura y constante.<br><li>La motosierra no provoca automáticamente el estado agonizante.</li><li>Obtén un <b>50 %</b> adicional de puntos de sangre para eventos puntuados usando la motosierra.</li>
+Una sustancia especialmente aceitosa preparada por los Thompson que usa para lubricar maquinaria. <br><li><b>Reduce considerablemente</b> el tiempo de recuperación de la motosierra.</li><li><b>Reduce ligeramente</b> el tiempo de carga de la motosierra.</li><li>Se ven afectadas por la habilidad de Reparador.</li><li>Acumulable.</li>
 Mezcla de los Thompson
 Una bebida espirituosa hecha de maíz con una receta pasada entre las generaciones de la familia Thompson. Instila rabia y da dolor de cabeza.<br><li><b>Aumenta enormemente</b> el control de dirección mientras se utiliza la motosierra.</li><li><b>Aumenta considerablemente</b> el tiempo de penalización cuando se tropieza con objetos.</li>
 Aguardiente de los Thompson
-Una respiración irregular y en deterioro obtenida del chico catatónico. Normalmente estable y tranquila, se agita increíblemente cuando la toca la Enfermera.<br><li><b>Aumenta considerablemente</b> el alcance máximo de la Mirada.</li><li><b>Reduce considerablemente</b> la precisión de la Mirada.</li>
+Una respiración irregular y en deterioro obtenida del chico catatónico. Normalmente estable y tranquila, se agita increíblemente cuando la toca la Enfermera.<br><li><b>Aumenta considerablemente</b> el alcance máximo de Proyección.</li><li><b>Reduce considerablemente</b> la precisión de Proyección.</li>
 Respiración Atáxica
-Un poderoso último aliento arrebatado al "Hombre Malo", paciente del asilo de Crotus Prenn. En manos de la Enfermera se sacude con intensidad.<br><li><b>Aumenta enormemente</b> la velocidad de carga de la Mirada.</li><li><b>Aumenta ligeramente</b> el tiempo de fatiga de la Mirada.</li><li><b>Le quita 1</b> encadenamiento.</li>
+Un poderoso último aliento arrebatado al "Hombre Malo", paciente del asilo de Crotus Prenn. En manos de la Enfermera se sacude con intensidad.<br><li><b>Aumenta enormemente</b> la velocidad de carga de Proyección.</li><li><b>Aumenta ligeramente</b> el tiempo de fatiga de Proyección.</li><li><b>Le quita 1</b> encadenamiento.</li>
 Último Aliento del Hombre Malo
-Una pieza de joyería sin valor que pudo tener un gran significado para alguien. Se encontró en el cuerpo de la chica ansiosa.<br><li><b>Aumenta moderadamente</b> la velocidad de movimiento de la Mirada.</li><li><b>Reduce ligeramente</b> la velocidad de carga de la Mirada.</li><li>Se ven afectadas por la habilidad de Reparador.</li>
+Una pieza de joyería sin valor que pudo tener un gran significado para alguien. Se encontró en el cuerpo de la chica ansiosa.<br><li><b>Aumenta moderadamente</b> la velocidad de movimiento de Proyección.</li><li><b>Reduce ligeramente</b> la velocidad de carga de Proyección.</li><li>Se ven afectadas por la habilidad de Reparador.</li>
 Brazalete sin Brillo
-Un aliento lento y desbordante arrebatado al Camillero obeso. Oscila débilmente cuando la Enfermera lo toca.<br><li><b>Aumenta moderadamente</b> la probabilidad de encadenar la Mirada.</li><li><b>Aumenta moderadamente</b> la duración de la fatiga.</li>
+Un aliento lento y desbordante arrebatado al Camillero obeso. Oscila débilmente cuando la Enfermera lo toca.<br><li><b>Aumenta moderadamente</b> la probabilidad de encadenar proyecciones.</li><li><b>Aumenta moderadamente</b> la duración de la fatiga.</li>
 Jadeo Intenso
-Un poderoso último aliento arrebatado a Mary Jenner, paciente del asilo de Crotus Prenn. En manos de la Enfermera tiembla con intensidad.<br><li><b>Aumenta enormemente</b> la velocidad de movimiento de la Mirada.</li><li><b>Reduce moderadamente</b> la velocidad de carga de la Mirada.</li><li><b>Le quita 1</b> encadenamiento.</li>
+Un poderoso último aliento arrebatado a Mary Jenner, paciente del asilo de Crotus Prenn. En manos de la Enfermera tiembla con intensidad.<br><li><b>Aumenta enormemente</b> la velocidad de movimiento de Proyección.</li><li><b>Reduce moderadamente</b> la velocidad de carga de Proyección.</li><li><b>Le quita 1</b> encadenamiento.</li>
 Último Aliento de Jenner
-Un poderoso último aliento arrebatado a Harvey Kavanagh, camillero del asilo de Crotus Prenn. En manos de la Enfermera se bambolea con intensidad.<br><li><b>Aumenta moderadamente</b> la probabilidad de encadenar la Mirada.</li><li><b>Aumenta ligeramente</b> la duración de la fatiga.</li><li><b>Le quita 1</b> encadenamiento.</li>
+Un poderoso último aliento arrebatado a Harvey Kavanagh, camillero del asilo de Crotus Prenn. En manos de la Enfermera se bambolea con intensidad.<br><li><b>Aumenta moderadamente</b> la probabilidad de encadenar proyecciones.</li><li><b>Aumenta ligeramente</b> la duración de la fatiga.</li><li><b>Le quita 1</b> encadenamiento.</li>
 Último Aliento de Kavanagh
-Una caja de cerillas que contiene una extraña colección de botones desparejados.<br><li><b>Aumenta ligeramente</b> la probabilidad de encadenar la Mirada.</li>
+Una caja de cerillas que contiene una extraña colección de botones desparejados.<br><li><b>Aumenta ligeramente</b> la probabilidad de encadenar proyecciones.</li>
 Caja de Cerillas
-Un aliento trémulo y nervioso arrebatado al "Hombre Malo". Palpita y salta con agresividad cuando la Enfermera lo toca.<br><li><b>Aumenta considerablemente</b> la velocidad de carga de la Mirada.</li><li><b>Aumenta ligeramente</b> el tiempo de fatiga de la Mirada.</li><li>Se ven afectadas por la habilidad de Reparador.</li>
+Un aliento trémulo y nervioso arrebatado al "Hombre Malo". Palpita y salta con agresividad cuando la Enfermera lo toca.<br><li><b>Aumenta considerablemente</b> la velocidad de carga de Proyección.</li><li><b>Aumenta ligeramente</b> el tiempo de fatiga de Proyección.</li><li>Se ven afectadas por la habilidad de Reparador.</li>
 Aliento Espasmódico
 Un pelo rubio ligeramente ondulado.<br><li><b>Aumenta ligeramente</b> la duración del <b>Mal Interior III</b>.</li><li><b>Aumenta ligeramente</b> la cantidad de maldad necesaria para alcanzar el <b>Mal Interior III</b>.</li>
 Pelo Rubio
@@ -166,7 +167,7 @@ Bisutería barata hecha de plástico. Está pintada para imitar a un material preci
 Pendientes Horteras
 Un trozo de granito del tamaño de un puño perteneciente a una lápida rota.<br><li>Desbloquea la capacidad de <b>matar supervivientes sanos o heridos</b> con el <b>Mal Interior III</b>.</li><li><b>Desactiva</b> la capacidad de acechar con el <b>Mal Interior III</b>.</li><li>Matar a un superviviente <b>merma considerablemente</b> el poder del Mal Interior.</li><li><b>Aumenta considerablemente</b> la cantidad de maldad necesaria para alcanzar el <b>Mal Interior III</b>.</li>
 Trozo de lápida
-Un espejo de maquillaje portátil en perfectas condiciones, excepto por la fina capa de polvo y maquillaje que lo cubre.<br><li><b>El Mal Interior II revela las auras de los supervivientes</b> acechados dentro de un rango de <b>32 metros</b>.</li><li>El Mal Interior no puede pasar del <b>NIVEL I</b>.</li><li> Por cada evento de puntuación por <b>golpes</b>, otorga un <b>100 %</b> de puntos de sangre en la categoría <b>Brutalidad</b> y un <b>150 %</b> de puntos de sangre adicionales en la categoría <b>Malicia</b>.</li>
+Un espejo de maquillaje portátil rayado brutalmente con un objeto metálico afilado.<br><li><b>El Mal Interior I revela las auras de los supervivientes</b> acechados dentro de un rango de <b>16 metros</b>.</li><li>El Mal Interior no puede pasar del <b>NIVEL I</b>.<li><li> Por cada evento de puntuación por <b>golpes</b>, otorga un <b>100 %</b> de puntos de sangre en la categoría <b>Brutalidad</b> y un <b>150 %</b> de puntos de sangre adicionales en la categoría <b>Malicia</b>.</li>
 Espejo de Maquillaje
 Una lente grande hecha de zafiro resistente a los arañazos que optimiza la potencia y el alcance del rayo de luz.<br><li><b>Amplia moderadamente</b> el rayo de la linterna.</li><li><b>Aumenta ligeramente</b> el rayo de la linterna.</li><li><b>Aumenta moderadamente</b> la potencia del rayo de la linterna.</li>
 Lente de Zafiro de Calidad Superior
@@ -224,25 +225,25 @@ Una gasa estéril que se puede usar para diferentes heridas. Es parte de un siste
 Rollo de Gasa
 Un paquete de apósitos de gel que se usan para curar heridas que exudan con intensidad.<br><li>Añade <b>10 cargas</b> al Med-kit.</li>
 Apósitos de Hidrogel
-No es precisamente un artilugio médico, pero se puede usar para cerrar una herida rápida y dolorosamente.<br><li><b>Aumenta ligeramente</b> la probabilidad de que aparezca una Revisión de habilidades.</li><li><b>Reduce considerablemente</b> el área de éxito de la Revisión de habilidades.</li><li><b>Aumenta moderadamente</b> la velocidad de curación.</li>
+No es precisamente un artilugio médico, pero se puede usar para cerrar una herida rápida y dolorosamente.<br><li><b>Aumenta ligeramente</b> la probabilidad de que aparezca una prueba de habilidad.</li><li><b>Reduce considerablemente</b> el área de éxito de la prueba de habilidad.</li><li><b>Aumenta moderadamente</b> la velocidad de curación.</li>
 Aguja e Hilo
 Un paquete de vendas autoadhesivas que evitan el uso de pinzas, lo que permite un vendaje más rápido que requiere menos reajustes.<br><li>Añade <b>6 cargas</b> al Med-kit.</li><li><b>Aumenta ligeramente</b> la velocidad de curación.</li>
 Venda Adhesiva
-Un artilugio médico que se usa para cerrar y sujetar tejidos corporales. Aunque es muy efectivo no es fácil usarlo.<br><li><b>Aumenta ligeramente</b> la probabilidad de que aparezca una Revisión de habilidades.</li><li><b>Reduce moderadamente</b> el área de éxito de la Revisión de habilidades.</li><li><b>Aumenta moderadamente</b> la velocidad de curación.</li>
+Un artilugio médico que se usa para cerrar y sujetar tejidos corporales. Aunque es muy efectivo no es fácil usarlo.<br><li><b>Aumenta ligeramente</b> la probabilidad de que aparezca una prueba de habilidad.</li><li><b>Reduce moderadamente</b> el área de éxito de la prueba de habilidad.</li><li><b>Aumenta moderadamente</b> la velocidad de curación.</li>
 Sutura Quirúrgica
 Una rudimentaria herramienta para cortar hecha de alambres dentados y con dos mangos de madera.<br><li><b>Aumenta ligeramente</b> la velocidad de sabotaje de la caja de herramientas.</li>
 Alambre para Cortar
 Los mangos articulados proporcionan curvatura y versatilidad a la hora de manipular tornillos que están fuera del alcance, en el interior de aparatos mecánicos.<br><li><b>Aumenta moderadamente</b> la velocidad de reparación de la caja de herramientas.</li>
 Bocallaves con Mango Articulado
-Una herramienta útil para sujetar tubos o alambres y así evitar daños o heridas.<br><li><b>Aumenta ligeramente</b> las zonas de éxito de la Revisión de habilidades de reparación.</li>
+Una herramienta útil para sujetar tubos o alambres y así evitar daños o heridas.<br><li><b>Aumenta ligeramente</b> las áreas de éxito de la prueba de habilidad de reparación.</li>
 Alicates
-Pegajoso y resbaladizo, este líquido repelente hace que sea más peligroso manejar los muelles de las trampas.<br><li><b>Aumenta enormemente</b> el tiempo de sabotaje de las trampas de osos.</li><li><b>Aumenta ligeramente</b> el tiempo de instalación de las trampas de osos.</li><li><b>Reduce moderadamente</b> el área de éxito de la Revisión de habilidades de sabotaje de trampas.</li><li>Acumulable.</li><li>Se ven afectadas por la habilidad de Reparador.</li><li>Afecta a todas las trampas para osos.</li>
+Pegajoso y resbaladizo, este líquido repelente hace que sea más peligroso manejar los muelles de las trampas.<br><li><b>Aumenta enormemente</b> el tiempo de sabotaje de las trampas de osos.</li><li><b>Aumenta ligeramente</b> el tiempo de instalación de las trampas de osos.</li><li><b>Reduce moderadamente</b> el área de éxito de la prueba de habilidad de sabotaje de trampas.</li><li>Acumulable.</li><li>Se ven afectadas por la habilidad de Reparador.</li><li>Afecta a todas las trampas para osos.</li>
 Muelle Sangriento
 Esta herramienta para afilar está formada con unos pequeños diamantes unidos a una lámina de metal. Se puede usar para afilar las cuchillas de las trampas de osos, lo que provoca heridas letales.<br><li><b>Provoca agonía</b> a la víctima capturada.</li><li>Afecta a todas las trampas de osos.</li>
 Afilador con Diamantes
 Cuando se usa con una trampa de osos, la piedra afila las cuchillas. Las cuchillas afiladas provocan heridas profundas para desangrar a la víctima lo más rápido posible.<br><li><b>50% de probabilidad de causar agonía</b> a la víctima capturada.</li><li>Afecta a todas las trampas de osos.</li>
 Piedra de Afilar
-Un aceite claro que hace que sea más peligroso manejar los muelles de las trampas.<br><li><b>Aumenta moderadamente</b> el tiempo de sabotaje de las trampas de osos.</li><li><b>Reduce ligeramente</b> el área de éxito de la Revisión de habilidades de sabotaje de trampas.</li><li>Acumulable.</li><li>Afecta a todas las trampas para osos.</li>
+Un aceite claro que hace que sea más peligroso manejar los muelles de las trampas.<br><li><b>Aumenta moderadamente</b> el tiempo de sabotaje de las trampas de osos.</li><li><b>Reduce ligeramente</b> el área de éxito de la prueba de habilidad de sabotaje de trampas.</li><li>Acumulable.</li><li>Afecta a todas las trampas para osos.</li>
 Muelle Aceitoso
 Estas mandíbulas de trampas de osos están cubiertas de un óxido volátil y duro que causa heridas especialmente difíciles de curar.<br><li><b>Aumentan considerablemente</b> el tiempo de curación de los supervivientes heridos con la trampa de osos.</li><li><b>Reducen ligeramente</b> el tiempo de sabotaje de las trampas de osos.</li><li>Acumulable.</li><li>Afecta a todas las trampas de osos.</li>
 Mandíbulas Oxidadas
@@ -255,6 +256,46 @@ Pantalones de acción para la intemperie.
 Los accesorios que afectan el tiempo de recarga de energía son un <span class="Highlight1">8 %</span> más efectivos.<br><span class="FlavorText">"El Retorcido fabrica herramientas impresionantes a partir de chatarra... Herramientas destinadas a mutilarnos de manera creativa... Da miedo hasta pensar lo inteligente que resulta". -Cuaderno</span>
 Los accesorios que afectan el tiempo de recarga de energía son un <span class="Highlight1">10 %</span> más efectivos.<br><span class="FlavorText">"El Retorcido fabrica herramientas impresionantes a partir de chatarra... Herramientas destinadas a mutilarnos de manera creativa...  Da miedo hasta pensar lo inteligente que resulta". -Cuaderno</span>
 Los accesorios que afectan el tiempo de recarga de energía son un <span class="Highlight1">6 %</span> más efectivos.<br><span class="FlavorText">"El Retorcido fabrica herramientas impresionantes a partir de chatarra... Herramientas destinadas a mutilarnos de manera creativa...  Da miedo hasta pensar lo inteligente que resulta". -Cuaderno</span>
+Una terapia de electrochoque que usa ondas profundas para calmar varias enfermedades mentales. La chispa de Carter es su origen, y puede causar ansiedad moderada en el paciente.<br><li><b>Aumenta moderadamente</b> tu radio de terror en el modo Tratamiento.</li><li><b>Reduce moderadamente</b> tu radio de terror en el modo Castigo.</li><br>Los supervivientes con <b>locura (2 o 3)</b> tienen la siguiente aflicción:<br><li>El latido del radio de terror tiene una <b>enorme probabilidad</b> de escucharse como si el superviviente estuviese al límite del radio de terror del asesino durante <b>20 segundos</b>.</li><li>Las <i>aflicciones</i> del mismo tipo no se acumulan.</li><br><span class="FlavorText">"La terapia de electroconvulsión es uno de los procedimientos médicos más seguros". (Instituto Conmemorativo Léry)</span>
+Calma (clase 2)
+Una terapia de electrochoque que usa ondas profundas para calmar varias enfermedades mentales. La chispa de Carter es su origen, y puede causar una ansiedad leve en el paciente.<br><li><b>Aumenta ligeramente</b> tu radio de terror en el modo Tratamiento.</li><li><b>Reduce ligeramente</b> tu radio de terror en el modo Castigo.</li><br>Los supervivientes con <b>locura (2 o 3)</b> tienen la siguiente aflicción:<br><li>El latido del radio de terror tiene una <b>probabilidad considerable</b> de escucharse como si el superviviente estuviese al límite del radio de terror del asesino durante <b>15 segundos</b>.</li><li>Las <i>aflicciones</i> del mismo tipo no se acumulan.</li>
+Calma (clase 1)
+Una versión experimental de la terapia de electrochoque con notas del propio doctor Herman Carter. Usa ondas profundas para calmar varias enfermedades mentales. La chispa de Carter es su origen, y puede causar ansiedad y miedo incontrolable en el paciente.<br><li><b>Aumenta considerablemente</b> tu radio de terror en el modo Tratamiento.</li><li><b>Reduce considerablemente</b> tu radio de terror en el modo Castigo.</li><br>Los supervivientes con <b>locura (2 o 3)</b> tienen la siguiente aflicción:<br><li><b>Locura 2:</b> El latido del radio de terror tiene una <b>enorme probabilidad</b> de escucharse como si el superviviente estuviese al límite del radio de terror del asesino durante <b>20 segundos</b>.</li><li><b>Locura 3:</b> El latido del radio de terror se escucha constantemente como si el superviviente estuviese al límite del radio de terror del asesino.</li><li>Las <i>aflicciones</i> del mismo tipo no se acumulan.</li><br><span class="FlavorText">"Los ataques de mayor calidad generan catatonia, que me da <u>paz</u> al menos mientras dura". (H. Carter)</span>
+Calma (notas de Carter)
+Una terapia de electrochoque experimental desarrollada en la niebla. Usa una onda de alto estímulo para conectar las mentes del paciente y el Doctor. Este procedimiento causa alucinaciones severas al paciente.<br><li>Las auras de superviviente se muestran durante <b>2 segundos</b> cuando aumenta su locura.</li><br>Los supervivientes con <b>locura (2 o 3)</b> tienen la siguiente aflicción:<br><li>Duración <b>moderada/considerable</b> de una manifestación del Doctor imaginaria, que este puede ver como un <b>aura</b>.<li><i>Las aflicciones</i> del mismo tipo no se acumulan.</li>
+Restricción (clase 3)
+Una terapia de electrochoque experimental desarrollada en la niebla. Usa una onda que conecta las mentes del paciente y el Doctor. Este procedimiento causa alucinaciones leves al paciente.<br><li>Las auras de superviviente se muestran durante <b>1 segundo</b> cuando aumenta su locura.</li><br>Los supervivientes con <b>locura (2 o 3)</b> tienen la siguiente aflicción:<br><li><b>Duración leve/moderada</b> de una manifestación del Doctor imaginaria, que este puede ver como un <b>aura</b>.</li><li>Las <i>aflicciones</i> del mismo tipo no se acumulan.</li>
+Restricción (clase 2)
+Una terapia de electrochoque experimental desarrollada en la niebla con anotaciones rudimentarias. Usa una onda de estímulo insoportable para conectar las mentes del paciente y el Doctor. Este procedimiento causa alucinaciones severas al paciente.<br><li>Las auras de superviviente se muestran durante <b>3 segundos</b> cuando aumenta su locura.</li><br>Los supervivientes con <b>locura (2 o 3)</b> tienen la siguiente aflicción:<br><li>Duración <b>considerable/enorme</b> de una manifestación del Doctor imaginaria, que este puede ver como un <b>aura</b>.<li><i>Las aflicciones</i> del mismo tipo no se acumulan.</li><br><span class=\"FlavorText\">"VEO SUS DESAGRADABLES <u>ENFERMEDADES</u>". (Notas sin firmar)</span>
+Restricción (notas de Carter)
+Una terapia de electrochoque del proyecto Despertar usada como medida disciplinaria. Utiliza una dosis fija a un voltaje muy elevado. Puede crear paranoia severa en el paciente.<br><li>Aumenta la locura causada por <b>Terapia de choque</b> en un <b>20 %</b>.</li><li><i>Se ve afectada por la habilidad Reparador.</i></li><br>Los supervivientes con <b>locura</b> tienen la siguiente aflicción:<br><li>La marca roja del asesino tiene una <b>probabilidad moderada</b> de aparecer detrás del superviviente durante <b>4 segundos</b>.</li><li>Las <i>aflicciones</i> del mismo tipo no se acumulan.</li><br><span class="FlavorText">"El respeto por nuestros pacientes es uno de nuestros principios básicos". (Instituto Conmemorativo Léry)</span>
+Disciplina (clase 3)
+Una terapia de electrochoque del proyecto Despertar usada como medida disciplinaria. Utiliza una dosis fija a un voltaje muy elevado. Puede crear paranoia moderada en el paciente.<br><li>Aumenta la locura causada por <b>Terapia de choque</b> en un <b>15 %</b>.</li><li><i>Se ve afectada por la habilidad Reparador.</i></li><br>Los supervivientes con <b>locura</b> tienen la siguiente aflicción:<br><li>La marca roja del asesino tiene una <b>probabilidad ligera</b> de aparecer detrás del superviviente durante <b>3 segundos</b>.</li><li>Las <i>aflicciones</i> del mismo tipo no se acumulan.</li><br><span class="FlavorText">"Reeducamos a nuestros pacientes con gran cuidado". (Instituto Conmemorativo Léry)</span>
+Disciplina (clase 2)
+Una terapia de electrochoque del proyecto Despertar con notas del propio doctor Herman Carter. Se usa como medida disciplinaria. El voltaje insoportablemente alto deja al paciente en un estado de paranoia grave.<br><li>Aumenta la locura causada por <b>Terapia de choque</b> en un <b>25 %</b>.</li><li><i>Se ve afectada por la habilidad Reparador.</i></li><br>Los supervivientes con <b>locura</b> tienen la siguiente aflicción:<br><li>La marca roja del asesino tiene una <b>probabilidad considerable</b> de aparecer detrás del superviviente durante <b>5 segundos</b>. Los supervivientes con <b>locura 3</b> siempre ven la marca roja.</li><li>Las <i>aflicciones</i> del mismo tipo no se acumulan.</li><br><span class="FlavorText">"Para evitar que nuestros sujetos más tenaces recaigan, usamos los niveles <u>máximos</u> al aplicar medidas disciplinarias". (H. Carter)</span>
+Disciplina (notas de Carter)
+Un electrodo experimental que soporta grandes cargas durante un largo periodo de tiempo.<br><li><b>Aumenta</b> el alcance del ataque Terapia de choque en un <b>75 %</b>.</li><br><li>Aumenta <b>enormemente</b> el tiempo de carga de Terapia de choque.
+Electrodo de alto estímulo
+Una pieza de ajedrez del rey de aspecto cristalino moldeada a partir de la propia niebla. El rastro del Ente que reverbera dentro puede destrozar hasta las mentes más poderosas.<br><li>El ataque <b>Terapia de choque</b> hace que el superviviente reciba <b>una aflicción de locura aleatoria</b> que se corresponde con su nivel de <b>locura</b>.</li><li>Las <i>aflicciones</i> del mismo tipo no se acumulan.</li><br><span class="FlavorText">"Perderse en el cristal iridiscente es zambullirse en la locura".</span>
+Rey irisado
+Cinta fragmentada
+Una cinta de casete del proyecto Despertar que básicamente contiene ruido blanco. Abre la mente del Doctor a métodos de tratamiento alternativos.<br><li>El ataque <b>Terapia de choque</b> cambia de un <b>cono</b> a un <b>círculo</b> proyectado a 8 metros frente al Doctor, con un radio exterior de 4,2 metros y un radio interior de 3 metros.</li>
+Un electrodo mohoso que conduce una corriente eléctrica débil.<br><li><b>Aumenta</b> el alcance del ataque Terapia de choque en un <b>25 %</b>.</li><br><li>Aumenta <b>ligeramente</b> el tiempo de carga de Terapia de choque.
+Electrodo mohoso
+Una pieza de ajedrez de caballo blanco hecha de madera de arce. Este regalo de un anciano rescata recuerdos distantes e infunde una concentración devastadora al Doctor.<br><li>Permite ver el área de efecto de Terapia de choque.</li>
+Caballo de arce
+Una terapia de electrochoque de alto estímulo utilizada como parte de la rutina diaria de los pacientes en el Instituto Conmemorativo Léry. Puede crear confusión moderada en el paciente.<br><li>Aumenta la locura causada por tu <b>campo estático</b> en un <b>15 %</b>.</li><li><i>Se ve afectada por la habilidad Reparador.</i></li><br>Los supervivientes con <b>locura</b> tienen la siguiente aflicción:<br><li>Un <b>15 % de probabilidad</b> de que aparezca una prueba de habilidad en un lugar aleatorio.</li><li>Las <i>aflicciones</i> del mismo tipo no se acumulan.</li><br><span class="FlavorText">"Los efectos secundarios son muy poco frecuentes". (Instituto Conmemorativo Léry)</span>
+Orden (clase 2)
+Una terapia de electrochoque convencional utilizada como parte de la rutina diaria de los pacientes en el Instituto Conmemorativo Léry. Puede crear confusión leve en el paciente.<br><li>Aumenta la locura causada por tu <b>campo estático</b> en un <b>10 %</b>.</li><li><i>Se ve afectada por la habilidad Reparador.</i></li><br>Los supervivientes con <b>locura</b> tienen la siguiente aflicción:<br><li>Un <b>10 % de probabilidad</b> de que aparezca una prueba de habilidad en un lugar aleatorio.</li><li>Las <i>aflicciones</i> del mismo tipo no se acumulan.</li>
+Orden (clase 1)
+Una versión experimental de la terapia de electrochoque desarrollada por el propio doctor Herman Carter. El estímulo largo y constante deja al paciente en un estado de confusión grave.<br><li>Aumenta la locura causada por tu <b>campo estático</b> en un <b>25 %</b>.<li><i>Se ve afectada por la habilidad Reparador.</i></li><br>Los supervivientes con <b>locura</b> tienen la siguiente aflicción:<br><li><b>Un 25 % de probabilidad</b> de que aparezca una prueba de habilidad en un lugar aleatorio.</li><li>Las <i>aflicciones</i> del mismo tipo no se acumulan.</li><br><span class="FlavorText">"El estímulo debe mantenerse activo a un nivel <u>convulsivo</u>". (H. Carter)</span>
+Orden (notas de Carter)
+Un electrodo como nuevo usado para realizar tratamientos de electroconvulsión.<br><li><b>Aumenta</b> el alcance del ataque Terapia de choque en un <b>50 %</b>.</li><br><li>Aumenta <b>considerablemente</b> el tiempo de carga de Terapia de choque.
+Electrodo pulido
+Una terapia de electrochoque experimental desarrollada en la niebla con anotaciones rudimentarias. El exceso de corriente genera tensión muscular extrema que merma la energía del paciente.<br><li>Se necesitan <b>2 segundos</b> más para que se complete Cordura.</li><br>Los supervivientes con <b>locura (3)</b> tienen la siguiente aflicción:<br><li><b>agotamiento</b>.</li><li> Las <i>aflicciones</i> del mismo tipo no se acumulan.</li><br><span class="FlavorText">"ROMPAMOS SUS CUERPOS IMPUROS". (Notas sin firmar)</span>
+Obediencia (notas de Carter)
+Una cinta de casete del proyecto Despertar que contiene una entrevista inédita con una víctima. Abre la mente del Doctor a métodos de tratamiento alternativos.<br><li>El ataque Terapia de choque cambia de un cono a un haz con <b>20 metros</b> de alcance y <b>2 metros</b> de amplitud.</li>
+Cinta de entrevista
 Adrenalina
 Agitación
 Desafortunadamente el espectro llora lágrimas de sangre.
@@ -262,17 +303,17 @@ Desafortunadamente el espectro llora lágrimas de sangre.
 Todos los supervivientes comienzan la prueba por separado.<br><li>Secreto.</li><br><span class="FlavorText">"Un fino velo negro que se está cayendo a pedazos".</span>
 Todos los supervivientes comienzan la prueba juntos.<br><li>Secreto.</li><br><span class="FlavorText">"Un trozo cuadrado de tela descolorida con pequeños nudos en cada extremo".</span>
 Ropa de aventuras al aire libre para el hombre que necesita muchos bolsillos.
-Un alicate ajustable con una empuñadura fuerte. Esencial en cualquier caja de herramientas.<br><li><b>Aumenta moderadamente</b> las zonas de éxito de la Revisión de habilidades de reparación.</li><li>Acumulable.</li>
+Un alicate ajustable con una empuñadura fuerte. Esencial en cualquier caja de herramientas.<br><li><b>Aumenta moderadamente</b> las áreas de éxito de la prueba de habilidad de reparación.</li><li>Acumulable.</li>
 Una sustancia antihemorrágica que detiene el sangrado en cuestión de segundos.<br><li>Reduce las cargas un <b>50%</b>.</li><li>Cura <b>instantáneamente</b> y <b>completamente</b> en acciones secundarias.</li><li>Consume por completo el Med-Kit.</li>
 Una camisa corriente para un hombre corriente.
 Un intrincado juego de lentes envuelto en un impresionante y complejo sistema. Las ruedas dentadas que controlan el foco de las lentes se mueven por sí solas para enfocarse en algo invisible para los humanos.<br><li>Cada superviviente ve el aura que el mapa genera cuando el dueño lo activa.</li>
-Un aceite especialmente formulado para motosierras. Un aditivo especial previene las emisiones del aceite.<br><li><b>Reduce moderadamente</b> el tiempo de enfriamiento de la motosierra.</li><li>Acumulable.</li>
+Un aceite especialmente formulado para motosierras. Un aditivo especial previene las emisiones del aceite.<br><li><b>Reduce moderadamente</b> el tiempo de recuperación de la motosierra.</li><li>Acumulable.</li>
 Un viejo trozo de pergamino hecho de material parecido a la piel. Está enrollado y sellado con un cordel de cuero incoloro. Al sujetar y canalizar el mapa, se desbloquea un gran potencial en la habilidad de análisis de auras que quema lentamente el mapa. Las auras de los generadores con los que ya te has topado son reveladas siempre y cuando el mapa tenga cargas restantes.<br><li><b>20 segundos</b> de uso.</li><li>Empieza con <b>1</b> generador automáticamente rastreado.</li><li>Desbloquea la habilidad de rastrear generadores en un radio de <b>8 metros</b>.</li>
 Un traje de sombras, sangre y mugre.
 Un traje de sombras, sangre y mugre.
-Un estremecimiento inusual te advierte de una catástrofe inminente. Mantente informado cuando el asesino te dirige la mirada y esté dentro de un radio de <span class="Highlight1">12 metros</span>. Mientras Escalofríos está activo, las probabilidades de que se activen las revisiones de habilidades aumentan en un <span class="Highlight2">10 %</span> con reducción de áreas de éxito en un <span class="Highlight3">10 %</span>. Mientras Escalofríos está activo, la velocidad de reparación, curación y sabotaje aumenta en un <span class="Highlight4">2 %</span>.
-Un estremecimiento inusual te advierte de una catástrofe inminente. Mantente informado cuando el asesino te dirige la mirada y esté dentro de un radio de <span class="Highlight1">24 metros</span>. Mientras Escalofríos está activo, las probabilidades de que se activen las revisiones de habilidades aumentan en un <span class="Highlight2">10 %</span> con reducción de áreas de éxito en un <span class="Highlight3">10 %</span>. Mientras Escalofríos está activo, la velocidad de reparación, curación y sabotaje aumenta en un <span class="Highlight4">4 %</span>.
-Un estremecimiento inusual te advierte de una catástrofe inminente. Mantente informado cuando el asesino te dirige la mirada y esté dentro de un radio de <span class="Highlight1">36 metros</span>. Mientras Escalofríos está activo, las probabilidades de que se activen las revisiones de habilidades aumentan en un <span class="Highlight2">10 %</span> con reducción de áreas de éxito en un <span class="Highlight3">10 %</span>. Mientras Escalofríos está activo, la velocidad de reparación, curación y sabotaje aumenta en un <span class="Highlight4">6 %</span>.
+Un estremecimiento inusual te advierte de una catástrofe inminente. Mantente informado cuando el asesino te dirige la mirada y esté dentro de un radio de <span class="Highlight1">12 metros</span>. Mientras Escalofríos está activo, las probabilidades de que se activen las pruebas de habilidad aumentan en un <span class="Highlight2">10 %</span> con reducción de áreas de éxito en un <span class="Highlight3">10 %</span>. Mientras Escalofríos está activo, la velocidad de reparación, curación y sabotaje aumenta en un <span class="Highlight4">2 %</span>.
+Un estremecimiento inusual te advierte de una catástrofe inminente. Mantente informado cuando el asesino te dirige la mirada y esté dentro de un radio de <span class="Highlight1">24 metros</span>. Mientras Escalofríos está activo, las probabilidades de que se activen las pruebas de habilidad aumentan en un <span class="Highlight2">10 %</span> con reducción de áreas de éxito en un <span class="Highlight3">10 %</span>. Mientras Escalofríos está activo, la velocidad de reparación, curación y sabotaje aumenta en un <span class="Highlight4">4 %</span>.
+Un estremecimiento inusual te advierte de una catástrofe inminente. Mantente informado cuando el asesino te dirige la mirada y esté dentro de un radio de <span class="Highlight1">36 metros</span>. Mientras Escalofríos está activo, las probabilidades de que se activen las pruebas de habilidad aumentan en un <span class="Highlight2">10 %</span> con reducción de áreas de éxito en un <span class="Highlight3">10 %</span>. Mientras Escalofríos está activo, la velocidad de reparación, curación y sabotaje aumenta en un <span class="Highlight4">6 %</span>.
 Parece que los animales confían en ti ya que se mantienen calmados en tu presencia. Reduce la probabilidad de alertar criaturas del bosque en un <span class="Highlight1">80 %</span>.
 Parece que los animales confían en ti ya que se mantienen calmados en tu presencia. Reduce la probabilidad de alertar criaturas del bosque en un <span class="Highlight1">90 %</span>.
 Parece que los animales confían en ti ya que se mantienen calmados en tu presencia. Reduce la probabilidad de alertar criaturas del bosque en un <span class="Highlight1">100 %</span>.
@@ -308,8 +349,9 @@ Murmullo Amargo
 Cuerda de Seda Negra
 Defensa Negra
 Desangramiento
-Mirada
-Mirada
+Hemorragia
+Proyección
+Proyección
 Ámbar de Sangre
 Danza Sangrienta
 Alojamiento Sangriento
@@ -428,6 +470,27 @@ Chaqueta Eléctrica
 Claudette Legendaria III
 Claudette Legendaria II
 Claudette Legendaria I
+Una bata de médico sin mangas que ha pasado por épocas mejores. Carter siempre ha apreciado el toque dramático que aporta la vestimenta de médico.
+Bata de médico
+Una bata de médico sin mangas. El Doctor aprecia el toque dramático de la sangre en su bata.
+Una bata de médico sin mangas. El Doctor aprecia el toque dramático de la sangre en su bata.
+Bata de médico ensangrentada
+El traje oficial que lleva el jefe de equipo del Instituto Conmemorativo Léry.
+Bata del proyecto Despertar
+Amarrado con el equipo de electrochoque, el Doctor esboza una permanente sonrisa maníaca forzada.
+Herman Carter
+Amarrado con el equipo de electrochoque, el Doctor no tiene más opción que cubrirse de sangre hasta los ojos y la boca.
+Amarrado con el equipo de electrochoque, el Doctor no tiene más opción que cubrirse de sangre hasta los ojos y la boca.
+Herman Carter ensangrentado
+Un doctor furioso, sobrecargado por la enloquecedora energía de electrochoque.
+Herman Carter sobrecargado
+Un instrumento de castigo usado cuando los demás tratamientos han fracasado.
+El palo
+Un instrumento de castigo usado cuando los demás tratamientos han fracasado, cosa que sucede a menudo.
+Un instrumento de castigo usado cuando los demás tratamientos han fracasado, cosa que sucede a menudo.
+El palo ensangrentado
+El palo, que cruje furiosamente con el poder de la chispa de Carter.
+Palo del proyecto Despertar
 El típico mono de mecánico, perfecto para cualquier trabajito o reto en el que te puedas ensuciar un poco. La parte de arriba está atada alrededor de la cintura.<br><span class="FlavorText">"Todos me llaman Ellis. Tengo un taller mecánico con un par de colegas, y también tenemos un grupo. Yo toco el bajo". (Ellis)</span>
 Mono de mecánico
 La típica gorra con un logo genérico de una grúa usado normalmente en los talleres de reparación y los desguaces.<br><span class="FlavorText">"Monté una furgoneta a prueba de zombis, pero resulta que era a prueba del 99 %, y el 1 % restante me la destrozó". (Ellis)</span>
@@ -455,6 +518,27 @@ Dwight Inquieto
 Dwight Legendario III
 Dwight Legendario II
 Dwight Legendario I
+Unos pantalones cortos que muestran los brillantes colores de Lazer Bears.
+Pantalones cortos de Lazer Bears
+Unos pantalones cortos con los brillantes colores de Lazer Bears bajo una gruesa capa de sangre.
+Unos pantalones cortos con los brillantes colores de Lazer Bears bajo una gruesa capa de sangre.
+Pantalones cortos ensangrentados de Lazer Bears
+Unos pantalones de atletismo complementados con unas flamantes zapatillas plateadas.
+Pantalones de atletismo suaves
+Una joven muy centrada y competitiva que va a por todas.
+Feng Min
+Una joven muy centrada y competitiva que va a por todas... cubierta de sangre.
+Una joven muy centrada y competitiva que va a por todas... cubierta de sangre.
+Feng Min ensangrentada
+Un peinado casual para relajarse fuera de cámara.
+Moño relajado
+Camiseta tipo polo oficial de Lazer Bears para el torneo de deportes electrónicos de 2016.
+Camiseta de torneo de Lazer Bears
+Nada intimida a los rivales como una camiseta ensangrentada. 
+Nada intimida a los rivales como una camiseta ensangrentada. 
+Camiseta ensangrentada de Lazer Bears
+Un cómodo abrigo de lana suave que no dejará que te enfríes en las tardes lluviosas.
+Abrigo de descanso
 Con el alma y la piel secas, deformada por una insaciable sed de carne.
 Lisa
 Gotea con la sangre de innumerables festines.
@@ -660,7 +744,7 @@ Captura
 Captura
 Atrapa {1} superviviente(s) con trampas para osos.
 Etiqueta de Ganado N.º 28
-Encadenar Miradas
+Encadenar proyecciones
 Motosierra
 Motosierra
 Motosierra
@@ -678,6 +762,7 @@ Claudette
 Claudette Morel
 Trapo Limpio
 Purificar Tótem
+Velocidad de purificación
 Reactivo Disipador
 Cuchillo de Carnicero
 Ocultarse
@@ -718,7 +803,7 @@ Guirnalda del alcaudón devoto
 Guirnalda del búho manchado devoto
 Guirnalda de la tangara devota
 Desactivar Trampa
-Guantes estériles desechables para evitar la contaminación cruzada.<br><li><b>Reduce ligeramente</b> la dificultad de la Revisión de habilidades curativas.</li><li>Acumulable.</li>
+Guantes estériles desechables para evitar la contaminación cruzada.<br><li><b>Reduce ligeramente</b> la dificultad de la prueba de habilidad curativas.</li><li>Acumulable.</li>
 Distracción
 Escalofriante
 Alboroto
@@ -745,8 +830,10 @@ Evan
 Pantalones Cotidianos de Oficina
 Ropa cotidiana de trabajo para la vida en el matadero.
 Ropa cotidiana de trabajo para la vida en el matadero.
+Agotamiento
 Salir
 ExitStalkMode
+Eficacia
 Reactivo Débil
 Camiseta de Peón
 Chaqueta de Cuero de Moda
@@ -778,11 +865,11 @@ Ramillete de Luna Llena
 Gasolinera
 Lupa de Vidrio
 Medalla de Oro
-Buena Revisión de Habilidades
-Buena Revisión de Habilidades
-Buena Revisión de Habilidades
-Buena Revisión de Habilidades
-Buena Revisión de Habilidades
+Buena prueba de habilidad
+Buena prueba de habilidad
+Buena prueba de habilidad
+Buena prueba de habilidad
+Buena prueba de habilidad
 Superviviente de la Trampa Capturado
 Otorga un <b>25 %</b> de puntos de sangre extra en todas las categorías.<br><li>Personal.</li><li>Acumulable.</li><br><span class="FlavorText">"Un sobre, sin abrir y sin destinatario, amarillento por el tiempo. Nunca se sabrá el mensaje que contiene".</span>
 Otorga un <b>25 %</b> de puntos de sangre extra en todas las categorías.<br><li>Personal.</li><li>Acumulable.</li><br><span class="FlavorText">"Un capullo irreconocible que ha sido rasgado por lo que había en su interior".</span>
@@ -813,11 +900,11 @@ Otorga un <b>75 %</b> de puntos de sangre extra en la categoría de Supervivencia
 Otorga la habilidad de <b>matar a todos los supervivientes</b> por tus propias manos durante la próxima prueba.<br><li>Secreto.</li><br><span class="FlavorText">"Podría jurar que Eso hablaba con la bestia. Se detuvo abruptamente como si escuchara de manera serena las hojas susurrar y luego sonrió".</span>
 Otorga la habilidad de <b>matar a un superviviente</b> por tus propias manos durante la próxima prueba.<br><li>Secreto.</li><br><span class="FlavorText">"Concededme el favor de matar a uno".</span>
 Otorga la habilidad de <b>matar al último superviviente</b> por tus propias manos durante la próxima prueba.<br><li>Secreto.</li><br><span class="FlavorText">"Buen trabajo, el último es tuyo".</span>
-Gran Revisión de habilidades
-Gran Revisión de habilidades
-Gran Revisión de habilidades
-Gran Revisión de habilidades
-Gran Revisión de habilidades
+Gran prueba de habilidad
+Gran prueba de habilidad
+Gran prueba de habilidad
+Gran prueba de habilidad
+Gran prueba de habilidad
 Chaqueta verde de montaña 
 Alicate de Presión
 Cadena Macabra
@@ -834,12 +921,14 @@ Curar (Med-kit)
 Autocurase (botiquín)
 Curarse (autocuración)
 Cura a otros supervivientes por el equivalente de {1} estado(s) de salud.
+Velocidad de curación
+Audición
 Guardapelo de Corazón
 Batería de Larga Duración
 Ayudar a otros aumenta tu moral. Por cada superviviente que rescates de un gancho, gana un <span class="Highlight1">100 %</span> adicional de aumento en velocidad para curar hasta un máximo de un <span class="Highlight2">100 %</span> durante <span class="Highlight3">90 segundos</span>.<br><span class="FlavorText">"Confío en que podremos salir sanos y salvos si nos ayudamos entre nosotros".</span>
 Ayudar a otros aumenta tu moral. Por cada superviviente que rescates de un gancho, gana un <span class="Highlight1">25 %</span> adicional de aumento en velocidad para curar hasta un máximo del <span class="Highlight2">100 %</span> durante <span class="Highlight3">30 segundos</span>.<br><span class="FlavorText">"Confío en que podremos salir sanos y salvos si nos ayudamos entre nosotros".</span>
 Ayudar a otros aumenta tu moral. Por cada superviviente que rescates de un gancho, gana un <span class="Highlight1">50 %</span> adicional de aumento en velocidad para curar hasta un máximo de un <span class="Highlight2">100 %</span> durante <span class="Highlight3">60 segundos</span>.<br><span class="FlavorText">"Confío en que podremos salir sanos y salvos si nos ayudamos entre nosotros".</span>
-Área de éxito de maleficio
+Prueba de habilidad de maleficio
 Esconderse
 Esconderse
 Su delantal de carnicero, que estuvo alguna vez manchado de sangre de animales, está ahora bañado de la sangre de sus víctimas.
@@ -877,7 +966,7 @@ Un botiquín de primeros auxilios rudimentario que puede salvar vidas en caso de 
 Botiquín de Primeros Auxilios de Viaje
 Un botiquín médico robusto y bien organizado equipado con suministros de emergencia en excelentes condiciones.<br><li><b>16 cargas</b>.</li><li><b>Aumenta enormemente</b> la velocidad de curación.</li><li><b>Reduce moderadamente</b> el consumo de cargas de curación.</li><li>Desbloquea la acción de <b>autocuración</b>.</li><br><span class="FlavorText">"Hay una cura para casi todo... pero no para esto".</span>
 Med-kit de Emergencia
-Una caja grande de metal que contiene suministros médicos para rescates de emergencia en lugares inaccesibles y a menudo aislados.<br><li><b>24 cargas</b>.</li><li><b>Aumenta considerablemente</b> la velocidad de curación.</li><li><b>Aumenta moderadamente</b> las áreas de éxito para la Revisión de habilidades.</li><li><b>Aumenta moderadamente</b> las zonas con bonificación de Revisión de habilidades.</li><li>Desbloquea la acción de <b>autocuración</b>.</li><br><span class="FlavorText">"Pegada al panel posterior se puede ver una etiqueta grabada: VK.ID-3994723"</span>
+Una caja grande de metal que contiene suministros médicos para rescates de emergencia en lugares inaccesibles y a menudo aislados.<br><li><b>24 cargas</b>.</li><li><b>Aumenta considerablemente</b> la velocidad de curación.</li><li><b>Aumenta moderadamente</b> las áreas de éxito para la prueba de habilidad.</li><li><b>Aumenta moderadamente</b> las zonas con bonificación de prueba de habilidad.</li><li>Desbloquea la acción de <b>autocuración</b>.</li><br><span class="FlavorText">"Pegada al panel posterior se puede ver una etiqueta grabada: VK.ID-3994723"</span>
 Med-kit de Guardabosques
 Una caja de metal que contiene principalmente serruchos y alicates de presión de diferentes tamaños, pero también otras herramientas. Aunque el contenido de esta caja está destinado sin duda a fines destructivos, también sirve para reparar distintos componentes mecánicos.<br><li><b>130 cargas</b>.</li><li><b>Aumenta ligeramente</b> la velocidad de reparación.</li><li>Desbloquea la acción de <b>sabotaje</b>.</li><li><b>Aumenta moderadamente</b> la velocidad de sabotaje.</li><br><span class="FlavorText">"La mayoría de las herramientas tienen la descripción: "propiedad de Alex"."</span>
 Caja de Herramientas de Alex
@@ -887,7 +976,7 @@ Una caja de metal con herramientas de ingeniería altamente especializadas. Aún a
 Caja de Herramientas de Ingeniero
 Caja de metal que contiene herramientas mecánicas especializadas. Incluso sin entrenamiento, se pueden usar para reparar o romper diferentes componentes mecánicos.<br><li><b>80 cargas</b>.</li><li><b>Aumenta considerablemente</b> la velocidad de reparación.</li><li>Desbloquea la acción de <b>sabotaje</b>.</li><li><b>Reduce moderadamente</b> la velocidad de sabotaje.</li>
 Caja de Herramientas de Mecánico
-Caja de metal que contiene herramientas en malas condiciones que podrían romperse en cualquier momento. Incluso sin entrenamiento, se pueden usar para reparar o romper diferentes componentes mecánicos.<br><li><b>80 cargas</b>.</li><li><b>Aumenta moderadamente</b> la velocidad de reparación.</li><li><b>Reduce ligeramente</b> la zona de éxito de la Revisión de habilidades.</li><li>Desbloquea la acción de <b>sabotaje</b>.</li><br><span class="FlavorText">"¿A esto lo llamas herramientas...? ¿En serio?"</span>
+Caja de metal que contiene herramientas en malas condiciones que podrían romperse en cualquier momento. Incluso sin entrenamiento, se pueden usar para reparar o romper diferentes componentes mecánicos.<br><li><b>80 cargas</b>.</li><li><b>Aumenta moderadamente</b> la velocidad de reparación.</li><li><b>Reduce ligeramente</b> la área de éxito de la prueba de habilidad.</li><li>Desbloquea la acción de <b>sabotaje</b>.</li><br><span class="FlavorText">"¿A esto lo llamas herramientas...? ¿En serio?"</span>
 Herramientas Desgastadas
 En lo que ahora parece que haya sido otra vida, Jake tenía una reputación que mantener. Un aspecto limpio. Trajes. Lo único que aún está dispuesto a llevar es su elegante bigote.
 Insidioso
@@ -908,6 +997,7 @@ Jake Park
 Vaqueros Metidos en las Botas de Montar
 Sudadera con Capucha
 Simplemente, otro par de pantalones.
+El Doctor
 La Bruja
 La Forma
 Mantiene el sudor adentro, lástima que no haga lo mismo con la sangre.
@@ -926,10 +1016,13 @@ Escape del Alcance del Asesino
 Salvado de las Manos del Asesino
 Asesino Aturdido
 Boina Tejida
+ES IMPORTANTE LEER ATENTAMENTE ESTE CONTRATO DE LICENCIA DE USUARIO FINAL (EL «CLUF» O EL «CONTRATO»). AL USAR EL JUEGO Y PARTICIPAR EN EL, USTED ACEPTA QUEDAR OBLIGADO POR ESTE CLUF EXACTAMENTE IGUAL QUE SI SE TRATARA DE UN CONTRATO ESCRITO FIRMADO POR USTED. SI NO ACEPTA LA TOTALIDAD DE LAS CONDICIONES DE ESTE CLUF, NO INSTALE EL JUEGO NI LO USE. SERÁN DE SU CARGO TODAS LAS TARIFAS DE CONEXIÓN A INTERNET EN QUE INCURRA MIENTRAS USE EL JUEGO O PARTICIPE EN ÉE. <br /> <br /> La Política de privacidad (Privacy Policy) de BHVR (la «Política de privacidad») que encontrará en la dirección <a href="event:http://www.bhvr.com/privacy"><font color="#ff0000">bhvr.com/privacy</font></a> forma parte integrante de este CLUF. <br /> <br /> El presente CLUF, junto con las Condiciones de uso (Terms of Use), que encontrará en la dirección <a href="event:http://www.bhvr.com/tou"><font color="#ff0000">bhvr.com/tou</font></a>, la Política de privacidad, las enmiendas que cualquiera de estos documentos incorpore en cada momento, y las reglas, normas o instrucciones publicadas en relación con determinada actividad, encuesta, producto o servicio de cualquier otro tipo (todas las citadas condiciones denominadas conjuntamente en el presente documento las «Condiciones del Juego»), regirán su participación en el videojuego, la aplicación, el software, sus actualizaciones, mejoras y parches asociados y los servicios relacionados y el uso que haga de ellos (el «Juego») así como todos los demás productos, servicios en línea o sitios web (individual y conjuntamente, los «Servicios de BHVR») que actualmente o en el futuro ofrezca BEHAVIOUR DIGITAL INC. o cualquiera de sus entidades vinculadas o filiales (en el presente, colectivamente, «BHVR»). <br /> <br /> BHVR se reserva el derecho, en todo momento y según su exclusivo criterio, de revisar, actualizar, cambiar, modificar, complementar, añadir o eliminar, total o parcialmente, las condiciones de este CLUF. BHVR le informará sobre tales revisiones por correo electrónico, mediante un aviso en <a href="event:http://www.bhvr.com"><font color="#ff0000">www.bhvr.com</font></a> y/o durante el inicio de sesión. A no ser que se indique otra cosa, cuando tales revisiones afecten a los Servicios de BHVR, estas entrarán en vigor en el momento en que usted las acepte o bien cuando hayan transcurrido treinta (30) días desde su publicación, lo que suceda antes. Si usted no está de acuerdo con cualquier cambio futuro de este CLUF o si, como consecuencia dicho cambio, usted dejara de cumplir o de aceptar los requisitos de este CLUF, puede resolver este Contrato de conformidad con lo establecido en el. <br /> <br /> Puede revisar la versión más reciente de este CLUF haciendo clic en el enlace «CLUF» (EULA) que se encuentra en el Juego, o bien en <a href="event:http://www.bhvr.com"><font color="#ff0000">www.bhvr.com</font></a>. Usted es responsable de consultar este CLUF periódicamente por si presenta algún cambio. <br /> <br /> Los términos con mayúscula inicial utilizados en este CLUF pero que no se definan en él tendrán el significado que se les atribuya en las Condiciones de uso. <br /> <br /> <font size="20"><b>I. I.	Normas de conducta</b></font> <br /> <br /> Mientras participe en el Juego, usted se compromete a cumplir determinadas normas de conducta que rigen su uso del Juego (las «Normas de conducta»); por ejemplo, está prohibido: <br /> <li>Acosar de forma electrónica, amenazar o avergonzar a otros usuarios, así como llevar a cabo cualquier otra acción no deseada contra otro usuario, como enviarle repetidamente mensajes no deseados o efectuar ataques o afirmaciones personales sobre la raza, la orientación sexual, la religión, las tradiciones, etc.. Es intolerable la incitación al odio.</li> <li>Interrumpir el flujo de las conversaciones en las salas de chat con lenguaje vulgar, comportamientos abusivos, pulsaciones reiteradas de la tecla Intro, inserción de imágenes de gran tamaño que hagan avanzar la pantalla demasiado rápido e impidan leerla, uso excesivo de «gritos» (palabras escritas totalmente en mayúsculas) con la intención de molestar a los demás usuarios, envío de mensajes no deseados («spam») o publicación del mismo texto repetidamente de forma excesiva («flooding»).</li> <li>Hacerse pasar por otra persona (incluidas las personas famosas), declararse falsamente empleado o representante de BHVR o intentar engañar a los usuarios indicando que representa a BHVR o a cualquier socio o entidad vinculada de BHVR.</li> <li>Intentar obtener contraseñas, datos de acceso o cualquier otra información privada de otros en los Servicios de BHVR.</li> <li>Promover o alentar cualquier tipo de actividad ilegal, tales como la piratería informática, la modificación del software para eliminar sus métodos de protección o la distribución de versiones falsificadas del Juego y del software.</li> <li>Cargar archivos que contengan virus o datos dañados.</li> <li>Publicar mensajes con fines distintos a las comunicaciones personales, lo que incluye anuncios o mensajes promocionales, cartas en cadena, esquemas piramidales y otras actividades comerciales.</li> <li>Usar indebidamente el servicio de asistencia web o los botones de presentación de reclamaciones, así como efectuar denuncias falsas al personal de BHVR.</li> <li>Usar o distribuir programas de software o aplicaciones de tipo «auto» o «macro» o que de cualquier otro modo sirvan como utilidades para hacer trampas.</li> <li>Modificar cualquier parte de los Servicios de BHVR sin contar con la autorización expresa de BHVR para ello.</li> <li>Publicar o comunicar información personal real de cualquier usuario mediante un Servicio de BHVR.</li> <li>Intentar interferir en una transmisión con origen o destino en los servidores de cualquier Servicio de BHVR, así como piratear o descifrar una de dichas transmisiones.</li> <li>Intentar usar el Software de BHVR en un servicio que BHVR no controle o no haya autorizado o a través de alguno de ellos.</li> <li>Explotar el Juego o cualquier parte de este o de los Servicios de BHVR para fines comerciales, lo que incluye, sin limitación, (a) su uso en un cibercafé, centro de juegos informáticos o cualquier otro establecimiento físico; (b) la obtención de elementos o recursos virtuales del Juego para su venta fuera del Juego; o (c) la prestación de servicios dentro del Juego (por ejemplo, la aceleración de la obtención de niveles superiores o «power leveling») a cambio de un pago fuera del Juego.</li> <li>Interferir con la capacidad de los demás para disfrutar de jugar en un Servicio de BHVR o adoptar medidas que interfieran con la prestación de un Servicio de BHVR para disfrute de todos sus usuarios o que aumenten de forma considerable el coste de prestar dicho Servicio de BHVR.</li> <li>Explotar errores de diseño, características no documentadas y/u otros errores para obtener un acceso que, de otro modo, no estaría disponible, o para beneficiarse de algún tipo de ventaja competitiva.</li> <li>Efectuar la ingeniería inversa del Juego, descompilarlo o desensamblarlo, en su totalidad o en parte.</li> <li>Facilitar, crear o mantener una conexión no autorizada con el Juego, lo que incluye, sin limitación, las conexiones que usen programas o herramientas que BHVR no haya aprobado de forma expresa.</li> <br /> La anterior lista de prohibiciones únicamente proporciona ejemplos de conductas inaceptables, pero no pretende ser una lista completa ni exhaustiva de conductas prohibidas. Su conducta en línea deberá regirse por el sentido común y el respeto hacia quienes accedan al Juego y lo usen (tanto si estos terceros son usuarios registrados del Juego como si no) y hacia los empleados y representantes de BHVR. Asimismo, deberá cumplir todas la leyes y normas federales, estatales, provinciales y locales que sean de aplicación a sus actividades cuando use el Juego. BHVR se reserva el derecho de resolver este CLUF e impedir el uso por parte de usted de la totalidad o parte de los Servicios de BHVR si su Acceso se utiliza para cometer actividades ilegales, infringe las presentes Normas de conducta o incumple cualquiera de las Condiciones de BHVR. <br /> <br /> <font size="20"><b>I. Licencia limitada de uso</b></font> <br /> <br /> Por el presente, BHVR le concede una licencia limitada, personal, no exclusiva, intransferible, sin posibilidad de cesión y totalmente revocable para usar el Juego y el Contenido (Content) de este exclusivamente para su propio uso individual de entretenimiento y sin fines comerciales. La citada licencia está sujeta a las condiciones siguientes: (1) usted deberá estar al corriente de pago de todas las tarifas aplicables para el uso del Juego y de los Servicios de BHVR a los que esté suscrito; y (2) usted deberá cumplir las Condiciones de uso (si procede), de este CLUF y la Política de privacidad y no deberá estar en situación de incumplimiento de ninguna de las Condiciones de BHVR. La concesión de licencia mencionada se revocará automáticamente en el momento en que usted deje de cumplir cualquiera de las condiciones indicadas. <br /> <br /> El Juego podrá requerir o permitir que descargue Software de BHVR. En tales casos, BHVR le concede una licencia limitada no exclusiva para usar el Software de BHVR (BHVR Software) exclusivamente con los fines establecidos por BHVR en el momento en que el Software de BHVR (BHVR Software) se ponga a su disposición. Si el Software de BHVR (BHVR Software) va acompañado de un Contrato de licencia de usuario final, el uso de dicho Software de BHVR por su parte quedará sujeto a las condiciones de dicho contrato y a las Condiciones del servicio. Se le prohíbe sublicenciar el uso del Software de BHVR (BHVR Software) y el acceso a este, así como cobrar a terceros por dicho uso o acceso. Se le prohíbe traducir, descompilar y desensamblar el Software de BHVR (BHVR Software), efectuar su ingeniería o compilación inversas y crear trabajos derivados de él. Se le prohíbe modificar el Software de BHVR y usarlo de cualquier modo sin la autorización expresa por escrito de BHVR. Usted entiende que la introducción por parte de BHVR de diversas tecnologías podría no ser uniforme en todas las plataformas y que el rendimiento del Software de BHVR (BHVR Software) y de los Servicios de BHVR relacionados puede variar en función de su Dispositivo y de otros equipos. <br /> <br /> Cuando lo estime oportuno, BHVR puede proporcionarle actualizaciones o modificaciones del Juego. Usted entiende que algunas actualizaciones y modificaciones podrían ser imprescindibles para poder continuar usando el Juego. Usted acepta que BHVR podría dejar de prestar asistencia para versiones anteriores del Juego a partir del momento en que esté disponible una versión actualizada. <br /> <br /> <font size="20"><b>II. Consentimiento de supervisión</b></font> <br /> <br /> Cuando use el Juego o participe en cualquier otro Servicio de BHVR, su dirección IP (la dirección del Protocolo de Internet desde la que acceda al Juego o a cualquier Servicio de BHVR) puede quedar almacenada en nuestros registros. Cuando se aplique una actualización o un «parche» al Juego o a cualquier elemento o módulo de este, nuestra rutina de aplicación de parches puede comprobar si su Dispositivo tiene instalada la versión más reciente de los archivos específicos del Juego; cuando se comunique con otra persona dentro del Juego o usando cualquiera de las funciones de comunicación del Juego (por ejemplo, el chat en directo, los servicios de mensajería instantánea y otros parecidos), aunque sea «en privado», debe hacerlo sabiendo que dichas comunicaciones pasan por nuestros servidores y pueden someterse a nuestra supervisión. En consecuencia, usted confirma que no tiene ninguna expectativa de privacidad respecto a ninguna de estas comunicaciones y, en consecuencia, consiente expresamente que se supervisen las comunicaciones que envíe y reciba. <br /> <br /> BHVR utiliza el servicio antitrampas EasyAntiCheat («EasyAntiCheat»), gestionado por un proveedor tercero que presta sus servicios a BHVR. EasyAntiCheat tiene un software cliente (el «Software cliente») integrado en el Juego. Al iniciar una nueva sesión del Juego, automáticamente se carga e instala la versión más reciente del Software cliente en el Dispositivo. Mientras usa el Juego en su Dispositivo, EasyAntiCheat lo supervisa, analiza el código binario del Juego y examina la memoria del Dispositivo con el propósito de detectar e impedir que se hagan trampas en este (el «Propósito»). Para este Propósito, EasyAntiCheat almacena información sobre los métodos para hacer trampas que se usan en el Juego (los «Datos»). Al instalar, copiar o usar de cualquier otro modo el Juego, usted presta su consentimiento para que EasyAntiCheat recopile, almacene y publique los Datos con la finalidad exclusiva de cumplir el Propósito. Los Datos se usarán exclusivamente para cumplir el Propósito, lo que incluye, sin limitación, identificar y expulsar a los jugadores que hagan trampas en los juegos informáticos, analizar los comportamientos tramposos y el código para hacer trampas, y compartir información sobre las trampas con las entidades vinculadas de EasyAntiCheat. <br /> <br /> Usted acepta que nos comuniquemos con usted por teléfono, correo electrónico u otra tecnología similar con cualquier fin relacionado con el Juego y con cualquier Servicio de BHVR que en el futuro le prestemos directamente o que se le preste en nuestro nombre. Usted permite expresamente a BHVR la carga de información en su CPU, sistema operativo, tarjeta de vídeo, tarjeta de sonido y memoria de su Dispositivo (Device) con el fin de analizar y optimizar su experiencia con el Juego, mejorar y mantener el Juego y/o prestarle servicios personalizados. En el caso de que el Juego detecte un programa de terceros no autorizado, (a) el Juego podrá comunicarnos información al respecto, lo que incluye, sin limitación, el nombre de usuario de su Cuenta, información detallada sobre el programa de terceros no autorizado detectado y sobre las actividades o funciones que este realiza, y/o (b) podremos ejercer la totalidad o parte de nuestros derechos y recursos en virtud de las Condiciones de BHVR sin previo aviso al usuario o usuarios asociados al programa de terceros no autorizado. <br /> <br /> <font size="20"><b>III. Propiedad intelectual</b></font> <br /> <br /> Los Servicios de BHVR, así como la titularidad, los derechos de propiedad y los derechos de propiedad intelectual del Juego y sobre el (lo que incluye, sin limitación, la totalidad del texto, los gráficos, la música, los sonidos, los mensajes o los elementos de información, los personajes de ficción, los nombres, los temas, los objetos, los decorados, el vestuario, los efectos, los diálogos, los lemas, los lugares, los personajes, los diagramas, los conceptos, las coreografías, los vídeos, los efectos audiovisuales, los nombres de dominio y cualesquiera otros elementos que formen parte del Juego, de forma individual o combinados) son propiedad de BHVR o de los licenciadores de BHVR y están protegidos por las leyes canadienses e internacionales de derechos de autor, imagen de marca, patentes y marcas comerciales, los convenios internacionales y otras leyes de protección de la propiedad intelectual y de los derechos de propiedad relacionados. Se le prohíbe copiar o descargar cualquier Contenido (Content) del Juego o de un Servicio de BHVR a no ser que nuestras condiciones le autoricen expresamente para ello.Usted se compromete a no quitar, enmascarar ni alterar los avisos de derechos de autor, patentes, marcas comerciales u otros derechos de propiedad presentes en el Contenido. Se le prohíbe vender, licenciar, distribuir, copiar, modificar, exhibir o reproducir públicamente, transmitir, publicar, editar y adaptar el Juego, crear trabajos derivados de él o realizar cualquier otro uso no autorizado de él. BHVR se reserva todos los derechos propiedad de BHVR y otorgados por esta licencia sobre el Juego y los Servicios de BHVR que no se le concedan expresamente en este CLUF o en las Condiciones de BHVR. Usted confirma que BHVR y/o los proveedores de contenido terceros continuarán siendo en todo momento los propietarios de todos los materiales publicados en el Juego y que usted no adquiere ninguno de estos derechos de propiedad al descargar materiales sujetos a derechos de autor (copyright). <br /> <br /> La realización de copias no autorizadas del Juego puede dar lugar a la resolución de este CLUF, la prohibición de usar los Servicios de BHVR y otras acciones legales. Los propietarios del Contenido podrán ejercitar acciones penales o civiles contra usted por el uso no autorizado de propiedad intelectual. <br /> <br /> <font size="20"><b>IV. Acceso al Juego</b></font> <br /> <br /> EL JUEGO PUEDE ESTAR PROTEGIDO POR SOFTWARE DE GESTIÓN DE DERECHOS DIGITALES (EL «SOFTWARE DE DRM») EN ESTE CASO, USTED ACEPTA, CONFIRMA Y CONSIENTE POR EL PRESENTE LO SIGUIENTE EN RELACIÓN CON EL SOFTWARE DE DRM: (I) AL INSTALAR EL JUEGO, SE INSTALARÁ EL SOFTWARE DE DRM EN SU DISPOSITIVO; (II) EL SOFTWARE DE DRM PODRÁ LIMITAR EL NÚMERO DE INSTALACIONES DEL JUEGO; (III) EL SOFTWARE DE DRM PODRÁ INSTALAR EN SU DISPOSITIVO COMPONENTES ADICIONALES NECESARIOS PARA LA PROTECCIÓN DE COPIAS; Y (IV) DURANTE LA INSTALACIÓN Y/O AL INICIAR EL JUEGO POR PRIMERA VEZ, PODRÍA SER NECESARIO ESTABLECER UNA CONEXIÓN EN LÍNEA PARA DESBLOQUEAR EL JUEGO MEDIANTE EL SOFTWARE DE DRM. BHVR NO ACEPTA EN NINGÚN CASO RESPONSABILIDAD ALGUNA RELACIONADA CON LOS COMPONENTES QUE EL SOFTWARE DE DRM INSTALE EN SU DISPOSITIVO. PARA OBTENER MÁS INFORMACIÓN, VISITE EL SITIO WEB DEL SOFTWARE DE DRM QUE APARECE DURANTE LA INSTALACIÓN DEL JUEGO. PODRÁN IMPONERSE RESTRICCIONES DE EDAD PARA ACCEDER A LOS SERVICIOS Y LAS FUNCIONES EN LÍNEA DE CONFORMIDAD CON LA LEGISLACIÓN LOCAL. <br /> <br /> <font size="20"><b>V. Resolución</b></font> <br /> <br /> El presente CLUF estará vigente desde la fecha de la compra, la descarga o el uso por primera vez del Juego, lo que suceda antes, hasta que se resuelva de conformidad con sus condiciones. Tanto usted como BHVR (o los licenciadores de esta) podrán resolver este CLUF en cualquier momento por cualquier motivo o sin él. La resolución por parte de BHVR entrará en vigor en el momento en el que le sea notificada, en el que se resuelva o elimine su Cuenta (si procede) o en el que BHVR decida con carácter permanente dejar de ofrecer el Juego y/o prestar asistencia para él, lo cual podrá hacer en cualquier momento y según su exclusivo criterio. Usted puede resolver este CLUF y, por consiguiente, su Cuenta (si procede), en cualquier momento mediante notificación a BHVR en la dirección <a href="event:mailto:deadbydaylight@bhvr.com"><b>deadbydaylight@bhvr.com</b></a>. En el momento de la resolución de este Contrato, con carácter inmediato cesará su derecho de usar el Juego y deberá desinstalarlo y destruir todas las copias de este que obren en su poder. <br /> <br /> BHVR se reserva el derecho de cobrar las tarifas, los recargos o los costes devengados antes de la resolución de este CLUF por parte de usted. <br /> <br /> <font size="20"><b>I. Exención de responsabilidades e indemnización</b></font> <br /> <br /> Esta sección seguirá vigente tras la resolución de este CLUF. <br /> <br /> <font color="#78acbb"><i>A. Limitaciones de la garantía y la responsabilidad</i></font> <br /> <br /> EN LA MÁXIMA MEDIDA QUE LO PERMITA LA LEGISLACIÓN APLICABLE, USTED ACEPTA EXPRESAMENTE QUE EL USO DEL JUEGO O DE CUALQUIER OTRO SERVICIO DE BHVR, SOFTWARE DE BHVR (BHVR SOFTWARE) E INTERNET SON EXCLUSIVAMENTE POR SU CUENTA Y RIESGO. EL JUEGO, LOS SERVICIOS DE BHVR, EL SOFTWARE DE BHVR, LOS PRODUCTOS DE BHVR Y LOS SERVICIOS Y PRODUCTOS DE TERCEROS SE PROPORCIONAN «TAL CUAL» Y «SEGÚN DISPONIBILIDAD» PARA QUE USTED LOS USE, SIN GARANTÍAS DE NINGÚN TIPO, YA SEAN EXPLÍCITAS O IMPLÍCITAS, A NO SER QUE LA LEY NO PERMITA LA EXCLUSIÓN DE TALES GARANTÍAS. BHVR PROPORCIONA EL JUEGO Y PRESTA LOS SERVICIOS DE BHVR SEGÚN CRITERIOS COMERCIALES RAZONABLES Y NO GARANTIZA LA COMERCIABILIDAD NI LA IDONEIDAD PARA UN FIN DETERMINADO, QUE USTED VAYA A PODER ACCEDER A LOS SERVICIOS DE BHVR O USARLOS EN TODO MOMENTO O DESDE CUALQUIER UBICACIÓN QUE ELIJA, QUE BHVR VAYA A DISPONER DE CAPACIDAD SUFICIENTE PARA LOS SERVICIOS DE BHVR EN SU CONJUNTO NI EN UNA ZONA GEOGRÁFICA CONCRETA, QUE LOS SERVICIOS DE BHVR ESTÉN LIBRES DE ERRORES, QUE LOS DEFECTOS SE VAYAN A CORREGIR NI QUE LOS SERVICIOS DE BHVR ESTÉN LIBRES DE VIRUS U OTROS COMPONENTES PERJUDICIALES. EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, EL USO QUE HAGA USTED DE ESTE SITIO WEB, LO QUE INCLUYE, SIN LIMITACIÓN, TODAS LAS FUNCIONES DE COMUNICACIÓN DE ESTE ÚLTIMO, SERÁ EXCLUSIVAMENTE POR SU CUENTA Y RIESGO. ADEMÁS, USTED CONFIRMA Y ACEPTA QUE SU ÚNICO Y EXCLUSIVO RECURSO EN CASO DE CONTROVERSIA CON BHVR O SUS LICENCIADORES CONSISTE EN DEJAR DE USAR EL JUEGO Y LOS SERVICIOS DE BHVR. USTED CONFIRMA Y ACEPTA QUE BHVR, SUS LICENCIADORES Y ENTIDADES VINCULADAS NO SON RESPONSABLES DE NINGÚN ACTO U OMISIÓN POR PARTE DE ELLOS NI DE NINGUNA OTRA PERSONA EN RELACIÓN CON LA CONDUCTA, LA COMUNICACIÓN O EL CONTENIDO EN LOS SERVICIOS DE BHVR O CON EL USO DEL SOFTWARE DE BHVR. LA RESPONSABILIDAD DE BHVR, SUS LICENCIADORES, ENTIDADES VINCULADAS, EMPLEADOS, EJECUTIVOS O DIRECTIVOS (CONJUNTAMENTE, LAS «ENTIDADES VINCULADAS DE BHVR») NO SUPERARÁ EN NINGÚN CASO LA CANTIDAD ABONADA POR USTED A BHVR POR LOS SERVICIOS DE BHVR. BHVR O LAS ENTIDADES VINCULADAS DE BHVR NO SERÁN RESPONSABLES EN NINGÚN CASO DE LOS DAÑOS DIRECTOS, GENERALES, ACCIDENTALES, ESPECIALES O CONSECUENCIALES, LO QUE INCLUYE LA PÉRDIDA DE BENEFICIOS O INGRESOS QUE SE DERIVEN DEL USO POR PARTE DE USTED DE LOS SERVICIOS DE BHVR, DEL SOFTWARE DE BHVR DE INTERNET O DE CUALQUIER OTRA RECLAMACIÓN RELACIONADA DEL MODO QUE SEA CON EL USO POR PARTE DE USTED DE LAS CUENTAS O LOS SERVICIOS DE BHVR. DADO QUE EN ALGUNAS JURISDICCIONES NO SE PERMITE LA EXCLUSIÓN O LIMITACIÓN DE RESPONSABILIDADES POR DAÑOS CONSECUENCIALES O ACCIDENTALES, EN TALES JURISDICCIONES LA RESPONSABILIDAD DE BHVR Y DE LAS ENTIDADES VINCULADAS DE BHVR SE LIMITARÁ HASTA LA MÁXIMA VIGENCIA PERMITIDA POR LA LEY. <br /> <br /> <font color="#78acbb"><i>B. Indemnización</i></font> <br /> <br /> Si BHVR así lo solicita, usted se compromete a defender, mantener indemne y exonerar de toda responsabilidad a BHVR, sus entidades vinculadas, licenciadores, empleados, contratistas, ejecutivos, directivos y proveedores de servicios, productos y contenido ante cualesquiera responsabilidades, reclamaciones y gastos, incluidos los honorarios de abogados que se deriven de un incumplimiento del que usted sea responsable, ya sea de este CLUF o de cualesquiera otras Condiciones de BHVR. Sin que sirva de limitación al carácter general del párrafo anterior, usted se compromete a mantener indemne y exonerar de toda responsabilidad a BHVR por cualquier uso indebido o ilegal del Juego. <br /> <br /> Usted es el único responsable de los daños causados a BHVR, sus licenciadores, proveedores y contratistas, a otros usuarios del Juego o a cualesquiera otras personas físicas o jurídicas como consecuencia de una infracción de este CLUF por parte de usted. <br /> <br /> BHVR se reserva el derecho, por su cuenta y riesgo, de asumir la defensa y el control exclusivos de cualquier asunto que por cualquier motivo esté sujeto a indemnización por parte de usted. En tal caso, usted no tendrá ninguna obligación adicional de indemnizar a BHVR respecto de ese asunto. <br /> <br /> <font color="#78acbb"><i>C. Actualizaciones: Posibles contratiempos y pérdida de datos</i></font> <br /> <br /> IMPORTANTE: BHVR PUEDE CONSIDERAR NECESARIO LLEVAR A CABO ACTUALIZACIONES O RESTABLECER DETERMINADOS PARÁMETROS PARA EQUILIBRAR EL USO Y DISFRUTE DEL JUEGO Y DE LOS SERVICIOS DE BHVR. ESTAS ACTUALIZACIONES O «RESTABLECIMIENTOS» PUEDEN HACER QUE USTED SUFRA CONTRATIEMPOS EN EL JUEGO O AFECTAR A LOS PERSONAJES, LOS JUEGOS, LOS GRUPOS Y OTROS DERECHOS QUE USTED CONTROLE. BHVR SE RESERVA EL DERECHO DE LLEVAR A CABO TALES ACTUALIZACIONES Y NO ASUME RESPONSABILIDAD ALGUNA ANTE USTED POR ESTOS CAMBIOS. <br /> <br /> <font color="#78acbb"><i>D. Funciones de terceros</i></font> <br /> <br /> Según proceda, algunas partes del Juego pueden utilizar funciones de terceros, cuya gestión podría estar en manos de proveedores terceros y respecto de las cuales podrían ser de aplicación condiciones y/o costes adicionales. Usted está obligado a cumplir estas condiciones adicionales. Por consiguiente, es importante que revise atentamente tales condiciones y costes adicionales. <br /> <br /> <font size="20"><b>II. Resolución de controversias</b></font> <br /> <br /> <font color="#78acbb"><i>A. Recursos de equidad</i></font> <br /> <br /> Por el presente, usted confirma y acepta que BHVR sufriría un perjuicio irreparable en caso no cumplirse estrictamente las disposiciones de este CLUF o de las Condiciones de BHVR. Por consiguiente, además de la reparación económica y de otra índole que pueda obtener legalmente, usted acepta que BHVR tendrá derecho a exigir el cumplimiento estricto y a solicitar otras medidas cautelares sin ningún tipo de fianza, garantía ni prueba de los daños y perjuicios, como reparación por cualquier incumplimiento o amenaza de incumplimiento de este CLUF o de cualesquiera otras Condiciones de BHVR. <br /> <br /> <font color="#78acbb"><i>B. Negociaciones informales</i></font> <br /> <br /> Para agilizar la resolución y controlar el coste de cualquier controversia, discrepancia o reclamación relacionadas con este CLUF o con cualesquiera otras Condiciones de BHVR (la «Controversia»), usted y BHVR se comprometen a intentar, en primer lugar, negociar informalmente cualquier Controversia (excepto aquellas que se establecen expresamente a continuación) durante al menos treinta (30) días antes de iniciar cualquier procedimiento arbitral o judicial. Tales negociaciones informales comenzarán con la notificación por escrito de una parte a la otra. BHVR le enviará la notificación a su dirección de facturación (si la ha facilitado) y le remitirá una copia a la dirección de correo electrónico que nos haya proporcionado. Usted se compromete a enviar su notificación a Behaviour Digital Inc. a la dirección de correo electrónico <a href="event:mailto:deadbydaylight@bhvr.com"><b>deadbydaylight@bhvr.com</b></a>. <br /> <br /> <font color="#78acbb"><i>C. Resolución formal de controversias</i></font> <br /> <br /> Si usted y BHVR no consiguen resolver una Controversia mediante negociaciones informales, usted o BHVR podrán optar por que la Controversia se resuelva con carácter exclusivo y definitivo en los tribunales de la provincia de Quebec. <br /> <br /> <font size="20"><b>III. Condiciones generales</b></font> <br /> <br /> <font color="#78acbb"><i>A. Recursos.</i></font> <br /> <br /> Usted acepta que este CLUF no pretende conferir ni confiere ningún tipo de derechos o recursos a ninguna persona distinta de las partes de este CLUF. Usted también entiende y acepta que las Condiciones de uso, la Política de privacidad, este CLUF y todas las demás Condiciones de BHVR, lo que incluye la exigencia por parte de BHVR de cumplimiento de todos ellos, no pretenden conferir ni confieren ningún tipo de derechos ni recursos a ninguna persona. <br /> <br /> <font color="#78acbb"><i>B. Divisibilidad.</i></font> <br /> <br /> Si cualquier parte de este CLUF o de las Condiciones de BHVR resultara no ser válida o no pudiera exigirse su cumplimiento, esa parte se interpretará de forma coherente con la legislación aplicable para reflejar las intenciones originales de BHVR del modo más parecido posible y las partes restantes permanecerán en vigor y con pleno efecto. <br /> <br /> <font color="#78acbb"><i>C. Cesión.</i></font> <br /> <br /> BHVR puede ceder este CLUF, en su totalidad o en parte, a cualquier persona física o jurídica en cualquier momento con o sin el consentimiento de usted. Usted no está autorizado a ceder este CLUF sin el consentimiento previo por escrito de BHVR, por lo que cualquier cesión no autorizada por parte de usted será nula y carecerá absolutamente de efecto. <br /> <br /> <font color="#78acbb"><i>D. Renuncia.</i></font> <br /> <br /> El hecho de que BHVR (o cualquiera de sus licenciadores) no ejerza algún derecho o no exija el cumplimiento de alguna disposición de este CLUF o de las Condiciones de BHVR no podrá interpretarse de ningún modo como una renuncia a dicha disposición ni afectará de ninguna manera al derecho de cualquiera de las partes de exigir en lo sucesivo el cumplimiento de todas y cada una de las disposiciones. La renuncia expresa por parte de BHVR (o de sus licenciadores) a cualquier disposición, condición o requisito de este CLUF o cualesquiera Condiciones de BHVR no constituirá una renuncia a ninguna obligación futura de cumplir dicha disposición, condición o requisito. <br /> <br /> <font color="#78acbb"><i>E. Fuerza mayor.</i></font> <br /> <br /> BHVR no será responsable por los retrasos o incumplimientos derivados de causas ajenas al control razonable de BHVR, lo que incluye, sin que sirva de limitación, cualquier incumplimiento del presente Contrato debido a circunstancias imprevistas o causas que escapen al control de BHVR, tales como desastres naturales, actos de guerra, atentados terroristas, disturbios, embargos, actos de las autoridades civiles o militares, incendios, inundaciones, accidentes, huelgas o escasez de medios de transporte, combustibles, energía, mano de obra o materiales. <br /> <br /> <font color="#78acbb"><i>F. Legislación vigente</i></font> <br /> <br /> La legislación de Quebec, excluidas sus reglas sobre conflictos entre leyes, regirá este CLUF y todas las demás Condiciones de BHVR. Usted acepta expresamente que la jurisdicción exclusiva para cualquier reclamación o controversia con BHVR o relacionada de cualquier modo con este CLUF, con cualesquiera otras Condiciones de BHVR o con su uso de los Servicios de BHVR corresponde a los tribunales de la provincia de Quebec; asimismo, acepta y consiente expresamente la sumisión al fuero personal de los tribunales de la provincia de Quebec en relación con tales controversias, lo que incluye todas las reclamaciones relativas a BHVR o sus entidades vinculadas, empleados, contratistas, ejecutivos, directivos distribuidores y proveedores de contenidos. Tal y como se indica en este CLUF, la conducta de usted también podría estar sujeta a otras leyes de carácter local, estatal, nacional e internacional. <br /> <br /> Queda expresamente excluida la aplicación de la Convención de las Naciones Unidas sobre los contratos de compraventa internacional de mercaderías. <br /> <br /> Quienes deciden acceder al Juego o a cualquier otro Servicio de BHVR desde alguna ubicación externa a Canadá lo hacen por propia iniciativa y son responsables de cumplir la legislación local siempre y cuando esta sea de aplicación, y en la medida en que lo sea. En caso de que un tribunal competente determine que son de aplicación otras leyes, este CLUF se aplicará en la máxima medida permitida por las leyes de la jurisdicción aplicable y se interpretará de tal forma que sus términos y condiciones posean el máximo efecto y vigor. <br /> <br /> <font color="#78acbb"><i>G. Totalidad del acuerdo.</i></font> <br /> <br /> Este CLUF, la Política de privacidad y cualesquiera otras Condiciones de BHVR, incluidas las normase instrucciones publicadas en relación con una actividad, encuesta o concurso determinados, constituyen la totalidad del acuerdo entre usted y BHVR en relación con los derechos y obligaciones que usted ostenta respecto al uso del Juego y de los Servicios de BHVR. En caso de conflicto entre este CLUF, la Política de privacidad y cualesquiera otras Condiciones de BHVR, BHVR resolverá el conflicto según su exclusivo criterio. <br /> <br /> En caso de duda en relación con este CLUF, póngase en contacto con BHVR en la siguiente dirección: <a href="event:mailto:deadbydaylight@bhvr.com"><b>deadbydaylight@bhvr.com</b></a>.
 Backwater Swamp
 Backwater Swamp
 Haddonfield
 Haddonfield
+Instituto Conmemorativo Léry
+Instituto Conmemorativo Léry
 Último Suspiro
 El Último en Pie
 Líder
@@ -959,7 +1052,9 @@ Incluso antes del deterioro de la granja Coldwind, los campos de maíz ya estaban
 La casa de labranza, la pieza central de la granja Coldwind, se mantuvo dignamente en pie entre los campos dorados de maíz durante décadas. Tras los escalofriantes eventos de 1972, el edificio calló en el abandono y finalmente terminó en ruinas. Ahora la casa no es más que el recuerdo de un hogar sumido en el olvido, antaño lugar de celebración de las vacaciones.
 El viejo establo es uno de los primeros edificios que construyeron los Thompson en la granja Coldwind. En un principio se diseñó para cobijar a los animales enfermos a una distancia prudente del resto del ganado, pero ninguno de los que entraban en él sobrevivían. Las investigaciones revelaron que el edificio estaba infestado con moho tóxico. Los Thompson se imaginaron que se debía a un defecto de construcción o a algo relacionado con la humedad de la madera. Construyeron un nuevo establo y el antiguo quedó abandonado entre las sombras.
 Una simple calle con las casas que presenciaron los horrores sucedidos. Un parque de juegos en el que los niños solían aprender a trepar. Aceras en la que los padres enseñaban a sus hijas a montar en bicicleta. Todo forma parte del pasado. Ahora yace en manos del Ente, para siempre en la oscuridad.
+Una mansión que data de finales del siglo XIX, donada y transformada en un complejo médico y, más tarde, en un centro clandestino de detención de la CIA especializado en innovadoras técnicas de interrogatorio. El cierre del Instituto está envuelto en controversia y misterio. En el corazón de las instalaciones, las herramientas del Doctor están organizadas en un retorcido círculo ritual, listas para la investigación. Mientras tanto, él perfecciona sus métodos con un incesante goteo de pacientes aterrorizados.
 La Rosa Pálida es un antiguo barco de vapor en medio del pantano, atrapado en el barro estancado. Ya estaba aquí antes de que los habitantes comenzaran con su cacería, una silueta apenas visible desde el pueblo cercano. Hay signos de que ha sido habitado, especialmente en la habitación superior, donde pueden verse marcas rituales con sangre seca y tierra cubriendo el suelo. Teniendo en cuenta la magnitud de la sangría, algo horrible ha tenido que suceder aquí.
+Clínica abandonada
 Aún puede verse la pequeña entrada que usaban los mineros para arrastrar el mineral hasta la superficie. Ahora no es más que un montón de escombros. Nadie se ha molestado nunca en limpiarla, temían lo que pudiera ocultar. Así quedó en el olvido.
 Antes se usaba para almacenar el carbón que alimentaba la fundición, ahora está abandonada. El tejado está partido en dos de modo que hace pensar en una explosión inmensa, pero los ángulos no cuadran. Desentrañar sus misterios no es tarea fácil, incluso si hubiera alguien que quisiera hacerlo.
 Puede que el bosque que rodea la finca sea el único testigo de lo que realmente sucedió aquí. Árboles de aspecto deformado, como si lo que presenciaron les hubiera hecho intentar huir. Este bosque rara vez tiene visitantes, hasta los animales parecen evitarlo en lo posible.
@@ -987,6 +1082,7 @@ Una caja de metal que contiene un juego de herramientas básicas. Incluso sin ent
 Vidrio Opalino
 Canalización Mental
 Canalización Mental
+Locura
 Roble Mohoso
 Santuario Monstruoso
 Mors Ambitiosa
@@ -994,9 +1090,6 @@ Reactivo Turbio
 Ramillete de Luna Nueva
 Nadie Ha Escapado
 Nadie Se Queda Atrás
-Ninguno
-Ninguno
-Ninguno
 Ninguno
 Ninguno
 Ninguno
@@ -1093,6 +1186,8 @@ Invoca al Ente para evitar la aparición de <b>2</b> cofres.<br><li>Acumulable.</
 Moneda Cortada
 <b>Aumenta considerablemente</b> la probabilidad de ser enviado a Haddonfield cuando se quema.<br><li>Acumulable.</li><br><span class="FlavorText">"Una tablilla de roble mohosa y podrida como las que se encuentran en la mayoría de las casas de Haddonfield."</span>
 Tablilla Decrépita
+<b>Aumenta ligeramente</b> la probabilidad de ser enviado al Instituto Conmemorativo Léry al quemarlo.<br><li>Acumulable.</li><br><span class="FlavorText">"Una fotocopia de un certificado para ingresar a un paciente para un tratamiento de emergencia. La información está borrosa y es ilegible".</span>
+Certificado de emergencia
 <b>Slightly increases</b> the chance to be sent to Backwater Swamp when burnt.<br><li>Stacks.</li><br><span class="FlavorText">" A burnt piece of marine rope still emitting a warm smoke."</span>
 Cordaje Humeante
 <b>Considerably increases</b> the chance to be sent to Backwater Swamp when burnt.<br><li>Stacks.</li><br><span class="FlavorText">"A welcome sign made from a coarse piece of water polished cypress board. The sign is charred and still fuming."</span>
@@ -1107,14 +1202,20 @@ Bolsita de Polvo de Color Marfil
 Bote de labios salados de Vigo
 Te permite meterte en el papel de <b>la Bruja</b> en el siguiente intento. <i>Tus habilidades y accesorios actuales no se usarán.</i><br><span class="FlavorText">"Evita andar por el fango o la Bruja se comerá tus huesos."</span>
 Astilla con Lodo
+<b>Aumenta considerablemente</b> la probabilidad de ser enviado al Instituto Conmemorativo Léry al quemarlo.<br><li>Acumulable.</li><br><span class="FlavorText">"Un informe psiquiátrico firmado por Herman Carter. Describe el deterioro mental del paciente e incluye los siguientes pasos del procedimiento".</span>
+Informe de evaluación psiquiátrica
 Invoca al Ente para crear <b>3</b> ganchos más de sacrificio.<br><li>Acumulable.</li><br><span class="FlavorText">"Un trozo de roble en descomposición con extrañas marcas grabadas".</span>
 Roble Putrefacto
 Invoca al Ente para crear <b>2</b> ganchos de sacrificio más.<br><li>Acumulable.</li><br><span class="FlavorText">"Un trozo de roble en descomposición con extrañas marcas grabadas."</span>
 Roble Podrido
 <b>Aumenta ligeramente</b> la suerte de <b>todos</b> los supervivientes.<br><li>Acumulable.</li><br><span class="FlavorText">"Un pequeño saco de algodón que contiene cristales de sal negra. Algunos creen que da buena suerte. No los derrames".</span>
 Bolsita de sal
+<b>Aumenta enormemente</b> la probabilidad de ser enviado al Instituto Conmemorativo Léry al quemarlo.<br><span class="FlavorText">"Gafas de lectura rotas. Se pueden apreciar gotas de sangre seca en las lentes destrozadas".</span>
+Gafas rotas
 Invoca al Ente para crear <b>2</b> cofres más.<br><li>Acumulable.</li><br><span class="FlavorText">"Una pieza de oro limpia y pulida".</span>
 Moneda Brillante
+Te permite meterte en el papel del Doctor en la siguiente prueba. <i>Tus habilidades y accesorios actuales no se usarán.</i><br><span class="FlavorText">"Tus secretos están a salvo conmigo".</span>
+Astilla de choque
 <b>Aumenta enormemente</b> la probabilidad de ser enviado a Haddonfield cuando se quema.<br><span class="FlavorText">"La llave de una casa, de aspecto mundano. Tiene una etiqueta de cartón en la que puede leerse "Inmobiliaria Strode", con la dirección "Calle de Lampkin, n.º 45" a continuación."</span>
 Llave de la Inmobiliaria Strode
 Sello Extraño 
@@ -1126,6 +1227,7 @@ Abrir Trampilla
 CASILLA DE HABILIDAD EXTRA II
 CASILLA DE HABILIDAD EXTRA III
 CASILLA DE HABILIDAD EXTRA IV
+Cuando estás a punto de escapar, una energía inesperada te invade. <span class="Highlight1">Te curas de cualquier herida o te recuperas del estado agonizante al instante</span> y corres a un <span class="Highlight2">150 %</span> de tu velocidad normal de carrera durante <span class="Highlight3">5 segundos</span> cuando las puertas de salida se abren. No se aplica si te han incapacitado en el momento en que debería actuar.<br><i>Adrenalina</i> permite ignorar el <b>agotamiento</b>.<br>Causa <b>agotamiento</b> durante <span class="Highlight4">40 segundos</span>.
 Cuando estás a punto de escapar, una energía inesperada te invade. <span class="Highlight1">Te curas de cualquier herida al instante</span> y corres a un <span class="Highlight2">150 %</span> de tu velocidad normal de carrera durante <span class="Highlight3">5 segundos</span> cuando una puerta de salida se abre.<br><i>Adrenalina</i> no hace efecto si estás incapacitado en el momento en que debería actuar y permite ignorar el <b>agotamiento</b>.<br>Causa <b>agotamiento</b> durante <span class="Highlight4">50 segundos</span>.
 Cuando estás a punto de escapar, una energía inesperada te invade. <span class="Highlight1">Te curas de cualquier herida al instante</span> y corres a un <span class="Highlight2">150 %</span> de tu velocidad normal de carrera durante <span class="Highlight3">3 segundos</span> cuando una puerta de salida se abre.<br><i>Adrenalina</i> no hace efecto si estás incapacitado en el momento en que debería actuar y permite ignorar el <b>agotamiento</b>.<br>Causa <b>agotamiento</b> durante <span class="Highlight4">60 segundos</span>.
 Cuando Caída equilibrada está activa, el tambaleo por caídas grandes se reduce un <span class="Highlight1">75 %</span>.<br>Al tocar el suelo, empiezas a correr un <span class="Highlight2">150 %</span> más rápido que la velocidad normal durante un máximo de <span class="Highlight3">3 segundos</span> si no sufres de agotamiento.<br>Causa <b>agotamiento</b> durante <span class="Highlight4">40 segundos</span>.<br><span class="FlavorText">"He saltado desde lugares más altos". (Nea)</span>
@@ -1138,9 +1240,13 @@ Cuando empiezas a correr, haces un esprint a un <span class="Highlight1">150 %</
 Cuando empiezas a correr, haces un esprint a un <span class="Highlight1">150 %</span> de tu velocidad normal de carrera durante un máximo de <span class="Highlight2">3 segundos</span>.<br>Causa <b>agotamiento</b> durante <span class="Highlight3">50 segundos</span>.<br><i>Impulso de carrera</i> no se puede usar cuando sufres <b>agotamiento</b>.
 Cuando empiezas a correr, haces un esprint a un <span class="Highlight1">150 %</span> de tu velocidad normal de carrera durante un máximo de <span class="Highlight2">3 segundos</span>.<br>Causa <b>agotamiento</b> durante <span class="Highlight3">60 segundos</span>.<br><i>Impulso de carrera</i> no se puede usar cuando sufres <b>agotamiento</b>.
 Parece que la suerte siempre está de tu parte. Al sacar un objeto de un baúl, hay un <span class="Highlight1">50 %</span> de probabilidades de que venga con un accesorio <span class="Highlight2">muy raro</span> o inferior.<br><span class="FlavorText">Parece que la suerte siempre está de tu parte. Al sacar un objeto de un baúl, hay un <span class="Highlight1">50 %</span> de probabilidades de que venga con un accesorio <span class="Highlight2">raro</span> o inferior.<br><span class="FlavorText">Parece que la suerte siempre está de tu parte. Al sacar un objeto de un baúl, hay un <span class="Highlight1">50 %</span> de probabilidades de que venga con un accesorio de rareza <span class="Highlight2">poco común</span> o inferior.<br><span class="FlavorText">As en la Manga
-Te invade una energía inesperada cuando salvas a un aliado de un gancho dentro del radio de terror del asesino.<br>Una vez por prueba y durante los <span class="Highlight1">20 segundos</span> siguientes al rescate de un aliado dentro del radio de terror, el efecto del daño que os hubiera dejado en estado agonizante generará un temporizador de desangrado que dura <span class="Highlight2">30 segundos</span>.<br>Si recibes daño durante ese tiempo o el temporizador llega a cero, quedarás en estado agonizante.<br><span class="FlavorText">"Seguro que duele un montón, pero no te matará, así que levanta, soldado. ¡En marcha!". (Bill)</span>
-Te invade una energía inesperada cuando salvas a un aliado de un gancho dentro del radio de terror del asesino.<br>Una vez por prueba y durante los <span class="Highlight1">20 segundos</span> siguientes al rescate de un aliado dentro del radio de terror, el efecto del daño que os hubiera dejado en estado agonizante generará un temporizador de desangrado que dura <span class="Highlight2">35 segundos</span>.<br>Si recibes daño durante ese tiempo o el temporizador llega a cero, quedarás en estado agonizante.<br><span class="FlavorText">"Seguro que duele un montón, pero no te matará, así que levanta, soldado. ¡En marcha!". (Bill)</span>
-Te invade una energía inesperada cuando salvas a un aliado de un gancho dentro del radio de terror del asesino.<br>Una vez por prueba y durante los <span class="Highlight1">20 segundos</span> siguientes al rescate de un aliado dentro del radio de terror, el efecto del daño que os hubiera dejado en estado agonizante generará un temporizador de desangrado que dura <span class="Highlight2">40 segundos</span>.<br>Si recibes daño durante ese tiempo o el temporizador llega a cero, quedarás en estado agonizante.<br><span class="FlavorText">"Seguro que duele un montón, pero no te matará, así que levanta, soldado. ¡En marcha!". (Bill)</span>
+Tus desarrollados sentidos están en alerta máxima.<br>Cuando el asesino rompe algo en un radio de <span class="Highlight1">36 metros</span>, puedes verlo durante <span class="Highlight2">3 segundos</span>.<br>Este efecto solo se puede activar una vez cada <span class="Highlight3">30 segundos</span>.<br><span class="FlavorText">"Tengo una vista privilegiada". (Feng Min)</span>
+Tus desarrollados sentidos están en alerta máxima.<br>Cuando el asesino rompe algo en un radio de <span class="Highlight1">24 metros</span>, puedes verlo durante <span class="Highlight2">3 segundos</span>.<br>Este efecto solo se puede activar una vez cada <span class="Highlight3">45 segundos</span>.<br><span class="FlavorText">"Tengo una vista privilegiada". (Feng Min)</span>
+Tus desarrollados sentidos están en alerta máxima.<br>Cuando el asesino rompe algo en un radio de <span class="Highlight1">12 metros</span>, puedes verlo durante <span class="Highlight2">3 segundos</span>.<br>Este efecto solo se puede activar una vez cada <span class="Highlight3">60 segundos</span>.<br><span class="FlavorText">"Tengo una vista privilegiada". (Feng Min)</span>
+Alerta
+Te invade una energía inesperada cuando salvas a un aliado de un gancho dentro del radio de terror del asesino.<br>Una vez por prueba y durante los<span class="Highlight1">20 segundos</span> siguientes al rescate de un aliado dentro del radio de terror, el efecto del daño que os hubiera dejado en estado agonizante generará un temporizador de desangrado que dura <span class="Highlight2">30 segundos</span>.<br>Si recibes daño durante ese tiempo o el temporizador llega a cero, quedarás en estado agonizante.<br><span class="FlavorText">"Seguro que duele un montón, pero no te matará, así que levanta, soldado. ¡En marcha!". (Bill)</span>
+Te invade una energía inesperada cuando salvas a un aliado de un gancho dentro del radio de terror del asesino.<br>Una vez por prueba y durante los<span class="Highlight1">20 segundos</span> siguientes al rescate de un aliado dentro del radio de terror, el efecto del daño que os hubiera dejado en estado agonizante generará un temporizador de desangrado que dura <span class="Highlight2">35 segundos</span>.<br>Si recibes daño durante ese tiempo o el temporizador llega a cero, quedarás en estado agonizante.<br><span class="FlavorText">"Seguro que duele un montón, pero no te matará, así que levanta, soldado. ¡En marcha!". (Bill)</span>
+Te invade una energía inesperada cuando salvas a un aliado de un gancho dentro del radio de terror del asesino.<br>Una vez por prueba y durante los<span class="Highlight1">20 segundos</span> siguientes al rescate de un aliado dentro del radio de terror, el efecto del daño que os hubiera dejado en estado agonizante generará un temporizador de desangrado que dura <span class="Highlight2">40 segundos</span>.<br>Si recibes daño durante ese tiempo o el temporizador llega a cero, quedarás en estado agonizante.<br><span class="FlavorText">"Seguro que duele un montón, pero no te matará, así que levanta, soldado. ¡En marcha!". (Bill)</span>
 Tiempo prestado
 Harás tu trabajo sin importar a qué precio.<br>Si eres la <b>última persona con vida en la prueba</b>, recibirás una bonificación del <span class="Highlight1">19 %</span> de velocidad de reparación por cada generador que quede.<br><span class="FlavorText">"No estoy para tonterías, y no pienso hacer esto solo". (Bill)</span>
 Harás tu trabajo sin importar a qué precio.<br>Si eres la <b>última persona con vida en la prueba</b>, recibirás una bonificación del <span class="Highlight1">22 %</span> de velocidad de reparación por cada generador que quede.<br><span class="FlavorText">"No estoy para tonterías, y no pienso hacer esto solo". (Bill)</span>
@@ -1150,22 +1256,53 @@ Las batallas a tus espaldas te han enseñado un par de cosas sobre supervivencia.
 Las batallas a tus espaldas te han enseñado un par de cosas sobre supervivencia.<br>Podrás recuperarte por completo del estado agonizante <b>una vez por prueba</b>. Aumenta en un <span class="Highlight1">20 %</span> la velocidad de recuperación de este estado.<br><span class="FlavorText">"¡Mierda! ¡Estoy bien jodido!". (Bill)</span>
 Las batallas a tus espaldas te han enseñado un par de cosas sobre supervivencia.<br>Podrás recuperarte por completo del estado agonizante <b>una vez por prueba</b>. Aumenta en un <span class="Highlight1">25 %</span> la velocidad de recuperación de este estado.<br><span class="FlavorText">"¡Mierda! ¡Estoy bien jodido!". (Bill)</span>
 Irrompible
-Valiéndote de lo que tengas a mano, apuñalas a tu agresor en un último intento de escapar. Si eres la obsesión, una vez por partida, cuando te atrape el asesino, llevarás a cabo una revisión de habilidades para escapar automáticamente de su agarre y aturdirlo durante <span class="Highlight1">5 segundos</span>.<br>Si no eres la obsesión, una vez por partida, mientras estés en manos del asesino, y cuando el medidor de movimiento alcance el 35 %, llevarás a cabo una revisión de habilidades para rellenar automáticamente el resto del medidor y escapar del agarre del asesino.<br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Valiéndote de lo que tengas a mano, apuñalas a tu agresor en un último intento de escapar. Si eres la obsesión, una vez por partida, cuando te atrape el asesino, llevarás a cabo una revisión de habilidades para escapar automáticamente de su agarre y aturdirlo durante <span class="Highlight1">4 segundos</span>.<br>Si no eres la obsesión, una vez por partida, mientras estés en manos del asesino, y cuando el medidor de movimiento alcance el 40 %, llevarás a cabo una revisión de habilidades para rellenar automáticamente el resto del medidor y escapar del agarre del asesino.<br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Valiéndote de lo que tengas a mano, apuñalas a tu agresor en un último intento de escapar. Si eres la obsesión, una vez por partida, cuando te atrape el asesino, llevarás a cabo una revisión de habilidades para escapar automáticamente de su agarre y aturdirlo durante <span class="Highlight1">3 segundos</span>.<br>Si no eres la obsesión, una vez por partida, mientras estés en manos del asesino, y cuando el medidor de movimiento alcance el 45 %, llevarás a cabo una revisión de habilidades para rellenar automáticamente el resto del medidor y escapar del agarre del asesino.<br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Golpe decisivo
+Valiéndote de lo que tengas a mano, apuñalas a tu agresor en un último intento de escapar. Si eres la obsesión, una vez por partida, cuando te atrape el asesino, llevarás a cabo una prueba de habilidad para escapar automáticamente de su agarre y aturdirlo durante <span class="Highlight1">5 segundos</span>.<br>Si no eres la obsesión, una vez por partida, mientras estés en manos del asesino, y cuando el medidor de movimiento alcance el 35 %, llevarás a cabo una prueba de habilidad para rellenar automáticamente el resto del medidor y escapar del agarre del asesino.<br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Valiéndote de lo que tengas a mano, apuñalas a tu agresor en un último intento de escapar. Si eres la obsesión, una vez por partida, cuando te atrape el asesino, llevarás a cabo una prueba de habilidad para escapar automáticamente de su agarre y aturdirlo durante <span class="Highlight1">4 segundos</span>.<br>Si no eres la obsesión, una vez por partida, mientras estés en manos del asesino, y cuando el medidor de movimiento alcance el 40 %, llevarás a cabo una prueba de habilidad para rellenar automáticamente el resto del medidor y escapar del agarre del asesino.<br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Valiéndote de lo que tengas a mano, apuñalas a tu agresor en un último intento de escapar. Si eres la obsesión, una vez por partida, cuando te atrape el asesino, llevarás a cabo una prueba de habilidad para escapar automáticamente de su agarre y aturdirlo durante <span class="Highlight1">3 segundos</span>.<br>Si no eres la obsesión, una vez por partida, mientras estés en manos del asesino, y cuando el medidor de movimiento alcance el 45 %, llevarás a cabo una prueba de habilidad para rellenar automáticamente el resto del medidor y escapar del agarre del asesino.<br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Golpe decisivo
 Te <b>obsesionas</b> con un superviviente.<br>La velocidad de la acción altruista de tu obsesión aumenta un <span class="Highlight1">50 %</span>. Una vez que la obsesión sea asesinada o sacrificada, el resto de supervivientes recibe una penalización de las velocidades de reparación, curación y sabotaje del <span class="Highlight2">25 %</span>.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>La velocidad de la acción altruista de tu obsesión aumenta un <span class="Highlight1">44 %</span>. Una vez que la obsesión sea asesinada o sacrificada, el resto de supervivientes recibe una penalización de las velocidades de reparación, curación y sabotaje del <span class="Highlight2">22 %</span>.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>La velocidad de la acción altruista de tu obsesión aumenta un <span class="Highlight1">38 %</span>. Una vez que la obsesión sea asesinada o sacrificada, el resto de supervivientes recibe una penalización de las velocidades de reparación, curación y sabotaje del <span class="Highlight2">19 %</span>.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Luz Extinta
-Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes despierta tu apetito. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, el Devorador de esperanza recibe una medalla.<br><li><span class="Highlight2">3 medallas</span>: Los ataques dejan a los supervivientes en estado moribundo automáticamente.</li><li><span class="Highlight2">5 medallas</span>: Otorga la habilidad de matar supervivientes con tus propias manos.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes despierta tu apetito. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, el Devorador de esperanza recibe una medalla.<br><li><span class="Highlight2">5 medallas</span>: Otorga la habilidad de matar supervivientes con tus propias manos.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Maleficio: Devorador de Esperanza
+Te impulsa tu odio por el progreso.<br>Sobrecarga un generador al realizar la acción de <b>romper generador</b>. El próximo superviviente que interactúe con ese generador se enfrentará a una prueba de habilidad <span class="Highlight1">enormemente</span> difícil. Si no lo consigue, dará lugar a una regresión del generador del <span class="Highlight2">5 %</span>.<br>Si lo logra, no obtendrá ningún progreso, pero evitará que el generador explote.
+Te impulsa tu odio por el progreso.<br>Sobrecarga un generador al realizar la acción de <b>romper generador</b>. El próximo superviviente que interactúe con ese generador se enfrentará a una prueba de habilidad <span class="Highlight1">considerablemente</span> difícil. Si no lo consigue, dará lugar a una regresión del generador del <span class="Highlight2">4 %</span>.<br>Si lo logra, no obtendrá ningún progreso, pero evitará que el generador explote.
+Te impulsa tu odio por el progreso.<br>Sobrecarga un generador al realizar la acción de <b>romper generador</b>. El próximo superviviente que interactúe con ese generador se enfrentará a una prueba de habilidad <span class="Highlight1">moderadamente</span> difícil. Si no lo consigue, dará lugar a una regresión del generador del <span class="Highlight2">3 %</span>.<br>Si lo logra, no obtendrá ningún progreso, pero evitará que el generador explote.
+Sobrecarga
+Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes despierta tu apetito. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, el Devorador de esperanza recibe una medalla.<br><li><span class="Highlight3">2 medallas</span>: Obtienes un <span class="Highlight2">5 %</span> de impulso de velocidad durante <span class="Highlight3">10 segundos</span> después de colgar a un superviviente. El impulso de velocidad se activa <span class="Highlight3">10 segundos</span> después de colgar a un superviviente.</li><li><span class="Highlight3">3 medallas</span>: Los ataques dejan a los supervivientes en estado agonizante automáticamente.</li><li><span class="Highlight2">5 medallas</span>: Otorga la habilidad de matar supervivientes con tus propias manos.</li><br><i>Los efectos del maleficio persisten mientras el tótem correspondiente siga en pie.</i><br><span class="FlavorText">"Si no haces nada, tus manos estarán manchadas de sangre. Si los salvas, aumentarás su apetito".</span>
+Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes despierta tu apetito. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, el Devorador de esperanza recibe una medalla.<br><li><span class="Highlight2">3 medallas</span>: Los ataques dejan a los supervivientes en estado agonizante automáticamente.</li><li><span class="Highlight2">5 medallas</span>: Otorga la habilidad de matar supervivientes con tus propias manos.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes despierta tu apetito. Cuando se libera de un gancho a un superviviente que esté al menos a <span class="Highlight1">24 metros</span> de distancia, el Devorador de esperanza recibe una medalla.<br><li><span class="Highlight2">5 medallas</span>: Otorga la habilidad de matar supervivientes con tus propias manos.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Maleficio: Devorador de Esperanza
 Un maleficio que basa su poder en la esperanza. Te anima la fuerza de tu tótem de maleficio cuando los supervivientes están a punto de escapar. Cuando las puertas de salida se abren, se aplica este maleficio a cualquier tótem opaco que quede en el mapa. Cuando este maleficio se activa, los ataques con éxito automáticamente hacen que los supervivientes queden en estado agonizante. Además, los tiempos de recuperación para ataques con éxito y fallidos se reducen en un <span class="Highlight1">8 %</span> y se acelera en un <span class="Highlight2">4 %</span> tu velocidad de movimiento.<br>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.<br><span class="FlavorText">"Y la bestia se volvió más veloz y poderosa, como si el sombrío látigo del Ente estuviera azotando su lomo".</span>
 Un maleficio que basa su poder en la esperanza. Te anima la fuerza de tu tótem de maleficio cuando los supervivientes están a punto de escapar. Cuando las puertas de salida se abren, se aplica este maleficio a cualquier tótem opaco que quede en el mapa. Cuando este maleficio se activa, los tiempos de recuperación para ataques con éxito y fallidos se reducen en un <span class="Highlight1">8 %</span> y se acelera en un <span class="Highlight2">4 %</span> tu velocidad de movimiento.<br>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.<br><span class="FlavorText">"Y la bestia se volvió más veloz y poderosa, como si el sombrío látigo del Ente estuviera azotando su lomo".</span>
 Un maleficio que basa su poder en la esperanza. Te anima la fuerza de tu tótem de maleficio cuando los supervivientes están a punto de escapar. Cuando las puertas de salida se abren, se aplica este maleficio a cualquier tótem opaco que quede en el mapa. Cuando este maleficio se activa, los tiempos de recuperación para ataques con éxito y fallidos se reducen en un <span class="Highlight1">4 %</span> y se acelera en un <span class="Highlight2">3 %</span> tu velocidad de movimiento.<br>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.<br><span class="FlavorText">"Y la bestia se volvió más veloz y poderosa, como si el sombrío látigo del Ente estuviera azotando su lomo".</span>
 Maleficio: Nadie escapa de la muerte
-Un maleficio que afecta a la habilidad del superviviente para reparar generadores. <span class="Highlight1">Todos los supervivientes</span> se ven afectados por la <i>Ruina</i>, lo que provoca que:<br><li>La buena Revisión de habilidades cause un <span class="Highlight2">5%</span> de retroceso en la reparación del generador.</li><li>La gran Revisión de habilidades otorgue un <span class="Highlight3">0%</span> de progresión adicional en el generador.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que afecta a la habilidad del superviviente para reparar generadores. <span class="Highlight1">3 supervivientes</span> se ven afectados por la <i>Ruina</i>, lo que provoca que:<br><li>La buena Revisión de habilidades cause un <span class="Highlight2">5%</span> de retroceso en la reparación del generador.</li><li>La gran Revisión de habilidades otorgue un <span class="Highlight3">0%</span> de progresión adicional en el generador.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que afecta a la habilidad del superviviente para reparar generadores. <span class="Highlight1">2 supervivientes</span> se ven afectados por la <i>Ruina</i>, lo que provoca que:<br><li>La buena Revisión de habilidades cause un <span class="Highlight2">5%</span> de retroceso en la reparación del generador.</li><li>La gran Revisión de habilidades otorgue un <span class="Highlight3">0%</span> de progresión adicional en el generador.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Maleficio: Ruina
+Un maleficio que afecta a la habilidad del superviviente para reparar generadores. <span class="Highlight1">Todos los supervivientes</span> se ven afectados por la <i>Ruina</i>, lo que provoca que:<br><li>La buena prueba de habilidad cause un <span class="Highlight2">5%</span> de retroceso en la reparación del generador.</li><li>La gran prueba de habilidad otorgue un <span class="Highlight3">0%</span> de progresión adicional en el generador.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que afecta a la habilidad del superviviente para reparar generadores. <span class="Highlight1">3 supervivientes</span> se ven afectados por la <i>Ruina</i>, lo que provoca que:<br><li>La buena prueba de habilidad cause un <span class="Highlight2">5%</span> de retroceso en la reparación del generador.</li><li>La gran prueba de habilidad otorgue un <span class="Highlight3">0%</span> de progresión adicional en el generador.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que afecta a la habilidad del superviviente para reparar generadores. <span class="Highlight1">2 supervivientes</span> se ven afectados por la <i>Ruina</i>, lo que provoca que:<br><li>La buena prueba de habilidad cause un <span class="Highlight2">5%</span> de retroceso en la reparación del generador.</li><li>La gran prueba de habilidad otorgue un <span class="Highlight3">0%</span> de progresión adicional en el generador.</li><br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Maleficio: Ruina
 Un maleficio que perjudica la capacidad propia de analizar auras. Golpear a un enemigo mientras haya un Tótem de maleficio activo reduce la efectividad de su habilidad de análisis de auras un <span class="Highlight1">100%</span>. Este efecto se aplica a los últimos 4 supervivientes golpeados.<br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que perjudica la capacidad propia de analizar auras. Golpear a un enemigo mientras haya un Tótem de maleficio activo reduce la efectividad de su habilidad de análisis de auras un <span class="Highlight1">100%</span>. Este efecto se aplica a los últimos 3 supervivientes golpeados.<br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Un maleficio que perjudica la capacidad propia de analizar auras. Golpear a un enemigo mientras haya un Tótem de maleficio activo reduce la efectividad de su habilidad de análisis de auras un <span class="Highlight1">100%</span>. Este efecto se aplica a los últimos 2 supervivientes golpeados.<br><i>Los efectos del maleficio persisten mientras el tótem relacionado con él siga en pie.</i><br><span class="FlavorText">Maleficio: El Tercer sello
+Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes te llena de emoción y fortalece tus tótems. Obtienes una medalla por cada tótem opaco o de maleficio que quede en el mapa.<br><li>Ganas un <span class="Highlight1">8 %</span> más de puntos de sangre por las acciones de la categoría de Cazador por cada medalla.</li><li>La velocidad de purificación de los supervivientes se reduce en un <span class="Highlight2">10 %</span> por cada medalla.</li><li>Recibes un aviso cuando alguien se pone a manipular un tótem de maleficio.</li>
+Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes te llena de emoción y fortalece tus tótems. Obtienes una medalla por cada tótem opaco o de maleficio que quede en el mapa.<br><li>Ganas un <span class="Highlight1">6 %</span> más de puntos de sangre por las acciones de la categoría de Cazador por cada medalla.</li><li>La velocidad de purificación de los supervivientes se reduce en un <span class="Highlight2">7 %</span> por cada medalla.</li><li>Recibes un aviso cuando alguien se pone a manipular un tótem de maleficio.</li>
+Un maleficio que basa su poder en la esperanza. La falsa esperanza de los supervivientes te llena de emoción y fortalece tus tótems. Obtienes una medalla por cada tótem opaco o de maleficio que quede en el mapa.<br><li>Ganas un <span class="Highlight1">4 %</span> más de puntos de sangre por las acciones de la categoría de Cazador por cada medalla.</li><li>La velocidad de purificación de los supervivientes se reduce en un <span class="Highlight2">4 %</span> por cada medalla.</li><li>Recibes un aviso cuando alguien se pone a manipular un tótem de maleficio.</li>
 Maleficio: La Emoción de la cacería
+Tras realizar un salto, haces un esprint a un <span class="Highlight1">150 %</span> de tu velocidad normal de carrera durante un máximo de <span class="Highlight2">3 segundos</span>. <i>Solo se activa en las persecuciones.</i><br>Causa <b>agotamiento</b> durante <span class="Highlight3">40 segundos</span>.<br><i>Agilidad</i> no se puede usar cuando sufres agotamiento.<br><span class="FlavorText">"¿Te has enfadado?". (Feng Min)</span>
+Tras realizar un salto, haces un esprint a un <span class="Highlight1">150 %</span> de tu velocidad normal de carrera durante un máximo de <span class="Highlight2">3 segundos</span>. <i>Solo se activa en las persecuciones.</i><br>Causa <b>agotamiento</b> durante <span class="Highlight3">50 segundos</span>.<br><i>Agilidad</i> no se puede usar cuando sufres agotamiento.<br><span class="FlavorText">"¿Te has enfadado?". (Feng Min)</span>
+Tras realizar un salto, haces un esprint a un <span class="Highlight1">150 %</span> de tu velocidad normal de carrera durante un máximo de <span class="Highlight2">3 segundos</span>. <i>Solo se activa en las persecuciones.</i><br>Causa <b>agotamiento</b> durante <span class="Highlight3">60 segundos</span>.<br><i>Agilidad</i> no se puede usar cuando sufres agotamiento.<br><span class="FlavorText">"¿Te has enfadado?". (Feng Min)</span>
+Agilidad
+Un acercamiento meticuloso y una aplicación aterradora.<br>Durante una persecución, tu radio de terror aumenta en <span class="Highlight1">8 metros</span>. En los demás casos, tu radio de terror disminuye en <span class="Highlight2">8 metros</span> y tu campo de visión aumenta <span class="Highlight3">considerablemente</span>.<br><i>Las ventajas del campo de visión no se acumulan.</i><br><span class="FlavorText">"¡Hora del tratamiento!". (El Doctor)</span>
+Un acercamiento meticuloso y una aplicación aterradora.<br>Durante una persecución, tu radio de terror aumenta en <span class="Highlight1">7 metros</span>. En los demás casos, tu radio de terror disminuye en <span class="Highlight2">7 metros</span> y tu campo de visión aumenta <span class="Highlight3">moderadamente</span>.<br><i>Las ventajas del campo de visión no se acumulan.</i><br><span class="FlavorText">"¡Hora del tratamiento!". (El Doctor)</span>
+Un acercamiento meticuloso y una aplicación aterradora.<br>Durante una persecución, tu radio de terror aumenta en <span class="Highlight1">6 metros</span>. En los demás casos, tu radio de terror disminuye en <span class="Highlight2">6 metros</span> y tu campo de visión aumenta <span class="Highlight3">levemente</span>.<br><i>Las ventajas del radio de visión no se acumulan.</i><br><span class="FlavorText">"¡Hora del tratamiento!". (El Doctor)</span>
+Monitorización y abuso
 Un vínculo sobrenatural te une al asesino. Cuando mires en la misma dirección que el asesino, vuestro vínculo mostrará el aura de cada uno al otro. Este efecto solo se aplica si estás fuera del radio de terror del asesino.<br>Cuando seas la obsesión del asesino, este efecto será válido dentro de un rango máximo de <span class="Highlight1">72 metros</span>. Si no, se aplicará dentro de un rango máximo de <span class="Highlight1">64 metros</span>.<br><i>Aumenta las probabilidades de que seas la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Un vínculo sobrenatural te une al asesino. Cuando mires en la misma dirección que el asesino, vuestro vínculo mostrará el aura de cada uno al otro. Este efecto solo se aplica si estás fuera del radio de terror del asesino.<br>Cuando seas la obsesión del asesino, este efecto será válido dentro de un rango máximo de <span class="Highlight1">64 metros</span>. Si no, se aplicará dentro de un rango máximo de <span class="Highlight1">56 metros</span>.<br><i>Aumenta las probabilidades de que seas la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Un vínculo sobrenatural te une al asesino. Cuando mires en la misma dirección que el asesino, vuestro vínculo mostrará el aura de cada uno al otro. Este efecto solo se aplica si estás fuera del radio de terror del asesino.<br>Cuando seas la obsesión del asesino, este efecto será válido dentro de un rango máximo de <span class="Highlight1">56 metros</span>. Si no, se aplicará dentro de un rango máximo de <span class="Highlight1">44 metros</span>.<br><i>Aumenta las probabilidades de que seas la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Objeto de obsesión
 Fortalece el potencial de la habilidad de analizar auras. Aumenta el rango del análisis de auras <span class="Highlight1">8 metros</span>.<br><span class="FlavorText">Fortalece el potencial de la habilidad de analizar auras. Aumenta el rango del análisis de auras <span class="Highlight1">6 metros</span>.<br><span class="FlavorText">Fortalece el potencial de la habilidad de analizar auras. Aumenta el rango del análisis de auras <span class="Highlight1">4 metros</span>.<br><span class="FlavorText">A mano descubierta
-Te <b>obsesionas</b> con un superviviente.<br>Cada vez que persigas a tu obsesión y la dejes escapar, recibirás una ficha, hasta un máximo de 3. Cada ficha aumenta tu velocidad de movimiento un <span class="Highlight1">5 %</span>. Cada acción ofensiva consume 1 ficha.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>Cada vez que persigas a tu obsesión y la dejes escapar, recibirás una ficha, hasta un máximo de 3. Cada ficha aumenta tu velocidad de movimiento un <span class="Highlight1">4 %</span>. Cada acción ofensiva consume 1 ficha.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>Cada vez que persigas a tu obsesión y la dejes escapar, recibirás una ficha, hasta un máximo de 3. Cada ficha aumenta tu velocidad de movimiento un <span class="Highlight1">3 %</span>. Cada acción ofensiva consume 1 ficha.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Juega con la comida
+Presencia abrumadora
+Solo tu presencia inspira gran terror. Los supervivientes en tu radio de terror sufren <b>ineficiencia</b>.<br>Las tasas de consumo de objetos de los supervivientes afectados aumentan en un <span class="Highlight1">50 %</span>.<br><span class="FlavorText">"¡Mierda! ¡Se me ha caído la gasa!".</span>
+Solo tu presencia inspira gran terror. Los supervivientes en tu radio de terror sufren <b>ineficiencia</b>.<br>Las tasas de consumo de objetos de los supervivientes afectados aumentan en un <span class="Highlight1">45 %</span>.<br><span class="FlavorText">"¡Mierda! ¡Se me ha caído la gasa!".</span>
+Solo tu presencia inspira gran terror. Los supervivientes en tu radio de terror sufren <b>ineficiencia</b>.<br>Las tasas de consumo de objetos de los supervivientes afectados aumentan en un <span class="Highlight1">40 %</span>.<br><span class="FlavorText">"¡Mierda! ¡Se me ha caído la gasa!".</span>
+Te <b>obsesionas</b> con un superviviente.<br>Cada vez que persigas a tu obsesión y la dejes escapar, recibirás una medalla, hasta un máximo de 3. Cada medalla aumenta tu velocidad de movimiento un <span class="Highlight1">5 %</span>. Cada acción ofensiva consume 1 medalla.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>Cada vez que persigas a tu obsesión y la dejes escapar, recibirás una medalla, hasta un máximo de 3. Cada medalla aumenta tu velocidad de movimiento un <span class="Highlight1">4 %</span>. Cada acción ofensiva consume 1 medalla.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Te <b>obsesionas</b> con un superviviente.<br>Cada vez que persigas a tu obsesión y la dejes escapar, recibirás una medalla, hasta un máximo de 3. Cada medalla aumenta tu velocidad de movimiento un <span class="Highlight1">3 %</span>. Cada acción ofensiva consume 1 medalla.<br><i>Solo una obsesión por partida.</i><br><span class="FlavorText">Juega con la comida
+Te <b>obsesionas</b> con un superviviente. Mientras tu obsesión siga viva, después de estar en una persecución durante <span class="Highlight1">20 segundos</span>, el tiempo de recuperación del siguiente ataque con éxito se reduce en un <span class="Highlight2">40 %</span>. El tiempo de recuperación del ataque con éxito se mantiene activo durante <span class="Highlight3">5 segundos</span> después de una persecución. Si comienzas otra persecución antes de que pasen los <span class="Highlight3">5 segundos</span>, el tiempo de recuperación del ataque con éxito se reiniciará. <i>Solo una obsesión por partida</i>.<br><span class="FlavorText">"La muerte ha llegado a tu pequeño pueblo, sheriff". (Dr. Sam Loomis)</span>
+Te <b>obsesionas</b> con un superviviente. Mientras tu obsesión siga viva, después de estar en una persecución durante <span class="Highlight1">20 segundos</span>, el tiempo de recuperación del siguiente ataque con éxito se reduce en un <span class="Highlight2">35 %</span>. El tiempo de recuperación del ataque con éxito se mantiene activo durante <span class="Highlight3">5 segundos</span> después de una persecución. Si comienzas otra persecución antes de que pasen los <span class="Highlight3">5 segundos</span>, el tiempo de recuperación del ataque con éxito se reiniciará. <i>Solo una obsesión por partida</i>.<br><span class="FlavorText">"La muerte ha llegado a tu pequeño pueblo, sheriff". (Dr. Sam Loomis)</span>
+Te <b>obsesionas</b> con un superviviente. Mientras tu obsesión siga viva, después de estar en una persecución durante <span class="Highlight1">20 segundos</span>, el tiempo de recuperación del siguiente ataque con éxito se reduce en un <span class="Highlight2">30 %</span>. El tiempo de recuperación del ataque con éxito se mantiene activo durante <span class="Highlight3">5 segundos</span> después de una persecución. Si comienzas otra persecución antes de que pasen los <span class="Highlight3">5 segundos</span>, el tiempo de recuperación del ataque con éxito se reiniciará. <i>Solo una obsesión por partida</i>.<br><span class="FlavorText">"La muerte ha llegado a tu pequeño pueblo, sheriff". (Dr. Sam Loomis)</span>
 Deja lo mejor para el final
 A medida que tus amigos caigan en manos del asesino, tus probabilidades de sobrevivir aumentarán debido a una fuerza inexplicable. Cada superviviente asesinado o sacrificado perturba la capacidad del asesino para analizar tu aura.<br><li>1 asesinado o sacrificado: el alcance del análisis de auras del asesino se reduce un <span class="Highlight1">50 %</span>.</li><li>2 asesinados o sacrificados: el alcance del análisis de auras del asesino se reduce un <span class="Highlight2">75 %</span>.</li><li>3 asesinados o sacrificados: <span class="Highlight3">Inmune</span> al análisis de auras del asesino.</li><br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">A medida que tus amigos caigan en manos del asesino, tus probabilidades de sobrevivir aumentarán debido a una fuerza inexplicable. Cada superviviente asesinado o sacrificado perturba la capacidad del asesino para analizar tu aura.<br><li>1 asesinado o sacrificado: el alcance del análisis de auras del asesino se reduce un <span class="Highlight1">35 %</span>.</li><li>2 asesinados o sacrificados: el alcance del análisis de auras del asesino se reduce un <span class="Highlight2">60 %</span>.</li><li>3 asesinados o sacrificados: el alcance del análisis de auras del asesino se reduce un <span class="Highlight3">85 %</span>.</li><br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">A medida que tus amigos caigan en manos del asesino, tus probabilidades de sobrevivir aumentarán debido a una fuerza inexplicable. Cada superviviente asesinado o sacrificado perturba la capacidad del asesino para analizar tu aura.<br><li>1 o más asesinados o sacrificados: el alcance del análisis de auras del asesino se reduce un <span class="Highlight1">40 %</span>.</li><br><i>Aumenta las probabilidades de que te conviertas en la <b>obsesión</b> del asesino. Solo una obsesión por partida.</i><br><span class="FlavorText">Único superviviente
+Se te da muy bien manejar máquinas con precisión y cuidado.<br>Tus reparaciones hacen menos ruido y la distancia desde la que se oyen se reduce en <span class="Highlight2">8 metros</span>. Con una prueba de habilidad de reparación fallida, hay un <span class="Highlight1">50 %</span> de probabilidad de evitar que el generador explote.<br><span class="FlavorText">"A sigilosa no me gana nadie". (Feng Min)</span>
+Se te da muy bien manejar máquinas con precisión y cuidado.<br>Tus reparaciones hacen menos ruido y la distancia desde la que se oyen se reduce en <span class="Highlight2">4 metros</span>. Con una prueba de habilidad de reparación fallida, hay un <span class="Highlight1">40 %</span> de probabilidad de evitar que el generador explote.<br><span class="FlavorText">"A sigilosa no me gana nadie". (Feng Min)</span>
+Se te da muy bien manejar máquinas con precisión y cuidado.<br>Con una prueba de habilidad de reparación fallida, hay un <span class="Highlight1">30 %</span> de probabilidad de evitar que el generador explote.<br><span class="FlavorText">"A sigilosa no me gana nadie". (Feng Min)</span>
+Técnico
 Al final todo saldrá bien, simplemente lo sabes.  Tu confianza fortalece la esperanza de aquellos que están a tu alrededor. Por cada superviviente vivo, otorga un <span class="Highlight1">3 %</span> de suerte adicional al resto de supervivientes.<br><span class="FlavorText">Al final todo saldrá bien, simplemente lo sabes.  Tu confianza fortalece la esperanza de aquellos que están a tu alrededor. Por cada superviviente vivo, otorga un <span class="Highlight1">2 %</span> de suerte adicional al resto de supervivientes.<br><span class="FlavorText">Al final todo saldrá bien, simplemente lo sabes.  Tu confianza fortalece la esperanza de aquellos a tu alrededor. Por cada superviviente vivo, otorga un <span class="Highlight1">1 %</span> de suerte adicional al resto de supervivientes.<br><span class="FlavorText">Subir la apuesta
+¿Es un don o una maldición? El Ente ha encendido una chispa corrupta e incombustible en el corazón del Doctor que le permite generar energía de electrochoque a su voluntad. Su pérfido tratamiento corrompe las mentes de aquellos a los que toca. Las víctimas comienzan a perder contacto con la realidad y, debido a la exposición continuada, sucumben inevitablemente a la locura.<br><li>Otorga la habilidad de alternar entre los modos <b>Castigo</b> y <b>Tratamiento</b>.</li><li>En el modo <b>Tratamiento</b>, genera un campo estático que se corresponde con tu radio de terror y que aumenta la <b>locura</b> de los supervivientes en función de la proximidad al Doctor.</li><li>El modo <b>Tratamiento</b> otorga la habilidad de cargar y liberar el ataque <b>Terapia de choque</b>, que aumenta en gran medida la <b>locura</b> de los supervivientes.</li><li>Los supervivientes que entren en los niveles de <b>locura 1, 2 o 3</b> gritarán y revelarán su posición al Doctor.</li><li>Los niveles de <b>locura 2</b> y <b>3</b> hacen que los supervivientes sufran alucinaciones que el Doctor ve en forma de <b>aura</b>.</li><li>En el nivel de <b>locura 3</b>, los supervivientes gritan frecuentemente y revelan su posición al Doctor.</li><li>En el nivel de <b>locura 3</b>, los supervivientes no pueden interactuar hasta que recuperen la <b>cordura</b>.</li><li>Se pueden provocar otras <b>aflicciones</b> con accesorios.</li>
+Chispa de Carter
+Chispa de Carter
+Chispa de Carter
 La fuente del poder de la Bruja, un dedo ennegrecido que se usa como catalizador de su terrible poder. La Bruja puede moldear y dar forma al barro a su antojo. Con simples dibujos rituales, crea dobles falsos de sí misma hechos de barro y podredumbre que puede usar con distintos efectos. <br><li>Otorga la habilidad de crear y mantener <b>10</b> trampas fantasma.</li><li> Otorga la habilidad de viajar al instante hasta las trampas activadas cuando estén dentro de un rango de <b>32 metros</b>.</li>
 Catalizador oscurecido
 La oscuridad interior alimenta su determinación para quitarle la vida a su presa. Activar el Mal Interior permite que la Forma vea a su presa con claridad y acumule más poder maligno al acecharla. Los 3 niveles de poder del Mal Interior aportan distintos beneficios:<br><br>MAL INTERIOR I: se reduce enormemente el radio de Terror. Otorga inmunidad a las habilidades de detección. Se reduce ligeramente la velocidad de movimiento. La embestida se reduce ligeramente.<br><br>MAL INTERIOR II: se reduce moderadamente el radio de Terror. Aumenta ligeramente la velocidad de movimiento. Aumenta ligeramente la embestida.<br><br>MAL INTERIOR III: radio de Terror normal. Los ataques hacen el doble de daño. El Mal Interior III dura 60 segundos, después su poder merma considerablemente.<br><span class="FlavorText">"Lo conocí hace quince años; me dijeron que no le quedaba nada; ni razonamiento, ni consciencia ni comprensión; ni siquiera el sentido más rudimentario de vida o muerte, del bien o del mal o de lo que es correcto o incorrecto. Conocí a este niño de seis años, con la cara inexpresiva, sin emoción y con los ojos más sombríos... los ojos del diablo. Dediqué ocho años a intentar conectar con él y, después, otros siete intentando mantenerlo encerrado porque me di cuenta de que lo que habitaba tras la mirada de ese chico era pura y simplemente... la maldad." -Dr Sam Loomis</span>
@@ -1184,6 +1321,8 @@ RECOMPENSA DE PRESTIGIO I
 RECOMPENSA DE PRESTIGIO I
 RECOMPENSA DE PRESTIGIO I
 RECOMPENSA DE PRESTIGIO I
+RECOMPENSA DE PRESTIGIO I
+RECOMPENSA DE PRESTIGIO I
 RECOMPENSA DE PRESTIGIO II
 RECOMPENSA DE PRESTIGIO II
 RECOMPENSA DE PRESTIGIO II
@@ -1198,6 +1337,10 @@ RECOMPENSA DE PRESTIGIO II
 RECOMPENSA DE PRESTIGIO II
 RECOMPENSA DE PRESTIGIO II
 RECOMPENSA DE PRESTIGIO II
+RECOMPENSA DE PRESTIGIO II
+RECOMPENSA DE PRESTIGIO II
+RECOMPENSA DE PRESTIGIO III
+RECOMPENSA DE PRESTIGIO III
 RECOMPENSA DE PRESTIGIO III
 RECOMPENSA DE PRESTIGIO III
 RECOMPENSA DE PRESTIGIO III
@@ -1237,7 +1380,7 @@ Bombea más gasolina al sistema de ignición para asegurar un arranque rápido y po
 Ramillete de Luna en Cuarto Menguante
 Rápido y Silencioso
 Bonificación de Abandono
-Golpea a un superviviente con el ataque Terapia de choque del doctor {1} vez/veces.
+Golpea a un superviviente con el ataque Terapia de choque del Doctor {1} vez/veces.
 Ritual de choque mental
 Con la Bruja, teletranspórtate y golpea a un superviviente {1} vez/veces.
 Rito de Carne y Barro
@@ -1257,6 +1400,7 @@ Vaqueros de Corte Holgado
 Culto a las Reliquias
 Reparar
 Repara el equivalente a {1} generador(es).
+Velocidad de reparación
 Reparaciones
 Rescata {1} superviviente(s) de un gancho con {0}.
 Resiliencia
@@ -1271,6 +1415,9 @@ Guantes de Goma
 Gomas y Ganchos
 Cadena Oxidada
 Golpe extra
+Bonificación de ataque
+En shock
+Subida de nivel de locura
 Trampa activada
 Colocar trampa
 Ataque fantasma
@@ -1280,6 +1427,7 @@ Protección
 Protección
 Acechador
 El Mal Interior
+Feng Min
 Ace Visconti
 William Overbeck, Bill
 Laurie Strode
@@ -1288,6 +1436,7 @@ Sabotaje (caja de herramientas)
 Trampa de sabotaje (saboteador)
 Trampa de sabotaje (caja de herramientas)
 Sabotea el equivalente a {1} gancho(s) completo(s).
+Velocidad de sabotaje
 Saboteador
 Sacrificio
 Sacrificio
@@ -1310,6 +1459,7 @@ Herramientas de Instalación
 Hijo de las Sombras
 Jake con el Bigote Arreglado
 Bosque de la Guarida
+Terapia de choque
 Lubricante Común
 Placa Destrozada
 Guirnalda del Alcaudón
@@ -1318,6 +1468,7 @@ Velo de Separación
 Velo de Unión
 Página Firmada de Libro de Contabilidad
 Llave maestra
+Habilidades
 Vestimenta Informal para el Matadero
 Carne Resbalosa
 Carnicero Chapucero
@@ -1327,6 +1478,7 @@ Alguien se dio prisa en pintar lo que parecen ser instrucciones de reparación en
 Bujía
 Herramientas especializadas diseñadas para instalar rápidamente y sin esfuerzo las trampas para osos.<br><li><b>Reducen considerablemente</b> el tiempo de instalación de trampas para osos.</li><li>Afectadas por la habilidad de Reparador.</li><li>Afecta a todas las trampas para osos.</li><li>Acumulable.</li>
 Limitador de Velocidad
+Velocidad
 Espías de las Sombras
 Botas con Púas
 Escalofríos
@@ -1359,10 +1511,19 @@ Superviviente
 Superviviente Encontrado
 Pantalón de Entrenamiento
 Bolsita con Minutisa
+Cambiar a Castigo
+Cambiar a Tratamiento
 HABILIDADES ENSEÑABLES
 LA RED DE SANGRE
 EL ENTE
 Lentes RIT
+Poder: <b>Chispa de Carter</b><br><li>Otorga la habilidad de alternar entre los modos <b>Castigo</b> y <b>Tratamiento</b>.</li><li>Usa el modo <b>Tratamiento</b> para aumentar la <b>locura</b> de los supervivientes.</li><li>En el modo <b>Tratamiento</b>, genera un campo estático que se corresponde con tu radio de terror y que aumenta la <b>locura</b> de los supervivientes en función de la proximidad al Doctor.</li><li>Los supervivientes que entren en los niveles de <b>locura 1, 2 o 3</b> gritarán y revelarán su posición al Doctor.</li><li>Los niveles de <b>locura 2</b> y <b>3</b> hacen que los supervivientes sufran alucinaciones del Doctor.</li><li>En el nivel de <b>locura 3</b>, los supervivientes gritan frecuentemente y revelan su posición al Doctor.</li><li>En el nivel de <b>locura 3</b>, los supervivientes no pueden interactuar hasta que recuperen la <b>cordura</b>.</li><li>Se pueden provocar otras <b>aflicciones</b> con accesorios.</li><br><li>Habilidades enseñables: <b>Presencia abrumadora, Monitorización y abuso y Sobrecarga</b>.</li>
+Arma: <b>Garra</b><br>Poder: <b>Catalizador oscurecido</b><br><li>Otorga la habilidad de crear y mantener <b>10 trampas fantasma</b>.<li>Otorga la habilidad de viajar al instante hasta las trampas activadas cuando estén dentro de un alcance de 32 metros.</li><li>Los supervivientes que entren en el área de la trampa harán que aparezca un fantasma de la Bruja que los desorientará.</li><br>Habilidades enseñables: <b>Maleficio: Devorador de esperanza, Maleficio: Ruina y Maleficio: El tercer sello</b>.
+Arma: <b>Martillo</b><br>Poder: <b>Motosierra</b><br><li>Inicia una carrera alocada al activar la carga.</li><li>La capacidad para cambiar de dirección es limitada mientras corres.</li><li>Provoca automáticamente el estado agonizante al acertar un golpe.</li><br>Habilidades enseñables: <b>Reparador, Hijo de la luz y Resistente</b>.
+Arma: <b>Cuchillo de cocina</b><br>Poder: <b>Mal interior</b><br><li>Acecha a los supervivientes para cargar <b>Mal interior</b>.<li><b>Mal interior</b> tiene 3 niveles diferentes que afectan a la capacidad de cazar a los supervivientes (más detalles en Equipamiento).</li><li>El color blanco de los supervivientes cambia a rojo al alcanzar el último nivel de <b>Mal interior</b></li><br>Habilidad enseñable: <b>Deja lo mejor para el final, Luz extinta y Juega con la comida</b>.
+Arma: <b>Sierra de huesos</b><br>Poder: <b>Último aliento de Spencer</b><br><li>Puedes usar <b>Proyección</b> dos veces antes de cansarte.</li><li>Desplázate con <b>Proyección</b> hasta <b>20 metros</b> al activar la carga.</li><li>Puedes atacar con <b>Mirada letal</b> después de proyectarte.</li><br>Habilidades enseñables: <b>Estridor, Tanatofobia y Vocación de enfermera</b>.
+Arma: <b>Cuchillo de carnicero</b><br>Poder: <b>Trampa para osos</b><br><li>Coloca <b>trampas para osos</b> para inmovilizar y herir a las víctimas del Trampero.</li><li>Empieza una partida con <b>1 trampa para osos</b>.</li><li>Hay 5 <b>trampas para osos</b> disponibles en puntos aleatorios del mapa.</li><br>Habilidades enseñables: <b>Fuerza brutal, Agitación y Presencia perturbadora</b>.
+Arma: <b>Hacha de Azarov</b><br>Poder: <b>Campana gimiente</b><br><li>Acción de carga que otorga invisibilidad total.</li><li>Movimiento más rápido cuando se es invisible.</li><br>Habilidades enseñables: <b>Hijo de las sombras, Depredador y Sabueso de sangre</b>.
 Guirnalda de la Tangara
 Frasco de Brea
 Moneda Deslustrada
@@ -1415,7 +1576,7 @@ Los dientes de la muerte yacen en la columna y el cráneo de Azarov.
 Lo último en ropa deportiva cómoda para uso diario.
 Estas mandíbulas de recambio para trampas para oso poseen cuchillas aserradas que provocan horribles heridas abiertas cuando se cierran de golpe.<br><li>Provoca un <b>sangrado fuerte</b> en la víctima atrapada hasta que sea curada.</li><li>Afecta a todas las trampas para osos.</li><br><span class="FlavorText">"Como una bestia depredadora, puede oler y rastrear la sangre".</span>
 Dicen que el mostacho le da cierto aire de dignidad al que lo lleva.
-Guantes gruesos que reducen la habilidad manual pero protegen las manos de las lesiones.<br><li><b>Aumentan ligeramente</b> la probabilidad de desencadenar la Revisión de habilidades para sabotear.</li><li><b>Aumentan ligeramente</b> las áreas de éxito para la Revisión de habilidades.</li><li><b>Reducen considerablemente</b> la penalización por la Revisión de habilidades fallida.</li><li>Acumulable.</li>
+Guantes gruesos que reducen la habilidad manual pero protegen las manos de las lesiones.<br><li><b>Aumentan ligeramente</b> la probabilidad de desencadenar la prueba de habilidad para sabotear.</li><li><b>Aumentan ligeramente</b> las áreas de éxito para la prueba de habilidad.</li><li><b>Reducen considerablemente</b> la penalización por la prueba de habilidad fallida.</li><li>Acumulable.</li>
 Gruesas botas de hule con increíbles propiedades antideslizantes que son útiles para senderos lodosos.
 Esta gorra mantiene el sol alejado de los ojos de Meg durante las carreras en los atardeceres.
 Esta cadena está cubierta de costrosas e impredecibles manchas de óxido que hacen que las heridas no se curen fácilmente.<br><li><b>Aumenta considerablemente</b> el tiempo de curación para los supervivientes atacados con una motosierra.</li><li>Acumulable.</li>
@@ -1456,7 +1617,7 @@ Tipos
 IMPREDECIBILIDAD
 Reaparecer
 Descolgar
-A diferencia de las demás bestias de la niebla, te has adaptado a la luz. Tu visión se debilita en un <span class="Highlight1">25 %</span>, pero puedes resistir luces intensas. La resistencia a la ceguera aumenta en un <span class="Highlight2">20 %</span>. La recuperación de la vista en caso de ceguera aumenta en un <span class="Highlight3">50 %</span>.<br><span class="FlavorText">"Estos monstruos... ¡Se adaptan! Aparecen con nuevas y extrañas habilidades". -Diario de Vigo</span>
+A diferencia de las demás bestias de la niebla, te has adaptado a la luz. Tu visión se debilita en un <span class="Highlight1">25 %</span>, pero puedes resistir luces intensas. Resistencia a la ceguera aumenta en un <span class="Highlight2">20 %</span>. La recuperación de la vista en caso de ceguera aumenta en un <span class="Highlight3">50 %</span>.<br><span class="FlavorText">"Estos monstruos... ¡Se adaptan! Aparecen con nuevas y extrañas habilidades". -Diario de Vigo</span>
 A diferencia de las demás bestias de la niebla, te has adaptado a la luz. Tu visión se debilita en un <span class="Highlight1">35 %</span>, pero puedes resistir luces intensas. Resistencia a la ceguera aumenta en un <span class="Highlight2">60 %</span>. La recuperación de la vista en caso de ceguera aumenta en un <span class="Highlight3">50 %</span>.<br><span class="FlavorText">"Estos monstruos... ¡Se adaptan! Aparecen con nuevas y extrañas habilidades". -Diario de Vigo</span>
 A diferencia de las demás bestias de la niebla, te has adaptado a la luz. Tu visión se debilita en un <span class="Highlight1">30 %</span>, pero puedes resistir luces intensas. Resistencia a la ceguera aumenta en un <span class="Highlight2">40 %</span>. La recuperación de la vista en caso de ceguera aumenta en un <span class="Highlight3">50 %</span>.<br><span class="FlavorText">"Estos monstruos... ¡Se adaptan! Aparecen con nuevas y extrañas habilidades". -Diario de Vigo</span>
 Apertura
@@ -1481,11 +1642,11 @@ Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las aur
 Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de los supervivientes durante <span class="Highlight1">5 segundos</span> cuando las puertas de salida se accionan.
 Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de los supervivientes durante <span class="Highlight1">7 segundos</span> cuando las puertas de salida se accionan.
 Desbloquea el potencial en la habilidad de analizar auras. Se te revelan las auras de los supervivientes durante <span class="Highlight1">9 segundos</span> cuando las puertas de salida se accionan.
-Desbloquea el potencial en la habilidad de analizar auras. Cuando las puertas de salida se accionan, se te revela el aura del asesino durante <span class="Highlight1">3 segundos</span>.<br><span class="FlavorText">Desbloquea el potencial en la habilidad de analizar auras. Cuando se accionan las puertas de salida, se te revela el aura del asesino durante <span class="Highlight1">5 segundos</span>.<br><span class="FlavorText">Desbloquea el potencial en la habilidad de analizar auras. Cuando las puertas de salida se accionan, se te revela el aura del asesino durante <span class="Highlight1">7 segundos</span>.<br><span class="FlavorText">Desbloquea la habilidad para autocurarte sin un objeto curativo a un <span class="Highlight1">30 %</span> de la velocidad normal. Las revisiones de habilidades activadas en esta situación tienen reducida el área de éxito en un <span class="Highlight2">20 %</span>. Aumenta la eficacia de la propiedad de autocuración del objeto curativo en un <span class="Highlight3">50 %</span>.
-Desbloquea la habilidad para autocurarte sin un objeto curativo a un <span class="Highlight1">40 %</span> de la velocidad normal. Las revisiones de habilidades activadas en esta situación tienen reducida el área de éxito en un <span class="Highlight2">10 %</span>. Aumenta la eficacia de la propiedad de autocuración del objeto curativo en un <span class="Highlight3">75 %</span>.
+Desbloquea el potencial en la habilidad de analizar auras. Cuando las puertas de salida se accionan, se te revela el aura del asesino durante <span class="Highlight1">3 segundos</span>.<br><span class="FlavorText">Desbloquea el potencial en la habilidad de analizar auras. Cuando se accionan las puertas de salida, se te revela el aura del asesino durante <span class="Highlight1">5 segundos</span>.<br><span class="FlavorText">Desbloquea el potencial en la habilidad de analizar auras. Cuando las puertas de salida se accionan, se te revela el aura del asesino durante <span class="Highlight1">7 segundos</span>.<br><span class="FlavorText">Desbloquea la habilidad para autocurarte sin un objeto curativo a un <span class="Highlight1">30 %</span> de la velocidad normal. Las pruebas de habilidad activadas en esta situación tienen reducida el área de éxito en un <span class="Highlight2">20 %</span>. Aumenta la eficacia de la propiedad de autocuración del objeto curativo en un <span class="Highlight3">50 %</span>.
+Desbloquea la habilidad para autocurarte sin un objeto curativo a un <span class="Highlight1">40 %</span> de la velocidad normal. Las pruebas de habilidad activadas en esta situación tienen reducida el área de éxito en un <span class="Highlight2">10 %</span>. Aumenta la eficacia de la propiedad de autocuración del objeto curativo en un <span class="Highlight3">75 %</span>.
 Desbloquea la habilidad para autocurarte sin un objeto curativo a un <span class="Highlight1">50 %</span> de la velocidad normal. Aumenta la eficacia de la propiedad de autocuración del objeto curativo en un <span class="Highlight3">100 %</span>.
-Desbloquea la habilidad para sabotear sin un juego de herramientas a un <span class="Highlight1">30 %</span> de la velocidad normal. Las revisiones de habilidades activadas en esta situación tienen reducida el área de éxito en un <span class="Highlight2">20 %</span>. Aumenta la eficacia del sabotaje con juego de herramientas en un <span class="Highlight3">50 %</span>.
-Desbloquea la habilidad para sabotear sin un juego de herramientas a un <span class="Highlight1">40 %</span> de la velocidad normal. Las revisiones de habilidades activadas en esta situación tienen reducida el área de éxito en un <span class="Highlight2">10 %</span>. Aumenta la eficacia del sabotaje con juego de herramientas en un <span class="Highlight3">75 %</span>.
+Desbloquea la habilidad para sabotear sin un juego de herramientas a un <span class="Highlight1">30 %</span> de la velocidad normal. Las pruebas de habilidad activadas en esta situación tienen reducida el área de éxito en un <span class="Highlight2">20 %</span>. Aumenta la eficacia del sabotaje con juego de herramientas en un <span class="Highlight3">50 %</span>.
+Desbloquea la habilidad para sabotear sin un juego de herramientas a un <span class="Highlight1">40 %</span> de la velocidad normal. Las pruebas de habilidad activadas en esta situación tienen reducida el área de éxito en un <span class="Highlight2">10 %</span>. Aumenta la eficacia del sabotaje con juego de herramientas en un <span class="Highlight3">75 %</span>.
 Desbloquea la habilidad para sabotear sin un juego de herramientas a un <span class="Highlight1">50 %</span> de la velocidad normal. Aumenta la eficacia del sabotaje con juego de herramientas en un <span class="Highlight3">100 %</span>.
 Desbloquea la habilidad de Sigilo. Al quedarte inmóvil durante <span class="Highlight1">2 segundos</span> reduces tu radio de terror a <span class="Highlight2">0</span> y entras en modo sigiloso hasta que te muevas o realices una acción.
 Desbloquea la habilidad de Sigilo. Al quedarte inmóvil durante <span class="Highlight1">3 segundos</span> reduces tu radio de terror a <span class="Highlight2">0</span> y entras en modo sigiloso hasta que te muevas o realices una acción.
@@ -1501,6 +1662,8 @@ Saltar
 Aceite Vegetal
 Velo de Vigo
 Matrícula de Virginia
+Visión
+Resistencia
 Campana Gimiente
 Campana Gimiente
 La transpiración, la impermeabilidad y el sellado hacen de esta chaqueta cortavientos algo magnífico.
@@ -1548,15 +1711,15 @@ Tienes un entendimiento rudimentario de la voz del Ente. Oyes esporádicamente el
 Has desarrollado una forma eficiente para liberarte de las trampas para osos y los ganchos. Aumenta en un <span class="Highlight1">10 %</span> la velocidad a la que intentas liberarte de las trampas para oso y ganchos. La probabilidad de liberarte de las trampas para osos aumenta en un <span class="Highlight2">5 %</span>.
 Has desarrollado una forma eficiente para liberarte de las trampas para osos y los ganchos. Aumenta en un <span class="Highlight1">15 %</span> la velocidad a la que intentas liberarte de las trampas para oso y ganchos. La probabilidad de liberarte de las trampas para osos aumenta en un <span class="Highlight2">10 %</span>. La probabilidad de liberarte de ganchos aumenta en un <span class="Highlight2">5 %</span>.
 Has desarrollado una forma eficiente para liberarte de las trampas para osos y los ganchos. Aumenta en un <span class="Highlight1">5 %</span> la velocidad a la que intentas liberarte de las trampas para osos y ganchos.
-Tienes la innegable habilidad de detectar el peligro. Obtén una advertencia sonora cuando mires en dirección del asesino en un área cónica de <span class="Highlight1">45 grados</span> dentro de un radio de <span class="Highlight2">12 metros</span>. La habilidad de Premonición tiene un tiempo de enfriamiento de <span class="Highlight3">60 segundos</span> cada vez que se activa. La habilidad de Premonición supera cualquier habilidad de Sigilo del asesino.<br><span class="FlavorText">"¡Tengo un mal presentimiento sobre esto!"</span>
-Tienes la innegable habilidad de detectar el peligro. Obtén una advertencia sonora cuando mires en dirección del asesino en un área cónica de <span class="Highlight1">45 grados</span> dentro de un radio de <span class="Highlight2">24 metros</span>. La habilidad de Premonición tiene un tiempo de enfriamiento de <span class="Highlight3">45 segundos</span> cada vez que se activa. La habilidad de Premonición supera cualquier habilidad de Sigilo del asesino.<br><span class="FlavorText">"¡Tengo un mal presentimiento sobre esto!"</span>
-Tienes la innegable habilidad de detectar el peligro. Obtén una advertencia sonora cuando mires en dirección del asesino en un área cónica de <span class="Highlight1">45 grados</span> dentro de un radio de <span class="Highlight2">36 metros</span>. La habilidad de Premonición tiene un tiempo de enfriamiento de <span class="Highlight3">30 segundos</span> cada vez que se activa. La habilidad de Premonición supera cualquier habilidad de Sigilo del asesino.<br><span class="FlavorText">"¡Tengo un mal presentimiento sobre esto!"</span>
+Tienes la innegable habilidad de detectar el peligro. Obtén una advertencia sonora cuando mires en dirección del asesino en un área cónica de <span class="Highlight1">45 grados</span> dentro de un radio de <span class="Highlight2">12 metros</span>. La habilidad de Premonición tiene un tiempo de recuperación de <span class="Highlight3">60 segundos</span> cada vez que se activa. La habilidad de Premonición supera cualquier habilidad de Sigilo del asesino.<br><span class="FlavorText">"¡Tengo un mal presentimiento sobre esto!"</span>
+Tienes la innegable habilidad de detectar el peligro. Obtén una advertencia sonora cuando mires en dirección del asesino en un área cónica de <span class="Highlight1">45 grados</span> dentro de un radio de <span class="Highlight2">24 metros</span>. La habilidad de Premonición tiene un tiempo de recuperación de <span class="Highlight3">45 segundos</span> cada vez que se activa. La habilidad de Premonición supera cualquier habilidad de Sigilo del asesino.<br><span class="FlavorText">"¡Tengo un mal presentimiento sobre esto!"</span>
+Tienes la innegable habilidad de detectar el peligro. Obtén una advertencia sonora cuando mires en dirección del asesino en un área cónica de <span class="Highlight1">45 grados</span> dentro de un radio de <span class="Highlight2">36 metros</span>. La habilidad de Premonición tiene un tiempo de recuperación de <span class="Highlight3">30 segundos</span> cada vez que se activa. La habilidad de Premonición supera cualquier habilidad de Sigilo del asesino.<br><span class="FlavorText">"¡Tengo un mal presentimiento sobre esto!"</span>
 Sabes dónde dar el golpe para hacerlos sangrar. Las heridas provocadas por ataques con éxito <span class="Highlight1">aumentan considerablemente</span> la frecuencia de sangrado del superviviente. El sangrado vuelve a su ritmo normal cuando se cura al superviviente.<br><span class="FlavorText">"Está en su naturaleza sádica. No existe una muerte rápida, pues se deleita con el obsceno espectáculo de nuestro sufrimiento agonizante".</span>
 Sabes dónde dar el golpe para hacerlos sangrar. Las heridas provocadas por ataques con éxito <span class="Highlight1">aumentan moderadamente</span> la frecuencia de sangrado del superviviente. El sangrado vuelve a su ritmo normal cuando se cura al superviviente.<br><span class="FlavorText">"Está en su naturaleza sádica. No existe una muerte rápida, pues se deleita con el obsceno espectáculo de nuestro sufrimiento agonizante".</span>
 Sabes dónde dar el golpe para hacerlos sangrar. Las heridas provocadas por ataques con éxito <span class="Highlight1">aumentan ligeramente</span> la frecuencia de sangrado del superviviente. El sangrado vuelve a su ritmo normal cuando se cura al superviviente.<br><span class="FlavorText">"Está en su naturaleza sádica. No existe una muerte rápida, pues se deleita con el obsceno espectáculo de nuestro sufrimiento agonizante".</span>
-Logras tu mejor desempeño cuando te encuentras bajo presión extrema. Las áreas de éxito de Revisión de habilidades para reparaciones, curaciones y sabotaje son más grandes en un <span class="Highlight1">10 %</span> cuando estás herido(a).
-Logras tu mejor desempeño cuando te encuentras bajo presión extrema. Las áreas de éxito de Revisión de habilidades para reparaciones, curaciones y sabotaje son más grandes en un <span class="Highlight1">20 %</span> cuando estás herido(a).
-Logras tu mejor desempeño cuando te encuentras bajo presión extrema. Las áreas de éxito de Revisión de habilidades para reparaciones, curaciones y sabotaje son más grandes en un <span class="Highlight1">30 %</span> cuando estás herido(a).
+Logras tu mejor desempeño cuando te encuentras bajo presión extrema. Las áreas de éxito de prueba de habilidad para reparaciones, curaciones y sabotaje son más grandes en un <span class="Highlight1">10 %</span> cuando estás herido(a).
+Logras tu mejor desempeño cuando te encuentras bajo presión extrema. Las áreas de éxito de prueba de habilidad para reparaciones, curaciones y sabotaje son más grandes en un <span class="Highlight1">20 %</span> cuando estás herido(a).
+Logras tu mejor desempeño cuando te encuentras bajo presión extrema. Las áreas de éxito de prueba de habilidad para reparaciones, curaciones y sabotaje son más grandes en un <span class="Highlight1">30 %</span> cuando estás herido(a).
 Te recuperas más rápido de los ataques errados con tu arma principal. El tiempo de recuperación de los ataques fallidos se reduce un <span class="Highlight1">20 %</span>.
 Te recuperas más rápido de los ataques errados con tu arma principal. El tiempo de recuperación de los ataques fallidos se reduce un <span class="Highlight1">25 %</span>.
 Te recuperas más rápido de los ataques errados con tu arma principal. El tiempo de recuperación de los ataques fallidos se reduce un <span class="Highlight1">30 %</span>.
@@ -1586,36 +1749,36 @@ Tus horrorosas emanaciones alcanzan distancias sobrenaturales. Tu radio de terro
 Te aferras tan poderosamente a los supervivientes que la posibilidad de escape es casi nula. Los efectos del forcejeo del superviviente se reducen en un <span class="Highlight1">25 %</span>. El tiempo necesario para librarse de ti aumenta en un <span class="Highlight2">4 %</span>.
 Te aferras tan poderosamente a los supervivientes que la posibilidad de escape es casi nula. Los efectos del forcejeo del superviviente se reducen en un <span class="Highlight1">50 %</span>. El tiempo necesario para librarse de ti aumenta en un <span class="Highlight2">8 %</span>.
 Te aferras tan poderosamente a los supervivientes que la posibilidad de escape es casi nula. Los efectos del forcejeo del superviviente se reducen en un <span class="Highlight1">75 %</span>. El tiempo necesario para librarse de ti aumenta en un <span class="Highlight2">12 %</span>.
-Tu mera presencia infunde un gran miedo. Los supervivientes que se encuentren dentro de tu radio de terror tienen un <span class="Highlight1">3 %</span> más de probabilidades de activar las Revisiones de habilidades cuando reparan, curan o sabotean. La zona de éxito de las Revisiones de habilidades activadas se reduce en un <span class="Highlight2">5 %</span>.<br><span class="FlavorText">"Su presencia nos sobreviene".</span>
-Tu mera presencia infunde un gran miedo. Los supervivientes que se encuentren dentro de tu radio de terror tienen un <span class="Highlight1">5 %</span> más de probabilidades de activar las Revisiones de habilidades cuando reparan, curan o sabotean. La zona de éxito de las Revisiones de habilidades activadas se reduce en un <span class="Highlight2">10 %</span>.<br><span class="FlavorText">"Su presencia nos sobreviene".</span>
-Tu mera presencia infunde un gran miedo. Los supervivientes que se encuentren dentro de tu radio de terror tienen un <span class="Highlight1">8 %</span> más de probabilidades de activar las Revisiones de habilidades cuando reparan, curan o sabotean. El área de éxito de las Revisiones de habilidades activadas se reduce en un <span class="Highlight2">15 %</span>.<br><span class="FlavorText">"Su presencia nos sobreviene".</span>
+Tu mera presencia infunde un gran miedo. Los supervivientes que se encuentren dentro de tu radio de terror tienen un <span class="Highlight1">3 %</span> más de probabilidades de activar las Pruebas de habilidad cuando reparan, curan o sabotean. La área de éxito de las Pruebas de habilidad activadas se reduce en un <span class="Highlight2">5 %</span>.<br><span class="FlavorText">"Su presencia nos sobreviene".</span>
+Tu mera presencia infunde un gran miedo. Los supervivientes que se encuentren dentro de tu radio de terror tienen un <span class="Highlight1">5 %</span> más de probabilidades de activar las Pruebas de habilidad cuando reparan, curan o sabotean. La área de éxito de las Pruebas de habilidad activadas se reduce en un <span class="Highlight2">10 %</span>.<br><span class="FlavorText">"Su presencia nos sobreviene".</span>
+Tu mera presencia infunde un gran miedo. Los supervivientes que se encuentren dentro de tu radio de terror tienen un <span class="Highlight1">8 %</span> más de probabilidades de activar las Pruebas de habilidad cuando reparan, curan o sabotean. El área de éxito de las Pruebas de habilidad activadas se reduce en un <span class="Highlight2">15 %</span>.<br><span class="FlavorText">"Su presencia nos sobreviene".</span>
 Corres con los pies ligeros, lo que hace que sea más difícil seguir tu rastro. Las huellas de pisada permanecen visibles <span class="Highlight1">1 segundo</span> menos de lo normal.
 Corres con los pies ligeros, lo que hace que sea más difícil seguir tu rastro. Las huellas de pisada permanecen visibles <span class="Highlight1">2 segundos</span> menos de lo normal.
 Corres con los pies ligeros, lo que hace que sea más difícil seguir tu rastro. Las huellas de pisada permanecen visibles <span class="Highlight1">3 segundos</span> menos de lo normal.
 Suspiro Ansioso
-El soplido de sorpresa de una chica con ansiedad a la que la Enfermera apreciaba. Se mueve enérgicamente cuando la Enfermera lo toca.<br><li><b>Aumenta en gran medida</b> la velocidad de movimiento de la Mirada.</li><li><b>Reduce moderadamente</b> la velocidad de carga de la Mirada.</li><li>Se ven afectadas por la habilidad de Reparador.</li>
+El soplido de sorpresa de una chica con ansiedad a la que la Enfermera apreciaba. Se mueve enérgicamente cuando la Enfermera lo toca.<br><li><b>Aumenta en gran medida</b> la velocidad de movimiento de Proyección.</li><li><b>Reduce moderadamente</b> la velocidad de carga de Proyección.</li><li>Se ven afectadas por la habilidad de Reparador.</li>
 Recuerdo del Hombre Malo
-Una muela podrida encontrada en la mano del cadáver del Hombre Malo.<br><li><b>Aumenta moderadamente</b> la velocidad de carga de la Mirada.</li><li>Se ven afectadas por la habilidad de Reparador.</li>
+Una muela podrida encontrada en la mano del cadáver del Hombre Malo.<br><li><b>Aumenta moderadamente</b> la velocidad de carga de Proyección.</li><li>Se ven afectadas por la habilidad de Reparador.</li>
 Último aliento de Campbell
-Un último y poderoso aliento arrebatado al cura del asilo Crotus Prenn, el padre Campbell. Cruje estrepitosamente en las manos de la Enfermera.<br><li>Añade <b>2</b> encadenamientos adicionales a la Mirada.</li><li><b>Reduce ligeramente</b> el alcance máximo de la Mirada.</li>
+Un último y poderoso aliento arrebatado al cura del asilo Crotus Prenn, el padre Campbell. Cruje estrepitosamente en las manos de la Enfermera.<br><li>Añade <b>2</b> proyecciones adicionales.</li><li><b>Reduce ligeramente</b> el alcance máximo de Proyección.</li>
 Tesoro del Chico Catatónico
-Una piña que, sorprendentemente, era capaz de apaciguar los movimientos repetitivos de un paciente. Se recuperó del cuerpo del chico catatónico.<br><li><b>Aumenta moderadamente</b> el alcance máximo de la Mirada.</li><li><b>Reduce moderadamente</b> su precisión.</li>
+Una piña que, sorprendentemente, era capaz de apaciguar los movimientos repetitivos de un paciente. Se recuperó del cuerpo del chico catatónico.<br><li><b>Aumenta moderadamente</b> el alcance máximo de Proyección.</li><li><b>Reduce moderadamente</b> su precisión.</li>
 Cinturón Oscuro
-Un cordel negro que se usaba como cinturón para los momentos de luto. Recuperado del cuerpo del padre Campbell.<br><li>Añade <b>1</b> encadenamiento adicional a la Mirada.</li><li><b>Reduce ligeramente</b> el alcance máximo de la Mirada.</li>
+Un cordel negro que se usaba como cinturón para los momentos de luto. Recuperado del cuerpo del padre Campbell.<br><li>Añade <b>1</b> proyección adicional.</li><li><b>Reduce ligeramente</b> el alcance máximo de Proyección.</li>
 Respiración Frágil
-Un estertor sibilante robado al padre Campbell. Se curva e inclina en silencio cuando la Enfermera lo toca.<br><li>Añade <b>1</b> encadenamientos adicionales a la Mirada.</li>
+Un estertor sibilante robado al padre Campbell. Se curva e inclina en silencio cuando la Enfermera lo toca.<br><li>Añade <b>1</b> proyección adicional.</li>
 Cuchara de metal
-Una cuchara de metal sin brillo y medio oxidada. Confiscada al paciente de la habitación 202, el Hombre Malo.<br><li><b>Aumenta ligeramente</b> la velocidad de carga de la Mirada.</li><li>Se ven afectadas por la habilidad de Reparador.</li>
+Una cuchara de metal sin brillo y medio oxidada. Confiscada al paciente de la habitación 202, el Hombre Malo.<br><li><b>Aumenta ligeramente</b> la velocidad de carga de Proyección.</li><li>Se ven afectadas por la habilidad de Reparador.</li>
 Franela a cuadros
-Un trozo de franela rasgado con cuadros rojos y negros. Este pedazo de tela otorga a la Enfermera una capacidad de concentración devastadora.<br><li>Permite ver el lugar meta de la Mirada.</li>
+Un trozo de franela rasgado con cuadros rojos y negros. Este pedazo de tela otorga a la Enfermera una capacidad de concentración devastadora.<br><li>Permite ver el lugar meta de Proyección.</li>
 Reloj de bolsillo
-Un reloj de bolsillo roto y chamuscado con piezas tintineantes. Se recuperó del cuerpo de la enfermera Moris.<br><li><b>Reduce moderadamente</b> el tiempo de fatiga de la Mirada.</li><li><b>Reduce ligeramente</b> su velocidad de carga.</li><li>Se ve afectada por la habilidad de Reparador.</li>
+Un reloj de bolsillo roto y chamuscado con piezas tintineantes. Se recuperó del cuerpo de la enfermera Moris.<br><li><b>Reduce moderadamente</b> el tiempo de fatiga de Proyección.</li><li><b>Reduce ligeramente</b> su velocidad de carga.</li><li>Se ve afectada por la habilidad de Reparador.</li>
 Marcapáginas arrancado
-Un trozo de cinta blanca e inmaculada que una vez estuvo unida a un libro sagrado. Fue símbolo de una disputa.<br><li>Añade <b>1</b> encadenamiento adicional a la Mirada.</li><li><b>Reduce ligeramente</b> su alcance máximo.</li><li><b>Reduce ligeramente</b> el tiempo entre los encadenamientos.</li>
+Un trozo de cinta blanca e inmaculada que una vez estuvo unida a un libro sagrado. Fue símbolo de una disputa.<br><li>Añade <b>1</b> proyección adicional.</li><li><b>Reduce ligeramente</b> su alcance máximo.</li><li><b>Reduce ligeramente</b> el tiempo entre los encadenamientos.</li>
 Peine de piojos blanco
-Un peine para piojos traido de la clínica. En el pasado fue símbolo de una profunda conexión entre una paciente con ansiedad y su enfermera.<br><li><b>Aumenta ligeramente</b> la velocidad de movimiento de la Mirada.</li>
+Un peine para piojos traído de la clínica. En el pasado fue símbolo de una profunda conexión entre una paciente con ansiedad y su enfermera.<br><li><b>Aumenta ligeramente</b> la velocidad de movimiento de Proyección.</li>
 Caballito de madera
-Un juguete sin pintar esculpido en madera barata con forma de caballo. En el pasado fue símbolo de una profunda conexión entre una paciente catatónica y la Enfermera.<br><li><b>Aumenta ligeramente</b> el alcance máximo de la Mirada.</li><li><b>Reduce ligeramente</b> la precisión de la Mirada.</li>
+Un juguete sin pintar esculpido en madera barata con forma de caballo. En el pasado fue símbolo de una profunda conexión entre una paciente catatónica y la Enfermera.<br><li><b>Aumenta ligeramente</b> el alcance máximo de Proyección.</li><li><b>Reduce ligeramente</b> la precisión de Proyección.</li>
 Nea Karlsson
 La Enfermera
 A unique top for Claudette, exclusively for 72hrs
@@ -1664,7 +1827,7 @@ Todas esas mentes curadas y la más importante echada a perder
 Todas esas mentes curadas y la más importante echada a perder
 Abre el camino a la redención a base de hachazos, sangre y cortes
 Abre el camino a la redención a base de hachazos, sangre y cortes
-A unique top for Nea, exclusively for DiaTech
+A unique top for Nea, exclusively for Diabetech
 Is it Dia or Dia?
 Boina Grande
 Camiseta de calle sin mangas
@@ -1745,13 +1908,14 @@ Caída Equilibrada
 Evasión Urbana
 Con Calle
 Familia
-Un último aliento poderoso y violento arrebatado al guarda del asilo Patrick Spencer. Al canalizar su energía, la Enfermera puede colarse en el mundo de los espíritus y saltar a través de él en un abrir y cerrar de ojos varias veces seguidas. Hacer esto la deja en un estado de fatiga.<br><li>Otorga la Mirada.</li><li>Concede <b>1</b> encadenamientos adicionales.</li>
+Un último aliento poderoso y violento arrebatado al guarda del asilo Patrick Spencer. Al canalizar su energía, la Enfermera puede colarse en el mundo de los espíritus y saltar a través de él en un abrir y cerrar de ojos varias veces seguidas. Hacer esto la deja en un estado de fatiga.<br><li>Otorga Proyección.</li><li>Concede <b>1</b> proyección adicional.</li>
 Último Aliento de Spencer
-Usa la Mirada para atrapar {1} superviviente(s) con la Enfermera.
+Usa Proyección para atrapar {1} superviviente(s) con la Enfermera.
 Rito del Último Aliento
 Mirada Precisa
 Mirada Letal
 Mirada Sorpresa
+ACEPTAR
 ACEPTO
 GUARDAR LOS CAMBIOS
 ATRÁS
@@ -1767,6 +1931,7 @@ CREAR UNA SALA DE ESPERA
 CRÉDITOS
 PERSONALIZAR
 RITUALES DIARIOS
+RECHAZAR
 SALIR DEL GRUPO
 EXTRAS
 IR A LA SALA DE ESPERA
@@ -1791,6 +1956,7 @@ ABRIR EL MENÚ
 JUGAR
 JUGAR COMO ASESINO
 JUGAR COMO SUPERVIVIENTE
+PULSA CUALQUIER BOTÓN
 PULSA CUALQUIER TECLA
 ANTERIOR
 PARTIDA PRIVADA
@@ -1803,6 +1969,7 @@ REGENERAR RED
 QUITAR RITUAL
 RESTABLECER AJUSTES POR DEFECTO
 REGRESAR A LA SALA DE ESPERA
+GUARDAR Y CERRAR
 DESPLAZAR LISTA
 CONFIGURACIÓN Y CONTROLES
 SANTUARIO
@@ -1813,6 +1980,7 @@ ENVIAR
 SOBREVIVE CON AMIGOS
 SUPERVIVIENTE
 TUTORIALES DEL MODO SUPERVIVIENTE
+SUPERVIVIENTES
 INTERCAMBIAR ROLES
 CAMBIAR A ASESINO
 CAMBIAR A ESPECTADOR
@@ -1839,6 +2007,7 @@ RED DE SANGRE
 AUDACIA
 AUMENTOS PERDIDOS
 BRUTALIDAD
+SENSIBILIDAD DE LA CÁMARA
 PERSONAJE
 HABILIDADES DE PERSONAJES
 PERSONAJES
@@ -1931,10 +2100,7 @@ PODERES
 PULSA
 PRESIONA LA BARRA ESPACIADORA PARA CONTINUAR
 PÚBLICO
-Habilidades: {0}
-Objetos / Accesorios: {1}
-Ofrendas: {2}
-Mapa: {3}
+Habilidades: {0}Objetos / Accesorios: {1}Ofrendas: {2}Mapa: {3}
 Habilita el uso de habilidades.
 CALIDAD
 ALEATORIO
@@ -1956,6 +2122,7 @@ EL SANTUARIO DE LOS SECRETOS SE ACTUALIZARÁ EN
 CASILLA BLOQUEADA
 ESTADO
 SUPERVIVENCIA
+SUPERVIVIENTE
 CLASIFICACIÓN<br>DE SUPERVIVIENTES
 CONTROLES DE SUPERVIVIENTE
 VÍDEOS TUTORIALES DEL MODO SUPERVIVIENTE
@@ -2000,7 +2167,7 @@ BOTÓN DERECHO DEL RATÓN
 CORRER
 CORRER
 ACCIÓN SECUNDARIA
-REVISIÓN DE HABILIDADES
+PRUEBA DE HABILIDAD
 GIRAR A LA IZQUIERDA
 GIRAR A LA DERECHA
 UTILIZAR OBJETO
@@ -2015,12 +2182,11 @@ Recompensa
 <li>Pueden jugar entre 2 y 5 jugadores.</li><li>Todos los jugadores pueden cambiar de papel en la sala de espera.</li><li>La partida puede empezar cuando haya 1 asesino, ¡ni uno más, ni uno menos!</li><li>Se pueden usar objetos, accesorios, habilidades y ofrendas recogidos en otros modos, no se perderán.</li><li>No se ganan puntos de sangre.</li><li>No se ganan objetos, accesorios ni ofrendas.</li><li>No puedes ganar ni perder posiciones.</li>
 Comienza una nueva temporada. Tu posición se reiniciará:
 Hay una nueva versión del juego disponible. Debes actualizar tu cliente para usar las aplicaciones de red.
-Se necesita un perfil con acceso a Xbox Live.
 RESTRICCIÓN DE EDAD
 APLICACIÓN SUSPENDIDA
 ¡DISPONIBLE EN PLAYSTATION®STORE!
 ¡DISPONIBLE EN LA TIENDA DE STEAM!
-¡DISPONIBLE EN LA TIENDA XBOX!
+¡DISPONIBLE EN LA Tienda Xbox!
 Accede a los tutoriales en cualquier momento al presionar la tecla [Esc] y al seleccionar Ayuda en la lista de opciones.
 Determina si el juego se muestra en pantalla completa o en una ventana.
 Ya lo tienes. Vuelve a comprarlo y obtén:
@@ -2035,6 +2201,7 @@ Ajusta la resolución automáticamente en relación con la frecuencia de cuadro.
 Disponible en Steam
 QUEMAR {0}
 BÚSQUEDA DE JUGADORES CANCELADA
+NO SE PUEDE CONECTAR CON LA TIENDA
 HAZ CLIC AQUÍ PARA USAR
 PUNTOS DE SANGRE
 PRÓXIMAMENTE
@@ -2043,6 +2210,8 @@ ERROR DE CONEXIÓN
 ERROR DE CONEXIÓN
 SALA DE ESPERA CREADA
 Regula la estereofonía (el equilibrio del audio) para auriculares o altavoces.
+No se puede conectar con los servicios en línea. Inténtalo más tarde.
+No se puede obtener la lista de contenido disponible. Inténtalo más tarde.
 No es posible empezar con {0} asesino(s).
 Cambia el idioma del juego. <FONT COLOR="#dd0000">Hay que reiniciar el juego para que se aplique el cambio.</FONT>
 Haz clic aquí para chatear...
@@ -2054,6 +2223,7 @@ Créditos
 RITUALES DIARIOS
 Desafíos diarios que dan como recompensa puntos de sangre.
 Rituales diarios
+En estos momentos, los servidores de Dead by Daylight no están disponibles. Inténtalo más tarde.
 Controla si el juego se silencia cuando la aplicación no está seleccionada.
 Controla la resolución en la que se muestra el juego. <FONT COLOR="#dd0000">No se puede modificar si el ajuste automático está activado.</FONT>
 Desconectado Del Servidor
@@ -2083,6 +2253,7 @@ Aumentar el prestigio de tu Red de sangre tiene los siguientes efectos:<br><ul><
 Invierte el control del eje Y.
 ERROR AL UNIRSE A LA PARTIDA
 ERROR AL UNIRSE A LA SALA DE ESPERA
+ERROR AL UNIRSE A LA SALA DE ESPERA
 SE UNIÓ A LA SALA DE ESPERA
 Unión a partida privada rechazada
 Expulsado del Servidor
@@ -2102,9 +2273,9 @@ NUEVO EVENTO
 NUEVA VERSIÓN DISPONIBLE
 NO SE ENCONTRARON PARTIDAS
 SIN CONEXIÓN A INTERNET
+SIN CONEXIÓN A INTERNET
 Novedades
 Las últimas noticias, publicaciones de los desarrolladores y notas sobre parches.
-ERROR DEL ESTADO EN LÍNEA
 NOTAS SOBRE EL PARCHE
 PARCHE NECESARIO
 PRESTIGIO {0}
@@ -2121,11 +2292,14 @@ DENUNCIAR
 RESTABLECER AJUSTES POR DEFECTO
 ¿VOLVER A LA SALA DE ESPERA?
 Denuncias restantes: 
+¿Restablecer la combinación de botones original?
+¿Restablecer la combinación de teclas y botones original?
 ERROR DE GUARDADO
 BUSCANDO JUEGOS
 FIN DE LA TEMPORADA
 SELECCIONAR CATEGORÍA
 FUENTE:
+GASTAR PUNTOS DE SANGRE
 SUPERVIVIENTE ESCAPANDO
 ACTUALIZACIÓN DE SISTEMA NECESARIA
 Di:
@@ -2139,7 +2313,7 @@ Invita a amigos a sobrevivir contra un asesino desconocido en partidas por clasi
 Sobrevive con amigos
 EL ANFITRIÓN HA ABANDONADO LA PARTIDA
 TUTORIAL
-Sensibilidad del mando para la rotación de la cámara.
+Sensibilidad del ratón para la rotación de la cámara.
 La partida no se ha iniciado correctamente y puede que no se guarde como es debido. Reiniciar la partida podría solucionar el problema.
 La partida a la que intentas unirte ya no está disponible.
 Sensibilidad del ratón para la rotación de la cámara.
@@ -2155,7 +2329,6 @@ Advertencia
 No puedes unirte a la sala de espera mientras buscas una partida.
 Se te ha expulsado del servidor porque no se ha podido validar tu cuenta a través de Easy Anti-Cheat (código de error {0}).
 Se te ha expulsado del servidor porque no se ha podido verificar y autenticar tu cuenta de Steam (código de error {0}).
-Te has desconectado de tu perfil actual.
 Te has desconectado del servidor porque no se ha podido validar la cuenta del anfitrión a través de Easy Anti-Cheat (código de error {0}).
 Te has desconectado del servidor porque no se ha podido verificar y autenticar la cuenta de Steam del anfitrión (código de error {0}).
 Parece que tienes problemas de conexión. Ten en cuenta que se impondrán penalizaciones graves por desconexiones frecuentes.
@@ -2172,10 +2345,12 @@ ALTO
 BAJO
 MEDIO
 ULTRA
+Artefacto
 Común
 Raro(a)
+Espectral
 Enseñable
-Ultrararo(a)
+Ultrarraro(a)
 Poco Común
 Muy Raro(a)
 {1} {0}

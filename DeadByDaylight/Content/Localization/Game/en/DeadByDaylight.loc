@@ -113,6 +113,7 @@ A makeshift  exhaust system made of black gas pipes.<br><li><b>Moderately Reduce
 Homemade Muffler
 A light and durable Chainsaw chassis with a shorter guide bar. Makes the Chainsaw easier to handle.<br><li><b>Slightly reduces</b> the reach of the Chainsaw attack.</li><li><b>Considerably reduces</b> the time penalty when bumping into objects.</li><li>Stacks.</li>
 Light Chassis
+A mechanical device that limits the amount of fuel small engines can intake at one time, forcing a constant and safe speed.<br><li>Chainsaw does not automatically trigger dying state.</li><li>Get <b>50%</b> more blood points for chainsaw score events.</li>
 A special oily substance used in the lubrication of all machinery concocted by the Thompson`s themselves.<br><li><b>Considerably decreases</b> the Chainsaw's cooldown.</li><li><b>Slightly decreases</b> the Chainsaw's charge time.</li><li>Affected by the Tinkerer Perk.</li><li>Stacks.</li>
 The Thompson`s Mix
 A strong beverage made from corn and a recipe passed down in the Thompson`s family. Instills rage and headache.<br><li><b>Tremendously increases</b> steering while using the Chainsaw.</li><li><b>Considerably increases</b> the time penalty when bumping into objects.</li>
@@ -260,6 +261,46 @@ Action-slacks for the outdoors.
 Add-ons that affect the charge time of your power are <span class="Highlight1">8%</span> more effective.<br><span class="FlavorText">"The Crooked makes impressive tools out of scraps... Tools aimed at maiming us in creative ways... It's horrifying to think it's actually intelligent." -Notebook</span>
 Add-ons that affect the charge time of your power are <span class="Highlight1">10%</span> more effective.<br><span class="FlavorText">"The Crooked makes impressive tools out of scraps... Tools aimed at maiming us in creative ways... It's horrifying to think it's actually intelligent." -Notebook</span>
 Add-ons that affect the charge time of your power are <span class="Highlight1">6%</span> more effective.<br><span class="FlavorText">"The Crooked makes impressive tools out of scraps... Tools aimed at maiming us in creative ways... It's horrifying to think it's actually intelligent." -Notebook</span>
+A risky ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause moderate anxiety in the patient.<br><li><b>Moderately increases</b>  your terror radius in Treatment mode.</li><li><b>Moderately decreases</b>  your terror radius in Punishment mode.</li><br>Survivors with <b>Madness (2/3)</b> have the following affliction:<br><li>The Terror Radius heartbeat has a <b>Tremendous chance</b> to play as if the survivor was on the edge of the Killer's terror radius for a duration of <b>20 seconds</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"Elctroconvulsive therapy is one of the safest medical procedures." -Léry's Memorial Institute</span>
+"Calm" - Class II
+An ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause mild anxiety in the patient.<br><li><b>Slightly increases</b> your terror radius in Treatment mode.</li><li><b>Slightly decreases</b>  your terror radius in Punishment mode.</li><br>Survivors with <b>Madness (2/3)</b> have the following affliction:<br><li>The Terror Radius heartbeat has a <b>Considerable chance</b> to play as if the survivor was on the edge of the Killer's terror radius for a duration of <b>15 seconds</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li>
+"Calm" - Class I
+An experimental version of the ECT procedure annotated by Doctor Herman Carter himself. Uses a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure causes uncontrollable fear and anxiety in the patient.<br><li><b>Considerably increases</b> your terror radius in Treatment mode.</li><li><b>Considerably decreases</b>  your terror radius in Punishment mode.</li><br>Survivors with <b>Madness (2/3)</b> have the following affliction:<br><li><b>Madness 2:</b> The Terror Radius heartbeat has a <b>Tremendous chance</b> to play as if the survivor was on the edge of the Killer's terror radius for a duration of <b>20 seconds</b>.</li><li><b>Madness 3:</b> The Terror Radius heartbeat constantly plays as if the survivor was on the edge of the Killer's terror radius.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"Higher quality seizures trigger catatonia. At least it gives me <u>peace</u> for the time it lasts." -H. Carter</span>
+"Calm" - Carter's Notes
+An experimental ECT procedure developed within the Fog. Uses a high stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause serious cases of hallucination in the patient.<br><li>Survivor auras are shown for <b>2 seconds</b> when their Madness increases.</li><br>Survivors with <b>Madness (2/3)</b> have the following affliction:<br><li><b>Moderate/Considerable increased</b> duration for an Illusionary Doctor manifestation which can be seen by the Doctor as an <b>Aura</b>.<li><i>Afflictions</i> of the same type do not stack.</li>
+"Restraint" - Class III
+An experimental ECT procedure developed within the Fog. Uses a wavelength that links the patient's and Doctor's minds. This procedure is known to cause mild cases of hallucination in the patient.<br><li>Survivor auras are shown for <b>1 second</b> when their Madness increases.</li><br>Survivors with <b>Madness (2/3)</b> have the following affliction:<br><li><b>Slight/Moderate increased</b> duration for an Illusionary Doctor manifestation which can be seen by the Doctor as an <b>Aura</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li>
+"Restraint" - Class II
+An experimental ECT procedure developed within the Fog, crudely annotated. Uses an unbearable stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause severe cases of hallucination in the patient.<br><li>Survivor auras are shown for <b>3 seconds</b> when their Madness increases.</li><br>Survivors with <b>Madness (2/3)</b> have the following affliction:<br><li><b>Considerable/Tremendous increased</b> duration for an Illusionary Doctor manifestation which can be seen by the Doctor as an <b>Aura</b>.<li><i>Afflictions</i> of the same type do not stack.</li><br><span class=\"FlavorText\">\"I CAN SEE THEIR DISGUSTING <u>ILLNESSES</u>.\" -Unsigned Notes</span>
+"Restraint" - Carter's Notes
+Project Awakening ECT procedure for disciplinary action which uses a fixed dose at very high voltage. Can cause a state of serious paranoia in the patient.<br><li>Increases the madness inflicted by your <b>shock therapy</b> by <b>20%</b>.</li><li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with <b>Madness</b> have the following affliction:<br><li>The Killer's red stain has a <b>Moderate chance</b> to appear behind the survivor for a duration of <b>4 seconds</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"Respect of our patients is at the core of our principles." -Léry's Memorial Institute</span>
+"Discipline" - Class III
+Project Awakening ECT procedure for disciplinary action which uses a fixed dose at high voltage. Can cause a state of moderate paranoia in the patient.<br><li>Increases the madness inflicted by your <b>shock therapy</b> by <b>15%</b>.</li><li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with <b>Madness</b> have the following affliction:<br><li>The Killer's red stain has a <b>Slight chance</b> to appear behind the survivor for a duration of <b>3 seconds</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"We re-educate our patients with the greatest care." -Léry's Memorial Institute</span>
+"Discipline" - Class II
+Project Awakening ECT procedure for disciplinary action, annotated by Doctor Herman Carter himself. The intolerably high voltage leaves the patient in a severe state of paranoia.<br><li>Increases the madness inflicted by your <b>shock therapy</b> by <b>25%</b>.</li><li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with <b>Madness</b> have the following affliction:<br><li>The Killer's red stain has a <b>Considerable chance</b> to appear behind the survivor for a duration of <b>5 seconds</b>. Survivors in <b>Madness 3 always</b> see the red stain.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"To avoid relapse from our most tenacious subjects, use <u>maximum</u> levels when proceeding with disciplinary actions." -H. Carter</span>
+"Discipline" - Carter's Notes
+An experimental electrode that can withstand very high charges for a longer period of time.<br><li><b>Increases</b> your Shock Therapy attack range by <b>75%</b>.</li><br><li>Increases charge time of Shock Therapy <b>Tremendously</b>.
+High Stimulus Electrode
+A glass-like king chess piece molded from The Fog Itself. The Entity's trace reverberating within can break the most powerful minds.<br><li>The <b>Shock Therapy</b> attack causes the survivor to gain a <b>random Madness affliction</b> based off the survivor's <b>Madness</b> Tier.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"Gazing in the iridescent glass is plunging oneself into madness"</span>
+Iridescent King
+Scrapped Tape
+A compact cassette from Project Awakening containing mostly white noise. Opens The Doctor's mind to alternate treatment methods.<br><li><b>Shock Therapy attack</b> changes from a <b>cone</b> to a <b>ring</b>, cast 8m infront of the Doctor, with an outer radius of 4.2m and an inner radius of 3m.</li>
+A moldy electrode which can nevertheless conduct a weak electrical current.<br><li><b>Increases</b> your Shock Therapy attack range by <b>25%</b>.</li><br><li>Increases charge time of Shock Therapy <b>Slightly</b>.
+Moldy Electrode
+A white knight chess piece made of maple. This gift from an old man brings back distant memories and imbues The Doctor with devastating focus.<br><li>Reveals the area of effect of your shock therapy</li>
+Maple Knight
+A high stimulus ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute. Can cause a state of moderate confusion in the patient.<br><li>Increases the madness inflicted by your <b>static field</b> by <b>15%</b>.</li><li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with <b>Madness</b> have the following afflictions:<br><li><b>15% chance</b> that a Skill Check appears in a random location.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"Side effects are very rare." -Léry's Memorial Institute</span>
+"Order" - Class II
+A conventional ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute. Can cause a state of mild confusion in the patient.<br><li>Increases the madness inflicted by your <b>static field</b> by <b>10%</b>.</li><li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with <b>Madness</b> have the following afflictions:<br><li><b>10% chance</b> that a Skill Check appears in a random location.</li><li><i>Afflictions</i> of the same type do not stack.</li>
+"Order" - Class I
+An experimental version of the ECT procedure, annotated by Doctor Herman Carter himself. The long, constant stimulus leaves the patient in a state of severe confusion.<br><li>Increases the madness inflicted by your <b>static field</b> by <b>25%</b>.<li><i>Affected by the Tinkerer Perk.</i></li><br>Survivors with <b>Madness</b> have the following afflictions:<br><li><b>25% chance</b> that a Skill Check appears in a random location.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"The stimulus must be kept active at a <u>convulsive</u> level." -H. Carter</span>
+"Order" - Carter's Notes
+A like-new standard electrode equipment to conduct electroconvulsive treatments.<br><li><b>Increases</b> your Shock Therapy attack range by <b>50%</b>.</li><br><li>Increases charge time of Shock Therapy <b>Considerably</b>.
+Polished Electrode
+An experimental ECT procedure developed within the Fog, crudely annotated. The extra surge of power causes extreme muscle tension which depletes the patient's energy.<br><li>Shake it off takes an extra <b>2 seconds</b> to complete.</li><br>Survivors with <b>Madness 3</b> have the following affliction:<br><li><b>Exhausted</b>.</li><li><i>Afflictions</i> of the same type do not stack.</li><br><span class="FlavorText">"BREAK THEIR IMPURE BODIES" - Unsigned Notes</span>
+"Obedience" - Carter's Notes
+A compact cassette from Project Awakening containing an un-edited interview of a victim. Opens The Doctor's mind to alternate treatment methods.<br><li>Shock Therapy attack changes from a cone to a beam with a <b>20 meter</b> range and a <b>2 meter</b> width.</li>
+Interview Tape
 Adrenaline
 Agitation
 Alas cries the wraith, such tears of gore.
@@ -443,6 +484,27 @@ Electric Jacket
 Legacy Claudette III
 Legacy Claudette II
 Legacy Claudette I
+A sleeveless doctor's coat that has seen better days. Herman always appreciated the dramatic look of a doctor's garment.
+Doctor's Coat
+A sleeveless doctor's coat. The Doctor appreciates the dramatic look of blood on his coat.
+A sleeveless doctor's coat. The Doctor appreciates the dramatic look of blood on his coat.
+Bloody Doctor's Coat
+Official garments of chief staff at Léry's Memorial Center.
+Project Awakening Coat
+Strapped in his electroconvulsive gear, The Doctor is forever forced in a maniacal grin.
+Herman Carter
+Strapped in his electroconvulsive gear, The Doctor has no choice but to get blood all over...eyes and mouth included.
+Strapped in his electroconvulsive gear, The Doctor has no choice but to get blood all over...eyes and mouth included.
+Bloody Herman Carter
+A furious Doctor, overcharged with his maddening electroconvulsive power.
+Overcharged Herman Carter
+An instrument of punishment when all other treatments failed.
+The Stick
+An instrument of punishment when all other treatment failed. They often do.
+An instrument of punishment when all other treatment failed. They often do.
+The Bloody Stick
+The Stick, crackling furiously with the power of Carter's Spark.
+Project Awakening Stick
 CUST_dwight_bloodletting_body_DESC
 CUST_dwight_bloodletting_body_NAME
 Classic mechanic's coveralls. Perfect for messy jobs and messy dares. The top part has been folded down and wrapped around the waist.<br><span class="FlavorText">"Folks call me Ellis. I run an auto shop with a couple of my buddies. We're also in a band. I play bass." -Ellis</span>
@@ -472,6 +534,27 @@ Twitchy Dwight
 Legacy Dwight III
 Legacy Dwight II
 Legacy Dwight I
+Short shorts showing off the flashy Lazer Bears' colors.
+Lazer shorts
+Short shorts with the flashy Lazer Bears' colors under a thick layer of blood.
+Short shorts with the flashy Lazer Bears' colors under a thick layer of blood.
+Bloody Lazer Shorts
+Common track pants complimented by flashy silver sneakers.
+Soft Track Pants
+A highly focused and competitive young woman. She's in it to win it.
+Feng Min
+A highly focused and competitive young woman...covered in blood.
+A highly focused and competitive young woman...covered in blood.
+Bloody Feng Min
+A relaxed hairdo when spending time away from the cameras.
+Relaxed Bun
+Lazer Bears' official polo shirt for the 2016 e-sports tournament.
+Lazer Bears tournament polo
+Nothing like a blood smeared polo shirt to intimidate the competition. 
+Nothing like a blood smeared polo shirt to intimidate the competition. 
+Bloody Lazer Bears
+A comfy and soft wool wrap that keeps you warm and cozy on rainy afternoons.
+Day Off Wrap
 Dried skin and soul, deformed by an insatiable hunger for flesh.
 Lisa
 Dripping with the blood of countless feasts.
@@ -914,6 +997,7 @@ Jake Park
 Jeans Tucked into Riding Boots
 Jogging Hoodie
 Just another pair of slacks.
+The Doctor
 The Hag
 The Shape
 Keeps the sweat on the inside, shame it doesn't keep the blood there, too.
@@ -936,6 +1020,8 @@ PLEASE READ THIS END USER LICENCE AGREEMENT (Backwater Swamp
 Backwater Swamp
 Haddonfield
 Haddonfield
+Léry's Memorial Institute
+Léry's Memorial Institute
 Last Breath
 Last Standing
 Leader
@@ -965,7 +1051,9 @@ Even before the fall of Coldwind Farm, the cornfields were surrounded by tales o
 The centerpiece of Coldwind Farm, the Farmhouse stood proudly over the fields of golden corn for decades. After the horrific events of 1972, the building fell into disrepair and eventual ruin. The Farmhouse is now nothing more than a forgotten, former home where holidays were once celebrated.
 The old run-down cowshed was one of the first barns the Thompsons built on Coldwind Farm. It was originally intended to house sick animals at a safe distance from the rest of the livestock, but no animal who entered it ever survived. An investigation revealed the building was infested with toxic mold. The Thompsons figured it must be a construction fault or something to do with the dampness of the wood. A new barn was built, and the old cowshed was left to rot in the shadows.
 A simple street with houses that witnessed the horrors that took place. A jungle gym where children once learned to climb. Sidewalks where fathers taught their daughters to ride a bike. All gone. Instead it sits in the palm of the Entity, forever held in darkness.
+A mansion from the late 1800's - donated and transformed into a medical facility and later into a CIA black site specializing in cutting-edge interrogation techniques. The institute closing is shrouded in controversy and mystery. At the heart of the facility, the Doctor's tools have been arranged in a twisted ritual circle, ready for research, as he refines his methods on an endless stream of terrified patients.
 The Pale Rose, an ancient paddle steamer in the middle of the swamp, is held captive by the stagnant mud. It has been here long before the residents began their hunt, a barely visible silhouette from the nearby village. There are signs of inhabitation, particularly in the upper states room where strange, ritualistic markings in dried blood and dirt cover the floor. From the scale of the bloodletting, something horrid has taken place here.
+Treatment Theatre
 You can still see the tiny entrance that miners used to haul the ore to the surface. Now it is nothing more than a pile of rubble. No one bothered to clear it as they feared whatever might be found inside. Instead it fell into oblivion.
 Once used for storing the coal that fueled the Foundry, it now lies abandoned. The roof is split wide open, suggesting some titanic explosion, but the angles don't seem to make sense. So to fathom its destiny is not done easily - even if one would want to.
 The woods surrounding the estate might be the only witness to what really happened here. Its trees have a certain deformed character, as if what they saw made them want to run away. There are very few visitors to the woods - even animals seem to avoid it if possible.
@@ -1001,9 +1089,6 @@ Murky Reagent
 New Moon Bouquet
 No One Escaped
 No One Left Behind
-None
-None
-None
 None
 None
 None
@@ -1100,6 +1185,8 @@ Calls on the entity to prevent the appearance of <b>2</b> chests.<br><li>Stacks.
 Cut Coin
 <b>Considerably increases</b> the chance to be sent to Haddonfield when burnt.<br><li>Stacks.</li><br><span class="FlavorText">"A moldy and rotten beaded oak clapboard like the ones found on most houses of Haddonfield."</span>
 Decrepit Clapboard
+<b>Slightly increases</b> the chance to be sent to Léry's Memorial Institute when burnt.<br><li>Stacks.</li><br><span class="FlavorText">"A yellow carbon-copy certificate which admits a patient into immediate detention for emergency treatment. Copied information are smudged and unreadable."</span>
+Emergency Certificate
 <b>Slightly increases</b> the chance to be sent to Backwater Swamp when burnt.<br><li>Stacks.</li><br><span class="FlavorText">"A burnt piece of marine rope still emitting a warm smoke."</span>
 Fuming Cordage
 <b>Considerably increases</b> the chance to be sent to Backwater Swamp when burnt.<br><li>Stacks.</li><br><span class="FlavorText">"A welcome sign made from a coarse piece of water polished cypress board. The sign is charred and still fuming."</span>
@@ -1114,14 +1201,20 @@ Ivory Chalk Pouch
 Vigo's Jar of Salty Lips
 Allows you to take on the role of <b>The Hag</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><span class="FlavorText">"Avoid walking in the mud or the Hag will eat your bones."</span>
 Muddy Splinter
+<b>Considerably increases</b> the chance to be sent to Léry's Memorial Institute when burnt.<br><li>Stacks.</li><br><span class="FlavorText">"A Psychiatric report signed by Herman Carter. It describes the memory deterioration of a patient and suggestions for next steps in the procedure."</span>
+Psychiatric Assessment Report
 Calls on the entity to create <b>3</b> more sacrificial hooks.<br><li>Stacks.</li><br><span class="FlavorText">"A ruined piece of oak oozing with a black putrescent liquid."</span>
 Putrid Oak
 Calls on the entity to create <b>2</b> more sacrificial hooks.<br><li>Stacks.</li><br><span class="FlavorText">"A decomposing piece of oak in which strange markings have been etched."</span>
 Rotten Oak
 <b>Slightly increases</b> luck of <b>all</b> survivors.<br><li>Stacks.</li><br><span class="FlavorText">"A small cotton pouch filled with black salt crystals. Some believe it brings good fortune. Don't spill it."</span>
 Salt Pouch
+<b>Tremendously increases</b> the chance to be sent to Léry's Memorial Institute when burnt.<br><span class="FlavorText">"Bent reading glasses. Speckles of dried blood can be seen on the shattered lens."</span>
+Shattered Glasses
 Calls on the entity to create <b>2</b> more chests.<br><li>Stacks.</li><br><span class="FlavorText">"A clean and polished piece of gold."</span>
 Shiny Coin
+Allows you to take on the role of The Doctor for the next trial. <i>Your current perks and add-ons will not be used.</i><br><span class="FlavorText">"Your secrets are safe with me."</span>
+Shock Splinter
 <b>Tremendously increases</b> the chance to be sent to Haddonfield when burnt.<br><span class="FlavorText">"A house key, mundane in appearance. A cardboard key-tag attached to it reads 'Strode Real Estate', followed by a handwritten address: '45 Lampkin Lane'."</span>
 Strode Realty Key
 Odd Stamp
@@ -1146,6 +1239,7 @@ When starting to run, break into a sprint at <span class="Highlight1">150%</span
 When starting to run, break into a sprint at <span class="Highlight1">150%</span> your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <br>Causes <b>Exhaustion</b> for <span class="Highlight3">50 seconds</span>.<br><i>Sprint Burst</i> cannot be used while <b>Exhausted</b>.
 When starting to run, break into a sprint at <span class="Highlight1">150%</span> your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>.<br>Causes <b>Exhaustion</b> for <span class="Highlight3">60 seconds</span>.<br><i>Sprint Burst</i> cannot be used while <b>Exhausted</b>.
 Lady Luck always seems to be throwing something good your way. When retrieving an item from a chest, there is a <span class="Highlight1">50%</span> chance that an add-on of <span class="Highlight2">very rare</span> rarity or lower will be attached to it.<br><span class="FlavorText">Lady Luck always seems to be throwing something good your way. When retrieving an item from a chest, there is a <span class="Highlight1">50%</span> chance that an add-on of <span class="Highlight2">rare</span> rarity or lower will be attached to it.<br><span class="FlavorText">Lady Luck always seems to be throwing something good your way. When retrieving an item from a chest, there is a <span class="Highlight1">50%</span> chance that an add-on of <span class="Highlight2">uncommon</span> rarity or lower will be attached to it.<br><span class="FlavorText">Ace in the Hole
+Your acute senses are on high alert.<br>When the Killer performs the break action within a <span class="Highlight1">36 meter</span> range, the killer is revealed to you for <span class="Highlight2">3 seconds</span>.<br>This effect can only be triggered once every <span class="Highlight3">30 seconds</span>.<br><span class="FlavorText">Your acute senses are on high alert.<br>When the Killer performs the break action within a <span class="Highlight1">24 meter</span> range, the killer is revealed to you for <span class="Highlight2">3 seconds</span>.<br>This effect can only be triggered once every <span class="Highlight3">45 seconds</span>.<br><span class="FlavorText">Your acute senses are on high alert.<br>When the Killer performs the break action within a <span class="Highlight1">12 meter</span> range, the killer is revealed to you for <span class="Highlight2">3 seconds</span>.<br>This effect can only be triggered once every <span class="Highlight3">60 seconds</span>.<br><span class="FlavorText">Alert
 You are fuelled by unexpected energy when saving an ally from a hook within the killer's terror radius.<br>Once per match, for <span class="Highlight1">20 seconds</span> after unhooking a survivor within the killer's terror radius, any damage taken that would put you or the unhooked survivor into the dying state will instead trigger a <span class="Highlight2">30 seconds</span> bleed out timer.<br>Taking any damage during the bleed out timer or reaching the end of the bleed out timer will put you into the dying state.<br><span class="FlavorText">"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em, soldier. Time to move!" -Bill</span>
 You are fuelled by unexpected energy when saving an ally from a hook within the killer's terror radius.<br>Once per match, for <span class="Highlight1">20 seconds</span> after unhooking a survivor within the killer's terror radius, any damage taken that would put you or the unhooked survivor into the dying state will instead trigger a <span class="Highlight2">35 seconds</span> bleed out timer.<br>Taking any damage during the bleed out timer or reaching the end of the bleed out timer will put you into the dying state.<br><span class="FlavorText">"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em, soldier. Time to move!" -Bill</span>
 You are fuelled by unexpected energy when saving an ally from a hook within the killer's terror radius.<br>Once per match, for <span class="Highlight1">20 seconds</span> after unhooking a survivor within the killer's terror radius, any damage taken that would put you or the unhooked survivor into the dying state will instead trigger a <span class="Highlight2">40 seconds</span> bleed out timer.<br>Taking any damage during the bleed out timer or reaching the end of the bleed out timer will put you into the dying state.<br><span class="FlavorText">"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em, soldier. Time to move!" -Bill</span>
@@ -1157,6 +1251,10 @@ Past battles have taught you a thing or two about survival.<br>Grants the abilit
 Unbreakable
 Using whatever is at hand, you stab at your aggressor in an ultimate attempt to escape. If you are the obsession, once per match, when grabbed by the killer, succeed a Skill Check to automatically escape the killer's grasp and stun the killer for <span class="Highlight1">5 seconds</span>.<br>If you are not the obsession, once per match, while in the killer's grasp, once the wiggle meter has reached 35%, succeed a Skill Check to automatically fill the rest of the wiggle meter and escape from the killer's grasp.<br><i>Increases your chances to be the killer's <b>obsession</b>. Only one obsession per match.</i><br><span class="FlavorText">Using whatever is at hand, you stab at your aggressor in an ultimate attempt to escape. If you are the obsession, once per match, when grabbed by the killer, succeed a Skill Check to automatically escape the killer's grasp and stun the killer for <span class="Highlight1">4 seconds</span>.<br>If you are not the obsession, once per match, while in the killer's grasp, once the wiggle meter has reached 40%, succeed a Skill Check to automatically fill the rest of the wiggle meter and escape from the killer's grasp.<br><i>Increases your chances to be the killer's <b>obsession</b>. Only one obsession per match.</i><br><span class="FlavorText">Using whatever is at hand, you stab at your aggressor in an ultimate attempt to escape. If you are the obsession, once per match, when grabbed by the killer, succeed a Skill Check to automatically escape the killer's grasp and stun the killer for <span class="Highlight1">3 seconds</span>.<br>If you are not the obsession, once per match, while in the killer's grasp, once the wiggle meter has reached 45%, succeed a Skill Check to automatically fill the rest of the wiggle meter and escape from the killer's grasp.<br><br><i>Increases your chances to be the killer's <b>obsession</b>. Only one obsession per match.</i><br><span class="FlavorText">Decisive Strike
 You become <b>obsessed</b> with one survivor.<br>Your obsession's altruistic action speed is increased by <span class="Highlight1">50%</span>. Once the obsession is killed or sacrificed, every other survivor gets a penalty of <span class="Highlight2">25%</span> to repair, healing and sabotage speed.<br><i>Only one obsession per match.</i><br><span class="FlavorText">You become <b>obsessed</b> with one survivor.<br>Your obsession's altruistic action speed is increased by <span class="Highlight1">44%</span>. Once the obsession is killed or sacrificed, every other survivor gets a penalty of <span class="Highlight2">22%</span> to repair, healing and sabotage speed.<br><i>Only one obsession per match.</i><br><span class="FlavorText">You become <b>obsessed</b> with one survivor.<br>Your obsession's altruistic action speed is increased by <span class="Highlight1">38%</span>. Once the obsession is killed or sacrificed, every other survivor gets a penalty of <span class="Highlight2">19%</span> to repair, healing and sabotage speed.<br><i>Only one obsession per match.</i><br><span class="FlavorText">Dying Light
+You are fuelled by your hate for progress.<br>Overcharge a generator by performing the <b>Break Generator</b> action. The next survivor interacting with that generator is faced with a <span class="Highlight1">tremendously</span> difficult Skill Check. Failing the Skill Check results in an additional <span class="Highlight2">5%</span> generator regression.<br>Succeeding the Skill Check grants no progress but prevents the generator explosion.
+You are fuelled by your hate for progress.<br>Overcharge a generator by performing the <b>Break Generator</b> action. The next survivor interacting with that generator is faced with a <span class="Highlight1">considerably</span> difficult Skill Check. Failing the Skill Check results in an additional <span class="Highlight2">4%</span> generator regression.<br>Succeeding the Skill Check grants no progress but prevents the generator explosion.
+You are fuelled by your hate for progress.<br>Overcharge a generator by performing the <b>Break Generator</b> action. The next survivor interacting with that generator is faced with a <span class="Highlight1">moderately</span> difficult Skill Check. Failing the Skill Check results in an additional <span class="Highlight2">3%</span> generator regression.<br>Succeeding the Skill Check grants no progress but prevents the generator explosion.
+Overcharge
 A hex rooting its power on hope. The false hope of survivors ignites your hunger. When a survivor is rescued from a hook at least <span class="Highlight1">24 meters</span> away, Devour Hope receives a token.<br><li><span class="Highlight3">2 Tokens</span>: Gain a <span class="Highlight2">5%</span> speed burst for <span class="Highlight3">10 seconds</span> after hooking a survivor. Speed burst triggers <span class="Highlight3">10 seconds</span>  after hooking a survivor.</li><li><span class="Highlight3">3 Tokens</span>: Attacks put survivors into the dying state automatically.</li><li><span class="Highlight2">5 Tokens</span>: Grants the ability to kill survivors by your own hand.</li><br><i>The hex effects persist as long as the related hex totem is standing.</i><br><span class="FlavorText">A hex rooting its power on hope. The false hope of survivors ignites your hunger. When a survivor is rescued from a hook at least <span class="Highlight1">24 meters</span> away, Devour Hope receives a token.<br><li><span class="Highlight3">3 Tokens</span>: Attacks put survivors into the dying state automatically.</li><li><span class="Highlight2">5 Tokens</span>: Grants the ability to kill survivors by your own hand.</li><br><i>The hex effects persist as long as the related hex totem is standing.</i><br><span class="FlavorText">A hex rooting its power on hope. The false hope of survivors ignites your hunger. When a survivor is rescued from a hook at least <span class="Highlight1">24 meters</span> away, Devour Hope receives a token.<br><li><span class="Highlight2">5 Tokens</span>: Grants the ability to kill survivors by your own hand.</li><br><i>The hex effects persist as long as the related hex totem is standing.</i><br><span class="FlavorText">Hex: Devour Hope
 A Hex rooting its power on hope. You are animated by the power of your Hex totem when the survivors are on the verge of escaping. Once the exit gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, successful attacks put survivors into the dying state automatically, cooldowns on successful and missed attacks are decreased by <span class="Highlight1">8%</span> and your movement speed is increased by <span class="Highlight2">4%</span>.<br>The hex effects persist as long as the related hex totem is standing.<br><span class="FlavorText">"And the beast became faster and more powerful as if the Entity's shadowy whips were lashing at its back."</span>
 A Hex rooting its power on hope. You are animated by the power of your Hex totem when the survivors are on the verge of escaping. Once the exit gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, cooldowns on successful and missed attacks are decreased by <span class="Highlight1">8%</span> and your movement speed is increased by <span class="Highlight2">4%</span>.<br>The hex effects persist as long as the related hex totem is standing.<br><span class="FlavorText">"And the beast became faster and more powerful as if the Entity's shadowy whips were lashing at its back."</span>
@@ -1168,12 +1266,26 @@ A hex rooting its power on hope. The false hope of survivors fills you with exci
 A hex rooting its power on hope. The false hope of survivors fills you with excitement and strengthen your totems. For each Dull and Hex totem remaining on the map gain a token. <br><li>Gain <span class="Highlight1">6%</span> more Bloodpoints for actions in the Hunter category for each Token.</li><li>Survivors' cleansing speed is reduced by <span class="Highlight2">7%</span> for each Token.</li><li>Gain a notification when someone starts working on a Hex totem.</li>
 A hex rooting its power on hope. The false hope of survivors fills you with excitement and strengthen your totems. For each Dull and Hex totem remaining on the map gain a token. <br><li>Gain <span class="Highlight1">4%</span> more Bloodpoints for actions in the Hunter category for each Token.</li><li>Survivors' cleansing speed is reduced by <span class="Highlight2">4%</span> for each Token.</li><li>Gain a notification when someone starts working on a Hex totem.</li>
 Hex: Thrill of the Hunt
+After performing a vault, break into a sprint at <span class="Highlight1">150%</span> of your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <i>Activates in chases only.</i><br>Causes <b>Exhaustion</b> for <span class="Highlight3">40 seconds</span>.<br><i>Lithe</i> cannot be used while Exhausted.<br><span class="FlavorText">After performing a vault, break into a sprint at <span class="Highlight1">150%</span> of your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <i>Activates in chases only.</i><br>Causes <b>Exhaustion</b> for <span class="Highlight3">50 seconds</span>.<br><i>Lithe</i> cannot be used while Exhausted.<br><span class="FlavorText">After performing a vault, break into a sprint at <span class="Highlight1">150%</span> of your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <i>Activates in chases only.</i><br>Causes <b>Exhaustion</b> for <span class="Highlight3">60 seconds</span>.<br><i>Lithe</i> cannot be used while Exhausted.<br><span class="FlavorText">Lithe
+Meticulous in your approach, terrifying in your application.<br>While in a chase, your terror radius is increased by <span class="Highlight1">8 meters</span>. Otherwise your terror radius is decreased by <span class="Highlight2">8 meters</span> and your field of view is <span class="Highlight3">considerably</span> increased.<br><i>Field of view gains do not stack.</i><br><span class="FlavorText">"It's time for your treatment!" -The Doctor</span>
+Meticulous in your approach, terrifying in your application.<br>While in a chase, your terror radius is increased by <span class="Highlight1">7 meters</span>. Otherwise your terror radius is decreased by <span class="Highlight2">7 meters</span> and your field of view is <span class="Highlight3">moderately</span> increased.<br><i>Field of view gains do not stack.</i><br><span class="FlavorText">"It's time for your treatment!" -The Doctor</span>
+Meticulous in your approach, terrifying in your application.<br>While in a chase, your terror radius is increased by <span class="Highlight1">6 meters</span>. Otherwise your terror radius is decreased by <span class="Highlight2">6 meters</span> and your field of view is <span class="Highlight3">slightly</span> increased.<br><i>Field of view gains do not stack.</i><br><span class="FlavorText">"It's time for your treatment!" -The Doctor</span>
+Monitor & Abuse
 A supernatural bond links you to the killer. If you are looking in the killer's direction, your link will reveal your auras to each other. This effect applies only if you are outside the killer's terror radius.<br>As the killer's obsession, this effect applies to a maximum range of <span class="Highlight1">72 meters</span>. Otherwise, it applies to a maximum range of <span class="Highlight1">64 meters</span>.<br><i>Increases your chances to be the killer's <b>obsession</b>. Only one obsession per match.</i><br><span class="FlavorText">A supernatural bond links you to the killer. If you are looking in the killer's direction, your link will reveal your auras to each other. This effect applies only if you are outside the killer's terror radius.<br>As the killer's obsession, this effect applies to a maximum range of <span class="Highlight1">64 meters</span>. Otherwise, it applies to a maximum range of <span class="Highlight1">56 meters</span>.<br><i>Increases your chances to be the killer's <b>obsession</b>. Only one obsession per match.</i><br><span class="FlavorText">A supernatural bond links you to the killer. If you are looking in the killer's direction, your link will reveal your auras to each other. This effect applies only if you are outside the killer's terror radius.<br>As the killer's obsession, this effect applies to a maximum range of <span class="Highlight1">56 meters</span>. Otherwise, it applies to a maximum range of <span class="Highlight1">44 meters</span>.<br><i>Increases your chances to be the killer's <b>obsession</b>. Only one obsession per match.</i><br><span class="FlavorText">Object of Obsession
 Strengthens potential in one's aura reading ability. Increases aura reading ranges by <span class="Highlight1">8 meters</span>.<br><span class="FlavorText">Strengthens potential in one's aura reading ability. Increases aura reading ranges by <span class="Highlight1">6 meters</span>.<br><span class="FlavorText">Strengthens potential in one's aura reading ability. Increases aura reading ranges by <span class="Highlight1">4 meters</span>.<br><span class="FlavorText">Open-Handed
+Overwhelming Presence
+Your presence alone instills great fear. Survivors within your terror radius suffer from <b>inefficiency</b>.<br>Affected survivors' item consumption rates are increased by <span class="Highlight1">50%</span>.<br><span class="FlavorText">"Shit!! I dropped the gauze!"</span>
+Your presence alone instills great fear. Survivors within your terror radius suffer from <b>inefficiency</b>.<br>Affected survivors' item consumption rates are increased by <span class="Highlight1">45%</span>.<br><span class="FlavorText">"Shit!! I dropped the gauze!"</span>
+Your presence alone instills great fear. Survivors within your terror radius suffer from <b>inefficiency</b>.<br>Affected survivors' item consumption rates are increased by <span class="Highlight1">40%</span>.<br><span class="FlavorText">"Shit!! I dropped the gauze!"</span>
 You become <b>obsessed</b> with one survivor.<br>Every time you chase your obsession and let them escape, you receive a token up to a maximum of 3 tokens. Each token increases your movement speed by <span class="Highlight1">5%</span>. Each offensive action spends one token.<br><i>Only one obsession per match.</i><br><span class="FlavorText">You become <b>obsessed</b> with one survivor.<br>Every time you chase your obsession and let them escape, you receive a token up to a maximum of 3 tokens. Each token increases your movement speed by <span class="Highlight1">4%</span>. Each offensive action spends one token.<br><i>Only one obsession per match.</i><br><span class="FlavorText">You become <b>obsessed</b> with one survivor.<br>Every time you chase your obsession and let them escape, you receive a token up to a maximum of 3 tokens. Each token increases your movement speed by <span class="Highlight1">3%</span>. Each offensive action spends one token.<br><i>Only one obsession per match.</i><br><span class="FlavorText">Play with your food
 You become <b>obsessed</b> with one survivor. As long as your obsession is alive, after being in a chase for <span class="Highlight1">20 seconds</span> the cooldown of your next successful attack is decreased by <span class="Highlight2">40%</span>. Your successful attack cooldown remains active for <span class="Highlight3">5 seconds</span> after a chase. Re initializing a chase before the <span class="Highlight3">5 seconds</span> have lapsed will reset the successful attack cooldown timer.<i>Only one obsession per match.</i>.<br><span class="FlavorText">You become <b>obsessed</b> with one survivor. As long as your obsession is alive, after being in a chase for <span class="Highlight1">20 seconds</span> the cooldown of your next successful attack is decreased by <span class="Highlight2">35%</span>. Your successful attack cooldown remains active for <span class="Highlight3">5 seconds</span> after a chase. Re initializing a chase before the <span class="Highlight3">5 seconds</span> have lapsed will reset the successful attack cooldown timer.<i>Only one obsession per match.</i>.<br><span class="FlavorText">You become <b>obsessed</b> with one survivor. As long as your obsession is alive, after being in a chase for <span class="Highlight1">20 seconds</span> the cooldown of your next successful attack is decreased by <span class="Highlight2">30%</span>. Your successful attack cooldown remains active for <span class="Highlight3">5 seconds</span> after a chase. Re initializing a chase before the <span class="Highlight3">5 seconds</span> have lapsed will reset the successful attack cooldown timer.<i>Only one obsession per match.</i>.<br><span class="FlavorText">Save the best for last
 As more of your friends fall to the killer, your chances of survival increase due to an unexplained force. Each survivor killed or sacrificed disrupts the killer's aura reading ability towards you.<br><li>1 killed or sacrificed: Reduces the killer's aura reading range by <span class="Highlight1">50%</span>.</li><li>2 killed or sacrificed: Reduces the killer's aura reading range by <span class="Highlight2">75%</span>.</li><li>3 killed or sacrificed: <span class="Highlight3">Immune</span> to the killer's aura reading.</li><br><i>Increases your chances to be the killer's <b>obsession</b>. Only one obsession per match.</i><br><span class="FlavorText">As more of your friends fall to the killer, your chances of survival increase due to an unexplained force. Each survivor killed or sacrificed disrupts the killer's aura reading ability towards you.<br><li>1 killed or sacrificed: Reduces the killer's aura reading range by <span class="Highlight1">35%</span>.</li><li>2 killed or sacrificed: Reduces the killer's aura reading range by <span class="Highlight2">60%</span>.</li><li>3 killed or sacrificed: Reduces the killer's aura reading range by <span class="Highlight3">85%</span>.</li><br><i>Increases your chances to be the killer's <b>obsession</b>. Only one obsession per match.</i><br><span class="FlavorText">As more of your friends fall to the killer, your chances of survival increase due to an unexplained force. Each survivor killed or sacrificed disrupts the killer's aura reading ability towards you.<br><li>1 or more killed or sacrificed: Reduces the killer's aura reading range by <span class="Highlight1">40%</span>.</li><br><i>Increases your chances to be the killer's <b>obsession</b>. Only one obsession per match.</i><br><span class="FlavorText">Sole Survivor
+You are apt at handling machinery with the greatest care and precision.<br>The noises caused by your repairs and their hearing distance are reduced by <span class="Highlight2">8 meters</span>. On a failed repair Skill Check, there is a <span class="Highlight1">50%</span> chance the generator explosion will be prevented.<br><span class="FlavorText">You are apt at handling machinery with the greatest care and precision.<br>The noises caused by your repairs and their hearing distance are reduced by <span class="Highlight2">4 meters</span>. On a failed repair Skill Check, there is a <span class="Highlight1">40%</span> chance the generator explosion will be prevented.<br><span class="FlavorText">You are apt at handling machinery with the greatest care and precision.<br>On a failed repair Skill Check, there is a <span class="Highlight1">30%</span> chance the generator explosion will be prevented.<br><span class="FlavorText">Technician
 All will be well in the end; you just know it.  Your confidence strengthens the feeling of hope for those around you. For each other survivor still alive, grant a <span class="Highlight1">3%</span> bonus to luck to all remaining survivors.<br><span class="FlavorText">All will be well in the end; you just know it.  Your confidence strengthens the feeling of hope for those around you. For each other survivor still alive, grant a <span class="Highlight1">2%</span> bonus to luck to all remaining survivors.<br><span class="FlavorText">All will be well in the end; you just know it.  Your confidence strengthens the feeling of hope for those around you. For each other survivor still alive, grant a <span class="Highlight1">1%</span> bonus to luck to all remaining survivors.<br><span class="FlavorText">Up the Ante
+Is it a gift, or a curse? The Entity has ignited a corrupted and inexhaustible spark in the Doctor's heart which allows him to generate electroconvulsive power at will. His insidious treatment corrupts the minds of those it touches. Victims shocked by the corrupt spark begin to lose their grip on reality and, with repeated exposure, inevitably succumb to madness.<br><li>Grants the ability to switch between <b>Punishment</b> and <b>Treatment</b> modes.</li><li>While in <b>Treatment</b> mode, generate a static field based off your terror radius which increases survivor <b>Madness</b> based on proximity in relation to The Doctor.</li><li><b>Treatment</b> mode grants the ability to charge and release a <b>Shock Therapy</b> attack that greatly increases survivors' <b>Madness</b>.</li><li>Survivors entering <b>Madness I, II, III</b> scream revealing their position to The Doctor.</li><li><b>Madness II</b> and <b>III</b> cause survivors to experience Doctor Hallucinations which can be seen by The Doctor as an <b>Aura</b>.</li><li>In <b>Madness III</b> survivors regularly scream revealing their position to The Doctor.</li><li>In <b>Madness III</b> survivors cannot do interactions until they <b>Snap Out Of It</b>.</li><li>More <b>Afflictions</b> are available with add-ons.</li>
+Carter's Spark
+Carter's Spark
+Carter's Spark
 Source of The Hag's power, a blackened finger used as a catalyst for her terrible power. The Hag bends and shapes mud to her will. With simple ritualistic drawings, she creates deceitful duplicates of herself made from mud and decay which she can use for various effects.<br><li>Grants the ability to create and maintain <b>10</b> Phantasm traps.</li><li> Grants the ability to instantly travel to triggered Phantasm traps when within a <b>32 meter</b> range.</li>
 Blackened Catalyst
 The darkness inside feeds his determination to take the life of his prey. Activating Evil Within allows The Shape to see his prey clearly and build up more evil power by stalking them. Evil Within's 3 Tiers of power come with different benefits:<br><br>EVIL WITHIN I: Tremendously Decreased Terror Radius. Grants immunity to detection perks. Slightly decreased movement speed. Slightly decreased lunge.<br><br>EVIL WITHIN II: Moderately Decreased Terror Radius. Slightly Increased movement speed. Slightly increased lunge.<br><br>EVIL WITHIN III: Normal Terror Radius. Attacks do double damage. Evil Within III lasts for 60 seconds after which its power is considerably drained.<br><span class="FlavorText">"I met him, fifteen years ago; I was told there was nothing left; no reason, no conscience, no understanding; and even the most rudimentary sense of life or death, of good or evil, right or wrong. I met this six-year-old child, with this blank, pale, emotionless face, and the blackest eyes... the devil's eyes. I spent eight years trying to reach him, and then another seven trying to keep him locked up because I realized that what was living behind that boy's eyes was purely and simply... evil." -Dr Sam Loomis</span>
@@ -1192,6 +1304,8 @@ PRESTIGE REWARD I
 PRESTIGE REWARD I
 PRESTIGE REWARD I
 PRESTIGE REWARD I
+PRESTIGE REWARD I
+PRESTIGE REWARD I
 PRESTIGE REWARD II
 PRESTIGE REWARD II
 PRESTIGE REWARD II
@@ -1206,6 +1320,10 @@ PRESTIGE REWARD II
 PRESTIGE REWARD II
 PRESTIGE REWARD II
 PRESTIGE REWARD II
+PRESTIGE REWARD II
+PRESTIGE REWARD II
+PRESTIGE REWARD III
+PRESTIGE REWARD III
 PRESTIGE REWARD III
 PRESTIGE REWARD III
 PRESTIGE REWARD III
@@ -1280,6 +1398,9 @@ Rubber Gloves
 Rubber and Hooks
 Rusted Chain
 Bonus Hit
+Attack Bonus
+Shocked
+Madness Tier Up
 Trap Triggered
 Set Trap
 Phantasm Attack
@@ -1289,6 +1410,7 @@ Protection
 Protection
 Stalker
 Evil Within
+Feng Min
 Ace Visconti
 William "Bill" Overbeck
 Laurie Strode
@@ -1320,6 +1442,7 @@ Setting Tools
 Shadowborn
 Sharp Mustache Jake
 Shelter Woods
+Shock Therapy
 Shop Lubricant
 Shredded Plate
 Shrike Wreath
@@ -1371,10 +1494,19 @@ Survived
 Survivor Found
 Sweat Pants
 Sweet William Sachet
+Switch to Punishment
+Switch to Treatment
 TEACHABLE PERKS
 THE BLOODWEB
 THE ENTITY
 TIR Optic
+Power: <b>Carter's Spark</b><br><li>Grants the ability to switch between <b>Punishment</b> and <b>Treatment</b> modes.</li><li>Use <b>Treatment</b> mode to build up survivor <b>Madness</b>.</li><li>While in <b>Treatment</b> mode generate a static field based off your terror radius which increases survivor <b>Madness</b> based on proximity in relation to The Doctor.</li><li>Survivors entering <b>Madness I, II, III</b> scream revealing their position to The Doctor.</li><li><b>Madness II</b> and <b>III</b> cause survivors to experience Doctor Hallucinations .</li><li>In <b>Madness III</b> survivors regularly scream revealing their position to The Doctor.</li><li>In <b>Madness III</b> survivors cannot do interactions until they <b>Snap Out Of It</b>.</li><li><b>More Afflictions</b> are avalable with add-ons.</li><br><li>Teachable Perks: <b>Overwhelming Presence, Monitor and Abuse, Overcharge</b>.</li>
+Power: <b>Blackened Catalyst</b><br><li>Grants the ability to create and maintain <b>10 Phantasm Traps</b><li>Grrants the ability to instantly travel to triggered phantasm when within a 32 meter range.</li><li>Survivors who enter the trap area will trigger a phantasm of the Hag to appear and disorient the survivor.</li><br>Teachable Perks: <b>Hex: Devour Hope, Hex:Ruin, Hex: The Third Seal</b>
+Power: <b>Chainsaw</b><br><li>Break into a crazed sprint on charge activation</li><li>Limited steering capabilities while sprinting</li><li>Automatically triggers the dying state on a successful hit</li><br>Teachable Perks: <b>Tinkerer, Lightborn, Enduring</b>
+Power:<b>Evil Within</b><br><li>Stalk survivors to charge up <b>Evil Within</b><li><b>Evil Within</b> has 3 unique tiers that affect his ability to hunt survivors. (See Loadout for details)</li><li>Survivors white highlights changes to red when they are maxed out with <b>Evil Within</b></li><br>Teachable Perks: <b>Save the Best for Last, Dying Light, Play With Your Food</b>
+Power: <b>Spencer's Last Breath</b><br><li>Can <b>Blink</b> twice before becoming fatigued</li><li><b>Blink</b> up to <b>20m</b> on a charge activation</li><li>Can perform a <b>Lethal Blink</b> attack after Blinking</li><br>Teachable Perks: <b>Stridor, Thanataphobia, A Nurse's Calling</b>
+Power: <b>Bear Trap</b><br><li>Set <b>Bear Traps</b> to immobilize and injure trapper victims.</li><li>Starts a match with <b>1 Bear Trap</b>.</li><li>5 <b>Bear Traps</b> available randomly placed on map.</li><br>Teachable Perks: <b>Brutal Strength, Agitation, Unnerving Presence.</b>
+Power: <b>Wailing Bell</b><br><li>Charge action that grants near total invisibility</li><li>Faster movement when invisible.</li><br>Teachable Perks: <b>Shadowborn, Predator, Bloodhound</b>
 Tanager Wreath
 Tar Bottle
 Tarnished Coin
@@ -1766,6 +1898,7 @@ Rite of the Last Breath
 Precise Blink
 Lethal Blink
 Surprise Blink
+ACCEPT
 ACKNOWLEDGE
 APPLY CHANGES
 BACK
@@ -1781,6 +1914,7 @@ CREATE A LOBBY
 CREDITS
 CUSTOMIZE
 DAILY RITUALS
+DECLINE
 EXIT PARTY
 EXTRAS
 GO TO LOBBY
@@ -1805,6 +1939,7 @@ OPEN MENU
 PLAY
 PLAY AS KILLER
 PLAY AS SURVIVOR
+PRESS ANY BUTTON
 PRESS ANY KEY
 PREVIOUS
 PRIVATE MATCH
@@ -1817,6 +1952,7 @@ REGENERATE WEB
 REMOVE RITUAL
 RESET DEFAULTS
 RETURN TO LOBBY
+SAVE & CLOSE
 SCROLL LIST
 SETTINGS & CONTROLS
 SHRINE
@@ -1827,6 +1963,7 @@ SUBMIT
 SURVIVE WITH FRIENDS
 SURVIVOR
 SURVIVOR TUTORIALS
+SURVIVORS
 SWITCH ROLE
 SWITCH TO KILLER
 SWITCH TO SPECTATOR
@@ -1853,6 +1990,7 @@ BLOODWEB
 BOLDNESS
 BOOSTS LOST
 BRUTALITY
+CAMERA SENSITIVITY
 CHARACTER
 CHARACTER PERKS
 CHARACTERS
@@ -1970,6 +2108,7 @@ SHRINE OF SECRETS REFRESHES IN
 SLOT LOCKED
 STATUS
 SURVIVAL
+SURVIVOR
 SURVIVOR<br>RANK
 SURVIVOR CONTROLS
 SURVIVOR TUTORIAL VIDEOS
@@ -2029,12 +2168,11 @@ Reward
 <li>2 to 5 players can play.</li><li>All players can switch roles in the lobby.</li><li>The match can start when there is 1 killer, no more, no less!</li><li>Items, add-ons, perks and offerings collected in other modes can be used; they will not be lost.</li><li>No Bloodpoints are earned.</li><li>No items, add-ons or offerings are earned.</li><li>You cannot gain or lose Ranks.</li>
 A new season is starting. Your rank will be reset:
 A new version of the game is now available. You must update your client to use network features.
-A profile with access to Xbox Live Is Required.
 AGE RESTRICTION
 APPLICATION SUSPENDED
-AVAILABLE IN PLAYSTATION STORE!
+AVAILABLE IN THE PlayStation®Store!
 AVAILABLE IN THE STEAM STORE!
-AVAILABLE IN XBOX ONE MARKETPLACE!
+AVAILABLE IN THE Xbox Store!
 Access the tutorials at any time by pressing the [ESC] key and selecting Help from the list of options.
 Affects whether the game is displayed in fullscreen or windowed mode.
 Already Owned. Buy again & receive:
@@ -2072,6 +2210,7 @@ DAILY RITUALS
 DEV MESSAGE
 Daily challenges rewarding Bloodpoints.
 Daily Rituals
+The Dead By Daylight servers are not currently available. Please try again later .
 Determines if the game should be muted when the application is out of focus.
 Determines the resolution at which the game is rendered. <FONT COLOR="#dd0000">This can't be altered if auto-adjust is enabled.</FONT>
 Disconnected From Server
@@ -2101,6 +2240,7 @@ Increasing your Bloodweb prestige level has the following effects:<br><ul><li>Re
 Inverts control on the Y-Axis.
 JOIN GAME FAILURE
 JOIN LOBBY ERROR
+JOIN LOBBY ERROR
 JOINED LOBBY
 Joining private game refused
 Kicked From Server
@@ -2120,9 +2260,9 @@ NEW EVENT
 NEW VERSION AVAILABLE
 NO MATCHES FOUND
 NO NETWORK CONNECTION
+NO NETWORK CONNECTION
 News
 The latest news, dev posts and patch notes.
-ONLINE STATUS ERROR
 PATCH NOTES
 PATCH REQUIRED
 PRESTIGE {0}
@@ -2139,11 +2279,14 @@ REPORT
 RESET DEFAULTS
 RETURN TO LOBBY?
 Reports remaining: 
+Reset all button bindings to their default values?
+Reset all key and button bindings to their default values?
 SAVE ERROR
 SEARCHING FOR GAMES
 SEASON END
 SELECT CATEGORY
 SOURCE:
+SPEND BLOODPOINTS
 SURVIVOR ESCAPING
 SYSTEM UPDATE REQUIRED
 Say:
@@ -2159,7 +2302,7 @@ Invite friends to survive against an unknown killer in ranked matches.
 Survive With Friends
 THE HOST HAS LEFT
 TUTORIAL
-Controller sensitivity for camera rotation.
+Sensitivity for camera rotation.
 The game has initialized incorrectly and may not save your game properly. Restarting your game may resolve the problem.
 The game you're trying to join is not available anymore
 Mouse sensitivity for camera rotation.
@@ -2175,7 +2318,6 @@ Warning
 You cannot join a lobby while searching for a game.
 You have been kicked from the Server because of a failure to validate your account through Easy Anti-Cheat (error code {0}).
 You have been kicked from the Server because of a failure to verify and authenticate your Steam Account (error code {0}).
-You have been signed out from your current profile.
 You have disconnected from the Server because of a failure to validate the host's account through Easy Anti-Cheat (error code {0})
 You have disconnected from the Server because of a failure to verify and authenticate the host's Steam Account (error code {0})
 You seem to be having connection issues. Please note that aggravated penalties will be issued following frequent disconnection.
@@ -2192,8 +2334,10 @@ HIGH
 LOW
 MEDIUM
 ULTRA
+Artifact
 Common
 Rare
+Spectral
 Teachable
 Ultra Rare
 Uncommon

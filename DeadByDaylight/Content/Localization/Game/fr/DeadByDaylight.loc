@@ -102,6 +102,7 @@ Un système d'échappement improvisé fait de conduites de gaz.<br><li><b>Réduit mo
 Silencieux Fait Maison
 Un chassis léger et solide pourvu d'un guide plus court qui rend la tronçonneuse plus facile à manier.<br><li><b>Réduit légèrement</b> la portée de la tronçonneuse.</li><li><b>Réduit considérablement</b> le temps de pénalité quand vous heurtez des objets.</li><li>Cumulable.</li>
 Chassis léger
+Un dispositif mécanique qui limite l'arrivée d'essence, permettant un régime sûr et régulier.<br><li>La tronçonneuse n'induit pas automatiquement un état critique.</li><li>Obtenez <b>50%</b> de Points de Sang en plus lors des événements tronçonneuse.</li>
 Une substance huileuse destinée à lubrifier diverses machines et concotée par Thompson en personne.<br><li><b>Réduit considérablement</b> le temps de refroidissement de la tronçonneuse.</li><li><b>Réduit légèrement</b> le temps de charge de la tronçonneuse.</li><li>Affecté par la compétence Réparateur.</li><li>Cumulable.</li>
 Mélange Thompson
 Une boisson forte faite de maïs, selon la recette familiale des Thompson. Instille la colère et donne la migraine.<br><li><b>Augmente énormément</b> la vitesse de rotation en utilisant la tronçonneuse.</li><li><b>Augmente considérablement</b> le temps de pénalité quand vous heurtez des objets.</li>
@@ -237,7 +238,44 @@ Un outil simple conçu pour installer rapidement des pièges à ours en toute sécur
 Tendeur de Pièges
 Pantalon d'action pour l'extérieur
 Pantalon d'action pour l'extérieur
-Les accessoires qui affectent le temps de charge de votre pouvoir sont <span class="Highlight1">8%</span> plus efficaces.<br><span class="FlavorText">"Le Dément crée des outils impressionnants à partir de ferraille... des outils destinés à nous mutiler de façon créative. C'est horrible de penser que c'est en fait... intelligent." Les accessoires qui affectent le temps de charge de votre pouvoir sont <span class="Highlight1">10%</span> plus efficaces.<br><span class="FlavorText">"Le Dément crée des outils impressionnants à partir de ferraille... des outils destinés à nous mutiler de façon créative. C'est horrible de penser que c'est en fait... intelligent." Les accessoires qui affectent le temps de charge de votre pouvoir sont <span class="Highlight1">6%</span> plus efficaces.<br><span class="FlavorText">"Le Dément crée des outils impressionnants à partir de ferraille... des outils destinés à nous mutiler de façon créative. C'est horrible de penser que c'est en fait... intelligent." Adrénaline
+Les accessoires qui affectent le temps de charge de votre pouvoir sont <span class="Highlight1">8%</span> plus efficaces.<br><span class="FlavorText">"Le Dément crée des outils impressionnants à partir de ferraille... des outils destinés à nous mutiler de façon créative. C'est horrible de penser que c'est en fait... intelligent." Les accessoires qui affectent le temps de charge de votre pouvoir sont <span class="Highlight1">10%</span> plus efficaces.<br><span class="FlavorText">"Le Dément crée des outils impressionnants à partir de ferraille... des outils destinés à nous mutiler de façon créative. C'est horrible de penser que c'est en fait... intelligent." Les accessoires qui affectent le temps de charge de votre pouvoir sont <span class="Highlight1">6%</span> plus efficaces.<br><span class="FlavorText">"Le Dément crée des outils impressionnants à partir de ferraille... des outils destinés à nous mutiler de façon créative. C'est horrible de penser que c'est en fait... intelligent." Une procédure d'électrochocs risquée qui envoie une puissante longueur d'onde pour apaiser certains problèmes mentaux. Avec l'étincelle de Carter comme source, cette procédure peut créer une certaine anxiété chez le patient.<br><li><b>Augmente modérément</b> votre rayon de terreur en mode traitement.</li><li><b>Réduit modérément</b> votre rayon de terreur en mode châtiment.</li><br>Les survivants avec <b>Folie (2/3)</b> sont victimes de l'affliction suivante :<br><li>le battement de c« Calme » - Cours II
+Une procédure d'électrochocs risquée qui envoie une puissante longueur d'onde pour apaiser certains problèmes mentaux. Avec l'étincelle de Carter comme source, cette procédure peut créer une légère anxiété chez le patient.<br><li><b>Augmente légèrement</b> votre rayon de terreur en mode traitement.</li><li><b>Réduit légèrement</b> votre rayon de terreur en mode châtiment.</li><br>Les survivants avec <b>Folie (2/3)</b> sont victimes de l'affliction suivante :<br><li>le battement de c« Calme » - Cours I
+Une procédure d'électrochocs expérimentale annotée par le docteur Herman Carter lui-même. Ce traitement envoie une puissante longueur d'onde qui apaise certains problèmes mentaux. Avec l'étincelle de Carter comme source, cette procédure crée une peur et une anxiété incontrôlables chez le patient.<br><li><b>Augmente considérablement</b> votre rayon de terreur en mode traitement.</li><li><b>Réduit considérablement</b> votre rayon de terreur en mode châtiment.</li><br>Les survivants avec <b>Folie (2/3)</b> sont victimes de l'affliction suivante :<br><li><b>Folie (2) :</b> le battement de c« Calme » - Notes de Carter
+Une procédure d'électrochocs expérimentale développée dans la brume. Ce traitement envoie une longueur d'onde hautement stimulante qui lie les esprits du patient et du Docteur. Ce procédé est connu pour créer des hallucinations sévères chez le patient.<br><li>Les auras des survivants sont affichées pendant <b>2 secondes</b> lorsque leur niveau de folie augmente.</li><br>Les survivants avec <b>Folie (2/3)</b> sont victimes de l'affliction suivante :<br><li><b>durée modérément/considérablement accrue</b> de l'illusion à l'image du Docteur qui peut être vue par le Docteur comme une <b>Aura</b>.<li><i>Les afflictions</i> du même type ne sont pas cumulables.</li>
+« Contrainte » - Cours III
+Une procédure d'électrochocs expérimentale développée dans la brume. Ce traitement envoie une longueur d'onde qui lie les esprits du patient et du Docteur. Ce procédé est connu pour créer des cas d'hallucinations chez le patient.<br><li>Les auras des survivants sont affichées pendant <b>1 seconde</b> lorsque leur niveau de folie augmente.</li><br>Les survivants avec <b>Folie (2/3)</b> sont victimes de l'affliction suivante :<br><li><b>durée légèrement/modérément accrue</b> de l'illusion à l'image du Docteur qui peut être vue par le Docteur comme une <b>Aura</b>.</li><li>Les <i>afflictions</i> du même type ne sont pas cumulables.</li>
+« Contrainte » - Cours II
+Une procédure d'électrochocs expérimentale développée dans la brume et raturée de nombreuses annotations. Ce traitement envoie un stimulus insupportable qui lie les esprits du patient et du Docteur. Ce procédé est connu pour créer des hallucinations sévères chez le patient.<br><li>Les auras des survivants sont affichées pendant <b>3 secondes</b> lorsque leur niveau de folie augmente.</li><br>Les survivants avec <b>Folie (2/3)</b> sont victimes de l'affliction suivante :<br><li><b>durée considérablement/énormément accrue</b> de l'illusion à l'image du Docteur qui peut être vue par le Docteur comme une <b>Aura</b>.<li><i>Les afflictions</i> du même type ne sont pas cumulables.</li><br><span class=\"FlavorText\">« JE VOIS TOUTES CES DÉGOÛTANTES... <u>MALADIES</u>. » - Notes non signées</span>
+« Circonspection » - Notes de Carter
+Procédure d'électrochocs du Projet Réveil comme mesure disciplinaire qui utilise une dose fixe et un voltage très élevé. Peut créer une état de paranoïa permanent chez le patient.<br><li>Augmente la folie infligée par votre <b>attaque Électrochocs</b> de <b>20%</b>.</li><li><i>Affecté par la compétence Réparateur.</i></li><br>Les survivants avec <b>Folie</b> sont victimes de l'affliction suivante :<br><li>la trace rouge du tueur a une <b>chance modérée</b> d'apparaître derrière un survivant pour une durée de <b>4 secondes</b>.</li><li>Les <i>afflictions</i> du même type ne sont pas cumulables.</li><br><span class="FlavorText">« Le respect de nos patients est à la base même de nos principes. » - Institut de la mémoire de Léry.</span>
+« Discipline » - Cours III
+Procédure d'électrochocs du Projet Réveil comme mesure disciplinaire qui utilise une dose fixe et un voltage très élevé. Peut créer une état de paranoïa modéré chez le patient.<br><li>Augmente la folie infligée par votre <b>attaque Électrochocs</b> de <b>15%</b>.</li><li><i>Affecté par la compétence Réparateur.</i></li><br>Les survivants avec <b>Folie</b> sont victimes de l'affliction suivante :<br><li>la trace rouge du tueur a une <b>légère chance</b> d'apparaître derrière un survivant pour une durée de <b>3 secondes</b>.</li><li>Les <i>afflictions</i> du même type ne sont pas cumulables.</li><br><span class="FlavorText">« Nous rééduquons nos patients avec le plus grand soin. » - Institut de la mémoire de Léry</span>
+« Discipline » - Cours II
+Procédure d'électrochocs du Projet Réveil comme mesure disciplinaire, annotée par le Docteur Herman Carter lui-même. Le voltage très élevé laisse le patient dans un état de paranoïa sévère.<br><li>Augmente la folie infligée par votre attaque <b>Électrochocs</b> de <b>25%</b>.</li><li><i>Affecté par la compétence Réparateur.</i></li><br>Les survivants avec <b>Folie</b> sont victimes de l'affliction suivante :<br><li>la trace rouge du tueur a une <b>chance considérable</b> d'apparaître derrière un survivant pour une durée de <b>5 secondes</b>. Les survivants avec <b>Folie (3) voient toujours</b> la trace rouge.</li><li>Les <i>afflictions</i> du même type sont pas cumulables.</li><br><span class="FlavorText">« Pour éviter les rechutes de nos cas les plus complexes, utilisez le niveau <u>maximum</u> lors des mesures disciplinaires. » - H. Carter</span>
+« Discipline » - Notes de Carter
+Une électrode expérimentale capable de résister à de très puissantes charges pendant une longue période.<br><li><b>Augmente</b> la portée de votre attaque Électrochocs de <b>75%</b>.</li><br><li>Augmente <b>énormément</b> le temps de charge d'Électrochocs.
+Électrode à stimulation élevée
+Le roi d'un jeu d'échecs dans une matière évoquant le verre, créé à partir de la brume elle-même. Des traces de l'Entité y résonnent, capables de briser même les esprits les plus résistants.<br><li>L'attaque <b>Électrochocs</b> peut pousser les survivants à être victimes d'une <b>affliction de folie aléatoire</b> selon le rang de <b>Folie</b> du survivant.</li><li>Les <i>afflictions</i> du même type ne sont pas cumulables.</li><br><span class="FlavorText">« Fixer l'intérieur du verre iridescent revient à plonger dans la folie. »</span>
+Roi iridescent
+Cassette abimée
+Une cassette vidéo du Projet Réveil qui contient majoritairement du bruit blanc. Elle ouvre l'esprit du Docteur pour trouver de nouveaux traitements.<br><li><b>L'attaque Électrochocs</b> cesse d'être un <b>cône</b> et devient à la place un <b>anneau</b> projeté jusqu'à 8 mètres devant le Docteur, doté d'un rayon extérieur de 4,2 mètres et d'un rayon intérieur de 3 mètres.</li>
+Une vieille électrode qui peut faire transiter un faible courant électrique.<br><li><b>Augmente</b> la portée de votre attaque Électrochocs de <b>25%</b>.</li><br><li>Augmente <b>légèrement</b> le temps de charge d'Électrochocs.
+Vieille électrode
+Le cavalier de jeu d'échecs en érable. Ce cadeau d'un ancien fait resurgir de vieux souvenirs et octroie une concentration dévastatrice au Docteur.<br><li>Révèle la zone d'effet de votre attaque Électrochocs.</li>
+Cavalier érable
+Procédure d'électrochocs intense qui fait partie du traitement quotidien des patients à l'Institut de la mémoire de Léry. Peut créer un état de confusion modéré chez le patient.<br><li>Augmente la folie infligée par votre <b>champ électrique</b> de <b>15%</b>.</li><li><i>Affecté par la compétence Réparateur.</i></li><br>Les survivants avec <b>Folie</b> sont victimes des afflictions suivantes :<br><li><b>15% de chances</b> qu'un test d'habileté apparaisse à un emplacement aléatoire.</li><li>Les <i>afflictions</i> du même type ne sont pas cumulables.</li><br><span class="FlavorText">« Les effets secondaires sont assez rares. » - Institut de la mémoire de Léry</span>
+« Ordre » - Cours II
+Procédure d'électrochocs conventionnelle qui fait partie du traitement quotidien des patients à l'Institut de la mémoire de Léry. Peut créer un état de confusion modéré chez le patient.<br><li>Augmente la folie infligée par votre <b>champ électrique</b> de <b>10%</b>.</li><li><i>Affecté par la compétence Réparateur.</i></li><br>Les survivants avec <b>Folie</b> sont victimes des afflictions suivantes :<br><li><b>10% de chances</b> qu'un test d'habileté apparaisse à un emplacement aléatoire.</li><li>Les <i>afflictions</i> du même type ne sont pas cumulables.</li>
+« Ordre » - Cours I
+Version expérimentale de la procédure d'électrochocs avec des annotations du docteur Herman Carter lui-même. La longue durée de la stimulation peut laisser le patient dans un état de confusion sévère.<br><li>Augmente la folie infligée par votre <b>champ électrique</b> de <b>25%</b>.<li><i>Affecté par la compétence Réparateur.</i></li><br>Les survivants avec <b>Folie</b> sont victimes des afflictions suivantes :<br><li><b>25% de chances</b> qu'un test d'habileté apparaisse à un emplacement aléatoire.</li><li>Les <i>afflictions</i> du même type ne sont pas cumulables.</li><br><span class="FlavorText">« La stimulation doit être maintenue de sorte à prolonger les <u>convulsions</u>. » - H. Carter</span>
+« Ordre » - Notes de Carter
+Une électrode toute neuve pour faire transiter un courant électrique.<br><li><b>Augmente</b> la portée de votre attaque Électrochocs de <b>50%</b>.</li><br><li>Augmente <b>considérablement</b> le temps de charge d'Électrochocs.
+Électrode brillante
+Une procédure d'électrochocs expérimentale développée dans la brume et raturée de nombreuses annotations. La surcharge d'intensité provoque une tension extrême des muscles, qui vide le patient de toute son énergie.<br><li>Se secouer prend <b>2 secondes</b> de plus.</li><br>Les survivants avec <b>Folie (3)</b> sont victimes de l'affliction suivante :<br><li><b>épuisement</b>.</li><li>Les <i>afflictions</i> du même type ne sont pas cumulables.</li><br><span class="FlavorText">« BRISEZ LEURS CORPS IMPURS » - Annotations non signées</span>
+« Docilité » - Notes de Carter
+Une cassette vidéo du Projet Réveil qui contient un entretien avec l'une des victimes. Elle ouvre l'esprit du Docteur pour trouver de nouveaux traitements.<br><li>L'attaque Électrochocs cesse d'être un cône et devient à la place un rayon d'une portée de <b>20 mètres</b> et d'une largeur de <b>2 mètres</b>.</li>
+Cassette d'entretien
+Adrénaline
 Agitation
 Malheur, le Spectre pleure des larmes de sang.
 Malheur, le Spectre pleure des larmes de sang.
@@ -288,6 +326,7 @@ Murmure Amer
 Cordon de Soie Noire
 Parade Noire
 Saignement
+Hémorragie
 Téléportation
 Téléportation
 Ambre de Sang
@@ -414,6 +453,27 @@ Blouson Électrique
 Legs de Claudette III
 Legs de Claudette II
 Legs de Claudette I
+Une veste de docteur sans manche qui a déjà été en meilleur état. Herman a toujours eu un faible pour l'aspect théâtral d'une tenue de médecin.
+Veste du Docteur
+Une veste de docteur sans manche qui a déjà été en meilleur état. Le Docteur apprécie l'aspect théâtral du sang sur sa veste.
+Une veste de docteur sans manche qui a déjà été en meilleur état. Le Docteur apprécie l'aspect théâtral du sang sur sa veste.
+Veste tachée de sang du Docteur
+Équipement officiel du responsable du personnel à l'Institut de la mémoire de Léry
+Veste du Projet réveil
+Harnaché de son équipement à électrochocs, le Docteur arbore toujours un sourire en coin de savant fou.
+Herman Carter
+Harnaché de son équipement à électrochocs, le Docteur ne peut éviter les éclaboussures sanguines... y compris sur les yeux et la bouche.
+Harnaché de son équipement à électrochocs, le Docteur ne peut éviter les éclaboussures sanguines... y compris sur les yeux et la bouche.
+Herman Carter sanglant
+Un Docteur furieux, électrisé par la folle puissance de ses électrochocs.
+Herman Carter surchargé
+Un outil de châtiment quand tous les autres traitements restent sans effet.
+La matraque
+Un outil de châtiment quand tous les autres traitements restent sans effet. C'est souvent le cas.
+Un outil de châtiment quand tous les autres traitements restent sans effet. C'est souvent le cas.
+La matraque sanglante
+La matraque, crépitant furieusement avec la puissance de l'étincelle de Carter.
+Matraque du Projet réveil
 Une combinaison de travail classique pour un mécanicien. Parfait pour les boulots salissants et les défis à relever. La partie supérieure est rabattue et enroulée autour de la taille.<br><span class="FlavorText">« Les gens m'appellent Ellis. C'est moi qui tiens ce garage avec deux de mes amis. On a un groupe, aussi. Je joue de la basse. » -Ellis</span>
 Combinaison de mécano
 Une casquette filet avec un logo de remorquage utilisé couramment par les garages et les carrossiers.<br><span class="FlavorText">« J'ai blindé un camion pour qu'il résiste aux zombies. En fait, ça a marché à 99 %, le 1 % restant a défoncé le véhicule... » -Ellis</span>
@@ -441,6 +501,27 @@ Dwight Stressé
 Legs de Dwight III
 Legs de Dwight II
 Legs de Dwight I
+Des shorts courts qui dévoilent les couleurs tapageuses des Lazer Bears.
+Shorts Lazer
+Des shorts courts qui dévoilent les couleurs tapageuses des Lazer Bears sous une épaisse couche de sang.
+Des shorts courts qui dévoilent les couleurs tapageuses des Lazer Bears sous une épaisse couche de sang.
+Shorts Lazer ensanglantés
+Un bas de survêtement classique avec de superbes baskets argentées.
+Bas de survêtement duveteux
+Une jeune femme compétitive et extrêmement concentrée. Elle est là pour gagner.
+Feng Min
+Une jeune femme compétitive et extrêmement concentrée... couverte de sang.
+Une jeune femme compétitive et extrêmement concentrée... couverte de sang.
+Feng Min sanglante
+Une coupe de cheveux décontractée pour les moments à l'écart des caméras.
+Chignon relax
+Polo officiel des Lazer Bears pour la compétition de e-sports de 2016.
+Polo de tournoi des Lazer Bears
+Rien de tel qu'un polo couvert de sang pour impressionner les adversaires. 
+Rien de tel qu'un polo couvert de sang pour impressionner les adversaires. 
+Lazer Bears sanglants
+Une écharpe en laine, douce et confortable, qui vous garde au chaud lors des après-midi pluvieux.
+Écharpe des journées de congé
 Une âme et un corps desséchés par une faim insatiable de chair humaine.
 Lisa
 Couverte du sang résultant de nombreux festins.
@@ -660,6 +741,7 @@ Claudette
 Claudette Morel
 Chiffon Propre
 Profaner le Totem
+Vitesse de profanation
 Réactif Transparent
 Hachoir
 Disparaître
@@ -727,8 +809,10 @@ Evan
 Pantalon Classique Banal
 Vêtements de travail classiques de l'abattoir.
 Vêtements de travail classiques de l'abattoir.
+Épuisement
 Sortir
 ExitStalkMode
+Efficacité
 Réactif Faible
 Camisole d'Ouvrier Agricole
 Veste en Cuir à la Mode
@@ -814,6 +898,8 @@ Soigner (Trousse de soins)
 Auto-Soins (Trousse de soins)
 Auto-Soins
 Soignez les autres survivants à raison de {1} segment(s) de santé.
+Vitesse de soins
+Ouïe
 Médaillon en CPile Longue Durée
 Aider les autres vous remonte le moral. Pour chaque survivant sauvé du crochet, gagnez <span class="Highlight1">100%</span> d'augmentation de la vitesse de soins jusqu'à un maximum de <span class="Highlight2">100%</span> pendant <span class="Highlight3">90 secondes</span>.<br><span class="FlavorText">"Je sais qu'on peut tous s'en sortir en vie si on s'aide les uns les autres."</span>
 Aider les autres vous remonte le moral. Pour chaque survivant sauvé du crochet, gagnez <span class="Highlight1">25%</span> d'augmentation de la vitesse de soins jusqu'à un maximum de <span class="Highlight2">100%</span> pendant <span class="Highlight3">30 secondes</span>.<br><span class="FlavorText">"Je sais qu'on peut tous s'en sortir en vie si on s'aide les uns les autres."</span>
@@ -887,6 +973,7 @@ Jake Park
 Jeans Rentrés dans des Bottes 
 Survêtement de Jogging
 Juste un simple pantalon.
+Le Docteur
 La Harpie
 La Silhouette
 Garde la transpiration à l'intérieur, mais pas le sang, malheureusement. 
@@ -905,10 +992,12 @@ Repérer le Tueur
 Sauver de la Poigne du Tueur
 Étourdir le Tueur
 Béret en Laine
-Marais de Backwater
+VEUILLEZ LIRE ATTENTIVEMENT LE PRÉSENT CONTRAT DE LICENCE D'UTILISATEUR FINAL (ci-après « CLUF » ou « CONTRAT »). VOTRE UTILISATION DU JEU ET VOTRE PARTICIPATION À CELUI-CI VALENT ACCEPTATION DE LA FORCE OBLIGATOIRE DU PRÉSENT CLUF, AU MÊME TITRE QU'UN CONTRAT QUE VOUS AURIEZ SIGNÉ. SI VOUS N'ACCEPTEZ PAS L'ENSEMBLE DES TERMES DU PRÉSENT CLUF, VEUILLEZ NE PAS INSTALLER OU UTILISER LE JEU. LES FRAIS DE CONNEXION INTERNET ENGAGÉS À L'OCCASION DE VOTRE UTILISATION ET PARTICIPATION sont à votre charge. <br /> <br /> La politique de confidentialité de BHVR (ci-après « Politique de Confidentialité ») disponible à l'adresse <a href="event:http://www.bhvr.com/digital-privacy"><font color="#ff0000">bhvr.com/digital-privacy</font></a> fait partie intégrante du présent CLUF. <br /> <br /> Le présent CLUF, de même que les Conditions d'Utilisation, disponibles à l'adresse <a href="event:http://www.bhvr.com/digital-tou"><font color="#ff0000">bhvr.com/digital-tou</font></a>, et la Politique de Confidentialité, ainsi que tout ce qui précède, peuvent être modifiés périodiquement, de même que toutes règles ou instructions publiées en lien avec une activité particulière, un sondage ou toute autre offre (ci-après conjointement appelées « Conditions du Jeu »), régissent votre participation au jeu vidéo ainsi que l'utilisation que vous en faites , l'application, le logiciel, les améliorations, patchs, mises à jour et services qui leur sont associés (ci-après le « Jeu ») et de tout autre produit, service en ligne ou site Internet (individuellement ou conjointement désignés comme les « Services BHVR ») actuellement proposé ou qui le sera à l'avenir par BEHAVIOUR DIGITAL INC. ou toute filiale ou société affiliée (collectivement, « BHVR »). <br /> <br /> BHVR se réserve le droit, à tout moment et à sa seule et entière discrétion, de réviser, de mettre à jour, de modifier, d'ajouter, de compléter ou de supprimer certaines clauses du présent CLUF. BHVR vous informera de ces révisions par e-mail et/ ou par un avis sur la page <a href="event:http://www.bhvr.com/digital"><font color="#ff0000">www.bhvr.com/digital</font></a> et / ou lors de votre connexion. Sauf indication contraire, ces révisions concernant des Services BHVR entreront en vigueur dès votre acceptation, ou trente (30) jours après leur publication. Si vous jugiez inacceptable une quelconque modification apportée au présent CLUF, si cette modification entrainait votre désaccord ou si encore vous étiez incapable de la respecter, vous pourrez résilier le présent CLUF conformément à ses dispositions. <br /> <br /> Vous pouvez consulter la version la plus récente du présent CLUF en cliquant sur le lien « CLUF » situé dans le Jeu ou sur la page <a href="event:http://www.bhvr.com/digital-cluf"><font color="#ff0000">www.bhvr.com/digital-cluf</font></a>. Consulter le présent CLUF régulièrement pour en connaître toute modification relève de votre responsabilité. <br /> <br /> Les termes avec une majuscule non définis dans le présent CLUF ont le sens spécifié dans les Conditions d'utilisation. <br /> <br /> <font size="20"><b>I. Règles de conduite</b></font> <br /> <br /> Lorsque vous participez au Jeu, vous acceptez également de respecter certaines règles de conduite qui régissent votre utilisation du Jeu (« Règles de conduite »), par exemple vous ne pouvez pas : <br /> <li>Harceler, menacer, gêner ou adopter tout comportement inapproprié envers un autre utilisateur, comme par exemple lui envoyer des messages non désirés à répétition ou l'attaquer personnellement ou lui faire des commentaires sur sa race, son orientation sexuelle, sa religion, son histoire, etc. Les discours de haine ne sont pas tolérés.</li> <li>Interrompre les discussions dans le chat par des obscénités, des injures, en utilisant la touche « Entrée » à répétition ou en publiant des images grand format faisant défiler l'écran trop vite, empêchant ainsi la lecture, par l'utilisation excessives de majuscules pour importuner les autres utilisateurs, par la publication de spam ou la pratique du flooding [publication répétée d'un même texte].</li> <li>Se faire passer pour quelqu'un d'autre (y compris une personne connue), prétendre être un employé ou un représentant de BHVR, ou essayer de tromper les utilisateurs en disant que vous représentez BHVR ou l'un de ses partenaires ou sociétés affiliées.</li> <li>Essayer d'obtenir un mot de passe, des informations d'accès ou d'autres informations personnelles de toute autre personne à travers les Services BHVR.</li> <li>Encourager ou faire l'apologie de toute activité illégale, comme le piratage, le cracking ou la distribution de contrefaçons du Jeu et du logiciel.</li> <li>Télécharger des fichiers qui contiennent des virus ou des données corrompues.</li> <li>Publier des messages à d'autres fins que les communications personnelles, notamment des messages publicitaires ou promotionnels, des chaînes, des systèmes pyramidaux ou toute autre activité commerciale.</li> <li>Utiliser abusivement le support en ligne ou les boutons de plainte ou transmettre de fausses allégations au personnel de BHVR.</li> <li>Utiliser ou distribuer des logiciels d'automatisation, des logiciels de macros ou d'autres logiciels ou applications de triche.</li> <li>Modifier toute partie des Services BHVR que BHVR ne vous autorise pas explicitement à modifier.</li> <li>Publier ou communiquer les informations personnelles de tout utilisateur via un Service BHVR.</li> <li>Essayer de manipuler, pirater ou déchiffrer toute transmission vers ou depuis les serveurs d'un Service BHVR.</li> <li>Essayer d'utiliser le Logiciel BHVR en lien avec un service qui n'est pas contrôlé ou autorisé par BHVR.</li> <li>Exploiter le Jeu ou toute partie de celui-ci ou des Services BHVR à des fins commerciales, y compris mais sans que cela soit limitatif (a) son utilisation dans un cybercafé, un centre de jeux sur ordinateur ou tout autre centre ; (b) pour amasser des articles ou ressources virtuelles dans le Jeu afin de les vendre à l'extérieur du Jeu ; ou (c) offrir des services dans le jeu en échange d'un paiement en dehors du Jeu, par exemple faire monter en niveau rapidement.</li> <li>Empêcher les autres utilisateurs de jouer à un Service BHVR ou agir d'une façon qui gêne ou augmente le coût matériel de la mise à disposition de tous les utilisateurs d'un Service BHVR.</li> <li>Exploiter les erreurs de conceptions, les caractéristiques non documentées ou les bugs pour obtenir un accès autrement indisponible ou pour obtenir un avantage concurrentiel.</li> <li>Rétroconcevoir, décompiler ou désassembler le Jeu, en tout ou partie.</li> <li>Faciliter, créer ou maintenir une connexion non autorisée au Jeu, y compris sans que cela soit limitatif (b) toute connexion par des programmes ou outils n'ayant pas été expressément approuvés par BHVR</li> <br /> La liste d'interdictions ci-dessus ne fournit que des exemples de comportements inacceptables et ne prétend pas dresser une liste exhaustive ou exclusive des comportements interdits. Votre conduite en ligne doit être guidée par le bon sens et le respect des autres personnes accédant à et utilisant le Jeu (que ces tiers soient des utilisateurs inscrits du Jeu ou non) et des employés et représentants de BHVR. Vous devez également respecter toutes les lois, réglementations et règles fédérales, provinciales, étatiques et locales qui s'appliquent à vos activités lorsque vous utilisez le Jeu. BHVR se réserve le droit de résilier le présent CLUF et de vous empêcher d'utiliser tous les Services BHVR si votre Accès est utilisé pour se livrer à des activités illégales ou violant les présentes règles de conduite ou toute autre Condition de BHVR. <br /> <br /> <font size="20"><b>I. Licence d'utilisation limitée</b></font> <br /> <br /> BHVR vous concède par la présente une licence personnelle limitée, non exclusive, non transférable, non cessible et entièrement révocable, vous autorisant à utiliser le Jeu et tout Contenu lié uniquement pour un usage de divertissement individuel et non commercial. Cette licence est soumise aux conditions suivantes : (1) vous devez être à jour avec le paiement de tous les frais applicables liés à l'utilisation du Jeu et aux Services BHVR que vous avez souscrits et (2) vous devez respecter les Conditions d'Utilisation (le cas échéant), le présent CLUF et la Politique de Confidentialité, vous ne devez enfreindre aucune des conditions de BHVR. Le non-respect de l'une quelconque des conditions susmentionnées entrainera la retrait automatique de la concession de licence. <br /> <br /> Le Jeu peut nécessiter ou vous permettre de télécharger le Logiciel BHVR. Dans ce cas, BHVR vous accorde une licence limitée et non exclusive pour l'utilisation du Logiciel BHVR aux fins établies par BHVR au moment où le Logiciel BHVR est mis à votre disposition. Si un Contrat de Licence d'Utilisateur Final est fourni avec le Logiciel BHVR, votre utilisation du Logiciel de BHVR est soumise aux conditions de ce contrat de licence en plus des présentes Conditions de Service. Vous ne pouvez pas accorder de sous-licence, ni faire payer à des tiers leur utilisation ou leur accès au Logiciel BHVR. Vous ne pouvez pas traduire, rétroconcevoir, rétrocompiler ou décompiler, désassembler ou créer des produits dérivés à partir du Logiciel BHVR. Vous ne pouvez pas modifier le Logiciel BHVR ou l'utiliser selon des modalités non expressément autorisées par écrit par BHVR. Vous comprenez que l'introduction de différentes technologies par BHVR peut ne pas être uniforme sur toutes les plateformes et que les performances du Logiciel BHVR et des Services BHVR liés peuvent varier selon votre Appareil et un autre équipement. <br /> <br /> BHVR peut vous fournir régulièrement des mises à jour ou modifications pour le Jeu. Vous comprenez que certaines mises à jour et modifications peuvent être nécessaires pour continuer à utiliser le Jeu. Vous acceptez que BHVR puisse arrêter de supporter des versions antérieures du Jeu lors de la mise à disposition d'une version mise à jour. <br /> <br /> <font size="20"><b>II. Consentement au suivi</b></font> <br /> <br /> Lorsque vous utilisez le Jeu, ou tout autre Service BHVR, votre adresse IP (l'adresse du protocole d'Internet à partir de laquelle vous accédez au Jeu ou Service) pourra être conservée dans nos archives. Lorsque le Jeu, ou tout élément ou module de celui-ci, est mis à jour ou reçoit un patch, notre programme de patch peut vérifier que votre Appareil dispose de la version la plus récente de certains fichiers du jeu ; lorsque vous communiquez dans le Jeu ou par tout outil de communication du Jeu (ex. : le chat, les services de messages instantanés ou autre), même de façon « privée » avec une autre personne, vous comprenez que ces communications passent par nos serveurs et que nous pouvons les voir. Par conséquent, vous ne vous attendez pas à ce que ces communications soient privées et vous acceptez donc expressément que les communications que vous envoyez et recevez soient surveillées. <br /> <br /> BHVR utilise un service contre la triche dénommé EasyAntiCheat (ci-après « EasyAntiCheat »), qui est exploité par un prestataire de service tiers qui fournit ses services à BHVR. Un logiciel client (ci-après le « Client ») de EasyAntiCheat est intégré au Jeu. Lorsque vous commencez une nouvelle session de Jeu, le Client se charge automatiquement et installe sa dernière version sur l'Appareil. Lorsque vous utilisez le Jeu sur votre Appareil, EasyAntiCheat surveille l'Appareil, en analysant les fichiers binaires du Jeu et en scannant la mémoire de l'Appareil afin de détecter et d'empêcher toute triche dans le Jeu (ci-après « Objectif »). Pour remplir son Objectif, EasyAntiCheat conserve des informations concernant les méthodes de triche utilisées dans le Jeu (ci-après « Données »). En installant, copiant ou utilisant ce Jeu, vous acceptez que EasyAntiCheat puisse recueillir, conserver et publier des Données à seule fin de remplir son Objectif. Les Données seront utilisées uniquement pour remplir l'Objectif y compris mais sans que cela soit limitatif pour identifier et exclure les joueurs qui trichent dans les jeux vidéo, analyser les comportements de triches et les codes de triche et partager les données de triche avec les sociétés affiliées de EasyAntiCheat. <br /> <br /> Vous acceptez que nous vous contactions par téléphone, e-mail ou toute technologie semblable pour tout objet concernant le Jeu et tout Service BHVR que nous pourrions fournir nous-mêmes ou faire fournir à l'avenir. Vous autorisez expressément BHVR à télécharger les informations de CPU, de système d'exploitation, de carte vidéo, de carte son et de mémoire de votre Appareil pour analyser et optimiser votre expérience de Jeu, améliorer et effectuer la maintenance du Jeu ou vous fournir un service client. Dans le cas où le Jeu détecterait un programme tiers non autorisé, (a) le Jeu peut nous transmettre des informations, y compris mais sans que cela soit limitatif le nom d'utilisateur de votre Compte, des détails concernant le programme tiers non autorisé détecté et les activités ou fonctions de celui-ci, ou (b) nous pouvons exercer tous les droits et recours prévus par les Conditions de BHVR sans préavis à l'utilisateur ou aux utilisateurs lié(s) à de tels programmes tiers non autorisés. <br /> <br /> <font size="20"><b>III. Propriété intellectuelle</b></font> <br /> <br /> Les Services BHVR et tous les titres, droits de propriété et droits de propriété intellectuelle concernant le Jeu (y compris, sans que cela soit limitatif, tous les textes, images, musiques ou sons, tous les messages ou éléments d'information, personnages de fiction, noms, thèmes, objets, décors, costumes, effets, dialogues, formules, lieux, personnages, graphiques, concepts, chorégraphies, vidéos, effets audiovisuels, noms de domaine et tout autre élément faisant partie du Jeu, ensemble ou séparément) sont la propriété de BHVR ou des concédants de licence de BHVR et sont protégés par les droits d'auteur canadiens et internationaux, les lois concernant les présentations commerciales, les brevets et les marques commerciales, les conventions internationales et autres lois protégeant la propriété intellectuelle et les droits de propriété qui lui sont liés. Vous ne pouvez pas copier ou télécharger tout Contenu du Jeu ou d'un Service de BHVR à moins que nos conditions vous y autorisent expressément.Marais de Backwater
 Marais de Backwater
 Haddonfield
 Haddonfield
+Institut de la mémoire de Léry
+Institut de la mémoire de Léry
 Dernier Souffle
 Dernier Survivant
 Meneur
@@ -938,7 +1027,8 @@ Même avant la chute de Coldwind Farm, les champs de maïs étaient remplis de myth
 Bâtiment central de Coldwind Farm, la Ferme se dressa fièrement au milieu des champs de maïs pendant des décennies. Après les horribles événements de 1972, la maison périclita avant de finalement tomber en ruines. Désormais, la ferme n'est plus qu'une vieille demeure oubliée où l'on vivait jadis dans la joie.
 La vieille étable délabrée était l'une des premières granges construites par les Thompson à Coldwind Farm. À la base, elle avait été conçue pour garder les animaux malades à bonne distance du troupeau, mais de toutes les bêtes qui entrèrent, nulle ne sortit jamais vivante. Une enquête révéla que le bâtiment était infesté de moisissures toxiques. Les Thompson pensaient qu'il s'agissait d'un vice de construction ou d'un problème dû à l'humidité du bois. Une nouvelle grange fut construite et la vieille étable fut laissée à l'abandon.
 Un rue ordinaire, dont les maisons furent les témoins muets de l'horreur absolue. Une plaine de jeux, où les enfants grimpaient sur les structures modulaires. Des trottoirs, où les papas apprenaient à leurs filles à faire du vélo. Tout a disparu. Tout est maintenant sous l'emprise de l'Entité et irrémédiablement voué aux ténèbres.
-Le Pale Rose est un ancien bateau à vapeur échoué au milieu du marais, prisonnier à jamais de la boue stagnante. Il était déjà là bien avant que les résidents ne se mettent à chasser, mais pour les habitant du village voisin, ce n'était qu'une silhouette à peine visible. On y trouve pourtant des signes de vie, surtout dans la grande salle de réception. D'étranges marques rituelles tracées avec du sang séché et de la boue recouvrent le sol. D'après l'échelle du carnage, quelque chose d'horrible a dû s'installer ici.
+Un manoir de la fin du XIXe siècle, transformé en centre de traitement et par la suite en centre secret de la CIA spécialisé dans les nouvelles techniques d'interrogatoire. La fermeture de l'institut est empreinte de controverse et de mystère. Au cLe Pale Rose est un ancien bateau à vapeur échoué au milieu du marais, prisonnier à jamais de la boue stagnante. Il était déjà là bien avant que les résidents ne se mettent à chasser, mais pour les habitant du village voisin, ce n'était qu'une silhouette à peine visible. On y trouve pourtant des signes de vie, surtout dans la grande salle de réception. D'étranges marques rituelles tracées avec du sang séché et de la boue recouvrent le sol. D'après l'échelle du carnage, quelque chose d'horrible a dû s'installer ici.
+Centre de traitement
 On peut toujours apercevoir la petite entrée que les mineurs utilisaient pour ramener le minerai à la surface. Elle est depuis longtemps obstruée par un tas de gravats. L'accès ne fut jamais déblayé, comme s'ils craignaient quelque chose qui se trouvait à l'intérieur. Et puis, tout tomba dans l'oubli.
 Autrefois utilisée pour stocker le charbon qui alimentait la Fonderie, la structure est maintenant à l'abandon. Ce qui reste du toit déchiré indique qu'une titanesque explosion a un jour ravagé le site, quoique les murs semblent relativement intacts. Comprendre ce genre de mystère n'est pas chose aisée. Mais quelqu'un le souhaite-t-il vraiment ?
 Les bois qui entourent la propriété sont les seuls témoins de ce qui s'est vraiment passé ici. Les arbres sont bizarrement tordus, comme si ce qu'ils avaient vu leur avait donné envie de faire demi-tour et de s'enfuir. Ces bois voient passer peu de visiteurs, et même les animaux semblent les éviter quand c'est possible.
@@ -965,6 +1055,7 @@ Boîte en métal contenant un ensemble d'outils de base. Même sans entraînement, e
 Verre Opalin
 Concentration
 Concentration
+Folie
 Chêne Moisi
 Sanctuaire Monstrueux
 Mors Ambitio
@@ -972,9 +1063,6 @@ Réactif Trouble
 Bouquet de Nouvelle Lune
 Personne ne s'est Échappé
 On n'Abandonne Personne
-Aucun
-Aucun
-Aucun
 Aucun
 Aucun
 Aucun
@@ -1071,6 +1159,8 @@ Fait appel à l'Entité pour empêcher l'apparition de <b>2</b> coffres.<br><li>Cum
 Pièce de Monnaie Coupée
 <b>Augmente considérablement</b> les chances d'être envoyé à Haddonfield une fois brûlé.<br><li>Cumulable.</li><br><span class="FlavorText">"Un bardeau pourri et moisi comme on en trouve dans la plupart des maisons d'Haddonfield."</span>
 Bardeau Décrépit
+<b>Augmente légèrement</b> la probabilité d'être envoyé à l'Institut de la mémoire de Léry quand utilisé.<br><li>Cumulable.</li><br><span class="FlavorText">« Une copie carbone jaunie d'un certificat d'admission en détention immédiate pour traitement d'urgence. Le reste des informations est couvert de taches et illisible. »</span>
+Certificat d'urgence
 <b>Augmente légèrement</b> la probabilité d'être envoyé au marais de Backwater une fois brûlée.<br><li>Cumulable.</li><br><span class="FlavorText">"Un morceau de cordage marin brûlé dont se dégage toujours une fumée chaude."</span>
 Cordage Fumant
 <b>Augmente considérablement</b> la probabilité d'être envoyé au marais de Backwater une fois brûlée.<br><li>Cumulable.</li><br><span class="FlavorText">"Un panneau de bienvenue grossièrement fabriqué en planches de cyprès. Le panneau est calciné. Il est toujours fumant.</span>
@@ -1085,14 +1175,20 @@ Pochette de Craie Ivoire
 Jarre de lèvres salées de Vigo
 Vous permet d'incarner <b>la Harpie</b> lors de la prochaine partie. <i>Vos compétences actuelles et vos accessoires ne seront pas utilisés.</i><br><span class="FlavorText">"Évitez de marcher dans la boue ou la Harpie mangera vos os."</span>
 Écharde Boueuse
+<b>Augmente considérablement</b> la probabilité d'être envoyé à l'Institut de la mémoire de Léry quand utilisé.<br><li>Cumulable.</li><br><span class="FlavorText">« Un rapport d'évaluation psychiatrique signé par Herman Carter. Il décrit la maladie mentale qui crée de sérieux conflits avec la capacité du patient à vivre de façon indépendante : la dépendance à Internet. »</span>
+Rapport d'évaluation psychiatrique
 Fait appel à l'Entité pour créer <b>3</b> crochets sacrificiels supplémentaires.<br><li>Cumulable.</li><br><span class="FlavorText">"Un morceau de chêne en ruine suintant un liquide noir putrescent."</span>
 Chêne Putride
 Fait appel à l'Entité pour créer <b>2</b> crochets sacrificiels supplémentaires.<br><li>Cumulable.</li><br><span class="FlavorText">"Un morceau de chêne en décomposition sur lequel d'étranges inscriptions ont été gravées."</span>
 Chêne Pourri
 <b>Augmente légèrement</b> la chance de <b>tous</b> les survivants.<br><li>Cumulable.</li><br><span class="FlavorText">"Un petit sac en coton rempli de cristaux de sel noirs. Certains pensent qu'ils portent chance. Il faut faire attention de ne pas les renverser."</span>
 Pochette de sel
+<b>Augmente énormément</b> la probabilité d'être envoyé à l'Institut de la mémoire de Léry quand utilisé.<br><span class="FlavorText">« Des lunettes tordues. Des éclaboussures de sang sont visibles sur ce qui reste des verres cassés. »</span>
+Lunettes cassées
 Fait appel à l'Entité pour créer <b>2</b> coffres supplémentaires.<br><li>Cumulable.</li><br><span class="FlavorText">"Une pièce en or propre et polie."</span>
 Pièce de Monnaie Brillante
+Vous permet d'incarner le Docteur lors de la prochaine partie. <i>Vos compétences actuelles et vos accessoires ne seront pas utilisés.</i><br><span class="FlavorText">« Vos secrets sont en sécurité. »</span>
+Écharde de choc
 <b>Augmente énormément</b> les chances d'être envoyé à Haddonfield une fois brûlé.<br><span class="FlavorText">"Une clé de maison, anodine en apparence. Sur l'étiquette en carton qui y est attachée, on peut lire 'Propriété des Strode', et une adresse écrite à la main : '45 Lampkin Lane'."</span>
 Clé de la Propriété Strode
 Cachet Étrange
@@ -1104,6 +1200,7 @@ Ouvrir la Trappe
 EMPLACEMENT DE COMPÉTENCE II
 EMPLACEMENT DE COMPÉTENCE III
 EMPLACEMENT DE COMPÉTENCE IV
+Alors que vous êtes sur le point de vous échapper, vous vous sentez insufflé d'une énergie nouvelle. Quand le courant électrique des portes de sortie est rétabli, <span class="Highlight1">votre état critique ou vos blessures sont instantanément soignés</span> et vous courez à <span class="Highlight2">150%</span> de votre vitesse normale pendant <span class="Highlight3">5 secondes</span>. Adrénaline n'a aucun effet si vous êtes incapable de bouger au moment de l'effet.<br><i>Adrénaline</i> ignore <b>Épuisement</b>.<br>Provoque <b>Épuisement</b> pendant <span class="Highlight4">40 secondes</span>.
 Alors que vous êtes sur le point de vous échapper, vous vous sentez insufflé d'une énergie nouvelle. Quand le courant électrique des portes de sortie est rétabli, <span class="Highlight1">vos blessures sont instantanément soignées</span> et vous courez à <span class="Highlight2">150%</span> de votre vitesse normale pendant <span class="Highlight3">5 secondes</span>. Adrénaline n'a aucun effet si vous êtes incapable de bouger au moment de l'effet.<br><i>Adrénaline</i> ignore <b>Épuisement</b>.<br>Provoque <b>Épuisement</b> pendant <span class="Highlight4">50 secondes</span>.
 Alors que vous êtes sur le point de vous échapper, vous vous sentez insufflé d'une énergie nouvelle. Quand le courant électrique des portes de sortie est rétabli, <span class="Highlight1">vos blessures sont instantanément soignées</span> et vous courez à <span class="Highlight2">150%</span> de votre vitesse normale pendant <span class="Highlight3">3 secondes</span>. Adrénaline n'a aucun effet si vous êtes incapable de bouger au moment de l'effet.<br><i>Adrénaline</i> ignore <b>Épuisement</b>.<br>Provoque <b>Épuisement</b> pendant <span class="Highlight4">60 secondes</span>.
 Quand l'Atterrissage équilibré est actif, les étourdissements consécutifs aux longues chutes sont réduits de <span class="Highlight1">75%</span>.<br>Suite à l'atterrissage, vous courez à <span class="Highlight2">150%</span> de votre vitesse normale pendant un maximum de <span class="Highlight3">3 secondes</span> si vous n'êtes pas épuisé.<br>Provoque <b>Épuisement</b> pendant <span class="Highlight4">40 secondes</span>.<br><span class="FlavorText">« J'ai sauté d'endroits plus hauts que ça. » - Nea</span>
@@ -1116,6 +1213,10 @@ Quand vous commencez à courir, vous sprintez à <span class="Highlight1">150%</sp
 Quand vous commencez à courir, vous sprintez à <span class="Highlight1">150%</span> de votre vitesse normale pendant un maximum de <span class="Highlight2">3 secondes</span>. <br>Provoque <b>Épuisement</b> pendant <span class="Highlight3">50 secondes</span>.<br><i>Course effrénée</i> ne peut pas être utilisée pendant <b>Épuisement</b>.
 Quand vous commencez à courir, vous sprintez à <span class="Highlight1">150%</span> de votre vitesse normale pendant un maximum de <span class="Highlight2">3 secondes</span>. <br>Provoque <b>Épuisement</b> pendant <span class="Highlight3">60 secondes</span>.<br><i>Course effrénée</i> ne peut pas être utilisée pendant <b>Épuisement</b>.
 Dame Fortune semble vous choyer en permanence.  Quand vous trouvez un objet dans un coffre, il y a <span class="Highlight1">50%</span> de probabilité qu'un accessoire <span class="Highlight2">très rare</span> ou inférieur y soit attaché.<br><span class="FlavorText">"Tout ce qui brille n'est pas d'or. Mais l'or ne vaut pas un kopeck dans cet enfer, et ceci pourrait être utile." Dame Fortune semble vous choyer en permanence.  Quand vous trouvez un objet dans un coffre, il y a <span class="Highlight1">50%</span> de probabilité qu'un accessoire <span class="Highlight2">rare</span> ou inférieur y soit attaché.<br><span class="FlavorText">"Tout ce qui brille n'est pas d'or. Mais l'or ne vaut pas un kopeck dans cet enfer, et ceci pourrait être utile." Dame Fortune semble vous choyer en permanence.  Quand vous trouvez un objet dans un coffre, il y a <span class="Highlight1">50%</span> de probabilité qu'un accessoire <span class="Highlight2">peu commun</span> ou inférieur y soit attaché.<br><span class="FlavorText">"Tout ce qui brille n'est pas d'or. Mais l'or ne vaut pas un kopeck dans cet enfer, et ceci pourrait être utile." Un Ace dans la Manche
+Vos sens aiguisés sont en alerte.<br>Lorsque le tueur casse un générateur ou une palette dans les <span class="Highlight1">36 mètres</span>, le tueur vous est révélé pendant <span class="Highlight2">3 secondes</span>.<br>Cet effet ne peut être déclenché que toutes les <span class="Highlight3">30 secondes</span>.<br><span class="FlavorText">« Ma vision est sans pareille. » - Feng Min</span>
+Vos sens aiguisés sont en alerte.<br>Lorsque le tueur casse un générateur ou une palette dans les <span class="Highlight1">24 mètres</span>, le tueur vous est révélé pendant <span class="Highlight2">3 secondes</span>.<br>Cet effet ne peut être déclenché que toutes les <span class="Highlight3">45 secondes</span>.<br><span class="FlavorText">« Ma vision est sans pareille. » - Feng Min</span>
+Vos sens aiguisés sont en alerte.<br>Lorsque le tueur casse un générateur ou une palette dans les <span class="Highlight1">12 mètres</span>, le tueur vous est révélé pendant <span class="Highlight2">3 secondes</span>.<br>Cet effet ne peut être déclenché que toutes les <span class="Highlight3">60 secondes</span>.<br><span class="FlavorText">« Ma vision est sans pareille. » - Feng Min</span>
+Vigilant
 Vous obtenez une énergie insoupçonnée en sauvant un allié d'un crochet si vous vous tenez dans le rayon de terreur du tueur.<br> Une fois par partie, pendant <span class="Highlight1">20 secondes</span> après avoir décroché un survivant dans le rayon de terreur du tueur, tous les dégâts qui vous placeraient vous ou le survivant en état critique déclenche à la place un saignement de <span class="Highlight2">30 secondes</span>.<br>Vous passerez en état critique si vous subissez des dégâts durant le saignement ou s'il arrive à expiration.<br><span class="FlavorText">« Ça fait un mal de chien, mais ça ne vous tuera pas. Allez-y, soldat. Il est temps de se bouger ! » -Bill</span>
 Vous obtenez une énergie insoupçonnée en sauvant un allié d'un crochet si vous vous tenez dans le rayon de terreur du tueur.<br> Une fois par partie, pendant <span class="Highlight1">20 secondes</span> après avoir décroché un survivant dans le rayon de terreur du tueur, tous les dégâts qui vous placeraient vous ou le survivant en état critique déclenche à la place un saignement de <span class="Highlight2">35 secondes</span>.<br>Vous passerez en état critique si vous subissez des dégâts durant le saignement ou s'il arrive à expiration.<br><span class="FlavorText">« Ça fait un mal de chien, mais ça ne vous tuera pas. Allez-y, soldat. Il est temps de se bouger ! » -Bill</span>
 Vous obtenez une énergie insoupçonnée en sauvant un allié d'un crochet si vous vous tenez dans le rayon de terreur du tueur.<br> Une fois par partie, pendant <span class="Highlight1">20 secondes</span> après avoir décroché un survivant dans le rayon de terreur du tueur, tous les dégâts qui vous placeraient vous ou le survivant en état critique déclenche à la place un saignement de <span class="Highlight2">40 secondes</span>.<br>Vous passerez en état critique si vous subissez des dégâts durant le saignement ou s'il arrive à expiration.<br><span class="FlavorText">« Ça fait un mal de chien, mais ça ne vous tuera pas. Allez-y, soldat. Il est temps de se bouger ! » -Bill</span>
@@ -1130,6 +1231,11 @@ Votre expérience du combat vous a appris quelques précieuses leçons sur comment 
 Indéfectible
 Utilisant tout ce que vous avez sous la main, vous poignardez votre agresseur dans une dernière tentative pour vous échapper. Si vous êtes la cible de l'obsession du tueur, une fois par partie, quand vous vous faites attraper par le tueur, réussissez un test d'habileté pour vous échapper automatiquement de la poigne du tueur et l'étourdir pendant <span class="Highlight1">5 secondes</span>.<br>Si vous n'êtes pas la cible de l'obsession du tueur, une fois par partie, quand vous êtes attrapé par le tueur, une fois que la barre de déhanchement a atteint 35%, réussissez un test d'habileté pour automatiquement remplir la barre de déhanchement et échapper à la poigne du tueur.<br><i>Augmente vos chances d'être la cible de l'<b>obsession</b> du tueur. Une seule obsession par partie.</i><br><span class="FlavorText">"Il n'y a pas de raisons d'avoir peur." Utilisant tout ce que vous avez sous la main, vous poignardez votre agresseur dans une dernière tentative pour vous échapper. Si vous êtes la cible de l'obsession du tueur, une fois par partie, quand vous vous faites attraper par le tueur, réussissez un test d'habileté pour vous échapper automatiquement de la poigne du tueur et l'étourdir pendant <span class="Highlight1">4 secondes</span>.<br>Si vous n'êtes pas la cible de l'obsession du tueur, une fois par partie, quand vous êtes attrapé par le tueur, une fois que la barre de déhanchement a atteint 40%, réussissez un test d'habileté pour automatiquement remplir la barre de déhanchement et échapper à la poigne du tueur.<br><i>Augmente vos chances d'être la cible de l'<b>obsession</b> du tueur. Une seule obsession par partie.</i><br><span class="FlavorText">"Il n'y a pas de raisons d'avoir peur." Utilisant tout ce que vous avez sous la main, vous poignardez votre agresseur dans une dernière tentative pour vous échapper. Si vous êtes la cible de l'obsession du tueur, une fois par partie, quand vous vous faites attraper par le tueur, réussissez un test d'habileté pour vous échapper automatiquement de la poigne du tueur et l'étourdir pendant <span class="Highlight1">3 secondes</span>.<br>Si vous n'êtes pas la cible de l'obsession du tueur, une fois par partie, quand vous êtes attrapé par le tueur, une fois que la barre de déhanchement a atteint 45%, réussissez un test d'habileté pour automatiquement remplir la barre de déhanchement et échapper à la poigne du tueur.<br><i>Augmente vos chances d'être la cible de l'<b>obsession</b> du tueur. Une seule obsession par partie.</i><br><span class="FlavorText">"Il n'y a pas de raisons d'avoir peur." Coup décisif
 Vous devenez <b>obsédé</b> par un seul survivant.<br>La vitesse d'action altruiste de la cible de votre obsession est augmentée de <span class="Highlight1">50%</span>. Une fois que cette cible est tuée ou sacrifiée, tous les autres survivants reçoivent une pénalité de <span class="Highlight2">25%</span> à la vitesse de réparation, sabotage et de soins.<br><i>Une seule obsession par partie.</i><br><span class="FlavorText">Vous devenez <b>obsédé</b> par un seul survivant.<br>La vitesse d'action altruiste de la cible de votre obsession est augmentée de <span class="Highlight1">44%</span>. Une fois que cette cible est tuée ou sacrifiée, tous les autres survivants reçoivent une pénalité de <span class="Highlight2">22%</span> à la vitesse de réparation, sabotage et de soins.<br><i>Une seule obsession par partie.</i><br><span class="FlavorText">Vous devenez <b>obsédé</b> par un seul survivant.<br>La vitesse d'action altruiste de la cible de votre obsession est augmentée de <span class="Highlight1">38%</span>. Une fois que cette cible est tuée ou sacrifiée, tous les autres survivants reçoivent une pénalité de <span class="Highlight2">19%</span> à la vitesse de réparation, sabotage et de soins.<br><i>Une seule obsession par partie.</i><br><span class="FlavorText">Lumière Mourante
+La haine du progrès vous anime.<br>Surchargez un générateur en effectuant l'action <b>Casser le générateur</b>. Le prochain survivant qui interagit avec ce générateur devra faire face à un test d'habileté d'une difficulté <span class="Highlight1">énorme</span>. Si le test échoue, le générateur régressera de <span class="Highlight2">5%</span>. <br>Réussir le test d'habileté ne génèrera aucune progression, mais empêchera l'explosion du générateur.
+La haine du progrès vous anime.<br>Surchargez un générateur en effectuant l'action <b>Casser le générateur</b>. Le prochain survivant qui interagit avec ce générateur devra faire face à un test d'habileté d'une difficulté <span class="Highlight1">considérable</span>. Si le test échoue, le générateur régressera de <span class="Highlight2">4%</span>. <br>Réussir le test d'habileté ne génèrera aucune progression, mais empêchera l'explosion du générateur.
+La haine du progrès vous anime.<br>Surchargez un générateur en effectuant l'action <b>Casser le générateur</b>. Le prochain survivant qui interagit avec ce générateur devra faire face à un test d'habileté d'une difficulté <span class="Highlight1">modérée</span>. Si le test échoue, le générateur régressera de <span class="Highlight2">3%</span>. <br>Réussir le test d'habileté ne génèrera aucune progression, mais empêchera l'explosion du générateur.
+Surcharge
+Un sort qui puise sa force dans l'espoir, ou plus précisément, les faux espoirs des survivants qui attisent votre faim. Quand un survivant est sauvé d'un crochet qui se trouve au moins à <span class="Highlight1">24 mètres</span>, Mangeur d'espoir reçoit un jeton.<br><li><span class="Highlight3">2 jetons</span> : Gagnez <span class="Highlight2">5%</span> d'accélération pendant <span class="Highlight3">10 secondes</span> après avoir suspendu un survivant. L'accélération se déclenche <span class="Highlight3">10 secondes</span> après l'action.</li><li><span class="Highlight3">3 jetons</span> : Vos attaques infligent automatiquement un état critique.</li><li><span class="Highlight2">5 jetons</span> : Confère la possibilité de tuer les survivants de vos propres mains.</li><br><i>Les effets du sort persistent tant que le totem ensorcelé est debout.</i><br><span class="FlavorText">« Si vous ne faites rien, vous avez leur mort sur la conscience. Si vous les sauvez, vous attisez sa faim. »</span>
 Un sort qui puise sa force dans l'espoir. Les faux espoirs des survivants aiguisent votre faim. Quand un survivant est sauvé d'un crochet qui se trouve au moins à <span class="Highlight1">24 mètres</span>, Mangeur d'espoir reçoit un jeton.<br><li><span class="Highlight3">3 jetons</span> : Vos attaques infligent automatiquement un état critique.</li><li><span class="Highlight2">5 jetons</span> : Confère la possibilité de tuer les survivants de vos propres mains.</li><br><i>Les effets du sort persistent tant que le totem ensorcelé est debout.</i><br><span class="FlavorText">"Si vous ne faites rien, vous avez leur mort sur la conscience. Si vous les sauvez, vous attisez sa faim."</span>
 Un sort qui puise sa force dans l'espoir. Les faux espoirs des survivants aiguisent votre faim. Quand un survivant est sauvé d'un crochet qui se trouve au moins à <span class="Highlight1">24 mètres</span>, Mangeur d'espoir reçoit un jeton.<br><li><span class="Highlight2">5 jetons</span> : Confère la possibilité de tuer les survivants de vos propres mains.</li><br><i>Les effets du sort persistent tant que le totem ensorcelé est debout.</i><br><span class="FlavorText">"Si vous ne faites rien, vous avez leur mort sur la conscience. Si vous les sauvez, vous attisez sa faim."</span>
 Sort : Mangeur d'Espoir
@@ -1145,12 +1251,34 @@ Un sort qui entrave la capacité de lecture d'auras. Frapper un survivant pendant
 Un sort qui entrave la capacité de lecture d'auras. Frapper un survivant pendant que le totem ensorcelé est actif réduit l'efficacité de sa capacité de lecture d'auras de <span class="Highlight1">100%</span>. Cet effet s'applique aux 3 derniers survivants frappés.<br><i>Les effets du sort persistent tant que le totem ensorcelé est debout.</i><br><span class="FlavorText">"Elle a touché votre peau, vous portez la marque de la sorcière !"</span>
 Un sort qui entrave la capacité de lecture d'auras. Frapper un survivant pendant que le totem ensorcelé est actif réduit l'efficacité de sa capacité de lecture d'auras de <span class="Highlight1">100%</span>. Cet effet s'applique aux 2 derniers survivants frappés.<br><i>Les effets du sort persistent tant que le totem ensorcelé est debout.</i><br><span class="FlavorText">"Elle a touché votre peau, vous portez la marque de la sorcière !"</span>
 Sort : Le troisième sceau
+Un sort qui puise sa force dans l'espoir, ou plus précisément, les faux espoirs des survivants qui vous excitent et renforcent vos totems. Vous gagnez un jeton pour chaque totem passif ou ensorcelé restant sur la carte. <br><li>Gagnez <span class="Highlight1">8%</span> de Points de Sang en plus par jeton pour les actions de la catégorie Chasseur.</li><li>La vitesse de profanation de totem des survivants est réduite de <span class="Highlight2">10%</span> pour chaque jeton.</li><li>Vous recevez une alerte quand quelqu'un commence à s'attaquer à un totem ensorcelé.</li>
+Un sort qui puise sa force dans l'espoir, ou plus précisément, les faux espoirs des survivants qui vous excitent et renforcent vos totems. Vous gagnez un jeton pour chaque totem passif ou ensorcelé restant sur la carte. <br><li>Gagnez <span class="Highlight1">6%</span> de Points de Sang en plus par jeton pour les actions de la catégorie Chasseur.</li><li>La vitesse de profanation de totem des survivants est réduite de <span class="Highlight2">7%</span> pour chaque jeton.</li><li>Vous recevez une alerte quand quelqu'un commence à s'attaquer à un totem ensorcelé.</li>
+Un sort qui puise sa force dans l'espoir, ou plus précisément, les faux espoirs des survivants qui vous excitent et renforcent vos totems. Vous gagnez un jeton pour chaque totem passif ou ensorcelé restant sur la carte. <br><li>Gagnez <span class="Highlight1">4%</span> de Points de Sang en plus par jeton pour les actions de la catégorie Chasseur.</li><li>La vitesse de profanation de totem des survivants est réduite de <span class="Highlight2">4%</span> pour chaque jeton.</li><li>Vous recevez une alerte quand quelqu'un commence à s'attaquer à un totem ensorcelé.</li>
 Sort : Euphorie de la chasse
+Après un saut, vous courez à <span class="Highlight1">150%</span> de votre vitesse normale pendant un maximum de <span class="Highlight2">3 secondes</span>. <i>Uniquement actif si pourchassé.</i><br>Provoque <b>Épuisement</b> pendant <span class="Highlight3">40 secondes</span>.<br><i>Souple</i> ne peut pas être utilisé pendant Épuisement.<br><span class="FlavorText">« Ça va pas ? » - Feng Min</span>
+Après un saut, vous courez à <span class="Highlight1">150%</span> de votre vitesse normale pendant un maximum de <span class="Highlight2">3 secondes</span>. <i>Uniquement actif si pourchassé.</i><br>Provoque <b>Épuisement</b> pendant <span class="Highlight3">50 secondes</span>.<br><i>Souple</i> ne peut pas être utilisé pendant Épuisement<br><span class="FlavorText">« Ça va pas ? » - Feng Min</span>
+Après un saut, vous courez à <span class="Highlight1">150%</span> de votre vitesse normale pendant un maximum de <span class="Highlight2">3 secondes</span>. <i>Uniquement actif si pourchassé.</i><br>Provoque <b>Épuisement</b> pendant <span class="Highlight3">60 secondes</span>.<br><i>Souple</i> ne peut pas être utilisé pendant Épuisement.<br><span class="FlavorText">« Ça va pas ? » - Feng Min</span>
+Souple
+Méticuleux dans votre approche, terrifiant dans votre application.<br>Tandis que vous pourchassez un survivant, votre rayon de terreur est augmenté de <span class="Highlight1">8 mètres</span>. Si ce n'est pas le cas, votre rayon de terreur est réduit de <span class="Highlight2">8 mètres</span> et votre champ de vision est <span class="Highlight3">considérablement</span> augmenté.<br><i>Les améliorations du champ de vision ne sont pas cumulables.</i><br><span class="FlavorText">« C'est l'heure de votre traitement ! » - Le Docteur</span>
+Méticuleux dans votre approche, terrifiant dans votre application.<br>Tandis que vous pourchassez un survivant, votre rayon de terreur est augmenté de <span class="Highlight1">7 mètres</span>. Si ce n'est pas le cas, votre rayon de terreur est réduit de <span class="Highlight2">7 mètres</span> et votre champ de vision est <span class="Highlight3">modérément</span> augmenté.<br><i>Les améliorations du champ de vision ne sont pas cumulables.</i><br><span class="FlavorText">« C'est l'heure de votre traitement ! » - Le Docteur</span>
+Méticuleux dans votre approche, terrifiant dans votre application.<br>Tandis que vous pourchassez un survivant, votre rayon de terreur est augmenté de <span class="Highlight1">6 mètres</span>. Si ce n'est pas le cas, votre rayon de terreur est réduit de <span class="Highlight2">6 mètres</span> et votre champ de vision est <span class="Highlight3">légèrement</span> augmenté.<br><i>Les améliorations du champ de vision ne sont pas cumulables.</i><br><span class="FlavorText">« C'est l'heure de votre traitement ! » - Le Docteur</span>
+Surveillance et maltraitance
 Un lien surnaturel vous unit au tueur. Si vous regardez dans la direction du tueur, votre lien révélera vos auras respectives. Cet effet s'applique uniquement si vous vous trouvez à l'extérieur du rayon de terreur du tueur.<br>En tant qu'obsession du tueur, cet effet a une portée maximum de <span class="Highlight1">72 mètres</span>. Autrement, la portée maximum est de <span class="Highlight1">64 mètres</span>.<br><i>Augmente vos chances de devenir l'<b>obsession</b> du tueur. Uniquement une obsession par partie.</i><br><span class="FlavorText">"Il me regardait !" Un lien surnaturel vous unit au tueur. Si vous regardez dans la direction du tueur, votre lien révélera vos auras respectives. Cet effet s'applique uniquement si vous vous trouvez à l'extérieur du rayon de terreur du tueur.<br>En tant qu'obsession du tueur, cet effet a une portée maximum de <span class="Highlight1">64 mètres</span>. Autrement, la portée maximum est de <span class="Highlight1">56 mètres</span>.<br><i>Augmente vos chances de devenir l'<b>obsession</b> du tueur. Uniquement une obsession par partie.</i><br><span class="FlavorText">"Il me regardait !" Un lien surnaturel vous unit au tueur. Si vous regardez dans la direction du tueur, votre lien révélera vos auras respectives. Cet effet s'applique uniquement si vous vous trouvez à l'extérieur du rayon de terreur du tueur.<br>En tant qu'obsession du tueur, cet effet a une portée maximum de <span class="Highlight1">56 mètres</span>. Autrement, la portée maximum est de <span class="Highlight1">44 mètres</span>.<br><i>Augmente vos chances de devenir l'<b>obsession</b> du tueur. Uniquement une obsession par partie.</i><br><span class="FlavorText">"Il me regardait !" Objet d'obsession
-Renforce la capacité de repérage d'auras. Augmente la portée de repérage d'auras de <span class="Highlight1">8 mètres</span>.<br><span class="FlavorText">"Être attentif, voilà ce qui m'a gardé en vie toutes ces années. Enfin, ça et aussi mon physique de tombeur." Renforce la capacité de repérage d'auras. Augmente la portée de repérage d'auras de <span class="Highlight1">6 mètres</span>.<br><span class="FlavorText">"Être attentif, voilà ce qui m'a gardé en vie toutes ces années. Enfin, ça et aussi mon physique de tombeur." Renforce la capacité de repérage d'auras. Augmente la portée de repérage d'auras de <span class="Highlight1">4 mètres</span>.<br><span class="FlavorText">"Être attentif, voilà ce qui m'a gardé en vie toutes ces années. Enfin, ça et aussi mon physique de tombeur." Le cVous devenez <b>obsédé</b> par un seul survivant.<br> Chaque fois que vous chassez la cible de votre obsession et que vous la laissez s'échapper, vous recevez un jeton jusqu'à un maximum de 3 jetons. Chaque jeton augmente votre vitesse de déplacement de <span class="Highlight1">5%</span>. Chaque action offensive consomme un jeton.<br><i>Une seule obsession par partie.</i><br><span class="FlavorText">Vous devenez <b>obsédé</b> par un seul survivant.<br> Chaque fois que vous chassez la cible de votre obsession et que vous la laissez s'échapper, vous recevez un jeton jusqu'à un maximum de 3 jetons. Chaque jeton augmente votre vitesse de déplacement de <span class="Highlight1">4%</span>. Chaque action offensive consomme un jeton.<br><i>Une seule obsession par partie.</i><br><span class="FlavorText">Vous devenez <b>obsédé</b> par un seul survivant.<br> Chaque fois que vous chassez la cible de votre obsession et que vous la laissez s'échapper, vous recevez un jeton jusqu'à un maximum de 3 jetons. Chaque jeton augmente votre vitesse de déplacement de <span class="Highlight1">3%</span>. Chaque action offensive consomme un jeton.<br><i>Une seule obsession par partie.</i><br><span class="FlavorText">Jouer avec la nourriture
-Gardons le meilleur pour la fin
+Renforce la capacité de repérage d'auras. Augmente la portée de repérage d'auras de <span class="Highlight1">8 mètres</span>.<br><span class="FlavorText">"Être attentif, voilà ce qui m'a gardé en vie toutes ces années. Enfin, ça et aussi mon physique de tombeur." Renforce la capacité de repérage d'auras. Augmente la portée de repérage d'auras de <span class="Highlight1">6 mètres</span>.<br><span class="FlavorText">"Être attentif, voilà ce qui m'a gardé en vie toutes ces années. Enfin, ça et aussi mon physique de tombeur." Renforce la capacité de repérage d'auras. Augmente la portée de repérage d'auras de <span class="Highlight1">4 mètres</span>.<br><span class="FlavorText">"Être attentif, voilà ce qui m'a gardé en vie toutes ces années. Enfin, ça et aussi mon physique de tombeur." Le cPrésence écrasante
+Votre seule présence inspire une véritable peur. Les survivants dans votre rayon de terreur souffrent d'<b>inefficacité</b>.<br>Le taux de consommation d'objets des survivants est augmenté de <span class="Highlight1">50%</span>.<br><span class="FlavorText">« Merde ! J'ai fait tomber la gaze ! »</span>
+Votre seule présence inspire une véritable peur. Les survivants dans votre rayon de terreur souffrent d'<b>inefficacité</b>.<br>Le taux de consommation d'objets des survivants est augmenté de <span class="Highlight1">45%</span>.<br><span class="FlavorText">« Merde ! J'ai fait tomber la gaze ! »</span>
+Votre seule présence inspire une véritable peur. Les survivants dans votre rayon de terreur souffrent d'<b>inefficacité</b>.<br>Le taux de consommation d'objets des survivants est augmenté de <span class="Highlight1">40%</span>.<br><span class="FlavorText">« Merde ! J'ai fait tomber la gaze ! »</span>
+Vous devenez <b>obsédé</b> par un seul survivant.<br> Chaque fois que vous chassez la cible de votre obsession et que vous la laissez s'échapper, vous recevez un jeton jusqu'à un maximum de 3 jetons. Chaque jeton augmente votre vitesse de déplacement de <span class="Highlight1">5%</span>. Chaque action offensive consomme un jeton.<br><i>Une seule obsession par partie.</i><br><span class="FlavorText">Vous devenez <b>obsédé</b> par un seul survivant.<br> Chaque fois que vous chassez la cible de votre obsession et que vous la laissez s'échapper, vous recevez un jeton jusqu'à un maximum de 3 jetons. Chaque jeton augmente votre vitesse de déplacement de <span class="Highlight1">4%</span>. Chaque action offensive consomme un jeton.<br><i>Une seule obsession par partie.</i><br><span class="FlavorText">Vous devenez <b>obsédé</b> par un seul survivant.<br> Chaque fois que vous chassez la cible de votre obsession et que vous la laissez s'échapper, vous recevez un jeton jusqu'à un maximum de 3 jetons. Chaque jeton augmente votre vitesse de déplacement de <span class="Highlight1">3%</span>. Chaque action offensive consomme un jeton.<br><i>Une seule obsession par partie.</i><br><span class="FlavorText">Jouer avec la nourriture
+Vous devenez <b>obsédé</b> par un seul survivant. Tant que la cible de votre obsession est vivante, après l'avoir pourchassée pendant <span class="Highlight1">20 secondes</span>, le délai de récupération de votre prochaine attaque réussie est réduit de <span class="Highlight2">40%</span>. Ce bonus reste disponible pendant <span class="Highlight3">5 secondes</span> après l'interruption de la poursuite, et si vous reprenez la poursuite avant la fin des <span class="Highlight3">5 secondes</span>, ce délai sera réinitialisé.<i>Une seule obsession par partie.</i><br><span class="FlavorText">« La Mort a pointé le bout de son nez dans votre petite ville, Shérif. » Vous devenez <b>obsédé</b> par un seul survivant. Tant que la cible de votre obsession est vivante, après l'avoir pourchassée pendant <span class="Highlight1">20 secondes</span>, le délai de récupération de votre prochaine attaque réussie est réduit de <span class="Highlight2">35%</span>. Ce bonus reste disponible pendant <span class="Highlight3">5 secondes</span> après l'interruption de la poursuite, et si vous reprenez la poursuite avant la fin des <span class="Highlight3">5 secondes</span>, ce délai sera réinitialisé.<i>Une seule obsession par partie.</i><br><span class="FlavorText">« La Mort a pointé le bout de son nez dans votre petite ville, Shérif. » Vous devenez <b>obsédé</b> par un seul survivant. Tant que la cible de votre obsession est vivante, après l'avoir pourchassée pendant <span class="Highlight1">20 secondes</span>, le délai de récupération de votre prochaine attaque réussie est réduit de <span class="Highlight2">30%</span>. Ce bonus reste disponible pendant <span class="Highlight3">5 secondes</span> après l'interruption de la poursuite, et si vous reprenez la poursuite avant la fin des <span class="Highlight3">5 secondes</span>, ce délai sera réinitialisé.<i>Une seule obsession par partie.</i><br><span class="FlavorText">« La Mort a pointé le bout de son nez dans votre petite ville, Shérif. » Gardons le meilleur pour la fin
 Tandis que de plus en plus de vos camarades succombent au tueur, vos chances de survie augmentent inexplicablement. Chaque survivant sacrifié ou tué perturbe la capacité du tueur à voir votre aura.<br><li>1 personne tuée ou sacrifiée : Réduit la portée de repérage d'auras du tueur de <span class="Highlight1">50%</span>.</li><li>2 personnes tuées ou sacrifiées : Réduit la portée de repérage d'auras du tueur de <span class="Highlight2">75%</span>.</li><li>3 personnes tuées ou sacrifiées : <span class="Highlight3">Immunisé</span> contre la capacité de repérage d'auras du tueur.</li><br><i>Augmente vos chances d'être la cible de l'<b>obsession</b> du tueur. Une seule obsession par partie.</i><br><span class="FlavorText">"C'était le croquemitaine." Tandis que de plus en plus de vos camarades succombent au tueur, vos chances de survie augmentent inexplicablement. Chaque survivant sacrifié ou tué perturbe la capacité du tueur à voir votre aura.<br><li>1 personne tuée ou sacrifiée : Réduit la portée de repérage d'auras du tueur de <span class="Highlight1">35%</span>.</li><li>2 personnes tuées ou sacrifiées : Réduit la portée de repérage d'auras du tueur de <span class="Highlight2">60%</span>.</li><li>3 personnes tuées ou sacrifiées : Réduit la portée de repérage d'auras du tueur de <span class= "Highlight3">85%</span>.</li><br><i>Augmente vos chances d'être la cible de l'<b>obsession</b> du tueur. Une seule obsession par partie.</i><br><span class="FlavorText">"C'était le croquemitaine." Tandis que de plus en plus de vos camarades succombent au tueur, vos chances de survie augmentent inexplicablement. Chaque survivant sacrifié ou tué perturbe la capacité du tueur à voir votre aura.<br><li>1 personne ou plus tuée ou sacrifiée : Réduit la portée de repérage d'auras du tueur de <span class="Highlight1">40%</span>.</li><br><i>Augmente vos chances d'être la cible de l'<b>obsession</b> du tueur. Une seule obsession par partie.</i><br><span class="FlavorText">"C'était le croquemitaine." Survivant unique
+Vous êtes capable de manier des machines avec la plus grande précision et attention.<br>Le bruit occasionné par vos réparations et la distance à laquelle ils peuvent être perçus sont réduits de <span class="Highlight2">8 mètres</span>. Si le test d'habileté pour la réparation échoue, il y a <span class="Highlight1">50%</span> de chances que l'explosion du générateur soit évitée.<br><span class="FlavorText">« Sur ce coup là, je vais faire preuve de discrétion. » - Feng Min</span>
+Vous êtes capable de manier des machines avec la plus grande précision et attention.<br>Le bruit occasionné par vos réparations et la distance à laquelle ils peuvent être perçus sont réduits de <span class="Highlight2">4 mètres</span>. Si le test d'habileté pour la réparation échoue, il y a <span class="Highlight1">40%</span> de chances que l'explosion du générateur soit évitée.<br><span class="FlavorText">« Sur ce coup là, je vais faire preuve de discrétion. » - Feng Min</span>
+Vous êtes capable de manier des machines avec la plus grande précision et attention.<br>Si le test d'habileté pour la réparation échoue, il y a <span class="Highlight1">30%</span> de chances que l'explosion du générateur soit évitée.<br><span class="FlavorText">« Sur ce coup là, je vais faire preuve de discrétion. » - Feng Min</span>
+Technicien
 Tout se terminera bien, vous le sentez.  Votre confiance en vous ravive l'espoir de ceux qui se trouvent autour de vous. Pour chaque survivant encore en vie, confère <span class="Highlight1">3%</span> de bonus de chance à tous les survivants.<br><span class="FlavorText">"Que puis-je dire ? Je suis juste un type incroyablement chanceux... Un peu de ma bonne fortune devrait se refléter sur vous." Tout se terminera bien, vous le sentez.  Votre confiance en vous ravive l'espoir de ceux qui se trouvent autour de vous. Pour chaque survivant encore en vie, confère <span class="Highlight1">2%</span> de bonus de chance à tous les survivants.<br><span class="FlavorText">"Que puis-je dire ? Je suis juste un type incroyablement chanceux... Un peu de ma bonne fortune devrait se refléter sur vous." Tout se terminera bien, vous le sentez.  Votre confiance en vous ravive l'espoir de ceux qui se trouvent autour de vous. Pour chaque survivant encore en vie, confère <span class="Highlight1">1%</span> de bonus de chance à tous les survivants.<br><span class="FlavorText">"Que puis-je dire ? Je suis juste un type incroyablement chanceux... Un peu de ma bonne fortune devrait se refléter sur vous." Augmenter la mise
+Est-ce une bénédiction ou une malédiction ? L'Entité a allumé une étincelle de corruption inextinguible dans le cÉtincelle de Carter
+Étincelle de Carter
+Étincelle de Carter
 Source du pouvoir de la Harpie, un doigt noirci utilisé pour catalyser son terrible pouvoir. La Harpie contrôle et façonne la boue selon ses désirs. Avec de simples dessins rituels, elle crée des répliques trompeuses d'elle-même, faites de boue et de plantes en décomposition. Elle les utilise pour produire différents effets.<br><li>Confère la capacité de créer et de conserver <b>10</b> pièges fantômes.</li><li>Confère la capacité de se téléporter directement vers un fantôme quand il est déclenché dans un rayon de <b>32 mètres</b>.</li>
 Catalyseur noir
 Les ténèbres qui l'habitent lui donnent la détermination nécessaire pour prendre la vie de ses victimes. Activer Mal intérieur permet à la Silhouette de voir sa proie clairement et d'emmagasiner encore plus de puissance malfaisante en la traquant. Les 3 niveaux de puissance de la compétence s'accompagnent de différents avantages :<br><br>MAL INTÉRIEUR I : Réduit énormément le rayon de terreur. Confère l'immunité aux compétences de détection. Réduit légèrement la vitesse de déplacement. Réduit légèrement l'allonge.<br><br>MAL INTÉRIEUR II : Réduit modérément le rayon de terreur. Augmente légèrement la vitesse de déplacement. Augmente légèrement l'allonge.<br><br>MAL INTÉRIEUR III : Rayon de terreur normal. Les attaques font le double des dégâts. Mal intérieur III dure 60 secondes, après quoi sa puissance est considérablement réduite.<br><span class="FlavorText">"Je l'ai rencontré, il y a de cela quinze ans. On m'avait dit qu'il était dénué de tout ; de raison, de conscience, de compréhension et qu'il lui manquait même les notions basiques de vie et de mort, de bien et de mal. Je l'ai rencontré quand il était alors âgé de six ans, pâle, sans émotions, doté des yeux les plus noirs qu'il m'ait été donné de voir... les yeux du démon. J'ai passé huit longues années à essayer d'établir un contact avec lui, puis sept autres à essayer de l'enfermer, car j'avais alors réalisé que derrière ces yeux se cachait tout simplement le mal plus pur qui soit..." - Dr. Sam Loomis.</span>
@@ -1169,6 +1297,8 @@ RÉCOMPENSE DE PRESTIGE I
 RÉCOMPENSE DE PRESTIGE I
 RÉCOMPENSE DE PRESTIGE I
 RÉCOMPENSE DE PRESTIGE I
+RÉCOMPENSE DE PRESTIGE I
+RÉCOMPENSE DE PRESTIGE I
 RÉCOMPENSE DE PRESTIGE II
 RÉCOMPENSE DE PRESTIGE II
 RÉCOMPENSE DE PRESTIGE II
@@ -1183,6 +1313,10 @@ RÉCOMPENSE DE PRESTIGE II
 RÉCOMPENSE DE PRESTIGE II
 RÉCOMPENSE DE PRESTIGE II
 RÉCOMPENSE DE PRESTIGE II
+RÉCOMPENSE DE PRESTIGE II
+RÉCOMPENSE DE PRESTIGE II
+RÉCOMPENSE DE PRESTIGE III
+RÉCOMPENSE DE PRESTIGE III
 RÉCOMPENSE DE PRESTIGE III
 RÉCOMPENSE DE PRESTIGE III
 RÉCOMPENSE DE PRESTIGE III
@@ -1239,6 +1373,7 @@ Jean Confortable
 Adoration de Relique
 Réparer
 Réparez l'équivalent de {1} générateur(s) au complet.
+Vitesse de réparation
 Réparations
 Libérez {1} survivants du crochet avec {0}.
 Résistance
@@ -1253,6 +1388,9 @@ Gants de Caoutchouc
 Tablier et Crochets
 Chaîne Rouillée
 Coup bonus
+Attaque bonus
+Électrocuté
+Rang de folie supérieur
 Piège déclenché
 Installer un piège
 Attaque fantôme
@@ -1262,6 +1400,7 @@ Protection
 Protection
 Traqueur
 Mal intérieur
+Feng Min
 Ace Visconti
 William « Bill » Overbeck
 Laurie Strode
@@ -1270,6 +1409,7 @@ Saboter (Boîte à outils)
 Saboter le piège (Saboteur)
 Saboter le piège (Boîte à outils)
 Sabotez l'équivalent de {1} crochets au complet.
+Vitesse de sabotage
 Saboteur
 Sacrifice
 Sacrifice
@@ -1292,6 +1432,7 @@ Outils d'Installation
 Résistance à l'Obscurité
 Jake à la Moustache Soignée
 Forêt Profonde
+Électrochocs
 Lubrifiant d'Atelier
 Plaque d'Immatriculation Trouée
 Couronne de Pie
@@ -1300,6 +1441,7 @@ Linceul de Séparation
 Linceul d'Union
 Page de Registre Signée
 Clé Passe-partout
+Capacités
 Abatteur du Dimanche
 Viande Glissante
 Boucher Sadique
@@ -1309,6 +1451,7 @@ Quelqu'un semble avoir peint rapidement des instructions de réparation sur ce mo
 Bougie d'Allumage
 Outils spécialisés conçus pour installer des pièges à ours rapidement et sans efforts.<br><li><b>Réduit grandement</b> le temps d'installation des pièges à ours.</li><li>Affecté par la compétence Réparateur.</li><li>Affecte chaque piège à ours.</li><li>Cumulable.</li>
 Limiteur de Vitesse
+Vitesse
 Espions des Ombres
 Bottes à Pointes
 Frisson
@@ -1340,10 +1483,19 @@ A Survécu
 A Survécu
 Survivant Trouvé
 Pantalon d'Entraînement
-Sachet d'COMPÉTENCES ENSEIGNABLES
+Sachet d'Passer en mode châtiment
+Passer en mode traitement
+COMPÉTENCES ENSEIGNABLES
 LA TOILE
 L'ENTITÉ
 Optique à Réflexion Totale
+Pouvoir : <b>Étincelle de Carter</b><br><li>Procure la capacité de passer du mode <b>châtiment</b> au mode <b>traitement</b>.</li><li>Utilisez le mode <b>traitement</b> pour générer de la <b>Folie</b> chez les survivants.</li><li>En mode <b>traitement</b>, vous générez un champ électrique correspondant à votre rayon de terreur qui augmente la <b>Folie</b> des survivants, en fonction de la distance qui les sépare du Docteur.</li><li>Les survivants qui sombrent dans <b>Folie (1/2/3)</b> hurlent, révélant ainsi leur position au Docteur.</li><li><b>Folie (2)</b> et <b>(3)</b> provoque chez les survivants des hallucinations du Docteur.</li><li>Les survivants atteints de <b>Folie (3)</b> hurlent régulièrement, trahissant leur position.</li><li><b>Folie (3)</b> empêche également les survivants d'interagir jusqu'à <b>Se secouer</b>.</li><li><b>D'autres afflictions</b> sont disponibles grâce aux accessoires.</li><br><li>Compétences enseignables : <b>Présence écrasante, Surveillance et maltraitance, Surcharge</b>.</li>
+Arme : <b>Griffe</b><br>Pouvoir : <b>Catalyseur noir</b><br><li>Confère la capacité de créer et de conserver <b>10 Pièges fantômes.</b><li>Confère la capacité de se téléporter directement vers un Piège fantôme déclenché dans un rayon de 32 mètres.</li><li>Les survivants qui entrent dans la zone du piège font apparaître un fantôme de la Harpie qui les désoriente.</li><br>Compétences enseignables : <b>Sort : Mangeur d'espoir, Sort : Ruine, Sort : Le troisième sceau</b>
+Arme : <b>Marteau</b><br>Pouvoir : <b>Tronçonneuse</b><br><li>Foncez furieusement à l'activation de la charge.</li><li>Vitesse de rotation limitée pendant la course.</li><li>Induit automatiquement un état critique en cas d'attaque réussie.</li><br>Compétences enseignables : <b>Réparateur, Résistance à la lumière, Tenace</b>
+Arme : <b>Couteau de cuisine</b><br>Pouvoir : <b>Mal intérieur</b><br><li>Traquez les survivants pour recharger <b>Mal intérieur</b>.<li><b>Mal intérieur</b> dispose de 3 rangs uniques qui influent sur la capacité à chasser les survivants. (Voir l'équipement pour plus de détails)</li><li>La surbrillance des survivants passe du blanc au rouge quand ils sont touchés par <b>Mal intérieur</b>.</li><br>Compétences enseignables : <b>Le meilleur pour la fin, Lumière mourante, Jouer avec la nourriture</b>
+Arme : <b>Scie à os</b><br>Pouvoir : <b>Dernier souffle de Spencer</b><br><li>Peut <b>se téléporter</b> deux fois avant de ressentir les effets de la fatigue.</li><li><b>Se téléporte</b> jusqu'à <b>20 mètres</b> à l'activation de la charge.</li><li>Peut exécuter une attaque <b>Téléportation mortelle</b> après s'être téléportée.</li><br>Compétences enseignables : <b>Stridor, Thanatophobie, Vocation de l'Infirmière</b>
+Arme : <b>Hachoir</b><br>Pouvoir : <b>Piège à ours</b><br><li>Le Piégeur peut poser des <b>Pièges à ours</b> pour immobiliser et blesser ses victimes.</li><li>Il commence la partie avec <b>1 piège</b>.</li><li>5 autres <b>pièges</b> sont placés aléatoirement sur la carte.</li><br>Compétences enseignables : <b>Force brute, Agitation, Présence perturbante</b>
+Arme : <b>Hache d'Azarov</b><br>Pouvoir : <b>Cloche des Lamentations</b><br><li>Charge octroyant une invisibilité quasi totale.</li><li>L'invisibilité augmente la vitesse de déplacement.</li><br>Compétences enseignables : <b>Résistance à l'obscurité, Prédateur, Chien de sang</b>
 Couronne de Tangara
 Bouteille de Goudron
 Pièce de Monnaie Usée
@@ -1476,6 +1628,8 @@ Franchir
 Huile Végétale
 Linceul de Vigo
 Plaque d'immatriculation de Virginie
+Vision
+Endurance
 Cloche des Lamentations
 Cloche des Lamentations
 Imperméable et étanche à la transpiration, ce coupe-vent en tissu respirant est extraordinaire.
@@ -1720,6 +1874,7 @@ Rite du Dernier Souffle
 Téléportation Précise
 Téléportation Mortelle
 Téléportation Surprise
+ACCEPTER
 COMPRIS
 APPLIQUER CHANGEMENTS
 RETOUR
@@ -1735,6 +1890,7 @@ CRÉER UN SALON
 CRÉDITS
 PERSONNALISER
 RITUELS JOURNALIERS
+REFUSER
 QUITTER LE GROUPE
 EXTRAS
 ALLER AU SALON
@@ -1759,6 +1915,7 @@ OUVRIR MENU
 JOUER
 JOUER EN TANT QUE TUEUR
 JOUER EN TANT QUE SURVIVANT
+APPUYEZ SUR UNE TOUCHE
 APPUYEZ SUR N'IMPORTE QUELLE TOUCHE
 PRÉCÉDENT
 PARTIE PRIVÉE
@@ -1771,6 +1928,7 @@ RÉGÉNÉRER LA TOILE
 ENLEVER LE RITUEL
 RÉINITIALISER AUX VALEURS PAR DÉFAUT
 REVENIR AU SALON
+SAUVEGARDER ET FERMER
 FAIRE DÉFILER LA LISTE
 PARAMÈTRES ET COMMANDES
 TEMPLE
@@ -1781,6 +1939,7 @@ ENVOYER
 SURVIVRE AVEC DES AMIS
 SURVIVANT
 DIDACTICIELS SURVIVANT
+SURVIVANTS
 CHANGER DE RÔLE
 PASSER AU TUEUR
 PASSER AU SPECTATEUR
@@ -1807,6 +1966,7 @@ TOILE
 AUDACE
 AUGMENTATIONS PERDUES
 BRUTALITÉ
+SENSIBILITÉ DE LA CAMÉRA
 PERSONNAGE
 COMPÉTENCES PERSONNAGE
 PERSONNAGES
@@ -1924,6 +2084,7 @@ LE TEMPLE DES SECRETS SERA RAFRAÎCHI DANS
 EMPLACEMENT BLOQUÉ
 STATUT
 SURVIE
+SURVIVANT
 RANG<br>SURVIVANT
 COMMANDES DE SURVIVANT
 DIDACTICIELS VIDÉO SURVIVANT
@@ -1983,12 +2144,11 @@ Récompense
 <li>2 à 5 joueurs peuvent participer.</li><li>Tous les joueurs peuvent changer de rôle dans le salon.</li><li>La partie commence quand il y a 1 tueur, ni plus, ni moins !</li><li>Les objets, accessoires, compétences et offrandes obtenus dans d'autres modes peuvent être utilisés, ils ne seront pas perdus.</li><li>Aucun Point de Sang ne peut être gagné.</li><li>Aucun objet, accessoire ou offrande ne sera obtenu.</li><li>Vous ne pouvez pas gagner ni perdre de rang.</li>
 Une nouvelle saison commence. Votre rang va être réinitialisé :
 Une nouvelle version du jeu est maintenant disponible. Vous devez mettre votre client à jour pour utiliser les fonctionnalités du réseau.
-Un profil disposant d'un accès à Xbox Live est requis.
 LIMITE D'ÂGE
 APPLICATION SUSPENDUE
 DISPONIBLE SUR PLAYSTATION®STORE !
 DISPONIBLE DANS LA BOUTIQUE STEAM !
-DISPONIBLE SUR LE MARCHÉ XBOX ONE !
+DISPONIBLE SUR LE MARCHÉ XBOX !
 Accédez aux didacticiels en tout temps en appuyant sur [Échap] et en choisissant Aide dans la liste d'options.
 Définit le jeu en mode fenêtré ou en mode plein écran.
 Déjà en votre possession. Achetez une nouvelle fois & recevez :
@@ -2003,6 +2163,7 @@ Ajuste automatiquement la résolution en fonction de la fréquence d'images.
 Disponible sur Steam
 BRÛLER {0}
 RECHERCHE DE PARTIE ANNULÉE
+CONNEXION IMPOSSIBLE
 CLIQUEZ ICI POUR DÉPENSER
 DES POINTS DE SANG
 BIENTÔT DISPONIBLE
@@ -2011,6 +2172,8 @@ ERREUR DE CONNEXION
 ERREUR DE CONNEXION
 SALON CRÉÉ
 Calibre la stéréophonie (équilibre audio) pour les casques et les haut-parleurs. 
+Connexion aux services en ligne impossible. Veuillez réessayer ultérieurement.
+Récupération de la liste de contenu disponible impossible. Veuillez réessayer ultérieurement.
 Impossible de commencer avec {0} tueur(s).
 Modifie la langue du jeu. <FONT COLOR="#dd0000">Le jeu doit être redémarré pour que cette modification prenne effet.</FONT>
 Cliquez ici pour chatter...
@@ -2022,6 +2185,7 @@ Crédits
 RITUELS JOURNALIERS
 Les défis quotidiens rapportent des Points de sang.
 Rituels journaliers
+Les serveurs de Dead by Daylight sont momentanément indisponibles. Veuillez réessayer ultérieurement.
 Détermine si le son doit être coupé quand le jeu n'est pas à l'écran.
 Définit la résolution du jeu. <FONT COLOR="#dd0000">Ceci ne peut être changé si l'ajustement automatique est actif.</FONT>
 Déconnecté Du Serveur
@@ -2051,6 +2215,7 @@ Augmenter le niveau de prestige de votre Toile aura les effets suivants :<br><ul
 Inverse les commandes sur l'axe Y.
 ÉCHEC EN REJOIGNANT LA PARTIE
 ERREUR EN REJOIGNANT LE SALON
+ERREUR EN REJOIGNANT LE SALON
 SALON REJOINT
 Rejoindre la partie privée a été refusé
 Éjecté du Serveur
@@ -2070,9 +2235,9 @@ NOUVEL ÉVÉNEMENT
 NOUVELLE VERSION DISPONIBLE
 PAS DE PARTIE TROUVÉE
 PAS DE CONNEXION À INTERNET
+PAS DE CONNEXION À INTERNET
 Nouveautés
 Les dernières nouveautés, publications des développeurs et notes de mise à jour.
-ERREUR DE STATUT EN LIGNE
 NOTES DE VERSION
 MISE À JOUR REQUISE
 PRESTIGE {0}
@@ -2089,11 +2254,14 @@ RAPPORTER
 RÉINITIALISER AUX VALEURS PAR DÉFAUT
 REVENIR AU SALON ?
 Rapports restants : 
+Réinitialiser toutes les touches aux valeurs par défaut ?
+Réinitialiser toutes les touches aux valeurs par défaut ?
 ERREUR DE SAUVEGARDE
 RECHERCHE DE PARTIE 
 FIN DE SAISON
 CHOISIR UNE CATÉGORIE
 SOURCE :
+DÉPENSER DES POINTS DE SANG
 UN SURVIVANT S'ÉCHAPPE
 MISE À JOUR DU SYSTÈME REQUISE
 Dire :
@@ -2123,7 +2291,6 @@ Attention
 Vous ne pouvez pas rejoindre de salon pendant que vous recherchez une partie.
 Vous avez été déconnecté du Serveur car votre compte n'a pas pu être validé par Easy Anti-Cheat (Code d'erreur {0}).
 Vous avez été déconnecté du Serveur car votre compte Steam n'a pas pu être validé et authentifié (Code d'erreur {0}).
-Vous avez été déconnecté de votre profil actuel.
 Vous avez été déconnecté du Serveur car le compte de l'hôte de la partie n'a pas pu être validé par Easy Anti-Cheat (Code d'erreur {0}).
 Vous avez été déconnecté du Serveur car le compte Steam de l'hôte de la partie n'a pas pu être validé et authentifié (Code d'erreur {0}).
 Vous semblez avoir des problèmes de connexion. Veuillez noter que des pénalités aggravées sont prévues en cas de déconnexions fréquentes.
@@ -2140,8 +2307,10 @@ Niveau de Compétence Invalide
 BASSE
 MOYENNE
 ULTRA
+Artefact
 Commun(e)
 Rare
+Spectral
 Enseignable
 Ultra-Rare
 Peu Commun(e)

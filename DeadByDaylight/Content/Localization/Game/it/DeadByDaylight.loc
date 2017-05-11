@@ -108,6 +108,7 @@ Un sistema di scarico di fortuna realizzato con tubi del gas neri.<br><li><b>Rid
 Marmitta Artigianale
 Un telaio da motosega leggero e durevole con una spranga più corta. Rende la motosega più facile da maneggiare.<br><li><b>Riduce leggermente</b> la portata dell'attacco della motosega.</li><li><b>Riduce considerevolmente</b> il tempo di penalità quando sbatti contro gli oggetti.</li><li>Cumulabile.</li>
 Telaio Leggero
+Un dispositivo meccanico che limita la quantità di carburante che piccoli motori possono assumere in una sola volta, forzando una velocità sicura e costante.<br><li>La motosega non induce automaticamente uno stato di fin di vita.</li><li>Ottieni il <b>50%</b> di Punti Sangue in più per gli eventi motosega.</li>
 Una speciale sostanza oleosa utilizzata per lubrificare tutti i macchinari inventati dagli stessi Thompson.<br><li><b>Diminuisce considerevolmente</b> il tempo di raffreddamento della motosega.</li><li><b>Diminuisce leggermente</b> il tempo di carica della motosega.</li><li>Subisce l'effetto della competenza Mastro Ferraio.</li><li>Cumulabile.</li>
 Il Mix di Thompson
 Una bevanda forte ottenuta dal mais con una ricetta tradizionale della famiglia Thompson. Provoca rabbia ed emicrania.<br><li><b>Aumenta straordinariamente</b> il controllo durante l'utilizzo della motosega.</li><li><b>Aumenta considerevolmente</b> il tempo di penalità quando sbatti contro gli oggetti.</li>
@@ -253,6 +254,46 @@ Pantaloni da trekking per le attività all'aperto.
 Gli accessori che influenzano il tempo di carica del tuo potere acquistano il <span class="Highlight1">8%</span> di efficacia in più.<br><span class="FlavorText">"Lo Storpio realizza attrezzature impressionanti a partire da rottami... Strumenti per mutilarci in modi creativi... E la sua intelligenza è raccapricciante." - Appunti</span>
 Gli accessori che influenzano il tempo di carica del tuo potere acquistano il <span class="Highlight1">10%</span> di efficacia in più.<br><span class="FlavorText">"Lo Storpio realizza attrezzature impressionanti a partire da rottami... Strumenti per mutilarci in modi creativi... E la sua intelligenza è raccapricciante." - Appunti</span>
 Gli accessori che influenzano il tempo di carica del tuo potere acquistano il <span class="Highlight1">6%</span> di efficacia in più.<br><span class="FlavorText">"Lo Storpio realizza attrezzature impressionanti a partire da rottami... Strumenti per mutilarci in modi creativi... E la sua intelligenza è raccapricciante." - Appunti</span>
+Una rischiosa tecnica di elettroshock che sfrutta una lunghezza d'onda penetrante per attenuare diversi disturbi mentali. Se implementata usando la Scintilla di Carter, potrebbe causare uno stato d'ansia moderato nel paziente.<br><li><b>Aumenta moderatamente</b> il tuo raggio di terrore nella modalità Terapia.</li><li><b>Diminuisce moderatamente</b> il tuo raggio di terrore nella modalità Punizione.</li><br>Ai sopravvissuti con <b>Pazzia 2</b> viene inflitta la seguente sofferenza:<br><li>Il battito cardiaco nel raggio di terrore ha una <b>chance tremenda</b> di comportarsi come se il sopravvissuto si trovasse nel bordo del raggio di terrore del killer per un lasso di tempo di <b>20 secondi</b>.</li><li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li><br><span class="FlavorText">"L'elettroshock è una delle procedure mediche più sicure." - Istituto Commemorativo Léry</span>
+"Calma" - Lezione II
+Una tecnica di elettroshock che sfrutta una lunghezza d'onda penetrante per attenuare diversi disturbi mentali. Se implementata usando la Scintilla di Carter, potrebbe causare uno stato di ansia leggero nel paziente.<br><li><b>Aumenta leggermente</b> il tuo raggio di terrore nella modalità Terapia.</li><li><b>Diminuisce leggermente</b> il tuo raggio di terrore nella modalità Punizione.</li><br>Ai sopravvissuti con <b>Pazzia 2</b> viene inflitta la seguente sofferenza:<br><li>Il battito cardiaco nel raggio di terrore ha una <b>chance considerevole</b> di comportarsi come se il sopravvissuto si trovasse nel bordo del raggio di terrore del killer per un lasso di tempo di <b>15 secondi</b>.</li><li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li>
+"Calma" - Lezione I
+Una versione sperimentale della tecnica di elettroshock descritta dal dott. Herman Carter in persona. Sfrutta una lunghezza d'onda penetrante per attenuare diversi disturbi mentali. Se implementata usando la Scintilla di Carter, potrebbe causare uno stato di ansia e paura incontrollabile nel paziente.<br><li><b>Aumenta considerevolmente</b> il tuo raggio di terrore nella modalità Terapia.</li><li><b>Diminuisce considerevolmente</b> il tuo raggio di terrore nella modalità Punizione.</li><br>Ai sopravvissuti con <b>Pazzia 2 e 3</b> viene inflitta la seguente sofferenza:<br><li><b>Pazzia 2:</b> il battito cardiaco nel raggio di terrore ha una <b>chance tremenda</b> di comportarsi come se il sopravvissuto si trovasse nel bordo del raggio di terrore del killer per un lasso di tempo di <b>20 secondi</b>.</li><li><b>Pazzia 3:</b> il battito cardiaco nel raggio di terrore si comporta costantemente come se il sopravvissuto fosse nel raggio di terrore del killer.</li><li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li><br><span class="FlavorText">"Crisi intense inducono uno stato catatonico. Finché dura, riesco a trovare un po' di <u>pace</u>." - H. Carter</span>
+"Calma" - Appunti di Carter
+Una tecnica di elettroshock sperimentale sviluppata all'interno della Nebbia. Sfrutta una lunghezza d'onda dall'elevata intensità in grado di collegare la mente del Dottore a quella del paziente. Questa procedura scatena seri casi di allucinazione nei pazienti.<br><li>Le aure dei sopravvissuti sono visibili per <b>2 secondi</b> quando la loro Pazzia aumenta.</li><br>Ai sopravvissuti con <b>Pazzia 2</b> viene inflitta la seguente sofferenza:<br><li><b>durata moderatamente/considerevolmente aumentata</b> di una manifestazione illusoria del Dottore, visibile da quest'ultimo sotto forma di <b>aura</b>.<li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li>
+"Contenimento" - Lezione III
+Una tecnica di elettroshock sperimentale sviluppata all'interno della Nebbia. Sfrutta una lunghezza d'onda in grado di collegare la mente del Dottore a quella del paziente. Questa procedura scatena casi leggeri di allucinazione nei pazienti.<br><li>Le aure dei sopravvissuti sono visibili per <b>1 secondo</b> quando la loro Pazzia aumenta.</li><br>Ai sopravvissuti con <b>Pazzia 2</b> viene inflitta la seguente sofferenza:<br><li><b>Durata leggermente/moderatamente aumentata </b> di una manifestazione illusoria del Dottore, visibile da quest'ultimo sotto forma di <b>aura</b>.</li><li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li>
+"Contenimento" - Lezione II
+Una tecnica di elettroshock sperimentale sviluppata all'interno della Nebbia, descritta con minuziosa quanto inquietante attenzione per i dettagli. Sfrutta una lunghezza d'onda dall'intensità insopportabile in grado di collegare la mente del Dottore a quella del paziente. Questa procedura scatena gravi casi di allucinazione nei pazienti.<br><li>Le aure dei sopravvissuti sono visibili per <b>3 secondi</b> quando la loro Pazzia aumenta.</li><br>Ai sopravvissuti con <b>Pazzia 2</b> viene inflitta la seguente sofferenza:<br><li><b>Durata considerevolmente/tremendamente aumentata</b> di una manifestazione illusoria del Dottore, visibile da quest'ultimo sotto forma di <b>aura</b>.<li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li><br><span class=\"FlavorText\">"POSSO VEDERE I LORO RIVOLTANTI <u>DISTURBI</u>." - Appunti non firmati</span>
+"Contenimento" - Appunti di Carter
+Una tecnica di elettroshock parte del progetto Risveglio usata come misura disciplinare che sfrutta una dose fissa con un voltaggio estremamente elevato. Può indurre un serio stato di paranoia nel paziente.<br><li>Aumenta la Pazzia inflitta dal tuo <b>attacco Terapia d'urto</b> del <b>20%</b>.</li><li><i>È influenzata dalla competenza Mastro Ferraio.</i></li><br>Ai sopravvissuti con <b>Pazzia</b> viene inflitta la seguente sofferenza:<br><li>La macchia rossa del killer ha una <b>chance moderata</b> di apparire dietro al sopravvissuto per <b>4 secondi</b>.</li><li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li><br><span class="FlavorText">"La nostra etica ruota attorno al rispetto verso i pazienti." - Istituto Commemorativo Léry</span>
+"Disciplina" - Lezione III
+Una tecnica di elettroshock parte del progetto Risveglio usata come misura disciplinare che sfrutta una dose fissa con un voltaggio elevato. Può indurre un moderato stato di paranoia nel paziente.<br><li>Aumenta la Pazzia inflitta dal tuo <b>attacco Terapia d'urto</b> del <b>15%</b>.</li><li><i>È influenzata dalla competenza Mastro Ferraio.</i></li><br>Ai sopravvissuti con <b>Pazzia</b> viene inflitta la seguente sofferenza:<br><li>La macchia rossa del killer ha una <b>leggera chance</b> di apparire dietro al sopravvissuto per <b>3 secondi</b>.</li><li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li><br><span class="FlavorText">"Rieduchiamo i nostri pazienti prestando la massima attenzione."- Istituto Commemorativo Léry</span>
+"Disciplina" - Lezione II
+Una tecnica di elettroshock parte del progetto Risveglio usata come misura disciplinare e descritta dal dott. Carter in persona. L'intensità intollerabile del voltaggio lascia il paziente in un grave stato di paranoia.<br><li>Aumenta la Pazzia inflitta dal tuo <b>attacco Terapia d'urto</b> del <b>25%</b>.</li><li><i>È influenzata dalla competenza Mastro Ferraio.</i></li><br>Ai sopravvissuti con <b>Pazzia</b> viene inflitta la seguente sofferenza:<br><li>La macchia rossa del killer ha una <b>chance considerevole</b> di apparire dietro al sopravvissuto per <b>5 secondi</b>. Ai sopravvissuti con <b>Pazzia 3</b> la macchia rossa appare sempre.</li><li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li><br><span class="FlavorText">"Per evitare episodi di ricaduta nei soggetti più tenaci, vanno usate misure disciplinari <u>estreme</u>."- H. Carter</span>
+"Disciplina" - Appunti di Carter
+Un elettrodo sperimentale che può sopportare scariche molto elevate per un lungo periodo di tempo.<br><li><b>Aumenta</b> il raggio del tuo attacco Terapia d'urto del <b>75%</b>.</li><br><li>Aumenta <b>tremendamente</b> il tempo di carica dell'attacco Terapia d'urto.
+Elettrodo resistente
+Un Re degli scacchi in vetro plasmato dalla Nebbia. La traccia dell'Entità che lo pervade può spezzare le menti più forti.<br><li>L'attacco <b>Terapia d'urto</b> infligge al sopravvissuto una <b>sofferenza da Pazzia casuale</b> in base al suo livello di <b>Pazzia</b>.</li><li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li><br><span class="FlavorText">"Uno sguardo a questo pezzo di vetro iridescente e si sprofonda nella pazzia."</span>
+Re iridescente
+Nastro rovinato
+Un'audiocassetta del progetto Risveglio che contiene principalmente rumore bianco, da cui il Dottore trae ispirazione per creare nuove procedure alternative.<br><li>La forma dell'<b>attacco Terapia d'urto </b> cambia da <b>conica</b> a <b>circolare</b> per 8 metri di lunghezza di fronte al Dottore, con un raggio esterno di 4,2 metri e un raggio interno di 3 metri.</li>
+Un elettrodo antiquato che può comunque condurre una corrente elettrica di bassa intensità.<br><li><b>Aumenta</b> il raggio del tuo attacco Terapia d'urto del <b>25%.</b>.</li><br><li>Aumenta <b>leggermente</b> il tempo di carica dell'attacco Terapia d'urto.
+Elettrodo antiquato
+Un Cavallo degli scacchi bianco in legno d'acero. Questo regalo da parte di un vecchio fa rivivere lontani ricordi al Dottore e lo pervade di una concentrazione tagliente.<br><li>Rivela l'area d'effetto del tuo attacco Terapia d'urto.</li>
+Cavallo d'acero
+Una tecnica di elettroshock dall'elevata intensità, parte della routine quotidiana dei pazienti dell'Istituto Commemorativo Léry. Può causare uno stato di confusione moderata nel paziente.<br><li>Aumenta la Pazzia inflitta dal tuo <b>campo statico</b> del <b>15%</b>.</li><li><i>È influenzata dalla competenza Mastro Ferraio.</i></li><br>Ai sopravvissuti con <b>Pazzia</b> viene inflitta la seguente sofferenza:<br><li><b>Chance del 15%</b> che un Test Abilità appaia in una posizione casuale.</li><li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li><br><span class="FlavorText">"La comparsa di effetti collaterali è molto rara."- Istituto Commemorativo Léry</span>
+"Ordine" - Lezione II
+Una tecnica di elettroshock convenzionale, parte della routine quotidiana dei pazienti dell'Istituto Commemorativo Léry. Può causare uno stato di confusione moderata nel paziente.<br><li>Aumenta la Pazzia inflitta dal tuo <b>campo statico</b> del <b>10%</b>.</li><li><i>È influenzata dalla competenza Mastro Ferraio.</i></li><br>Ai sopravvissuti con <b>Pazzia</b> viene inflitta la seguente sofferenza:<br><li><b>Chance del 10%</b> che un Test Abilità appaia in una posizione casuale.</li><li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li>
+"Ordine" -Lezione I
+Una tecnica di elettroshock sperimentale, descritta dal dott. Herman Carter in persona. Il lungo e costante stimolo lascia il paziente in un grave stato di confusione.<br><li>Aumenta la Pazzia inflitta dal tuo <b>campo statico</b> del <b>25%</b>.<li><i>È influenzata dalla competenza Mastro Ferraio.</i></li><br>Ai sopravvissuti con <b>Pazzia</b> viene inflitta la seguente sofferenza:<br><li><b>Chance del 25%</b> che un Test Abilità appaia in una posizione casuale.</li><li><i>Sofferenze</i> dello stesso tipo non si accumulano.</li><br><span class="FlavorText">"Lo stimolo dev'essere costante e mantenuto a un livello <u>convulsivo</u>." - H. Carter</span>
+"Ordine" - Appunti di Carter
+Un elettrodo quasi nuovo per condurre la corrente elettrica nella terapia di elettroshock.<br><li><b>Aumenta</b> il raggio del tuo attacco Terapia d'urto del <b>50%.</b>.</li><br><li>Aumenta <b>considerevolmente</b> il tempo di carica dell'attacco Terapia d'urto.
+Elettrodo lucidato
+Una tecnica di elettroshock sperimentale sviluppata all'interno della Nebbia, descritta con minuziosa quanto inquietante attenzione per i dettagli. Il sovraccarico di energia causa tensione muscolare estrema nel paziente prosciugandone le forze.<br><li>Assennamento impiega <b>2 secondi</b> in più a fare effetto.</li><br>Ai sopravvissuti con <b>Pazzia 3</b> viene inflitta la seguente sofferenza:<br><li><b>Sfinimento</b>.</li><li><i>Le sofferenze</i> dello stesso tipo non si accumulano.</li><br><span class="FlavorText">"CHE I LORO CORPI IMPURI SOFFRANO!" - Appunti non firmati</span>
+"Obbedienza" - Appunti di Carter
+Un'audiocassetta del progetto Risveglio che contiene un'intervista non editata con una vittima, da cui il Dottore trae ispirazione per creare nuove procedure alternative.<br><li>La forma dell'attacco Terapia d'urto cambia da conica a raggio con <b>20 metri</b> di lunghezza e <b>2 metri</b> di larghezza.</li>
+Nastro dell'intervista
 Adrenalina
 Agitazione
 Ahimè grida lo spettro, queste lacrime di sangue.
@@ -306,6 +347,7 @@ Sussurro Amaro
 Corda di Seta Nera
 Difesa Nera
 Sanguinamento
+Emorragia
 Battito di Ciglia
 Battito di Ciglia
 Ambra Sanguigna
@@ -426,6 +468,27 @@ Giacca Elettrica
 Eredità Claudette III
 Eredità Claudette II
 Eredità Claudette I
+Un camice senza maniche che ha visto giorni migliori. Fa la sadica felicità di Herman.
+Camice del Dottore
+Un camice senza maniche. Secondo il Dottore, il sangue aggiunge un tocco drammatico.
+Un camice senza maniche. Secondo il Dottore, il sangue aggiunge un tocco drammatico.
+Camice insanguinato del Dottore
+Divisa ufficiale del personale di alto grado dell'Istituto Commemorativo Léry
+Camice del progetto Risveglio
+Avvolto nel suo generatore di elettroshock, il Dottore sfoggia il migliore dei suoi sorrisi sadici.
+Herman Carter
+Avvolto nel suo generatore di elettroshock, il Dottore non ha altra scelta che farsi inondare dal sangue... occhi e bocca inclusi.
+Avvolto nel suo generatore di elettroshock, il Dottore non ha altra scelta che farsi inondare dal sangue... occhi e bocca inclusi.
+Herman Carter Insanguinato
+Un Dottore invasato e sovraccaricato dal suo potere elettrico dissennante.
+Herman Carter Sovraccaricato
+Uno strumento punitivo da usare quando le altre terapie si rivelano inefficaci.
+Lo spuntone
+Uno strumento punitivo da usare quando le altre terapie si rivelano inefficaci, o vengono considerate troppo leggere.
+Uno strumento punitivo da usare quando le altre terapie si rivelano inefficaci, o vengono considerate troppo leggere.
+Lo spuntone insanguinato
+Lo spuntone pervaso dal protuberante potere della Scintilla di Carter.
+Spuntone del progetto Risveglio
 Una classica tuta da meccanico. È perfetta per lavori sporchi e scommesse che finiscono male. La pettorina è stata ripiegata e arrotolata intorno alla vita.<br><span class="FlavorText">"La gente mi chiama Ellis. Con un paio di amici ho aperto un'officina. Abbiamo anche una band. Io suono il basso". - Ellis</span>
 Tuta da meccanico
 Si tratta di un berretto da baseball piuttosto anonimo con il logo di un carro attrezzi, come si vede spesso nelle officine meccaniche e nei depositi di rottami metallici.<br><span class="FlavorText">"Ho corazzato un camion per renderlo a prova di zombi. Poteva resistere agli attacchi del 99% degli zombi. Quell'1% è bastato per mandarlo a puttane". - Ellis</span>
@@ -453,6 +516,27 @@ Dwight inquieto
 Eredità Dwight III
 Eredità Dwight II
 Eredità Dwight I
+Pantaloncini corti che sfoggiano gli sgargianti colori dei Lazer Bears.
+Pantaloncini Lazer
+Pantaloncini corti che sfoggiano gli sgargianti colori dei Lazer Bears, ricoperti da una secchiata di sangue.
+Pantaloncini corti che sfoggiano gli sgargianti colori dei Lazer Bears, ricoperti da una secchiata di sangue.
+Pantaloncini Lazer insanguinati
+Il sotto di una tuta con tanto di scarpe da ginnastica argentate.
+Pantaloni tuta leggeri
+Una giovane donna competitiva che sa quel che vuole: vincere.
+Feng Min
+Una giovane donna competitiva che sa quel che vuole... ed è ricoperta di sangue.
+Una giovane donna competitiva che sa quel che vuole... ed è ricoperta di sangue.
+Feng Min Insanguinata
+Un must quando si è lontani dalle telecamere.
+Chignon comodo
+Polo Lazer Bears ufficiale del torneo eSports 2016.
+Polo Lazer Bears da torneo
+Una polo che trasuda sangue, perfetta per demolire lo spirito degli avversari. 
+Una polo che trasuda sangue, perfetta per demolire lo spirito degli avversari. 
+Polo Lazer Bears insanguinata
+Una soffice e confortevole stola in lana per restare al calduccio nei giorni di pioggia.
+Stola da riposo
 Pelle e anima rinsecchite, deformate da un'insaziabile fame di carne.
 Lisa
 Intrisa del sangue proveniente da innumerevoli banchetti.
@@ -676,6 +760,7 @@ Claudette
 Claudette Morel
 Strofinaccio Pulito
 Purificare Totem
+Velocità di purificazione
 Reagente Trasparente
 Mannaia
 Renditi Invisibile
@@ -743,8 +828,10 @@ Evan
 Pantaloni Giornalieri da Ufficio
 Abiti da lavoro giornalieri per il mattatoio.
 Abiti da lavoro giornalieri per il mattatoio.
+Sfinimento
 Esci
 ExitStalkMode
+Efficacia
 Reagente Debole
 Canotta da Bracciante
 Giacca di Pelle Fashion
@@ -832,6 +919,8 @@ Cura (Kit Medico)
 Curati (Kit Medico)
 Curati (Cura di Sé)
 Guarisci altri sopravvissuti per l'equivalente di {1} Stato/i di Salute.
+Velocità di guarigione
+Udito
 Ciondolo Portafoto a Cuore
 Batteria Alta Potenza
 Aiutare gli altri fa bene al tuo morale. Per ogni sopravvissuto che salvi da un gancio, ottieni un ulteriore aumento del <span class="Highlight1">100%</span> della velocità di guarigione fino a un massimo del <span class="Highlight2">100%</span> per <span class="Highlight3">90 secondi</span>.<br><span class="FlavorText">"Sono sicuro che riusciremmo a fuggire tutti insieme se ci aiutassimo l'un l'altro."</span>
@@ -906,6 +995,7 @@ Jake Park
 Jeans Rincalzati negli Stivali da Equitazione
 Felpa con Cappuccio da Jogging
 Soltanto un altro paio di pantaloni.
+Il Dottore
 La Strega
 L'Ombra
 Mantiene il sudore all'interno, peccato non faccia lo stesso con il sangue.
@@ -924,10 +1014,12 @@ Fuga dalla presa del killer
 Salvataggio dalla presa del killer
 Stordimento killer
 Berretto a Maglia
-Palude Backwater
+LEGGERE ATTENTAMENTE IL PRESENTE CONTRATTO DI LICENZA PER L'UTENTE FINALE (Palude Backwater
 Palude Backwater
 Haddonfield
 Haddonfield
+Istituto Commemorativo Léry
+Istituto Commemorativo Léry
 Ultimo Respiro
 Ultimo Uomo in Campo
 Leader
@@ -957,7 +1049,9 @@ Anche prima del declino della fattoria Coldwind, i campi di granoturco erano rit
 Il Casale, fulcro della fattoria Coldwind, un tempo si ergeva con orgoglio sui campi di granoturco color oro. Dopo i terribili eventi del 1972, l'edificio andò in rovina. Ora il Casale non è nulla di più di una vecchia casa dimenticata in cui un tempo venivano celebrate le feste di famiglia.
 La vecchia stalla in condizioni di degrado era stata uno dei primi granai costruiti dai Thompsons nella fattoria Coldwind. Era stata inizialmente destinata a ospitare gli animali malati per tenerli a debita distanza dal resto del bestiame, ma nessuno degli animali che vi entrò sopravvisse. Un'investigazione rivelò che l'edificio era infestato da una muffa tossica. I Thompsons pensarono a un errore di costruzione o che la cosa avesse in qualche modo a che fare con l'umidità del bosco. Ne costruirono una nuova, mentre quella vecchia venne lasciata a marcire nell'ombra.
 Una normale strada le cui case erano state testimoni di inenarrabili orrori. Un parchetto in cui i bambini un tempo giocavano e si arrampicavano. I marciapiedi sui quali i padri avevano insegnato alle proprie figlie ad andare in bicicletta. Tutto finito, dimenticato nell'oscurità in balia dell'Entità.
+Una villa di fine '800 riconvertita in un primo momento in struttura medica e poi in una base segreta della CIA specializzata in tecniche di interrogatorio all'avanguardia. La chiusura dell'istituto è avvolta nel mistero e ha generato forte controversia. Nel cuore dell'edificio, gli strumenti del Dottore, disposti a formare un perverso cerchio rituale, sono sempre pronti a essere usati dalle sue abili mani per raffinare i suoi metodi su un non finire di pazienti terrorizzati.
 Il Pale Rose, un antico battello a vapore nel mezzo della palude, giace imprigionato dal fango stagnante. Era qui da molto prima che gli abitanti iniziassero la loro caccia, una sagoma appena visibile dal vicino villaggio. Ci sono segni di insediamenti, in particolare nelle cabine superiori, i cui pavimenti sono ricoperti da strani segni rituali realizzati con sangue ormai secco e sudiciume. Dalla portata delle tracce di sangue, qualcosa di orribile sembra essere avvenuto in questo luogo.
+Clinica curativa
 Si può ancora vedere il piccolo ingresso che i minatori utilizzavano per trasportare i minerali in superficie. Adesso non è altro che un cumulo di macerie. Nessuno si è preoccupato di ripulire, come se avessero timore di ciò che avrebbero potuto trovare all'interno. E così è caduto nell'oblio.
 Un tempo utilizzato per immagazzinare il carbone che alimentava la Fonderia, ora giace abbandonato. Il tetto, spaccato a metà, lascia pensare a una deflagrazione colossale, ma una spiegazione del genere non sembra plausibile. Comprendere cosa sia realmente accaduto non è così semplice come si potrebbe pensare.
 I boschi che circondano la proprietà potrebbero essere gli unici testimoni di ciò che accadde realmente lì. Gli alberi dalle sagome deformate, come se volessero fuggire dagli orrori che ivi venivano perpetrati. Questi boschi raramente accolgono visitatori e persino gli animali sembrano volerli evitare.
@@ -985,6 +1079,7 @@ Scatola metallica contenente un set di attrezzi di base. Anche senza alcun tipo 
 Vetro Opale
 Incanalatore del Pensiero
 Incanalatore del Pensiero
+Pazzia
 Legno di Quercia Ammuffito
 Reliquiario Mostruoso
 Mors Ambitio
@@ -992,9 +1087,6 @@ Reagente Intorbidente
 Bouquet della Luna Nuova
 Nessuno è riuscito a fuggire
 Non si Abbandona Nessuno
-Nessuno
-Nessuno
-Nessuno
 Nessuno
 Nessuno
 Nessuno
@@ -1091,6 +1183,8 @@ Invoca l'Entità per impedire la comparsa di <b>2</b> casse.<br><li>Cumulabile.</
 Moneta Tagliata
 <b>Aumenta considerevolmente</b> la probabilità di essere inviato a Haddonfield se bruciata.<br><li>Cumulabile.</li><br><span class="FlavorText">"Un'assicella marcia e ammuffita di legno di quercia come quelle trovate in molte delle case di Haddonfield."</span>
 Assicella Pericolante
+<b>Aumenta leggermente</b> la chance di essere inviati all'Istituto Commemorativo Léry, se bruciato.<br><li>Cumulabile.</li><br><span class="FlavorText">"Una copia carbone ingiallita del certificato per sottoporre immediatamente un paziente a un trattamento d'urgenza. Le informazioni copiate sono macchiate e illeggibili."</span>
+Certificato d'urgenza
 Se bruciato, <b>aumenta leggermente</b> le probabilità di essere inviato alla palude Backwater.<br><li>Cumulabile.</li><br><span class="FlavorText">"Un pezzo di cima bruciata ancora fumante."</span>
 Cordame Fumante
 Se bruciato, <b>aumenta considerevolmente</b> le probabilità di essere inviato alla palude Backwater.<br><li>Cumulabile.</li><br><span class="FlavorText">"Un cartello di benvenuto realizzato usando un pezzo grezzo di un'asse di cipresso levigato dall'acqua. Il cartello è carbonizzato e ancora fumante."</span>
@@ -1105,14 +1199,20 @@ Sacchetto di Gesso Color Avorio
 Vasetto di Labbra Sotto Sale di Vigo
 Ti permette di assumere il ruolo della <b>Strega</b> per la prova successiva. <i>Le competenze e gli accessori in tuo attuale possesso non verranno usati.</i><br><span class="FlavorText">"Evita di camminare nel fango se non vuoi che la Strega divori le tue ossa."</span>
 Scheggia Infangata
+<b>Aumenta considerevolmente</b> la chance di essere inviati all'Istituto Commemorativo Léry, se bruciata.<br><li>Cumulabile.</li><br><span class="FlavorText">"Una valutazione psichiatrica firmata da Herman Carter. Descrive la perdita di memoria di un paziente e suggerisce come procedere."</span>
+Valutazione psichiatrica
 Invoca l'Entità per creare altri <b>3</b> ganci sacrificali.<br><li>Cumulabile.</li><br><span class="FlavorText">"Un pezzo di legno di quercia rovinato dal quale cola un liquido nero putrescente."</span>
 Legno di Quercia Putrido
 Invoca l'Entità per creare altri <b>2</b> ganci sacrificali.<br><li>Cumulabile.</li><br><span class="FlavorText">"Un pezzo di legno di quercia in decomposizione sul quale sono stati intagliati strani segni."</span>
 Legno di Quercia Marcio
 <b>Aumenta leggermente</b> la fortuna di <b>tutti</b> i sopravvissuti.<br><li>Cumulabile.</li><br><span class="FlavorText">"Un piccolo sacchetto di cotone riempito di cristalli di sale nero. Alcuni ritengono che porti fortuna. Non farlo cadere."</span>
 Sacchetto di Sale
+<b>Aumenta tremendamente</b> la chance di essere inviati all'Istituto Commemorativo Léry, se bruciati.<br><span class="FlavorText">"Occhiali da lettura piegati con lenti incrinate macchiate da sangue rappreso."</span>
+Occhiali incrinati
 Invoca l'Entità per creare altre <b>2</b> casse.<br><li>Cumulabile.</li><br><span class="FlavorText">"Un pezzo d'oro pulito e lucidato."</span>
 Moneta Luccicante
+Ti permette di assumere il ruolo del Dottore per la prova successiva. <i>Non verranno usate le tue attuali competenze né gli accessori.</i><br><span class="FlavorText">"I tuoi segreti sono al sicuro con me."</span>
+Scheggia Shock
 <b>Aumenta straordinariamente</b> la possibilità di essere inviato a Haddonfield se bruciata.<br><span class="FlavorText">"Una chiave di casa, dall'apparenza banale. Un'etichetta di cartoncino attaccata ad essa dice: Chiave di Proprietà Immobiliare di Strode
 Timbro Singolare
 Apri
@@ -1123,6 +1223,7 @@ Apri la Botola Oscura
 II SLOT COMPETENZE
 III SLOT COMPETENZE
 IV SLOT COMPETENZE
+Un'energia inaspettata ti pervade quando sei sul punto di fuggire. <span class="Highlight1">Guarisci istantaneamente dalle ferite e dallo stato di fin di vita</span>, e puoi effettuare sprint al <span class="Highlight2">150%</span> della tua normale velocità di corsa per <span class="Highlight3">5 secondi</span> quando i cancelli d'uscita vengono alimentati. Adrenalina non si applica se in quel momento ti trovi in trappola.<br><i>Adrenalina</i> non condizionata da <b>Sfinimento</b>.<br>Causa <b>Sfinimento</b> per <span class="Highlight4">40 secondi</span>.
 Un'energia inaspettata ti pervade quando sei sul punto di fuggire. <span class="Highlight1">Guarisci istantaneamente dalle ferite</span> e puoi effettuare sprint al <span class="Highlight2">150%</span> della tua normale velocità di corsa per <span class="Highlight3">5 secondi</span> quando i cancelli d'uscita vengono alimentati. Adrenalina non si applica se in quel momento ti trovi in trappola.<br><i>Adrenalina</i> non condizionata da <b>Sfinimento</b>.<br>Causa <b>Sfinimento</b> per <span class="Highlight4">50 secondi</span>.
 Un'energia inaspettata ti pervade quando sei sul punto di fuggire. <span class="Highlight1">Guarisci istantaneamente dalle ferite</span> e puoi effettuare sprint al <span class="Highlight2">150%</span> della tua normale velocità di corsa per <span class="Highlight3">3 secondi</span> quando i cancelli d'uscita vengono alimentati. Adrenalina non si applica se in quel momento ti trovi in trappola.<br><i>Adrenalina</i> non condizionata da <b>Sfinimento</b>.<br>Causa <b>Sfinimento</b> per <span class="Highlight4">60 secondi</span>.
 Quando Atterraggio Bilanciato è attivo, gli effetti del barcollamento dopo i lunghi salti vengono ridotti del <span class="Highlight1">75%</span>.<br>Subito dopo l'atterraggio, scatti al <span class="Highlight2">150%</span> della tua normale velocità di corsa per un massimo di <span class="Highlight3">3 secondi</span>, se hai ancora energia.<br>Causa <b>Sfinimento</b> per <span class="Highlight4">40 secondi</span>.<br><span class="FlavorText">"Ho saltato da posti più alti." - Nea</span>
@@ -1138,6 +1239,10 @@ La Dea Bendata sembra essere sempre generosa con te. Recuperando un oggetto da u
 La Dea Bendata sembra essere sempre generosa con te. Recuperando un oggetto da una cassa, vi è il <span class="Highlight1">50%</span> di probabilità che un accessorio di rarità <span class="Highlight2">rara</span> o inferiore sia ad esso collegato.<br><span class="FlavorText">"Non è tutto oro quel che luccica. Ma l'oro non vale nulla in questo posto, quindi ciò potrebbe tornare utile." - Ace</span>
 La Dea Bendata sembra essere sempre generosa con te. Recuperando un oggetto da una cassa, vi è il <span class="Highlight1">50%</span> di probabilità che un accessorio di rarità <span class="Highlight2">non comune</span> o inferiore sia ad esso collegato.<br><span class="FlavorText">"Non è tutto oro quel che luccica. Ma l'oro non vale nulla in questo posto, quindi ciò potrebbe tornare utile." - Ace</span>
 Asso nella Manica
+I tuoi sensi sopraffini sono in estrema allerta.<br>Quando il killer esegue un'azione di rottura in un raggio di <span class="Highlight1">36 metri</span>, puoi vederlo per <span class="Highlight2">3 secondi</span>.<br>Quest'effetto può essere attivato solo una volta ogni <span class="Highlight3">30 secondi</span>.<br><span class="FlavorText">"Ho il sesto senso." - Feng Min</span>
+I tuoi sensi sopraffini sono in estrema allerta.<br>Quando il killer esegue un'azione di rottura in un raggio di <span class="Highlight1">24 metri</span>, puoi vederlo per <span class="Highlight2">3 secondi</span>.<br>Quest'effetto può essere attivato solo una volta ogni <span class="Highlight3">45 secondi</span>.<br><span class="FlavorText">"Ho il sesto senso." - Feng Min</span>
+I tuoi sensi sopraffini sono in estrema allerta.<br>Quando il killer esegue un'azione di rottura in un raggio di <span class="Highlight1">12 metri</span>, puoi vederlo per <span class="Highlight2">3 secondi</span>.<br>Quest'effetto può essere attivato solo una volta ogni <span class="Highlight3">60 secondi</span>.<br><span class="FlavorText">"Ho il sesto senso." - Feng Min</span>
+Allerta
 Quando salvi un alleato appeso a un gancio all'interno del raggio di terrore del killer, un'inaspettata carica di energia ti alimenta.<br>Una volta per partita, per <span class="Highlight1">20 secondi</span> dopo aver salvato un alleato da un gancio all'interno del raggio di terrore del killer, qualsiasi danno subito in grado di ridurre in fin di vita te o il sopravvissuto attiva invece un tempo di sanguinamento di <span class="Highlight2">30 secondi</span>.<br>Subire danni durante il tempo di sanguinamento o raggiungerne il termine ti ridurrà in fin di vita.<br><span class="FlavorText">"Farà un male assurdo, ma non ti ammazzerà. Alzati e cammina, soldato. È tempo di muoversi!" - Bill</span>
 Quando salvi un alleato appeso a un gancio all'interno del raggio di terrore del killer, un'inaspettata carica di energia ti alimenta.<br>Una volta per partita, per <span class="Highlight1">20 secondi</span> dopo aver salvato un alleato da un gancio all'interno del raggio di terrore del killer, qualsiasi danno subito in grado di ridurre in fin di vita te o il sopravvissuto attiva invece un tempo di sanguinamento di <span class="Highlight2">35 secondi</span>.<br>Subire danni durante il tempo di sanguinamento o raggiungerne il termine ti ridurrà in fin di vita.<br><span class="FlavorText">"Farà un male assurdo, ma non ti ammazzerà. Alzati e cammina, soldato. È tempo di muoversi!" - Bill</span>
 Quando salvi un alleato appeso a un gancio all'interno del raggio di terrore del killer, un'inaspettata carica di energia ti alimenta.<br>Una volta per partita, per <span class="Highlight1">20 secondi</span> dopo aver salvato un alleato da un gancio all'interno del raggio di terrore del killer, qualsiasi danno subito in grado di ridurre in fin di vita te o il sopravvissuto attiva invece un tempo di sanguinamento di <span class="Highlight2">40 secondi</span>.<br>Subire danni durante il tempo di sanguinamento o raggiungerne il termine ti ridurrà in fin di vita.<br><span class="FlavorText">"Farà un male assurdo, ma non ti ammazzerà. Alzati e cammina, soldato. È tempo di muoversi!" - Bill</span>
@@ -1152,6 +1257,11 @@ La tua esperienza sui campi di battaglia ti ha insegnato un trucchetto o due sul
 Volontà d'acciaio
 Usando qualunque cosa sia a portata di mano, trafiggi il tuo aggressore come ultimo tentativo di fuga. Se sei l'oggetto dell'ossessione del killer, una volta per partita, quando il killer ti afferra, esegui con successo un test abilità per sfuggire automaticamente alla presa del killer per <span class="Highlight1">5 secondi</span>.<br>Se non sei l'oggetto dell'ossessione del killer, una volta per partita, quando il killer ti afferra, una volta raggiunto il 35% dell'indicatore di divincolamento, esegui con successo un test abilità per riempire automaticamente il resto dell'indicatore e sfuggire alla presa del killer.<br><i>Aumenta le tue probabilità di diventare l'<b>ossessione</b> del killer. Una sola ossessione per partita.</i><br><span class="FlavorText">Usando qualunque cosa sia a portata di mano, trafiggi il tuo aggressore come ultimo tentativo di fuga. Se sei l'oggetto dell'ossessione del killer, una volta per partita, quando il killer ti afferra, esegui con successo un test abilità per sfuggire automaticamente alla presa del killer per <span class="Highlight1">4 secondi</span>.<br>Se non sei l'oggetto dell'ossessione del killer, una volta per partita, quando il killer ti afferra, una volta raggiunto il 40% dell'indicatore di divincolamento, esegui con successo un test abilità per riempire automaticamente il resto dell'indicatore e sfuggire alla presa del killer.<br><i>Aumenta le tue probabilità di diventare l'<b>ossessione</b> del killer. Una sola ossessione per partita.</i><br><span class="FlavorText">Usando qualunque cosa sia a portata di mano, trafiggi il tuo aggressore come ultimo tentativo di fuga. Se sei l'oggetto dell'ossessione del killer, una volta per partita, quando il killer ti afferra, esegui con successo un test abilità per sfuggire automaticamente alla presa del killer per <span class="Highlight1">3 secondi</span>.<br>Se non sei l'oggetto dell'ossessione del killer, una volta per partita, quando il killer ti afferra, una volta raggiunto il 45% dell'indicatore di divincolamento, esegui con successo un test abilità per riempire automaticamente il resto dell'indicatore e sfuggire alla presa del killer.<br><i>Aumenta le tue probabilità di diventare l'<b>ossessione</b> del killer. Una sola ossessione per partita.</i><br><span class="FlavorText">Colpo Decisivo
 Diventi <b>ossessionato</b> da uno dei sopravvissuti.<br>La velocità delle azioni altruiste della tua ossessione  aumenta del <span class="Highlight1">50%</span>. Quando la tua ossessione viene uccisa o sacrificata, ogni altro sopravvissuto riceve una penalità del <span class="Highlight2">25%</span> sulla velocità di recupero, guarigione e sabotaggio.<br><i>Una sola ossessione per partita.</i><br><span class="FlavorText">Diventi <b>ossessionato</b> da uno dei sopravvissuti.<br>La velocità delle azioni altruiste della tua ossessione  aumenta del <span class="Highlight1">44%</span>. Quando la tua ossessione viene uccisa o sacrificata, ogni altro sopravvissuto riceve una penalità dell'<span class="Highlight2">22%</span> sulla velocità di recupero, guarigione e sabotaggio.<br><i>Una sola ossessione per partita.</i><br><span class="FlavorText">Diventi <b>ossessionato</b> da uno dei sopravvissuti.<br>La velocità delle azioni altruiste della tua ossessione  aumenta del <span class="Highlight1">38%</span>. Quando la tua ossessione viene uccisa o sacrificata, ogni altro sopravvissuto riceve una penalità del <span class="Highlight2">19%</span> sulla velocità di recupero, guarigione e sabotaggio.<br><i>Una sola ossessione per partita.</i><br><span class="FlavorText">Luce morente
+Il tuo odio per il progresso è la tua fonte di energia.<br>Sovraccarica un generatore eseguendo l'azione <b>Rompi generatore</b>. Il prossimo sopravvissuto che interagisce con quel generatore dovrà affrontare un Test Abilità <span class="Highlight1">tremendamente</span> difficile. Fallirlo comporta un regresso aggiuntivo del generatore del <span class="Highlight2">5%</span>.<br>Superarlo non fa guadagnare progressi, ma almeno si evita l'esplosione del generatore.
+Il tuo odio per il progresso è la tua fonte di energia.<br>Sovraccarica un generatore eseguendo l'azione <b>Rompi generatore</b>. Il prossimo sopravvissuto che interagisce con quel generatore dovrà affrontare un Test Abilità <span class="Highlight1">considerevolmente</span> difficile. Fallirlo comporta un regresso aggiuntivo del generatore del <span class="Highlight2">4%</span>.<br>Superarlo non fa guadagnare progressi, ma almeno si evita l'esplosione del generatore.
+Il tuo odio per il progresso è la tua fonte di energia.<br>Sovraccarica un generatore eseguendo l'azione <b>Rompi generatore</b>. Il prossimo sopravvissuto che interagisce con quel generatore dovrà affrontare un Test Abilità <span class="Highlight1">moderatamente</span> difficile. Fallirlo comporta un regresso aggiuntivo del generatore del <span class="Highlight2">3%</span>.<br>Superarlo non fa guadagnare progressi, ma almeno si evita l'esplosione del generatore.
+Sovraccarico
+Una maledizione il cui potere ha origine dalla speranza. Le false speranze dei sopravvissuti alimentano la tua fame. Quando un sopravvissuto viene salvato da un gancio ad almeno <span class="Highlight1">24 metri </span> di distanza, Divora Speranza riceve un token.<br><li><span class="Highlight3">2 token</span>: ottieni un incremento alla velocità del <span class="Highlight2">5%</span> per <span class="Highlight3">10 secondi</span> dopo aver appeso al gancio un sopravvissuto. L'incremento si verifica <span class="Highlight3">10 secondi</span> dopo aver appeso al gancio un sopravvissuto.</li><li><span class="Highlight3">3 token</span>: gli attacchi causano automaticamente uno stato di fin di vita ai sopravvissuti.</li><li><span class="Highlight2">5 token</span>: abilità di uccidere i sopravvissuti con le tue stesse mani.</li><br><i>L'effetto della maledizione persiste fino a quando il relativo totem Maledizione resta in piedi.</i><br><span class="FlavorText">"Se non fai nulla, avrai le mani sporche del loro sangue. Se li salvi, la sua fame crescerà."</span>
 Una maledizione il cui potere ha origine dalla speranza. Le false speranze dei sopravvissuti alimentano la tua fame. Quando un sopravvissuto viene salvato da un gancio ad almeno <span class="Highlight1">24 metri </span> di distanza, Divora Speranza riceve un token.<br><li><span class="Highlight3">3 token</span>: Gli attacchi inducono automaticamente i sopravvissuti ad uno stato di morte.</li><li><span class="Highlight2">5 token</span>: Conferisce l'abilità di uccidere i sopravvissuti con le tue stesse mani.</li><br><i>L'effetto della maledizione persiste fino a quando il relativo totem maledizione resta in piedi.</i><br><span class="FlavorText">"Se non fai nulla, avrai le mani sporche del loro sangue. Se li salvi, la sua fame crescerà.Una maledizione il cui potere ha origine dalla speranza. Le false speranze dei sopravvissuti alimentano la tua fame. Quando un sopravvissuto viene salvato da un gancio ad almeno <span class="Highlight1">24 metri</span> di distanza, Divora Speranza riceve un token.<br><li><span class="Highlight2">5 token</span>: Conferisce l'abilità di uccidere i sopravvissuti con le tue stesse mani.</li><br><i>L'effetto della maledizione persiste fino a quando il relativo totem maledizione resta in piedi.</i><br><span class="FlavorText">"Se non fai nulla, avrai le mani sporche del loro sangue. Se li salvi, la sua fame crescerà.Maledizione: Divora Speranza
 Una maledizione il cui potere ha origine dalla speranza. Il tuo totem Maledizione ti rinvigorisce quando i sopravvissuti sono sul punto di scappare. Una volta che i cancelli d'uscita vengono alimentati, se un totem spento è presente sulla mappa, questa maledizione verrà applicata ad esso. Se la maledizione è attiva, gli attacchi effettuati con successo inducono automaticamente uno stato di fin di vita ai sopravvissuti, il tempo di ricarica degli attacchi mancati o effettuati con successo diminuisce dell'<span class="Highlight1">8%</span> e la tua velocità di movimento aumenta del <span class="Highlight2">4%</span>.<br><br><span class="FlavorText">"E la bestia divenne più veloce e potente, come se le fruste tenebrose dell'Entità stessero flagellando il suo dorso."</span>
 Una maledizione il cui potere ha origine dalla speranza. Il tuo totem Maledizione ti rinvigorisce quando i sopravvissuti sono sul punto di scappare. Una volta che i cancelli d'uscita vengono alimentati, se un totem spento è presente sulla mappa, questa maledizione verrà applicata ad esso. Se la maledizione è attiva, il tempo di ricarica degli attacchi mancati o effettuati con successo diminuisce dell'<span class="Highlight1">8%</span> e la tua velocità di movimento aumenta del <span class="Highlight2">4%</span>.<br>Gli effetti della maledizione durano finché il totem corrispondente rimane in piedi.<br><span class="FlavorText">"E la bestia divenne più veloce e potente, come se le fruste tenebrose dell'Entità stessero flagellando il suo dorso."</span>
@@ -1165,19 +1275,45 @@ Una maledizione che blocca l'abilità di lettura dell'aura. Colpendo un sopravvis
 Una maledizione che blocca l'abilità di lettura dell'aura. Colpendo un sopravvissuto mentre il totem Maledizione è attivo viene ridotta l'efficacia della sua abilità di lettura dell'aura del <span class="Highlight1">100%</span>. Questo effetto si applica agli ultimi 3 sopravvissuti colpiti.<br><i>L'effetto della maledizione persiste fino a quando il relativo totem maledizione resta in piedi.</i><br><span class="FlavorText">"Se sfiora la tua pelle porterai il marchio della strega!"</span>
 Una maledizione che blocca l'abilità di lettura dell'aura. Colpendo un sopravvissuto mentre il totem Maledizione è attivo viene ridotta l'efficacia della sua abilità di lettura dell'aura del <span class="Highlight1">100%</span>. Questo effetto si applica agli ultimi 2 sopravvissuti colpiti.<br><i>L'effetto della maledizione persiste fino a quando il relativo totem maledizione resta in piedi.</i><br><span class="FlavorText">"Se sfiora la tua pelle porterai il marchio della strega!"</span>
 Maledizione: Il Terzo Sigillo
+Una maledizione il cui potere ha origine dalla speranza. La falsa speranza dei sopravvissuti ti riempie di euforia e rinforza i tuoi totem. Ottieni un token per ogni totem spento e totem Maledizione rimasto sulla mappa. <br><li>Ottieni l'<span class="Highlight1">8%</span> in più di Punti Sangue per ogni token per le azioni della categoria del Cacciatore.</li><li>La velocità di purificazione dei sopravvissuti è ridotta del <span class="Highlight2">10%</span> per ogni token.</li><li>Ricevi una notifica quando qualcuno inizia ad agire su un totem Maledizione.</li>
+Una maledizione il cui potere ha origine dalla speranza. La falsa speranza dei sopravvissuti ti riempie di euforia e rinforza i tuoi totem. Ottieni un token per ogni totem spento e totem Maledizione rimasto sulla mappa.<br><li>Ottieni il<span class="Highlight1">6%</span> in più di Punti Sangue per ogni token per le azioni della categoria del Cacciatore.</li><li>La velocità di purificazione dei sopravvissuti è ridotta del <span class="Highlight2">7%</span> per ogni token.</li><li>Ricevi una notifica quando qualcuno inizia ad agire su un totem Maledizione.</li>
+Una maledizione il cui potere ha origine dalla speranza. La falsa speranza dei sopravvissuti ti riempie di euforia e rinforza i tuoi totem. Ottieni un token per ogni totem spento e totem Maledizione rimasto sulla mappa. <br><li>Ottieni il<span class="Highlight1">4%</span> in più di Punti Sangue per ogni token per le azioni della categoria del Cacciatore.</li><li>La velocità di purificazione dei sopravvissuti è ridotta del <span class="Highlight2">4%</span> per ogni token.</li><li>Ricevi una notifica quando qualcuno inizia ad agire su un totem Maledizione.</li>
 Maledizione: Il Brivido della Caccia
+Dopo un salto, forza uno sprint al <span class="Highlight1">150%</span> della tua normale velocità di corsa per un massimo di <span class="Highlight2">3 secondi</span>. <i>Si attiva solo negli inseguimenti.</i><br>Causa <b>Sfinimento</b> per <span class="Highlight3">40 secondi</span>.<br><i>Agilità</i> non può essere usata quando si è in uno stato di Sfinimento.<br><span class="FlavorText">"Pazzi siamo?" - Feng Min</span>
+Dopo un salto, forza uno sprint al <span class="Highlight1">150%</span> della tua normale velocità di corsa per un massimo di <span class="Highlight2">3 secondi</span>. <i>Si attiva solo negli inseguimenti.</i><br>Causa <b>Sfinimento</b> per <span class="Highlight3">50 secondi</span>.<br><i>Agilità</i> non può essere usata quando si è in uno stato di Sfinimento.<br><span class="FlavorText">"Pazzi siamo?" - Feng Min</span>
+Dopo un salto, forza uno sprint al <span class="Highlight1">150%</span> della tua normale velocità di corsa per un massimo di <span class="Highlight2">3 secondi</span>. <i>Si attiva solo negli inseguimenti.</i><br>Causa <b>Sfinimento</b> per <span class="Highlight3">60 secondi</span>.<br><i>Agilità</i> non può essere usata quando si è in uno stato di Sfinimento.<br><span class="FlavorText">"Pazzi siamo?" - Feng Min</span>
+Agilità
+Approccio meticoloso condito da un'applicazione terrificante.<br>Durante un inseguimento, il tuo raggio di terrore aumenta di <span class="Highlight1">8 metri</span>. Altrimenti, il tuo raggio di terrore diminuisce di <span class="Highlight2">8 metri</span> e il tuo campo visivo cresce <span class="Highlight3">considerevolmente</span>.<br><i>I vantaggi al campo visivo non sono accumulabili.</i><br><span class="FlavorText">"È l'ora della terapia!·- Il Dottore</span>
+Approccio meticoloso condito da un'applicazione terrificante.<br>Durante un inseguimento, il tuo raggio di terrore aumenta di <span class="Highlight1">7 metri</span>. Altrimenti, il tuo raggio di terrore diminuisce di <span class="Highlight2">7 metri</span> e il tuo campo visivo cresce <span class="Highlight3">moderatamente</span>.<br><i>I vantaggi al campo visivo non sono accumulabili.</i><br><span class="FlavorText">"È l'ora della terapia!·- Il Dottore</span>
+Approccio meticoloso condito da un'applicazione terrificante.<br>Durante un inseguimento, il tuo raggio di terrore aumenta di <span class="Highlight1">6 metri</span>. Altrimenti, il tuo raggio di terrore diminuisce di <span class="Highlight2">6 metri</span> e il tuo campo visivo cresce <span class="Highlight3">leggermente</span>.<br><i>I vantaggi al campo visivo non sono accumulabili.</i><br><span class="FlavorText">"È l'ora della terapia!·- Il Dottore</span>
+Sorveglianza e sevizia
 Un legame sovrannaturale ti collega al killer. Se guardi nella direzione del killer, questo legame vi rivelerà l'un l'altro le vostre aure. Questo effetto si applica solamente se ti trovi al di fuori del raggio di terrore del killer.<br>Se sei l'ossessione del killer, questo effetto si applica fino a un raggio massimo di <span class="Highlight1">72 metri</span>. Altrimenti si applica fino a un raggio massimo di <span class="Highlight1">64 metri</span>.<br><i>Aumenta le tue probabilità di diventare l'<b>ossessione</b> del killer. Una sola ossessione per partita.</i><br><span class="FlavorText">"Mi stava guardando!" Un legame sovrannaturale ti collega al killer. Se guardi nella direzione del killer, questo legame vi rivelerà l'un l'altro le vostre aure. Questo effetto si applica solamente se ti trovi al di fuori del raggio di terrore del killer.<br>Se sei l'ossessione del killer, questo effetto si applica fino a un raggio massimo di <span class="Highlight1">64 metri</span>. Altrimenti si applica fino a un raggio massimo di <span class="Highlight1">56 metri</span>.<br><i>Aumenta le tue probabilità di diventare l'<b>ossessione</b> del killer. Una sola ossessione per partita.</i><br><span class="FlavorText">"Mi stava guardando!" Un legame sovrannaturale ti collega al killer. Se guardi nella direzione del killer, questo legame vi rivelerà l'un l'altro le vostre aure. Questo effetto si applica solamente se ti trovi al di fuori del raggio di terrore del killer.<br>Se sei l'ossessione del killer, questo effetto si applica fino a un raggio massimo di <span class="Highlight1">56 metri</span>. Altrimenti si applica fino a un raggio massimo di <span class="Highlight1">44 metri</span>.<br><i>Aumenta le tue probabilità di diventare l'<b>ossessione</b> del killer. Una sola ossessione per partita.</i><br><span class="FlavorText">"Mi stava guardando!" Oggetto dell'Ossessione
 Rafforza il potenziale dell'abilità di lettura dell'aura. Aumenta il raggio di lettura dell'aura di <span class="Highlight1">8 metri</span>.<br><span class="FlavorText">"Fare attenzione è la prima regola da rispettare per sopravvivere. Naturalmente, avere un aspetto come il mio non guasta." - Ace</span>
 Rafforza il potenziale dell'abilità di lettura dell'aura. Aumenta il raggio di lettura dell'aura di <span class="Highlight1">6 metri</span>.<br><span class="FlavorText">"Fare attenzione è la prima regola da rispettare per sopravvivere. Naturalmente, avere un aspetto come il mio non guasta." - Ace</span>
 Rafforza il potenziale dell'abilità di lettura dell'aura. Aumenta il raggio di lettura dell'aura di <span class="Highlight1">4 metri</span>.<br><span class="FlavorText">"Fare attenzione è la prima regola da rispettare per sopravvivere. Naturalmente, avere un aspetto come il mio non guasta." - Ace</span>
 Carte scoperte
+Presenza sovrastante
+Basta la tua presenza per far recitare le ultime preghiere. I sopravvissuti all'interno del tuo raggio di terrore sono soggetti a <b>Inefficienza</b>.<br>Il tasso di logoramento degli oggetti dei sopravvissuti colpiti aumenta del <span class="Highlight1">50%</span>.<br><span class="FlavorText">"Merda, ho perso le garze!"</span>
+Basta la tua presenza per far recitare le ultime preghiere. I sopravvissuti all'interno del tuo raggio di terrore sono soggetti a <b>Inefficienza</b>.<br>Il tasso di logoramento degli oggetti dei sopravvissuti colpiti aumenta del <span class="Highlight1">45%</span>.<br><span class="FlavorText">"Merda, ho perso le garze!"</span>
+Basta la tua presenza per far recitare le ultime preghiere. I sopravvissuti all'interno del tuo raggio di terrore sono soggetti a <b>Inefficienza</b>.<br>Il tasso di logoramento degli oggetti dei sopravvissuti colpiti aumenta del <span class="Highlight1">40%</span>.<br><span class="FlavorText">"Merda, ho perso le garze!"</span>
 Diventi <b>ossessionato</b> da uno dei sopravvissuti.<br>Ogni volta che insegui la tua ossessione e te la lasci scappare, ricevi un token fino a un massimo di 3. Ogni token aumenta la tua velocità di movimento del <span class="Highlight1">5%</span>. Ogni azione offensiva utilizza un token.<br><i>Una sola ossessione per partita.</i><br><span class="FlavorText">Diventi <b>ossessionato</b> da uno dei sopravvissuti.<br>Ogni volta che insegui la tua ossessione e te la lasci scappare, ricevi un token fino a un massimo di 3. Ogni token aumenta la tua velocità di movimento del <span class="Highlight1">4%</span>. Ogni azione offensiva utilizza un token.<br><i>Una sola ossessione per partita.</i><br><span class="FlavorText">Diventi <b>ossessionato</b> da uno dei sopravvissuti.<br>Ogni volta che insegui la tua ossessione e te la lasci scappare, ricevi un token fino a un massimo di 3. Ogni token aumenta la tua velocità di movimento del <span class="Highlight1">3%</span>. Ogni azione offensiva utilizza un token.<br><i>Una sola ossessione per partita.</i><br><span class="FlavorText">Gioca con il tuo cibo
+Diventi <b>ossessionato</b> da un sopravvissuto. Finché la tua ossessione persiste, dopo un inseguimento di <span class="Highlight1">20 secondi</span>, il tempo di ricarica del tuo prossimo attacco riuscito diminuisce del <span class="Highlight2">40%</span>. Il tempo di ricarica degli attacchi sferrati con successo resta attivo per <span class="Highlight3">5 secondi</span> dal termine dell'inseguimento. Iniziare un nuovo inseguimento prima dello scadere dei <span class="Highlight3">5 secondi</span> ripristinerà il tempo di ricarica degli attacchi riusciti.<i>Una sola ossessione per partita.</i>.<br><span class="FlavorText">"La morte è arrivata nella tua cittadina, sceriffo." - Dott. Sam Loomis</span>
+Diventi <b>ossessionato</b> da un sopravvissuto. Finché la tua ossessione persiste, dopo un inseguimento di <span class="Highlight1">20 secondi</span>, il tempo di ricarica del tuo prossimo attacco riuscito diminuisce del <span class="Highlight2">35%</span>. Il tempo di ricarica degli attacchi sferrati con successo resta attivo per <span class="Highlight3">5 secondi</span> dal termine dell'inseguimento. Iniziare un nuovo inseguimento prima dello scadere dei <span class="Highlight3">5 secondi</span> ripristinerà il tempo di ricarica degli attacchi riusciti.<i>Una sola ossessione per partita.</i>.<br><span class="FlavorText">"La morte è arrivata nella tua cittadina, sceriffo." - Dott. Sam Loomis</span>
+Diventi <b>ossessionato</b> da un sopravvissuto. Finché la tua ossessione persiste, dopo un inseguimento di <span class="Highlight1">20 secondi</span>, il tempo di ricarica del tuo prossimo attacco riuscito diminuisce del <span class="Highlight2">30%</span>. Il tempo di ricarica degli attacchi sferrati con successo resta attivo per <span class="Highlight3">5 secondi</span> dal termine dell'inseguimento. Iniziare un nuovo inseguimento prima dello scadere dei <span class="Highlight3">5 secondi</span> ripristinerà il tempo di ricarica degli attacchi riusciti.<i>Una sola ossessione per partita.</i>.<br><span class="FlavorText">"La morte è arrivata nella tua cittadina, sceriffo." - Dott. Sam Loomis</span>
 Conserva il meglio per la fine
 Man mano che i tuoi amici cadono per mano del killer, le tue probabilità di sopravvivenza aumentano a causa di una forza inspiegabile. Ogni sopravvissuto ucciso o sacrificato blocca l'abilità di lettura dell'aura del killer solo per la tua aura. <br><li>1 o più vittime uccise o sacrificate: riducono il campo di lettura dell'aura del killer del <span class="Highlight1">50%</span>.</li><li>2 o più vittime uccise o sacrificate: riducono il campo di lettura dell'aura del killer del <span class="Highlight2">75%</span>.</li><li>3 o più vittime uccise o sacrificate: ti rendono <span class="Highlight3">immune</span> all'abilità di lettura dell'aura del killer.</li><br><i>Aumenta le tue probabilità di diventare l'<b>ossessione</b> del killer. Una sola ossessione per partita.</i><br><span class="FlavorText">Man mano che i tuoi amici cadono per mano del killer, le tue probabilità di sopravvivenza aumentano a causa di una forza inspiegabile. Ogni sopravvissuto ucciso o sacrificato blocca l'abilità di lettura dell'aura del killer solo per la tua aura.<br><li>1 o più vittime uccise o sacrificate: riducono il campo di lettura dell'aura del killer del <span class="Highlight1">35%</span>.</li><li>2 o più vittime uccise o sacrificate: riducono il campo di lettura dell'aura del killer del <span class="Highlight2">60%</span>.</li><li>3 o più vittime uccise o sacrificate: riducono il campo di lettura dell'aura del killer dell'<span class="Highlight3">85%</span>.</li><br><i>Aumenta le tue probabilità di diventare l'<b>ossessione</b> del killer. Una sola ossessione per partita.</i><br><span class="FlavorText">Man mano che i tuoi amici cadono per mano del killer, le tue probabilità di sopravvivenza aumentano a causa di una forza inspiegabile. Ogni sopravvissuto ucciso o sacrificato blocca l'abilità di lettura dell'aura del killer solo per la tua aura.<br><li>1 o più vittime uccise o sacrificate: riducono il campo di lettura dell'aura del killer del <span class="Highlight1">40%</span>.</li><br><i>Aumenta le tue probabilità di diventare l'<b>ossessione</b> del killer. Una sola ossessione per partita.</i><br><span class="FlavorText">Unico Sopravvissuto
+La precisione e l'efficacia nelle manutenzioni sono il tuo marchio di fabbrica.<br>Il rumore prodotto dalle tue riparazioni e la distanza a cui può essere sentito sono ridotti di <span class="Highlight2">8 metri</span>. Se fallisci un Test Abilità, le possibilità che il generatore non esploda sono del <span class="Highlight1">50%</span>-<br><span class="FlavorText">"Sarò furtiva come un ninja." - Feng Min</span>
+La precisione e l'efficacia nelle manutenzioni sono il tuo marchio di fabbrica.<br>Il rumore prodotto dalle tue riparazioni e la distanza a cui può essere sentito sono ridotti di <span class="Highlight2">4 metri</span>. Se fallisci un Test Abilità, le possibilità che il generatore non esploda sono del <span class="Highlight1">40%</span>-<br><span class="FlavorText">"Sarò furtiva come un ninja." - Feng Min</span>
+La precisione e l'efficacia nelle manutenzioni sono il tuo marchio di fabbrica.<br>Se fallisci un Test Abilità, le possibilità che il generatore non esploda sono del <span class="Highlight1">30%</span>-<br><span class="FlavorText">"Sarò furtiva come un ninja." - Feng Min</span>
+Tecnico
 Tutto andrà bene alla fine; te lo senti.  La tua sicurezza rafforza il sentimento di speranza di coloro che ti circondano. Per ogni altro sopravvissuto ancora in vita, conferisce un <span class="Highlight1">3%</span> di bonus alla speranza di tutti i sopravvissuti rimanenti.<br><span class="FlavorText">"Cosa posso dire? Sono solo un ragazzo molto fortunato... Sono sicuro che ne resterai in parte contagiato." - Ace</span>
 Tutto andrà bene alla fine; te lo senti.  La tua sicurezza rafforza il sentimento di speranza di coloro che ti circondano. Per ogni altro sopravvissuto ancora in vita, conferisce un <span class="Highlight1">2%</span> di bonus alla speranza di tutti i sopravvissuti rimanenti.<br><span class="FlavorText">"Cosa posso dire? Sono solo un ragazzo molto fortunato... Sono sicuro che ne resterai in parte contagiato." - Ace</span>
 Tutto andrà bene alla fine; te lo senti.  La tua sicurezza rafforza il sentimento di speranza di coloro che ti circondano. Per ogni altro sopravvissuto ancora in vita, conferisce un <span class="Highlight1">1%</span> di bonus alla speranza di tutti i sopravvissuti rimanenti.<br><span class="FlavorText">"Cosa posso dire? Sono solo un ragazzo molto fortunato... Sono sicuro che ne resterai in parte contagiato." - Ace</span>
 Alza la Posta
+Dono o maledizione? L'Entità ha fatto scoccare una scintilla corrotta e inesauribile nel cuore del Dottore che gli permette di generare scariche di elettroshock a piacere. La sua insidiosa terapia corrompe le menti con cui viene in contatto. Le vittime, scioccate dalla scintilla corrotta, iniziano a perdere il contatto con la realtà. Se esposte troppo a questa pratica perversa, è solo questione di tempo prima che perdano del tutto il senno.<br><li>Conferisce l'abilità di alternare <b>Punizione</b> e <b>Terapia</b>.</li><li>Durante la <b>Terapia</b>, genera un campo statico in base al tuo raggio di terrore, che aumenta la <b>Pazzia</b> del sopravvissuto in relazione alla sua vicinanza al Dottore.</li><li>La <b>Terapia</b> garantisce l'abilità di caricare e scagliare l'attacco <b>Terapia d'urto</b>, incrementando a dismisura la <b>Pazzia</b> del sopravvissuto.</li><li>I sopravvissuti con <b>Pazzia 1, 2 e 3</b> gridano, rivelando la propria posizione al Dottore.</li><li><b>I sopravvissuti con Pazzia 2</b> e <b>3</b> vedono allucinazioni del Dottore, visibili da quest'ultimo sotto forma di <b>aura</b>.</li><li>I sopravvissuti con <b>Pazzia 3</b> gridano costantemente, rivelando la propria posizione al Dottore.</li><li>I sopravvissuti con <b>Pazzia 3</b> non possono interagire finché non riacquistano il senno tramite <b>Assennamento</b>.</li><li>Nuovi accessori rendono disponibili più <b>sofferenze</b>.</li>
+Scintilla di Carter
+Scintilla di Carter
+Scintilla di Carter
 Fonte del potere della Strega, un dito annerito usato come catalizzatore per il suo terribile potere. La Strega piega e modella il fango a suo piacimento. Con semplici disegni rituali, crea ingannevoli copie di se stessa con fango e resti in decomposizione che può utilizzare per vari scopi.<br><li>Conferisce l'abilità di creare e mantenere <b>10</b> trappole Fantasma.</li><li> Conferisce l'abilità di spostarsi istantaneamente verso i fantasmi innescati in un raggio di <b>32 metri</b>.</li>
 Catalizzatore annerito
 Le tenebre interiori alimentano la sua determinazione nel togliere la vita alla sua preda. Attivando Malvagità Innata, L'Ombra riesce a vedere chiaramente le sue prede e a ottenere più potere malvagio perseguitandole. Malvagità Innata ha 3 livelli di potere, ciascuno con i propri vantaggi:<br><br>MALVAGITÀ INNATA I: Diminuisce Straordinariamente il Raggio di Terrore. Conferisce immunità alle competenze di individuazione. Diminuisce leggermente la velocità di movimento. Diminuisce leggermente l'affondo.<br><br>MALVAGITÀ INNATA II: Diminuisce Moderatamente il Raggio di Terrore. Aumenta leggermente la velocità di movimento. Aumenta leggermente l'affondo.<br><br>MALVAGITÀ INNATA III: Raggio di Terrore Normale. Gli attacchi infliggono danni doppi. Malvagità Innata III dura 60 secondi, dopo i quali il suo potere si esaurisce considerevolmente.<br><span class="FlavorText">Malvagità Innata
@@ -1195,6 +1331,8 @@ I RICOMPENSA REPUTAZIONE
 I RICOMPENSA REPUTAZIONE
 I RICOMPENSA REPUTAZIONE
 I RICOMPENSA REPUTAZIONE
+I RICOMPENSA REPUTAZIONE
+I RICOMPENSA REPUTAZIONE
 II RICOMPENSA REPUTAZIONE
 II RICOMPENSA REPUTAZIONE
 II RICOMPENSA REPUTAZIONE
@@ -1209,6 +1347,10 @@ II RICOMPENSA REPUTAZIONE
 II RICOMPENSA REPUTAZIONE
 II RICOMPENSA REPUTAZIONE
 II RICOMPENSA REPUTAZIONE
+II RICOMPENSA REPUTAZIONE
+II RICOMPENSA REPUTAZIONE
+III RICOMPENSA REPUTAZIONE
+III RICOMPENSA REPUTAZIONE
 III RICOMPENSA REPUTAZIONE
 III RICOMPENSA REPUTAZIONE
 III RICOMPENSA REPUTAZIONE
@@ -1268,6 +1410,7 @@ Jeans Confortevoli
 Venerazione Reliquie
 Ripara
 Ripara l'equivalente di {1} generatore/i con carica completa.
+Velocità di riparazione
 Riparazioni
 Salva {1} sopravvissuto/i dal gancio con {0}.
 Determinazione
@@ -1282,6 +1425,9 @@ Guanti di Gomma
 Gomma e Ganci
 Catena Arrugginita
 Colpo bonus
+Bonus all'attacco
+Scioccato
+Aumento livello Pazzia
 Trappola innescata
 Posiziona trappola
 Attacco Fantasma
@@ -1291,6 +1437,7 @@ Protezione
 Protezione
 Stalker
 Malvagità Innata
+Feng Min
 Ace Visconti
 William "Bill" Overbeck
 Laurie Strode
@@ -1299,6 +1446,7 @@ Sabotaggio (Cassetta degli Attrezzi)
 Sabotaggio Trappola (Sabotatore)
 Sabotaggio Trappola (Cassetta degli Attrezzi)
 Sabota l'equivalente di {1} gancio/i completo/i.
+Velocità di sabotaggio
 Sabotatore
 Sacrificio
 Sacrificio
@@ -1321,6 +1469,7 @@ Attrezzatura per Installazioni
 Nato per le Tenebre
 Jake Baffo a Manubrio
 Rifugi Boschivi
+Terapia d'urto
 Lubrificante da Officina
 Targa Distrutta
 Corona dell'Averla
@@ -1329,6 +1478,7 @@ Sudario della Separazione
 Sudario dell'Unione
 Pagina di Libro Mastro Firmata
 Chiave Universale
+Abilità
 Abbigliamento Casual da Mattatoio
 Carne Sfuggente
 Macellaio Approssimativo
@@ -1338,6 +1488,7 @@ Qualcuno ha dipinto velocemente su questo pezzo di corteccia quelle che sembrano
 Candela
 Attrezzi specialistici progettati per installare velocemente e senza sforzo le Trappole per Orsi.<br><li><b>Diminuisce considerevolmente</b> il tempo di posa delle Trappole per Orsi.</li><li>Subisce l'effetto della competenza Mastro Ferraio.</li><li>Si applica a qualunque tipo di trappola per orsi.</li><li>Cumulabile.</li>
 Limitatore di Velocità
+Velocità
 Spie dalle Tenebre
 Stivali con Borchie
 Brivido di Paura
@@ -1370,10 +1521,19 @@ Sopravvissuto
 Trovato sopravvissuto
 Pantaloni della Tuta
 Sacchetto di Garofano dei Poeti
+Passa a Punizione
+Passa a Terapia
 COMPETENZE TRASFERIBILI
 LA TELA SANGUINARIA
 L'ENTITÀ
 Lente a Riflessione Interna Totale
+Potere: <b>Scintilla di Carter</b><br><li>Garantisce l'abilità di alternare <b>Punizione</b> e <b>Terapia</b>.</li><li>Usa la <b>Terapia</b> per sviluppare la <b>Pazzia</b> dei sopravvissuti.</li><li>Durante la <b>Terapia</b>, genera un campo statico in base al tuo raggio di terrore, che aumenta la <b>Pazzia</b> del sopravvissuto in relazione alla sua vicinanza al Dottore.</li><li>I sopravvissuti con <b>Pazzia 1, 2 e 3</b> gridano, rivelando la propria posizione al Dottore.</li><li>I sopravvissuti con <b>Pazzia 2</b> e <b>3</b> vedono allucinazioni del Dottore.</li><li>I sopravvissuti con <b>Pazzia 3</b> gridano costantemente, rivelando la propria posizione al Dottore.</li><li>I sopravvissuti con <b>Pazzia 3</b> non possono interagire finché non riacquistano il senno tramite <b>Assennamento</b>.</li><li>Nuovi accessori rendono disponibili più <b>sofferenze</b>.</li><br><li>Competenze trasferibili: <b>Presenza sovrastante, Sorveglianza e sevizia, Sovraccarico</b>.</li>
+Arma: <b>artigli</b><br>Potere: <b>Catalizzatore annerito</b><br><li>Garantisce l'abilità di creare e mantenere <b>10 trappole Fantasma</b>.<li>Garantisce l'abilità di spostarsi istantaneamente verso i fantasmi innescati in un raggio di 32 metri.</li><li>I sopravvissuti che entreranno nell'area della trappola faranno apparire un fantasma della Strega che li disorienterà.</li><br>Competenze trasferibili: <b>Maledizione: Divora Speranza, Maledizione: Rovina, Maledizione: Il Terzo Sigillo</b>
+Arma: <b>battitore per bestiame</b><br>Potere: <b>motosega</b><br><li>Genera uno scatto sfrenato all'attivazione.</li><li>Capacità di manovra limitate durante lo scatto.</li><li>Attiva automaticamente lo stato di fin di vita a colpo riuscito.</li><br>Competenze trasferibili: <b>Mastro Ferraio, Resistente alla Luce, Resistente</b>.
+Arma:<b>coltello da cucina</b><br>Potere:<b>Malvagità Innata</b><br><li>Perseguita i sopravvissuti e aumenta la <b>Malvagità Innata</b>.<li><b>La Malvagità Innata</b> comprende 3 livelli unici che influiscono sull'abilità di cacciare i sopravvissuti (vedi Equipaggiamento per maggiori dettagli).</li><li>I sopravvissuti sono contraddistinti dal colore rosso quando la loro <b>Malvagità Innata</b> raggiunge il massimo.</li><br>Competenze trasferibili: <b>Conserva il meglio per la fine, Luce morente, Gioca con il tuo cibo</b>.
+Arma: <b>segaossa</b><br>Potere: <b>Ultimo Respiro di Spencer</b><br><li>Può eseguire un <b>Battito di Ciglia</b> due volte prima di affaticarsi</li><li><b>Battito di Ciglia</b> fino a <b>20 metri</b> all'attivazione</li><li>Può eseguire un <b>Battito di Ciglia letale</b> dopo uno normale.</li><br>Competenze trasferibili: <b>Stridore, Tanatofobia, Vocazione di un'Infermiera.</b>
+Arma: <b>mannaia</b><br>Potere: <b>Trappola per Orsi</b><br><li>Posiziona delle <b>Trappole per Orsi</b> per immobilizzare e ferire i malcapitati.</li><li>Comincia una partita con <b>1 Trappola per Orsi</b>.</li><li>5 <b>Trappole per Orsi</b> disponibili in luoghi casuali sulla mappa.</li><br>Competenze trasferibili: <b>Forza Brutale, Agitazione, Presenza Inquietante.</b>
+Arma: <b>ascia di Azarov</b><br>Potere: <b>Campana del Pianto</b><br><li>Garantisce un'invisibilità quasi totale.</li><li>Movimenti più veloci quando invisibile.</li><br>Competenze trasferibili: <b>Nato per le Tenebre, Predatore, Segugio</b>.
 Corona dei Traupidi
 Bottiglia di Catrame
 Moneta Ossidata
@@ -1512,6 +1672,8 @@ Salta
 Olio Vegetale
 Sudario di Vigo
 Targa della Virginia
+Vista
+Tenacia
 Campana del Pianto
 Campana del Pianto
 Sono le proprietà di impermeabilità, traspirazione e tenuta che rendono questa giacca così eccezionale.
@@ -1763,6 +1925,7 @@ Rito dell'Ultimo Respiro
 Battito di Ciglia preciso
 Battito di Ciglia letale
 Battito di Ciglia a sorpresa
+ACCETTA
 RICEVUTO!
 APPLICA MODIFICHE
 INDIETRO
@@ -1778,6 +1941,7 @@ CREA UNA LOBBY
 RICONOSCIMENTI
 PERSONALIZZA
 RITUALI GIORNALIERI
+RIFIUTA
 ABBANDONA PARTY
 EXTRA
 VAI ALLA LOBBY
@@ -1802,6 +1966,7 @@ APRI MENU
 GIOCA
 GIOCA COME KILLER
 GIOCA COME SOPRAVVISSUTO
+PREMI UN PULSANTE QUALSIASI
 PREMI UN TASTO QUALUNQUE
 PRECEDENTE
 PARTITA PRIVATA
@@ -1814,6 +1979,7 @@ RIGENERA TELA
 RIMUOVI RITUALE
 RIPRISTINA PREDEFINITI
 RITORNA ALLA LOBBY
+SALVA E CHIUDI
 SCORRI LISTA
 IMPOSTAZIONI E COMANDI
 RELIQUIARIO
@@ -1824,6 +1990,7 @@ CONFERMA
 SOPRAVVIVI CON DEGLI AMICI
 SOPRAVVISSUTO
 TUTORIAL SOPRAVVISSUTO
+SOPRAVVISSUTI
 CAMBIA RUOLO
 PASSA A KILLER
 PASSA A SPETTATORE
@@ -1850,6 +2017,7 @@ TELA SANGUINARIA
 CORAGGIO
 POTENZIAMENTI PERDUTI
 BRUTALITÀ
+SENSIBILITÀ TELECAMERA
 PERSONAGGIO
 COMPETENZE PERSONAGGIO
 PERSONAGGI
@@ -1967,6 +2135,7 @@ RELIQUIARIO DEI SEGRETI SI AGGIORNERÀ TRA
 SLOT BLOCCATO
 STATUS
 SOPRAVVIVENZA
+SOPRAVVISSUTO
 RANGO<br>SOPRAVVISSUTO
 COMANDI SOPRAVVISSUTO
 VIDEO TUTORIAL SOPRAVVISSUTO
@@ -2026,12 +2195,11 @@ Ricompensa
 <li>Possono giocare da 2 a 5 giocatori.</li><li>Tutti i giocatori possono cambiare il proprio ruolo nella lobby.</li><li>La partita avrà inizio quando ci sarà un solo killer, né uno di più, né uno di meno!</li><li>Oggetti, accessori, competenze e offerte ottenute in altre modalità di gioco, non verranno perse e potranno essere utilizzate.</li><li>Non potranno essere ottenuti Punti Sangue.</li><li>Non potranno essere ottenuti oggetti, accessori e offerte.</li><li>Non potrai migliorare o peggiorare il tuo rango.</li>
 Una nuova stagione sta per cominciare. Il tuo rango sarà azzerato:
 È ora disponibile una nuova versione del gioco. Devi aggiornare il tuo client per usare le funzionalità di rete.
-È necessario un profilo con accesso a Xbox Live.
 LIMITI DI ETÀ
 APPLICAZIONE SOSPESA
-DISPONIBILE SU PlayStation®Store!
+DISPONIBILE SU PLAYSTATION®STORE!
 DISPONIBILE NEL NEGOZIO STEAM!
-DISPONIBILE SU XBOX GAMES STORE!
+DISPONIBILE SU XBOX STORE!
 Accedi ai tutorial in qualunque momento premendo il tasto [ESC] della tastiera e selezionando la voce Aiuto dalla lista delle opzioni.
 Stabilisce se il gioco verrà visualizzato in modalità schermo intero o finestra.
 Già in tuo possesso. Acquista di nuovo e ricevi:
@@ -2046,6 +2214,7 @@ Regola automaticamente la risoluzione in accordo con il frame rate.
 Disponibile su Steam
 BRUCIA {0}
 MATCHMAKING ANNULLATO
+IMPOSSIBILE CONNETTERSI AL NEGOZIO
 CLICCA QUI PER SPENDERE
 PUNTI SANGUE
 PROSSIMAMENTE
@@ -2054,6 +2223,8 @@ ERRORE DI CONNESSIONE
 ERRORE DI CONNESSIONE
 LOBBY CREATA
 Calibra la stereofonia (bilanciamento audio) per cuffie o altoparlanti.
+Impossibile connettersi ai servizi online. Riprova più tardi.
+Impossibile recuperare la lista dei contenuti disponibili. Riprova più tardi.
 Non è possibile cominciare con {0} killer.
 Cambia la lingua del gioco. <FONT COLOR="#dd0000">Il gioco dovrà essere riavviato affinché il cambiamento abbia effetto.</FONT>
 Clicca qui per chattareCompleta i rituali e l'Entità ti ricompenserà.
@@ -2064,6 +2235,7 @@ Riconoscimenti
 RITUALI GIORNALIERI
 Sfide giornaliere con Punti Sangue in palio.
 Rituali giornalieri
+I server di Dead By Daylight non sono al momento disponibili. Riprova più tardi.
 Stabilisce se l'audio verrà disattivato quando la finestra di gioco non è attiva.
 Determina la risoluzione di gioco. <FONT COLOR="#dd0000">Non può essere variata in caso di funzione di Autoregolazione attiva.</FONT>
 Disconnesso dal server
@@ -2093,6 +2265,7 @@ Aumentando il livello di reputazione della tua Tela Sanguinaria, otterrai i segu
 Inverte il controllo sull'asse Y.
 ERRORE ACCESSO A PARTITA
 ERRORE ACCESSO A LOBBY
+ERRORE ACCESSO A LOBBY
 SEI ENTRATO/A NELLA LOBBY
 Accesso alla partita privata rifiutato
 Espulso dal server
@@ -2112,9 +2285,9 @@ NUOVO EVENTO
 NUOVA VERSIONE DISPONIBILE
 NESSUNA PARTITA TROVATA
 CONNESSIONE DI RETE ASSENTE
+CONNESSIONE DI RETE ASSENTE
 Novità
 Le ultime notizie, i post degli sviluppatori e le info sulle patch.
-ERRORE STATO ONLINE
 INFORMAZIONI SULLA PATCH
 PATCH NECESSARIA
 REPUTAZIONE {0}
@@ -2131,11 +2304,14 @@ SEGNALA
 RIPRISTINA PREDEFINITI
 VUOI TORNARE ALLA LOBBY?
 Segnalazioni rimanenti: 
+Ripristinare le associazioni di tutti i pulsanti ai valori predefiniti?
+Ripristinare le associazioni di tutti i tasti e pulsanti ai valori predefiniti?
 ERRORE DI SALVATAGGIO
 RICERCA PARTITE
 FINE STAGIONE
 SELEZIONA CATEGORIA
 FONTE:
+SPENDI PUNTI SANGUE
 SOPRAVVISSUTO IN FUGA
 AGGIORNAMENTO SISTEMA NECESSARIO
 Scrivi:
@@ -2149,7 +2325,7 @@ Invita gli amici a sopravvivere a un killer sconosciuto nelle partite classifica
 Sopravvivi con gli amici
 L'HOST HA ABBANDONATO LA PARTITA
 TUTORIAL
-Sensibilità controller per rotazione camera.
+Sensibilità per rotazione camera.
 Inizializzazione del gioco non corretta. I tuoi progressi di gioco potrebbero non essere salvati in modo appropriato. Si prega di riavviare il gioco.
 La partita a cui vuoi partecipare non è più disponibile.
 Sensibilità mouse per rotazione camera.
@@ -2165,7 +2341,6 @@ Attenzione
 Non puoi accedere a una lobby mentre cerchi una partita.
 Sei stato disconnesso dal server per un problema di validazione del tuo account attraverso EasyAntiCheat (codice d'errore {0}).
 Sei stato disconnesso dal server per un problema di verifica e autenticazione del tuo account Steam (codice d'errore {0}).
-Non sei più nel tuo profilo attuale.
 Sei stato disconnesso dal server per un problema di validazione dell'account dell'host attraverso EasyAntiCheat (codice d'errore {0}).
 Sei stato disconnesso dal server per un problema di verifica e autenticazione dell'account Steam dell'host (codice d'errore {0}).
 Sembra che tu abbia problemi di connessione. Fai attenzione, perché frequenti disconnessioni potranno comportare sanzioni aggravate
@@ -2181,8 +2356,10 @@ ALTA
 BASSA
 MEDIA
 ULTRA
+Manufatto
 Comune
 Raro/a
+Spettrale
 Trasferibile
 Ultra raro/a
 Non comune

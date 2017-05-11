@@ -74,7 +74,18 @@ Oily Coil
 Rusted Jaws
 Stitched Bag
 Trap Setters
-Add-ons Add-ons Add-ons Adrenaline
+Add-ons Add-ons Add-ons "Calm" - Class II
+"Calm" - Class I
+""Restraint" - Class III
+"Restraint" - Class II
+""Discipline" - Class III
+"Discipline" - Class II
+"High Stimulus Electrode
+Moldy Electrode
+"Order" - Class II
+"Order" - Class I
+"Polished Electrode
+"Adrenaline
 Agitation
 Anti-Hemorrhagic Syringe
 Ardent Raven Wreath
@@ -147,6 +158,16 @@ Electric Jacket
 Legacy Claudette 3
 Legacy Claudette 2
 Legacy Claudette 1
+Doctor's Coat
+Bloody Doctor's Coat
+Strapped in his electroconvulsive gear, The Doctor is forever forced in a maniacal grin.
+Strapped in his electroconvulsive gear, The Doctor has no choice but to get blood all over...eyes and mouth included.
+Strapped in his electroconvulsive gear, The Doctor has no choice but to get blood all over...eyes and mouth included.
+An instrument of punishment when all other treatments failed.
+The Stick
+An instrument of punishment when all other treatment failed. They often do.
+An instrument of punishment when all other treatment failed. They often do.
+The Bloody Stick
 Awarded to the winner of the PandaTV tournament only
 The Golden Shirt
 Awarded to all participants of the PandaTV tournament
@@ -160,6 +181,27 @@ Surf Tones
 Legacy Dwight 3
 Legacy Dwight 2
 Legacy Dwight 1
+Short shorts showing off the flashy Lazer Bears' colors.
+Lazer shorts
+Short shorts with the flashy Lazer Bears' colors under a thick layer of blood.
+Short shorts with the flashy Lazer Bears' colors under a thick layer of blood.
+Bloody Lazer Shorts
+Common track pants complimented by flashy silver sneakers.
+Soft Track Pants
+A highly focused and competitive young woman. She's in it to win it.
+Feng Min
+A highly focused and competitive young woman...covered in blood.
+A highly focused and competitive young woman...covered in blood.
+Bloody Feng Min
+A relaxed hairdo when spending time away from the cameras.
+Relaxed Bun
+Lazer Bears' official polo shirt for the 2016 e-sports tournament.
+Lazer Bears tournament polo
+Nothing like a blood smeared polo shirt to intimidate the competition. 
+Nothing like a blood smeared polo shirt to intimidate the competition. 
+Bloody Lazer Bears
+A comfy and soft wool wrap that keeps you warm and cozy on rainy afternoons.
+Day Off Wrap
 Dull Hammer
 Ripped jeans
 White stitch jeans
@@ -322,6 +364,7 @@ Jake
 Jake Park
 Jeans Tucked into Riding Boots
 Jogging Hoodie
+The Doctor
 The Shape
 Key
 Key
@@ -370,13 +413,17 @@ Bound Envelope
 Cream Chalk Pouch
 Cut Coin
 Decrepit Clapboard
+Emergency Certificate
 <b><b><b>Harvest Festival Leaflet
 Ivory Chalk Pouch
 Vigo's Jar of Salty Lips
+Psychiatric Assessment Report
 Putrid Oak
 Rotten Oak
 Salt Pouch
+Shattered Glasses
 Shiny Coin
+Shock Splinter
 <b>Strode Realty Key
 Odd Stamp
 Perk Perk Perk You are fueled by unexpected energy when on the verge of escape. <span class="Highlight1">Instantly heal from injury</span> and sprint at <span class="Highlight2">150%</span> your normal running speed for <span class="Highlight3">5 seconds</span> when the exit gates are powered. Adrenaline does not apply if you are disabled at the moment it should take effect.<br><i>Adrenaline</i> ignores <b>Exhaustion</b>.<br>Causes <b>Exhaustion</b> for <span class="Highlight4">50 seconds</span>.
@@ -390,16 +437,31 @@ The growing odds of a successful escape fill you with hope and give you wings. Y
 When starting to run, break into a sprint at <span class="Highlight1">150%</span> your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <br>Causes <b>Exhaustion</b> for <span class="Highlight3">40 seconds</span>.<br><i>Sprint Burst</i> cannot be used while <b>Exhausted</b>.
 When starting to run, break into a sprint at <span class="Highlight1">150%</span> your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <br>Causes <b>Exhaustion</b> for <span class="Highlight3">50 seconds</span>.<br><i>Sprint Burst</i> cannot be used while <b>Exhausted</b>.
 When starting to run, break into a sprint at <span class="Highlight1">150%</span> your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>.<br>Causes <b>Exhaustion</b> for <span class="Highlight3">60 seconds</span>.<br><i>Sprint Burst</i> cannot be used while <b>Exhausted</b>.
+Your acute senses are on high alert.<br>When the Killer performs the break action within a <span class="Highlight1">36 meter</span> range, the killer is revealed to you for <span class="Highlight2">3 seconds</span>.<br>This effect can only be triggered once every <span class="Highlight3">30 seconds</span>.<br><span class="FlavorText">Your acute senses are on high alert.<br>When the Killer performs the break action within a <span class="Highlight1">24 meter</span> range, the killer is revealed to you for <span class="Highlight2">3 seconds</span>.<br>This effect can only be triggered once every <span class="Highlight3">45 seconds</span>.<br><span class="FlavorText">Your acute senses are on high alert.<br>When the Killer performs the break action within a <span class="Highlight1">12 meter</span> range, the killer is revealed to you for <span class="Highlight2">3 seconds</span>.<br>This effect can only be triggered once every <span class="Highlight3">60 seconds</span>.<br><span class="FlavorText">Alert
 Decisive Strike
 Dying light
+You are fuelled by your hate for progress.<br>Overcharge a generator by performing the <b>Break Generator</b> action. The next survivor interacting with that generator is faced with a <span class="Highlight1">tremendously</span> difficult Skill Check. Failing the Skill Check results in an additional <span class="Highlight2">5%</span> generator regression.<br>Succeeding the Skill Check grants no progress but prevents the generator explosion.
+You are fuelled by your hate for progress.<br>Overcharge a generator by performing the <b>Break Generator</b> action. The next survivor interacting with that generator is faced with a <span class="Highlight1">considerably</span> difficult Skill Check. Failing the Skill Check results in an additional <span class="Highlight2">4%</span> generator regression.<br>Succeeding the Skill Check grants no progress but prevents the generator explosion.
+You are fuelled by your hate for progress.<br>Overcharge a generator by performing the <b>Break Generator</b> action. The next survivor interacting with that generator is faced with a <span class="Highlight1">moderately</span> difficult Skill Check. Failing the Skill Check results in an additional <span class="Highlight2">3%</span> generator regression.<br>Succeeding the Skill Check grants no progress but prevents the generator explosion.
+Overcharge
 A Hex rooting its power on hope. You are animated by the power of your Hex totem when the survivors are on the verge of escaping. Once the exit gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, successful attacks put survivors into the dying state automatically, cooldowns on successful and missed attacks are decreased by <span class="Highlight1">8%</span> and your movement speed is increased by <span class="Highlight2">4%</span>.<br>The hex effects persist as long as the related hex totem is standing.<br><span class="FlavorText">"And the beast became faster and more powerful as if the Entity's shadowy whips were lashing at its back."</span>
 A Hex rooting its power on hope. You are animated by the power of your Hex totem when the survivors are on the verge of escaping. Once the exit gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, cooldowns on successful and missed attacks are decreased by <span class="Highlight1">8%</span> and your movement speed is increased by <span class="Highlight2">4%</span>.<br>The hex effects persist as long as the related hex totem is standing.<br><span class="FlavorText">"And the beast became faster and more powerful as if the Entity's shadowy whips were lashing at its back."</span>
 A Hex rooting its power on hope. You are animated by the power of your Hex totem when the survivors are on the verge of escaping. Once the exit gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, cooldowns on successful and missed attacks are decreased by <span class="Highlight1">4%</span> and your movement speed is increased by <span class="Highlight2">3%</span>.<br>The hex effects persist as long as the related hex totem is standing.<br><span class="FlavorText">"And the beast became faster and more powerful as if the Entity's shadowy whips were lashing at its back."</span>
 Hex: No one escapes Death
+After performing a vault, break into a sprint at <span class="Highlight1">150%</span> of your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <i>Activates in chases only.</i><br>Causes <b>Exhaustion</b> for <span class="Highlight3">40 seconds</span>.<br><i>Lithe</i> cannot be used while Exhausted.<br><span class="FlavorText">After performing a vault, break into a sprint at <span class="Highlight1">150%</span> of your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <i>Activates in chases only.</i><br>Causes <b>Exhaustion</b> for <span class="Highlight3">50 seconds</span>.<br><i>Lithe</i> cannot be used while Exhausted.<br><span class="FlavorText">After performing a vault, break into a sprint at <span class="Highlight1">150%</span> of your normal running speed for a maximum of <span class="Highlight2">3 seconds</span>. <i>Activates in chases only.</i><br>Causes <b>Exhaustion</b> for <span class="Highlight3">60 seconds</span>.<br><i>Lithe</i> cannot be used while Exhausted.<br><span class="FlavorText">Lithe
+Meticulous in your approach, terrifying in your application.<br>While in a chase, your terror radius is increased by <span class="Highlight1">8 meters</span>. Otherwise your terror radius is decreased by <span class="Highlight2">8 meters</span> and your field of view is <span class="Highlight3">considerably</span> increased.<br><i>Field of view gains do not stack.</i><br><span class="FlavorText">"It's time for your treatment!" -The Doctor</span>
+Meticulous in your approach, terrifying in your application.<br>While in a chase, your terror radius is increased by <span class="Highlight1">7 meters</span>. Otherwise your terror radius is decreased by <span class="Highlight2">7 meters</span> and your field of view is <span class="Highlight3">moderately</span> increased.<br><i>Field of view gains do not stack.</i><br><span class="FlavorText">"It's time for your treatment!" -The Doctor</span>
+Meticulous in your approach, terrifying in your application.<br>While in a chase, your terror radius is increased by <span class="Highlight1">6 meters</span>. Otherwise your terror radius is decreased by <span class="Highlight2">6 meters</span> and your field of view is <span class="Highlight3">slightly</span> increased.<br><i>Field of view gains do not stack.</i><br><span class="FlavorText">"It's time for your treatment!" -The Doctor</span>
+Monitor & Abuse
 Object of Obsession
+Overwhelming Presence
+Your presence alone instills great fear. Survivors within your terror radius suffer from <b>inefficiency</b>.<br>Affected survivors' item consumption rates are increased by <span class="Highlight1">50%</span>.<br><span class="FlavorText">"Shit!! I dropped the gauze!"</span>
+Your presence alone instills great fear. Survivors within your terror radius suffer from <b>inefficiency</b>.<br>Affected survivors' item consumption rates are increased by <span class="Highlight1">45%</span>.<br><span class="FlavorText">"Shit!! I dropped the gauze!"</span>
+Your presence alone instills great fear. Survivors within your terror radius suffer from <b>inefficiency</b>.<br>Affected survivors' item consumption rates are increased by <span class="Highlight1">40%</span>.<br><span class="FlavorText">"Shit!! I dropped the gauze!"</span>
 Play with your food
 Save the best for last
 Sole Survivor
+You are apt at handling machinery with the greatest care and precision.<br>The noises caused by your repairs and their hearing distance are reduced by <span class="Highlight2">8 meters</span>. On a failed repair Skill Check, there is a <span class="Highlight1">50%</span> chance the generator explosion will be prevented.<br><span class="FlavorText">You are apt at handling machinery with the greatest care and precision.<br>The noises caused by your repairs and their hearing distance are reduced by <span class="Highlight2">4 meters</span>. On a failed repair Skill Check, there is a <span class="Highlight1">40%</span> chance the generator explosion will be prevented.<br><span class="FlavorText">You are apt at handling machinery with the greatest care and precision.<br>On a failed repair Skill Check, there is a <span class="Highlight1">30%</span> chance the generator explosion will be prevented.<br><span class="FlavorText">Technician
 Evil Within
 Paths
 Paths
@@ -439,8 +501,12 @@ Rubber Gloves
 Rubber and Hooks
 Rusted Chain
 Bonus Hit
+Attack Bonus
+Shocked
+Madness Tier Up
 Stalker
 Evil Within
+Feng Min
 Ace Visconti
 Laurie Strode
 Saboteur
@@ -457,6 +523,7 @@ Setting Tools
 Shadowborn
 Sharp Mustache Jake
 Shelter Woods
+Shock Therapy
 Shop Lubricant
 Shredded Plate
 Shrike Wreath
@@ -489,6 +556,8 @@ Styptic Agent
 Suffocation Pit
 Sweat Pants
 Sweet William Sachet
+Switch to Punishment
+Switch to Treatment
 TEACHABLE PERKS
 BLOODWEB
 ENTITY
@@ -683,11 +752,8 @@ Offering
 Perk
 Perk Buff
 Reward
-<br><br><li>A profile with access to Xbox Live Is Required.
-AGE RESTRICTION
+<br><br><li>AGE RESTRICTION
 APPLICATION SUSPENDED
-AVAILABLE IN PLAYSTATION STORE!
-AVAILABLE IN XBOX ONE MARKETPLACE!
 Controller Disconnected
 The collection of fine people who made Dead by Daylight possible, served in a handy list.
 Credits
@@ -700,13 +766,14 @@ In order to access this content, a patch is required.
 In order to access this content, a system update is required.
 JOIN GAME FAILURE
 JOIN LOBBY ERROR
+JOIN LOBBY ERROR
 Joining private game refused
 An invite-only unranked mode where you and your friends take on the roles of survivors, killer or spectator. Matches and loadout in Kill Your Friends can be customized.
 Kill Your Friends
 NO NETWORK CONNECTION
+NO NETWORK CONNECTION
 News
 The latest news, dev posts and patch notes.
-ONLINE STATUS ERROR
 PATCH NOTES
 PATCH REQUIRED
 PRESTIGE {0}
@@ -728,7 +795,6 @@ The game you're trying to join is not available anymore
 Mouse sensitivity for camera rotation.
 Unable to join private match. Connection refused by host
 You cannot join a lobby while searching for a game.
-You have been signed out from your current profile.
 You've suspended Dead By Daylight and you have been removed from your online session.
 Your age restricts you from accessing this content.
 <li>{0} Trying to join a matchmaking server from invite.

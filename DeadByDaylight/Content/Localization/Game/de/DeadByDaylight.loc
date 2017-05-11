@@ -108,6 +108,7 @@ Ein provisorischer Auspuff aus schwarzen Gasrohren.<br><li><b>Verringert leicht<
 Selbstgebauter Auspuff
 Ein leichtes und robustes Kettensägen-Gehäuse mit einer kürzeren Führungsschiene. Für eine einfachere Handhabung der Kettensäge.<br><li><b>Verringert leicht</b> die Reichweite der Kettensägenattacke.</li><li><b>Verringert deutlich</b> die Zeitstrafe beim Anstoßen gegen Objekte.</li><li>Effekt summiert sich.</li>
 Leichte Gehäuse
+Eine mechanische Vorrichtung, welche die Kraftstoffmenge festlegt, die von kleinen Motoren zwingend benötigt wird, um eine gleichbleibende und zuverlässige Geschwindigkeit zu gewährleisten.<br><li>Die Kettensäge erzeugt nicht automatisch Todesstatus.</li><li>Erhalte <b>50%</b> mehr Blutpunkte für Events mit Kettensägenpunkten.</li>
 Eine spezielle ölige Substanz zum Schmieren aller Maschinen, von den Thompsons selbst zusammengerührt.<br><li><b>Verringert deutlich</b> den Cooldown der Kettensäge..</li><li><b>Verringert leicht</b> die Aufladezeit der Kettensäge.</li><li>Effekt summiert sich.</li><li>Beeinflusst vom Tüftler-Perk.</li>
 Der Thompson-Mix
 Ein starkes Getränk aus Mais nach einem alten Rezept der Thompson-Familie. Verursacht Wut und Kopfschmerzen.<br><li><b>Erhöht enorm</b> die Steuerung bei Nutzung der Kettensäge.</li><li><b>Erhöht deutlich</b> die Zeitstrafe beim Anstoßen gegen Objekte.</li>
@@ -253,6 +254,23 @@ Robuste Outdoorhosen
 Add-ons, die die Aufladedauer deiner Kraft betreffen, sind <span class="Highlight1">8%</span> effektiver.<br><span class="FlavorText">"Der Bucklige stellt beeindruckende Werkzeuge aus Schrottteilen her... Werkzeuge, dafür bestimmt, uns auf vielerlei Art zu verstümmeln... Es ist erschreckend zu denken, dass das eigentlich clever ist." -Notizbuch</span>
 Add-ons, die die Aufladedauer deiner Kraft betreffen, sind <span class="Highlight1">10%</span> effektiver.<br><span class="FlavorText">"Der Bucklige stellt beeindruckende Werkzeuge aus Schrottteilen her... Werkzeuge, dafür bestimmt, uns auf vielerlei Art zu verstümmeln... Es ist erschreckend zu denken, dass das eigentlich clever ist." -Notizbuch</span>
 Add-ons, die die Aufladedauer deiner Kraft betreffen, sind <span class="Highlight1">6%</span> effektiver.<br><span class="FlavorText">"Der Bucklige stellt beeindruckende Werkzeuge aus Schrottteilen her... Werkzeuge, dafür bestimmt, uns auf vielerlei Art zu verstümmeln... Es ist erschreckend zu denken, dass das eigentlich clever ist." -Notizbuch</span>
+Ein riskantes EKT-Verfahren, basierend auf einer tiefen Wellenlänge, die diverse geistige Beschwerden lindert. Da es Carters Funken als Quelle nutzt, kann es bei der Prozedur im Patienten moderate Angstgefühle hervorrufen.<br><li><b>Erhöht moderat</b> deinen Terrorradius im Behandlungsmodus.</li><li><b>Verringert moderat</b> deinen Terrorradius im Bestrafungsmodus.</li><br>Überlebende mit <b>Wahnsinn (2/3)</b> leiden an folgendem Symptom:<br><li>Der Herzschlag des Terrorradius hat eine <b>enorme Chance</b>, so zu klingen, als ob der Überlebende sich <b>20 Sekunden</b> lang am Rand des Terrorradius des Killers befindet.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li><br><span class="FlavorText">Ein EKT-Verfahren, basierend auf einer tiefen Wellenlänge, die diverse geistige Beschwerden lindert. Da es Carters Funken als Quelle nutzt, kann es bei der Prozedur im Patienten Angstgefühle in geringem Maße hervorrufen.<br><li><b>Erhöht leicht</b> deinen Terrorradius im Behandlungsmodus.</li><li><b>Verringert leicht</b> deinen Terrorradius im Bestrafungsmodus.</li><br>Überlebende mit <b>Wahnsinn (2/3)</b> leiden an folgendem Symptom:<br><li>Der Herzschlag des Terrorradius hat eine <b>deutliche Chance</b>, so zu klingen, als ob der Überlebende sich <b>15 Sekunden</b> lang am Rand des Terrorradius des Killers befindet.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li>
+Eine experimentelle Version des EKT-Verfahrens mit Kommentaren von Doktor Herman Carter. Basiert auf einer tiefen Wellenlänge, die diverse geistige Beschwerden lindert. Da es Carters Funken als Quelle nutzt, ruft es bei der Prozedur im Patienten unbeherrschbare Angstgefühle hervor.<br><li><b>Erhöht deutlich</b> deinen Terrorradius im Behandlungsmodus.</li><li><b>Verringert deutlich</b> deinen Terrorradius im Bestrafungsmodus.</li><br>Überlebende mit <b>Wahnsinn (2/3)</b> leiden an folgendem Symptom:<br><li><b>Wahnsinn 2:</b> Der Herzschlag des Terrorradius hat eine <b>enorme Chance</b>, so zu klingen, als ob der Überlebende sich <b>20 Sekunden</b> lang am Rand des Terrorradius des Killers befindet.</li><li><b>Wahnsinn 3:</b> Der Herzschlag des Terrorradius klingt unentwegt so, als ob der Überlebende sich am Rand des Terrorradius des Killers befindet.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li><br><span class="FlavorText">Ein im Nebel entwickeltes, experimentelles EKT-Verfahren. Verwendet eine starke Reizwellenlänge, um das Bewusstsein des Patienten mit dem des Arztes zu verbinden. Diese Prozedur ist bekannt dafür, äußerst starke Halluzinationen im Patienten hervorzurufen.<br><li>Auren der Überlebenden werden <b>2 Sekunden</b> lang angezeigt, wenn ihr Wahnsinn zunimmt.</li><br>Überlebende mit <b>Wahnsinn (2/3)</b> leiden an folgendem Symptom:<br><li><b>Moderat/Deutlich erhöhte</b> Dauer der Erscheinung eines Trugbilds des Doktors, das vom Doktor als <b>Aura</b> wahrgenommen wird.<li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li>
+Ein im Nebel entwickeltes, experimentelles EKT-Verfahren. Verwendet eine Wellenlänge, die das Bewusstsein des Patienten mit dem des Arztes verbindet. Diese Prozedur ist bekannt dafür, leichte Halluzinationen im Patienten hervorzurufen.<br><li>Auren der Überlebenden werden <b>1 Sekunde</b> lang angezeigt, wenn ihr Wahnsinn zunimmt.</li><br>Überlebende mit <b>Wahnsinn (2/3)</b> leiden an folgendem Symptom:<br><li><b>Leicht/Moderat erhöhte</b> Dauer der Erscheinung eines Trugbilds des Doktors, das vom Doktor als <b>Aura</b> wahrgenommen wird.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li>
+Ein im Nebel entwickeltes, experimentelles EKT-Verfahren mit hastig geschriebenen Bemerkungen. Verwendet eine unerträgliche Reizwellenlänge, um das Bewusstsein des Patienten mit dem des Arztes zu verbinden. Diese Prozedur ist bekannt dafür, schwere Halluzinationen im Patienten hervorzurufen.<br><li>Auren der Überlebenden werden <b>3 Sekunden</b> lang angezeigt, wenn ihr Wahnsinn zunimmt.</li><br>Überlebende mit <b>Wahnsinn (2/3)</b> leiden an folgendem Symptom:<br><li><b>Deutlich/Enorm erhöhte</b> Dauer der Erscheinung eines Trugbilds des Doktors, das vom Doktor als <b>Aura</b> wahrgenommen wird.<li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li><br><span class=\"FlavorText\">EKT-Verfahren des Erweckungsprojekts zur disziplinarischen Maßregelung, das eine fixe Menge an sehr hoher Spannung einsetzt. Kann im Patienten ernsthafte Paranoia auslösen.<br><li>Erhöht die durch deine <b>Schocktherapie</b> ausgelöste Wahnsinnsmenge um <b>20%</b>.</li><li><i>Beeinflusst vom Tüftler-Perk.</i></li><br>Überlebende mit <b>Wahnsinn</b> leiden an folgendem Symptom:<br><li>Der rote Fleck des Killers hat eine <b>moderate Chance</b>, <b>4 Sekunden</b> lang hinter dem Überlebenden zu erscheinen.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li><br><span class="FlavorText">EKT-Verfahren des Erweckungsprojekts zur disziplinarischen Maßregelung, das eine fixe Menge an sehr hoher Spannung einsetzt. Kann im Patienten moderate Paranoia auslösen.<br><li>Erhöht die durch deine <b>Schocktherapie</b> ausgelöste Wahnsinnsmenge um <b>15%</b>.</li><li><i>Beeinflusst vom Tüftler-Perk.</i></li><br>Überlebende mit <b>Wahnsinn</b> leiden an folgendem Symptom:<br><li>Der rote Fleck des Killers hat eine <b>leichte Chance</b>, <b>3 Sekunden</b> lang hinter dem Überlebenden zu erscheinen.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li><br><span class="FlavorText">EKT-Verfahren des Erweckungsprojekts zur disziplinarischen Maßregelung mit Kommentaren von Doktor Herman Carter. Die unerträglich hohe Spannung versetzt den Patienten in einen ernsthaften Zustand der Paranoia.<br><li>Erhöht die durch deine <b>Schocktherapie</b> ausgelöste Wahnsinnsmenge um <b>25%</b>.</li><li><i>Beeinflusst vom Tüftler-Perk.</i></li><br>Überlebende mit <b>Wahnsinn</b> leiden an folgendem Symptom:<br><li>Der rote Fleck des Killers hat eine <b>deutliche Chance</b>, <b>5 Sekunden</b> lang hinter dem Überlebenden zu erscheinen. Überlebende mit <b>Wahnsinn 3</b> sehen den roten Fleck immer.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li><br><span class="FlavorText">Eine experimentelle Elektrode, die über längere Zeit hinweg sehr hohen Ladungen standhalten kann.<br><li><b>Erhöht</b> die Reichweite deines Schocktherapieangriffs um <b>75%</b>.</li><br><li>Erhöht <b>enorm</b> die Aufladezeit der Schocktherapie.
+Starke Reizelektrode
+Eine glasähnliche Schachfigur des Königs, die aus dem Nebel selbst geformt ist. Die darin widerhallende Schwingung des Entitus kann selbst den stärksten Verstand brechen.<br><li>Der Überlebende erleidet durch den <b>Schocktherapieangriff</b> ein <b>zufälliges Wahnsinn-Symptom</b>, basierend auf der <b>Wahnsinn</b>-Stufe des Überlebenden.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li><br><span class="FlavorText">Schillernder König
+Weggeworfene Kassette
+Eine Audiokassette des Erweckungsprojekts, die größtenteils Rauschen enthält. Öffnet den Verstand des Doktors für alternative Behandlungsmethoden.<br><li>Der <b>Schocktherapieangriff</b> wechselt von einem <b>Kegel</b> zu einem <b>Ring</b> mit einem äußeren Radius von 4,2 Metern und einem inneren Radius von 3 Metern, der 8 Meter vor dem Doktor erscheint.</li>
+Eine alte Elektrode, die trotzdem noch eine schwache elektrische Ladung leitet.<br><li><b>Erhöht</b> die Reichweite deines Schocktherapieangriffs um <b>25%</b>.</li><br><li>Erhöht <b>leicht</b> die Aufladezeit der Schocktherapie.
+Alte Elektrode
+Eine weiße Schachfigur des Springers aus Ahornholz. Dieses Geschenk eines alten Mannes ruft alte Erinnerungen zurück und gewährt dem Doktor verheerenden Fokus.<br><li>Zeigt den Wirkungsbereich deiner Schocktherapie an.</li>
+Ahornspringer
+Ein EKT-Verfahren mit starker Reizwirkung; Teil des täglichen Ablaufs eines Patienten in Lérys Gedenkinstitut. Kann im Patienten moderate Verwirrung hervorrufen.<br><li>Erhöht die durch dein <b>statisches Feld</b> ausgelöste Wahnsinnsmenge um <b>15%</b>.</li><li><i>Beeinflusst vom Tüftler-Perk.</i></li><br>Überlebende mit <b>Wahnsinn</b> leiden an folgendem Symptom:<br><li><b>Chance von 15%</b>, dass ein Fähigkeitscheck an einer zufälligen Stelle erscheint.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li><br><span class="FlavorText">Ein konventionelles EKT-Verfahren; Teil des täglichen Ablaufs eines Patienten in Lérys Gedenkinstitut. Kann im Patienten milde Verwirrung hervorrufen.<br><li>Erhöht die durch dein <b>statisches Feld</b> ausgelöste Wahnsinnsmenge um <b>10%</b>.</li><li><i>Beeinflusst vom Tüftler-Perk.</i></li><br>Überlebende mit <b>Wahnsinn</b> leiden an folgendem Symptom:<br><li><b>Chance von 10%</b>, dass ein Fähigkeitscheck an einer zufälligen Stelle erscheint.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li>
+Eine experimentelle Version des EKT-Verfahrens mit Kommentaren von Doktor Herman Carter. Der lange, fortdauernde Stimulus versetzt den Patienten in den Zustand schwerer Verwirrung.<br><li>Erhöht die durch dein <b>statisches Feld</b> ausgelöste Wahnsinnsmenge um <b>25%</b>.<li><i>Beeinflusst vom Tüftler-Perk.</i></li><br>Überlebende mit <b>Wahnsinn</b> leiden an folgendem Symptom:<br><li><b>Chance von 25%</b>, dass ein Fähigkeitscheck an einer zufälligen Stelle erscheint.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li><br><span class="FlavorText">Eine neuwertige Elektrode für die Elektrokrampfbehandlung.<br><li><b>Erhöht</b> die Reichweite deines Schocktherapieangriffs um <b>50%</b>.</li><br><li>Erhöht <b>deutlich</b> die Aufladezeit der Schocktherapie.
+Glänzende Elektrode
+Ein im Nebel entwickeltes, experimentelles EKT-Verfahren mit hastig geschriebenen Bemerkungen. Die zusätzliche Energiespitze führt zu extremen Muskelverspannungen, was den Patienten erschöpft.<br><li>Beruhige dich dauert <b>2 Sekunden</b> länger.</li><br>Überlebende mit <b>Wahnsinn 3</b> leiden an folgendem Symptom:<br><li><b>Erschöpfung</b>.</li><li><i>Symptome</i> desselben Typs sind nicht stapelbar.</li><br><span class="FlavorText">Eine Audiokassette des Erweckungsprojekts mit einer ungekürzten Befragung eines Opfers. Öffnet den Verstand des Doktors für alternative Behandlungsmethoden.<br><li>Der Schocktherapieangriff wechselt von einem Kegel zu einem Strahl mit einer Reichweite von <b>20 Metern</b> und einer Breite von <b>2 Metern</b>.</li>
+Befragungskassette
 Adrenalin
 Erregung
 Ach, schreit der Geist entsetzliche Tränen aus Blut.
@@ -306,6 +324,7 @@ Verbittertes Gemurmel
 Schwarze Seidenkordel
 Schwarze Abwehr
 Ausbluten
+Blutung
 Teleportation
 Teleportation
 Blutbernstein
@@ -414,6 +433,25 @@ Elektrische Jacke
 Claudette-Erbstück III
 Claudette-Erbstück II
 Claudette-Erbstück I
+Ein ärmelloser Arztkittel, der schon bessere Tage gesehen hat. Herman wusste das dramatische Erscheinungsbild von Arztkleidung schon immer zu schätzen.
+Arztkittel
+Ein ärmelloser Arztkittel. Der Doktor weiß das dramatische Erscheinungsbild von Blut auf seinem Kittel zu schätzen.
+Ein ärmelloser Arztkittel. Der Doktor weiß das dramatische Erscheinungsbild von Blut auf seinem Kittel zu schätzen.
+Blutiger Arztkittel
+Die offizielle Bekleidung leitenden Personals in Lérys Gedenkinstitut.
+Kittel des Erweckungsprojekts
+Der Doktor hat seine EKT-Ausrüstung angelegt und sein Gesicht ist auf alle Ewigkeit zu einem irren Grinsen verzerrt.
+Herman Carter
+Der Doktor hat seine EKT-Ausrüstung angelegt und bekommt überall Blut ab ... auch auf Augen und Mund.
+Der Doktor hat seine EKT-Ausrüstung angelegt und bekommt überall Blut ab ... auch auf Augen und Mund.
+Blutiger Herman Carter
+Ein wütender Doktor, überwältigt von seiner wahnsinnigen EKT-Macht.
+Überladener Herman Carter
+Ein Instrument zur Bestrafung, wenn alle anderen Behandlungsmethoden gescheitert sind.
+Der Stock
+Ein Instrument zur Bestrafung, wenn alle anderen Behandlungsmethoden gescheitert sind Ein Instrument zur Bestrafung, wenn alle anderen Behandlungsmethoden gescheitert sind Der blutige Stock
+Der wild mit der Macht von Carters Funken sprühende Stock.
+Stock des Erweckungsprojekts
 Klassische Mechanikerbekleidung. Ideal für schmutzige Arbeit und schmutzige Mutproben. Der obere Teil wurde nach unten gefaltet und um die Hüften gewickelt.<br><span class="FlavorText">Mechanikeroverall
 Eine Baseballmütze mit generischem Abschleppwagen-Logo, wie sie oft von Automechanikern und Altmetallhändlern getragen wird.<br><span class="FlavorText">Abschleppwagenkappe
 Ein seltenes Exemplar von Bullshifter-Bekleidung in freier Wildbahn. Darauf prangt das Logo des Pickup-Clubs aus Savannah.<br><span class="FlavorText">Bullshifters-Shirt
@@ -438,6 +476,27 @@ Nervöser Dwight
 Dwight-Erbstück III
 Dwight-Erbstück II
 Dwight-Erbstück I
+Kurze Shorts mit den strahlenden Farben von Lazer Bears.
+Lazer-Shorts
+Kurze Shorts mit den strahlenden Farben von Lazer Bears und einer dicken Blutschicht.
+Kurze Shorts mit den strahlenden Farben von Lazer Bears und einer dicken Blutschicht.
+Blutige Lazer-Shorts
+Eine gewöhnliche Trainingshose mit auffälligen, silbernen Turnschuhen.
+Bequeme Trainingshose
+Eine zielstrebige junge Frau. Sie will gewinnen.
+Feng Min
+Eine zielstrebige junge Frau ... voller Blut.
+Eine zielstrebige junge Frau ... voller Blut.
+Blutige Feng Min
+Eine lockere Frisur für die Zeit abseits der Kameras.
+Lockerer Knoten
+Lazer Bears' offizielles Polohemd für das E-Sports-Turnier 2016.
+Lazer Bears' Turnierpolo
+Es geht doch nichts über ein blutverschmiertes Polohemd, um die Konkurrenz einzuschüchtern. 
+Es geht doch nichts über ein blutverschmiertes Polohemd, um die Konkurrenz einzuschüchtern. 
+Blutiges Lazer-Bears-Polo
+Ein bequemer, weicher Wollüberwurf, mit dem man es auch an regnerischen Tagen warm und gemütlich hat.
+Faulenzerüberwurf
 Verdorrte Haut und Seele, von einem unstillbaren Hunger nach Fleisch entstellt.
 Lisa
 Triefend vom Blut unzähliger Festmahle.
@@ -630,6 +689,7 @@ Claudette
 Claudette Morel
 Saubere Lumpen
 Cleanse Totem
+Zerstörungsgeschwindigkeit
 Klares Reagenzglas
 Hackbeil
 Maskieren
@@ -697,8 +757,10 @@ Evan
 Alltägliche Bürohosen
 Alltägliche Arbeitskleidung für das Leben im Schlachthaus.
 Alltägliche Arbeitskleidung für das Leben im Schlachthaus.
+Erschöpfung
 Hinausgehen
 ExitStalkMode
+Effizienz
 Mattes Reagenzglas
 Farmer-Unterhemd
 Modische Lederjacke
@@ -786,6 +848,8 @@ Heilung (Sani-Kasten)
 Selbstheilung (Sani-Set)
 Selbstheilung (Selbstpflege)
 Heile andere Überlebende im Gegenzug für {1} Gesundheitsstatus.
+Heilungsgeschwindigkeit
+Gehör
 Herzmedaillon
 Hochleistungsbatterie
 Anderen zu helfen erhöht deine Arbeitsmoral. Für jeden Überlebenden, den du von einem Haken rettest, erhältst du zusätzlich <span class="Highlight1">100%</span> Geschwindigkeitsanstieg bei Heilungen, der bis zu einem Maximum von  <span class="Highlight2">100%</span> ansteigen kann, für die Dauer von <span class="Highlight3">90 Sekunden</span>.<br><span class="FlavorText">"Ich bin zuversichtlich, dass wir alle in einem Stück entkommen können, wenn wir uns gegenseitig helfen."</span>
@@ -860,6 +924,7 @@ Jake Park
 Jeans in Reitstiefel gesteckt
 Jogging- Kapuzenpullover
 Nur ein weiteres Paar Hosen.
+Der Doktor
 Die Hexe
 Der Wandler
 Behält den Schweiß im Inneren. Eine Schande, dass es das nicht auch mit dem Blut macht.
@@ -878,10 +943,12 @@ Aus dem Killergriff entkommen
 Aus dem Killergriff retten
 Killerbetäubung
 Gestrickte Baskenmütze
-Backwater-Sumpf
+BITTE LESEN SIE DIESEN ENDBENUTZER-LIZENZVERTRAG (ENGLISCH: END USER LICENCE AGREEMENT, IM FOLGENDEN ALS Backwater-Sumpf
 Backwater-Sumpf
 Haddonfield
 Haddonfield
+Lérys Gedenkinstitut
+Lérys Gedenkinstitut
 Letzter Atem
 Letzter Mann
 Anführer
@@ -911,7 +978,9 @@ Bereits vor dem Zerfall der Coldwind Farm rankten sich Geschichten voller verhän
 Das Farmhaus, Herzstück der Coldwind Farm, ragte jahrzehntelang stolz über die Felder aus goldenem Mais. Nach den erschütternden Ereignissen im Jahre 1972 verfiel das Gebäude immer mehr und wurde schließlich zu einer Ruine. Das Farmhaus ist inzwischen nichts weiter, als ein vergessenes Haus aus alten Zeiten, in dem einst Festtage gefeiert wurden.
 Der alte, heruntergekommene Kuhstall war einer der ersten Ställe, den die Thompsons auf der Coldwind Farm erbauten. Er war ursprünglich dazu gedacht, kranke Tiere in sicherem Abstand vom Rest des Viehbestands zu beherbergen. Doch kein Tier, das ihn betrat, hatte je überlebt. Eine Untersuchung ergab, dass das Gebäude von giftigem Schimmel befallen war. Die Thompsons vermuteten, dass es sich um einen Konstruktionsfehler handeln müsste oder etwas, das mit der Holzfeuchtigkeit zu tun hätte. Ein neuer Stall wurde gebaut und der alte Kuhstall wurde im Schatten dem Verrottungsprozess überlassen.
 Eine einfache Straße mit Häusern, die Zeugen des sich vollziehenden Horrors wurden. Ein Klettergerüst, auf dem Kinder einst das Klettern lernten. Bürgersteige, auf denen Väter ihren Töchtern das Radfahren beibrachten. Alles Vergangenheit. Stattdessen befindet es sich nun in der Hand des Entitus, für immer in Dunkelheit gehüllt.
+Eine gestiftete Villa aus dem späten 19. Jahrhundert, die zuerst in eine medizinische Einrichtung und später in ein auf neuste Verhörmethoden spezialisiertes Geheimgefängnis der CIA umgewandelt wurde. Die Schließung des Instituts ist von Kontroversen und Rätseln umgeben. Im Herzen der Einrichtung wurden die Werkzeuge des Doktors in einem widerwärtigen Ritualzirkel angeordnet. Er ist bereit zu forschen und seine Methoden an einem endlosen Strom panischer Patienten zu verfeinern.
 Die Pale Rose, ein historischer Schaufelraddampfer mitten im Sumpf, gefangengehalten vom fauligen Schlamm. Das Wrack lag hier schon lange Zeit, bevor die Einwohner mit ihrer Jagd begannen, als von der nahe gelegenen Stadt aus kaum erkennbare Silhouette. Es gibt einige Anzeichen dafür, dass das Wrack bewohnt war, vor allem im oberen Stock, wo seltsame, rituelle Zeichen aus getrocknetem Blut und Schmutz den Boden bedecken. Den zahlreichen Blutspuren nach zu urteilen, hat sich hier etwas Grauenvolles zugetragen.
+Behandlungsbereich
 Man kann noch immer den winzigen Eingang sehen, den die Bergleute nutzten, um das Erz an die Oberfläche zu fördern. Nun ist es nichts weiter als ein Schutthaufen. Niemand scherte sich darum, ihn freizulegen, aus Angst davor, was im Inneren zum Vorschein kommen könnte. Stattdessen geriet er in Vergessenheit.
 Einst als Kohlelager für den Antrieb der Gießerei genutzt, liegt es nun verlassen da. Das Dach, das weit aufgerissen ist, lässt eine gigantische Explosion vermuten, aber die Winkel scheinen keinen Sinn zu ergeben. Daher ist es nicht einfach, sein Schicksal zu ergründen - selbst, wenn man es wollte.
 Die Wälder, die das Anwesen umgeben, dürften die einzigen Zeugen dessen sein, was sich hier wirklich zugetragen hat. Bäume mit einem gewissen, verformten Wesensmerkmal, als wollten sie vor dem Gesehenen davonrennen. Die Merkwürdigkeit dieser Wälder hält Menschen fern - selbst Tiere scheinen sie zu meiden, wenn es geht.
@@ -939,6 +1008,7 @@ Metallkiste mit einem Set aus Basiswerkzeugen. Kann selbst ohne Übung für das Re
 Milchiges Glas
 Konzentration
 Konzentration
+Wahnsinn
 Modrige Eiche
 Monströser Schrein
 Mordlust
@@ -946,9 +1016,6 @@ Dunkles Reagenzglas
 Neumondbouquet
 Niemand ist entkommen
 Niemand wird zurückgelassen
-Niemand
-Niemand
-Niemand
 Niemand
 Niemand
 Niemand
@@ -1043,6 +1110,7 @@ Cremekreide-Beutel
 Fordert den Entitus auf, das Erscheinen von <b>2</b> Kisten zu verhindern.<br><li>Effekt summiert sich.</li><br><span class="FlavorText">"Zwei Hälften einer dicken metallischen Münze."</span>
 Gekappte Münze
 <b>Erhöht deutlich</b> die Chance, nach Haddonfield geschickt zu werden, wenn es verbrannt wird.<br><li>Effekt summiert sich.</li><br><span class="FlavorText">Marode Dachschindel
+<b>Erhöht leicht</b> die Chance, in Lérys Gedenkinstitut eingeliefert zu werden, wenn es verbrannt wird.<br><li>Stapelbar.</li><br><span class="FlavorText">Notfallformular
 <b>Erhöht leicht</b> die Chance zum Backwater-Sumpf geschickt zu werden, wenn es verbrannt wird.<br><li>Stapelt.</li><br><span class="FlavorText">"Ein verkohltes Stück eines Marineseils, das noch immer einen warmen Rauch verströmt."</span>
 Dampfendes Tauwerk
 <b>Erhöht deutlich</b> die Chance zum Backwater-Sumpf geschickt zu werden, wenn es verbrannt wird.<br><li>Stapelt.</li><br><span class="FlavorText">"Ein Willkommensschild, das aus einem groben Stück eines vom Wasser polierten Zypressenbrettes hergestellt wurde. Das Schild ist verkohlt und raucht noch immer."</span>
@@ -1056,14 +1124,17 @@ Elfenbeinkreide-Beutel
 Vigos Gefäss der Salzigen Lippen
 Dies ermöglicht dir, die Rolle <b>Der Hexe</b> bei der nächsten Etappe anzunehmen. <i>Deine aktuellen Perks und Add-ons werden dabei nicht verwendet.</i><br><span class="FlavorText">"Vermeide es, im Schlamm zu laufen oder die Hexe wird deine Knochen verspeisen."</span>
 Schlammsplitter
+<b>Erhöht deutlich</b> die Chance, in Lérys Gedenkinstitut eingeliefert zu werden, wenn er verbrannt wird.<br><li>Stapelbar.</li><br><span class="FlavorText">Psychiatrischer Beurteilungsbericht
 Fordert den Entitus auf, <b>3</b> weitere Opferhaken herzustellen.<br><li>Effekt summiert sich.</li><br><span class="FlavorText">"Ein zerstörtes Stück Eichenholz, das schwarze faulende Flüssigkeit absondert."</span>
 Faulige Eiche
 Fordert den Entitus auf, <b>2</b> weitere Opferhaken herzustellen.<br><li>Effekt summiert sich.</li><br><span class="FlavorText">"Ein verfaulendes Stück Eichenholz, in das seltsame Markierungen geätzt sind."</span>
 Morsche Eiche
 <b>Erhöht leicht</b> das Glück <b>aller</b> Überlebenden.<br><li>Effekt summiert sich.</li><br><span class="FlavorText">"Ein kleiner Baumwollbeutel, gefüllt mit schwarzen Salzkristallen. Manche glauben, sie bringen Glück. Verschütte sie nicht."</span>
 Salzbeutel
+<b>Erhöht deutlich</b> die Chance, in Lérys Gedenkinstitut eingeliefert zu werden, wenn sie verbrannt wird.<br><span class="FlavorText">Kaputte Brille
 Fordert den Entitus auf, <b>2</b> weitere Kisten herzustellen.<br><li>Effekt summiert sich.</li><br><span class="FlavorText">"Ein sauberes und poliertes Goldstück."</span>
 Blanke Münze
+Ermöglicht es dir, in der nächsten Runde die Rolle des Doktors zu übernehmen. <i>Deine aktuellen Perks und Add-ons werden nicht verwendet.</i><br><span class="FlavorText">Schocksplitter
 <b>Erhöht enorm</b> die Chance, nach Haddonfield geschickt zu werden, wenn es verbrannt wird.<br><span class="FlavorText">Strode-Immobilienschlüssel
 Skurriler Stempel
 Öffnen
@@ -1074,6 +1145,7 @@ Bodenluke Öffnen
 PERK-SLOT II
 PERK-SLOT III
 PERK-SLOT IV
+Du bist erfüllt von unerwarteter Energie, wenn die Flucht kurz bevorsteht. <span class="Highlight1">Sofortige Erholung von Verletzungen oder vom Todesstatus</span> und ein Sprint mit <span class="Highlight2">150%</span> deiner normalen Laufgeschwindigkeit für <span class="Highlight3">5 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. Adrenalin wirkt nicht, wenn du zum Nutzungszeitpunkt blockiert bist.<br><i>Adrenalin</i> ignoriert <b>Erschöpfung</b>.<br>Verursacht <span class="Highlight4">40 Sekunden</span> lang <b>Erschöpfung</b>.
 Du bist erfüllt von unerwarteter Energie, wenn die Flucht kurz bevorsteht. <span class="Highlight1">Sofortige Erholung von Verletzungen</span> und ein Sprint mit <span class="Highlight2">150%</span> deiner normalen Laufgeschwindigkeit für <span class="Highlight3">5 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. Adrenalin wirkt nicht, wenn du zum Nutzungszeitpunkt blockiert bist.<br><i>Adrenalin</i> ignoriert <b>Erschöpfung</b>.<br>Verursacht <span class="Highlight4">50 Sekunden</span> lang <b>Erschöpfung</b>.
 Du bist erfüllt von unerwarteter Energie, wenn die Flucht kurz bevorsteht. <span class="Highlight1">Sofortige Erholung von Verletzungen</span> und ein Sprint mit <span class="Highlight2">150%</span> deiner normalen Laufgeschwindigkeit für <span class="Highlight3">3 Sekunden</span>, wenn die Ausgangstore mit Energie versorgt sind. Adrenalin wirkt nicht, wenn du zum Nutzungszeitpunkt blockiert bist.<br><i>Adrenalin</i> ignoriert <b>Erschöpfung</b>.<br>Verursacht <span class="Highlight4">60 Sekunden</span> lang <b>Erschöpfung</b>.
 Wenn die Ausgewogene Landung aktiviert ist, werden die Taumeleffekte von tiefen Stürzen um <span class="Highlight1">75%</span> reduziert.<br>Nach der Landung beginnt dein Sprint mit <span class="Highlight2">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight3">3 Sekunden</span>, wenn du nicht erschöpft bist. <br>Verursacht <span class="Highlight4">40 Sekunden</span> lang <b>Erschöpfung</b>.<br><span class="FlavorText">Wenn die Ausgewogene Landung aktiviert ist, werden die Taumeleffekte von tiefen Stürzen um <span class="Highlight1">75%</span> reduziert.<br><span class="FlavorText">Wenn die Ausgewogene Landung aktiviert ist, werden die Taumeleffekte von tiefen Stürzen um <span class="Highlight1">50%</span> reduziert.<br><span class="FlavorText">Die wachsende Chance auf eine erfolgreiche Flucht erfüllt dich mit Hoffnung und verleiht dir Flügel. Deine Bewegungsgeschwindigkeit ist für <span class="Highlight3">120 Sekunden</span> um <span class="Highlight1">7%</span> erhöht, sobald die Ausgangstore mit Energie versorgt sind.
@@ -1086,12 +1158,17 @@ Fortuna scheint es stets gut mit dir zu meinen. Beim Herausnehmen eines Items au
 Fortuna scheint es stets gut mit dir zu meinen. Beim Herausnehmen eines Items aus einer Kiste besteht eine <span class="Highlight1">50%</span> Chance, dass ein Add-on von <span class="Highlight2">seltener</span> Rarität oder geringer beigefügt ist.<br><span class="FlavorText">"Nicht alles, was glänzt, ist Gold. Aber Gold ist an diesem Ort keinen Pfifferling wert, daher sollte sich dies als nützlich erweisen."-Ace</span>
 Fortuna scheint es stets gut mit dir zu meinen. Beim Herausnehmen eines Items aus einer Kiste besteht eine <span class="Highlight1">50%</span> Chance, dass ein Add-on von <span class="Highlight2">ungewöhnlicher</span> Rarität oder geringer beigefügt ist.<br><span class="FlavorText">"Nicht alles, was glänzt, ist Gold. Aber Gold ist an diesem Ort keinen Pfifferling wert, daher sollte sich dies als nützlich erweisen."-Ace</span>
 Ass im Ärmel
+Deine Sinne sind aufs Äußerste geschärft.<br>Wenn der Killer innerhalb von <span class="Highlight1">36 Metern</span> etwas zerstört, kannst du ihn <span class="Highlight2">3 Sekunden</span> lang sehen.<br>Dieser Effekt kann nur einmal alle <span class="Highlight3">30 Sekunden</span> aktiviert werden.<br><span class="FlavorText">Deine Sinne sind aufs Äußerste geschärft.<br>Wenn der Killer innerhalb von <span class="Highlight1">24 Metern</span> etwas zerstört, kannst du ihn <span class="Highlight2">3 Sekunden</span> lang sehen.<br>Dieser Effekt kann nur einmal alle <span class="Highlight3">45 Sekunden</span> aktiviert werden.<br><span class="FlavorText">Deine Sinne sind aufs Äußerste geschärft.<br>Wenn der Killer innerhalb von <span class="Highlight1">12 Metern</span> etwas zerstört, kannst du ihn <span class="Highlight2">3 Sekunden</span> lang sehen.<br>Dieser Effekt kann nur einmal alle <span class="Highlight3">60 Sekunden</span> aktiviert werden.<br><span class="FlavorText">Wachsam
 Du erhältst unerwartete Energie, wenn du einen Verbündeten im Terrorradius des Killers von einem Haken rettest.<br>Einmal pro Spiel, und zwar für <span class="Highlight1">20 Sekunden</span> nachdem du einen Überlebenden im Terrorradius des Killers von einem Haken gerettet hast, löst jeder Schaden, der dich oder den geretteten Überlebenden in den Todesstatus versetzen würde, stattdessen einen Ausbluten-Timer von <span class="Highlight2">30 Sekunden</span> aus.<br>Erleidest du Schaden, während der Ausbluten-Timer aktiv ist, oder läuft der Timer ab, wirst du in den Todesstatus versetzt.<br><span class="FlavorText">Du erhältst unerwartete Energie, wenn du einen Verbündeten im Terrorradius des Killers von einem Haken rettest.<br>Einmal pro Spiel, und zwar für <span class="Highlight1">20 Sekunden</span> nachdem du einen Überlebenden im Terrorradius des Killers von einem Haken gerettet hast, löst jeder Schaden, der dich oder den geretteten Überlebenden in den Todesstatus versetzen würde, stattdessen einen Ausbluten-Timer von <span class="Highlight2">35 Sekunden</span> aus.<br>Erleidest du Schaden, während der Ausbluten-Timer aktiv ist, oder läuft der Timer ab, wirst du in den Todesstatus versetzt.<br><span class="FlavorText">Du erhältst unerwartete Energie, wenn du einen Verbündeten im Terrorradius des Killers von einem Haken rettest.<br>Einmal pro Spiel, und zwar für <span class="Highlight1">20 Sekunden</span> nachdem du einen Überlebenden im Terrorradius des Killers von einem Haken gerettet hast, löst jeder Schaden, der dich oder den geretteten Überlebenden in den Todesstatus versetzen würde, stattdessen einen Ausbluten-Timer von <span class="Highlight2">40 Sekunden</span> aus.<br>Erleidest du Schaden, während der Ausbluten-Timer aktiv ist, oder läuft der Timer ab, wirst du in den Todesstatus versetzt.<br><span class="FlavorText">Geliehene Zeit
 Du erledigst den Job ... egal, zu welchem Preis.<br>Wenn du der <b>letzte Überlebende in einer Runde</b> bist, erhältst du für jeden noch zu reparierenden Generator einen Bonus von <span class="Highlight1">19%</span> auf die Reparaturgeschwindigkeit.<br><span class="FlavorText">Du erledigst den Job ... egal, zu welchem Preis.<br>Wenn du der <b>letzte Überlebende in einer Runde</b> bist, erhältst du für jeden noch zu reparierenden Generator einen Bonus von <span class="Highlight1">22%</span> auf die Reparaturgeschwindigkeit.<br><span class="FlavorText">Du erledigst den Job ... egal, zu welchem Preis.<br>Wenn du der <b>letzte Überlebende in einer Runde</b> bist, erhältst du für jeden noch zu reparierenden Generator einen Bonus von <span class="Highlight1">25%</span> auf die Reparaturgeschwindigkeit.<br><span class="FlavorText">Zurückgelassen
 In vergangenen Gefechten hast du so einiges über das Überleben gelernt.<br>Gewährt die Fähigkeit, dich <b>einmal pro Runde</b> vollständig von einem Todesstatus zu erholen. Beschleunigt Todeserholung um <span class="Highlight1">15%</span>.<br><span class="FlavorText">In vergangenen Gefechten hast du so einiges über das Überleben gelernt.<br>Gewährt die Fähigkeit, dich <b>einmal pro Runde</b> vollständig von einem Todesstatus zu erholen. Beschleunigt Todeserholung um <span class="Highlight1">20%</span>.<br><span class="FlavorText">In vergangenen Gefechten hast du so einiges über das Überleben gelernt.<br>Gewährt die Fähigkeit, dich <b>einmal pro Runde</b> vollständig von einem Todesstatus zu erholen. Beschleunigt Todeserholung um <span class="Highlight1">25%</span>.<br><span class="FlavorText">Unbeugsam
 Unter Verwendung dessen, was du zur Hand hast, stichst du in einem ultimativen Fluchtversuch auf deinen Angreifer ein. Führe einmal pro Spiel einen Fähigkeitscheck erfolgreich durch, wenn du die Besessenheit bist und vom Killer geschnappt wurdest, um automatisch dem Griff des Killers zu entkommen und ihn für <span class="Highlight1">5 Sekunden</span> zu betäuben.<br>Solltest du nicht die Besessenheit sein, dann schaffe es einmal pro Spiel, während du dich im Griff des Killers befindest und der Bewegungsmesser 35% erreicht hat, einen Fähigkeitscheck erfolgreich durchzuführen, um automatisch den Rest des Bewegungsmessers aufzufüllen und dem Griff des Killers zu entkommen.<br><i>Erhöht die Chancen, zur <b>Besessenheit</b> des Killers zu werden. Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Unter Verwendung dessen, was du zur Hand hast, stichst du in einem ultimativen Fluchtversuch auf deinen Angreifer ein. Führe einmal pro Spiel einen Fähigkeitscheck erfolgreich durch, wenn du die Besessenheit bist und vom Killer geschnappt wurdest, um automatisch dem Griff des Killers zu entkommen und ihn für <span class="Highlight1">4 Sekunden</span> zu betäuben.<br>Solltest du nicht die Besessenheit sein, dann schaffe es einmal pro Spiel, während du dich im Griff des Killers befindest und der Bewegungsmesser 40% erreicht hat, einen Fähigkeitscheck erfolgreich durchzuführen, um automatisch den Rest des Bewegungsmessers aufzufüllen und dem Griff des Killers zu entkommen.<br><i>Erhöht die Chancen, zur <b>Besessenheit</b> des Killers zu werden. Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Unter Verwendung dessen, was du zur Hand hast, stichst du in einem ultimativen Fluchtversuch auf deinen Angreifer ein. Führe einmal pro Spiel einen Fähigkeitscheck erfolgreich durch, wenn du die Besessenheit bist und vom Killer geschnappt wurdest, um automatisch dem Griff des Killers zu entkommen und ihn für <span class="Highlight1">3 Sekunden</span> zu betäuben.<br>Solltest du nicht die Besessenheit sein, dann schaffe es einmal pro Spiel, während du dich im Griff des Killers befindest und der Bewegungsmesser 45% erreicht hat, einen Fähigkeitscheck erfolgreich durchzuführen, um automatisch den Rest des Bewegungsmessers aufzufüllen und dem Griff des Killers zu entkommen.<br><i>Erhöht die Chancen, zur <b>Besessenheit</b> des Killers zu werden. Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Entscheidungsschlag
 Du <b>suchst</b> einen Überlebenden heim.<br>Die Handlungsgeschwindigkeit deiner selbstlosen Besessenheit ist um <span class="Highlight1">50%</span> erhöht. Sobald die Besessenheit zerstört oder geopfert wird, erhält jeder andere Überlebende eine Strafe von <span class="Highlight2">25%</span> auf die Reparatur-, Heilungs- und Sabotagegeschwindigkeit.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Das ist doch kein Mann..." Du <b>suchst</b> einen Überlebenden heim.<br>Die Handlungsgeschwindigkeit deiner selbstlosen Besessenheit ist um <span class="Highlight1">44%</span> erhöht. Sobald die Besessenheit zerstört oder geopfert wird, erhält jeder andere Überlebende eine Strafe von <span class="Highlight2">22%</span> auf die Reparatur-, Heilungs- und Sabotagegeschwindigkeit.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim.<br>Die Handlungsgeschwindigkeit deiner selbstlosen Besessenheit ist um <span class="Highlight1">38%</span> erhöht. Sobald die Besessenheit zerstört oder geopfert wird, erhält jeder andere Überlebende eine Strafe von <span class="Highlight2">19%</span> auf die Reparatur-, Heilungs- und Sabotagegeschwindigkeit.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Erlischendes Licht
-Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden entfacht deinen Hunger. Wenn ein Überlebender in mindestens <span class="Highlight1">24 Metern</span> Entfernung von einem Haken gerettet wird, erhält die aufgezehrte Hoffnung ein Zeichen.<br><li><span class="Highlight3">3 Zeichen</span>: Angriffe versetzen die Überlebenden automatisch in den Todesstatus.</li><li><span class="Highlight2">5 Zeichen</span>: Dies gewährt die Fähigkeit, Überlebende mit deiner eigenen Hand zu töten. </li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i><br><span class="FlavorText">"Wenn du nichts unternimmst, klebt ihr Blut an deinen Händen. Wenn du sie rettest, wird ihr Hunger wachsen."</span>
+Dein Hass auf Fortschritt treibt dich an.<br>Überlade einen Generator mithilfe der Aktion <b>Generator beschädigen</b>. Der nächste Überlebende, der mit diesem Generator interagiert, muss einen <span class="Highlight1">enorm</span> schweren Fähigkeitscheck bestehen. Ein misslungener Fähigkeitscheck resultiert in zusätzlichen <span class="Highlight2">5%</span> Rückgang am Generator.<br>Ein erfolgreicher Fähigkeitscheck gewährt keinen Fortschritt, aber der Generator explodiert nicht.
+Dein Hass auf Fortschritt treibt dich an.<br>Überlade einen Generator mithilfe der Aktion <b>Generator beschädigen</b>. Der nächste Überlebende, der mit diesem Generator interagiert, muss einen <span class="Highlight1">deutlich</span> schweren Fähigkeitscheck bestehen. Ein misslungener Fähigkeitscheck resultiert in zusätzlichen <span class="Highlight2">4%</span> Rückgang am Generator.<br>Ein erfolgreicher Fähigkeitscheck gewährt keinen Fortschritt, aber der Generator explodiert nicht.
+Dein Hass auf Fortschritt treibt dich an.<br>Überlade einen Generator mithilfe der Aktion <b>Generator beschädigen</b>. Der nächste Überlebende, der mit diesem Generator interagiert, muss einen <span class="Highlight1">moderat</span> schweren Fähigkeitscheck bestehen. Ein misslungener Fähigkeitscheck resultiert in zusätzlichen <span class="Highlight2">3%</span> Rückgang am Generator.<br>Ein erfolgreicher Fähigkeitscheck gewährt keinen Fortschritt, aber der Generator explodiert nicht.
+Überladen
+Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden entfacht deinen Hunger. Wenn ein Überlebender in mindestens <span class="Highlight1">24 Metern</span> Entfernung von einem Haken gerettet wird, erhält die aufgezehrte Hoffnung ein Zeichen.<br><li><span class="Highlight3">2 Zeichen</span>: Erhalte <span class="Highlight3">10 Sekunden</span> lang einen Geschwindigkeitsschub von <span class="Highlight2">5%</span>, nachdem du einen Überlebenden aufgehängt hast. Der Geschwindigkeitsschub wird <span class="Highlight3">10 Sekunden</span> nach dem Aufhängen eines Überlebenden ausgelöst.</li><li><span class="Highlight3">3 Zeichen</span>: Angriffe versetzen die Überlebenden automatisch in den Todesstatus.</li><li><span class="Highlight2">5 Zeichen</span>: Dies gewährt die Fähigkeit, Überlebende mit deiner eigenen Hand zu töten. </li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i><br><span class="FlavorText">Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden entfacht deinen Hunger. Wenn ein Überlebender in mindestens <span class="Highlight1">24 Metern</span> Entfernung von einem Haken gerettet wird, erhält die aufgezehrte Hoffnung ein Zeichen.<br><li><span class="Highlight3">3 Zeichen</span>: Angriffe versetzen die Überlebenden automatisch in den Todesstatus.</li><li><span class="Highlight2">5 Zeichen</span>: Dies gewährt die Fähigkeit, Überlebende mit deiner eigenen Hand zu töten. </li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i><br><span class="FlavorText">"Wenn du nichts unternimmst, klebt ihr Blut an deinen Händen. Wenn du sie rettest, wird ihr Hunger wachsen."</span>
 Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden entfacht deinen Hunger. Wenn ein Überlebender in mindestens <span class="Highlight1">24 Metern</span> Entfernung von einem Haken gerettet wird, erhält die aufgezehrte Hoffnung ein Zeichen.<br><li><span class="Highlight2">5 Zeichen</span>: Dies gewährt die Fähigkeit, Überlebende mit deiner eigenen Hand zu töten. </li><br><i>Die Flucheffekte halten so lange, wie das entsprechende verfluchte Totem besteht.</i><br><span class="FlavorText">"Wenn du nichts unternimmst, klebt ihr Blut an deinen Händen. Wenn du sie rettest, wird ihr Hunger wachsen."</span>
 Fluch: Aufgezehrte Hoffnung
 Ein Fluch, der seine Macht aus Hoffnung bezieht. Du wirst von der Macht deines verfluchten Totems getrieben, wenn die Überlebenden kurz davor sind zu flüchten. Sobald die Ausgangstore mit Energie versorgt sind, wird dieser Fluch auf ein glanzloses Totem angewendet, wenn auf der Karte noch eines existiert. Solange der Fluch aktiv ist, versetzen erfolgreiche Angriffe Überlebende automatisch in den Todesstatus, Abkühlzeiten werden bei erfolgreichen und misslungenen Angriffen um <span class="Highlight1">8%</span> verringert und deine Bewegungsgeschwindigkeit ist um <span class="Highlight2">4%</span> erhöht.<br>Die Flucheffekte bleiben bestehen, solange das entsprechende Fluchtotem existiert.<br><span class="FlavorText">Ein Fluch, der seine Macht aus Hoffnung bezieht. Du wirst von der Macht deines verfluchten Totems getrieben, wenn die Überlebenden kurz davor sind zu flüchten. Sobald die Ausgangstore mit Energie versorgt sind, wird dieser Fluch auf ein glanzloses Totem angewendet, wenn auf der Karte noch eines existiert. Solange der Fluch aktiv ist, werden Abkühlzeiten bei erfolgreichen und misslungenen Angriffen um <span class="Highlight1">8%</span> verringert und deine Bewegungsgeschwindigkeit ist um <span class="Highlight2">4%</span> erhöht.<br>Die Flucheffekte bleiben bestehen, solange das entsprechende Fluchtotem existiert.<br><span class="FlavorText">Ein Fluch, der seine Macht aus Hoffnung bezieht. Du wirst von der Macht deines verfluchten Totems getrieben, wenn die Überlebenden kurz davor sind zu flüchten. Sobald die Ausgangstore mit Energie versorgt sind, wird dieser Fluch auf ein glanzloses Totem angewendet, wenn auf der Karte noch eines existiert. Solange der Fluch aktiv ist, werden Abkühlzeiten bei erfolgreichen und misslungenen Angriffen um <span class="Highlight1">4%</span> verringert und deine Bewegungsgeschwindigkeit ist um <span class="Highlight2">3%</span> erhöht.<br>Die Flucheffekte bleiben bestehen, solange das entsprechende Fluchtotem existiert.<br><span class="FlavorText">Fluch: Niemand entrinnt dem Tod
@@ -1103,19 +1180,30 @@ Ein Fluch, der die eigene Aura-Lesefähigkeit behindert. Wird ein Überlebender ge
 Ein Fluch, der die eigene Aura-Lesefähigkeit behindert. Wird ein Überlebender geschlagen, während das verfluchte Totem aktiv ist, verringert sich die Effektivität seiner Aura-Lesefähigkeit um <span class="Highlight1">100%</span>. Dieser Effekt gilt für die 3 zuletzt geschlagenen Überlebenden.<br><i>Die Flucheffekte halten so lange an, wie das verfluchte Totem besteht.</i><br><span class="FlavorText">"Sie berührte deine Haut, du trägst das Zeichen der Hexe!"</span>
 Ein Fluch, der die eigene Aura-Lesefähigkeit behindert. Wird ein Überlebender geschlagen, während das verfluchte Totem aktiv ist, verringert sich die Effektivität seiner Aura-Lesefähigkeit um <span class="Highlight1">100%</span>. Dieser Effekt gilt für die 2 zuletzt geschlagenen Überlebenden.<br><i>Die Flucheffekte halten so lange an, wie das verfluchte Totem besteht.</i><br><span class="FlavorText">"Sie berührte deine Haut, du trägst das Zeichen der Hexe!"</span>
 Fluch: Das Dritte Siegel
+Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden erfüllt dich mit Erregung und stärkt deine Totems. Du erhältst für jedes verbleibende glanzlose und verfluchte Totem auf der Karte ein Zeichen.<br><li>Verdiene <span class="Highlight1">8%</span> mehr Blutpunkte für Aktionen in der Jagdkategorie für jedes Zeichen.</li><li>Die Zerstörungsgeschwindigkeit der Überlebenden ist für jedes Zeichen um <span class="Highlight2">10%</span> verringert.</li><li>Du wirst benachrichtigt, wenn jemand mit der Arbeit an einem verfluchten Totem beginnt.</li>
+Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden erfüllt dich mit Erregung und stärkt deine Totems. Du erhältst für jedes verbleibende glanzlose und verfluchte Totem auf der Karte ein Zeichen.<br><li>Verdiene <span class="Highlight1">6%</span> mehr Blutpunkte für Aktionen in der Jagdkategorie für jedes Zeichen.</li><li>Die Zerstörungsgeschwindigkeit der Überlebenden ist für jedes Zeichen um <span class="Highlight2">7%</span> verringert.</li><li>Du wirst benachrichtigt, wenn jemand mit der Arbeit an einem verfluchten Totem beginnt.</li>
+Ein Fluch, der seine Kraft aus Hoffnung zieht. Die falsche Hoffnung der Überlebenden erfüllt dich mit Erregung und stärkt deine Totems. Du erhältst für jedes verbleibende glanzlose und verfluchte Totem auf der Karte ein Zeichen.<br><li>Verdiene <span class="Highlight1">4%</span> mehr Blutpunkte für Aktionen in der Jagdkategorie für jedes Zeichen.</li><li>Die Zerstörungsgeschwindigkeit der Überlebenden ist für jedes Zeichen um <span class="Highlight2">4%</span> verringert.</li><li>Du wirst benachrichtigt, wenn jemand mit der Arbeit an einem verfluchten Totem beginnt.</li>
 Fluch: Nervenkitzel der Jagd
+Verfalle nach einem Sprung in einen Sprint mit <span class="Highlight1">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight2">3 Sekunden</span>. <i>Wird nur bei Jagden aktiviert.</i><br>Verursacht <span class="Highlight3">40 Sekunden</span> lang <b>Erschöpfung</b>.<br><i>Flink</i> kann bei Erschöpfung nicht verwendet werden.<br><span class="FlavorText">Verfalle nach einem Sprung in einen Sprint mit <span class="Highlight1">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight2">3 Sekunden</span>. <i>Wird nur bei Jagden aktiviert.</i><br>Verursacht <span class="Highlight3">50 Sekunden</span> lang <b>Erschöpfung</b>.<br><i>Flink</i> kann bei Erschöpfung nicht verwendet werden.<br><span class="FlavorText">Verfalle nach einem Sprung in einen Sprint mit <span class="Highlight1">150%</span> deiner normalen Laufgeschwindigkeit für maximal <span class="Highlight2">3 Sekunden</span>. <i>Wird nur bei Jagden aktiviert.</i><br>Verursacht <span class="Highlight3">60 Sekunden</span> lang <b>Erschöpfung</b>.<br><i>Flink</i> kann bei Erschöpfung nicht verwendet werden.<br><span class="FlavorText">Flink
+Deine Planung ist präzise, deine Ausführung furchterregend.<br>Während einer Jagd ist dein Terrorradius um <span class="Highlight1">8 Meter</span> erhöht. Andernfalls ist dein Terrorradius um <span class="Highlight2">8 Meter</span> verringert und dein Blickfeld ist <span class="Highlight3">deutlich</span> erhöht.<br><i>Blickfeldboni sind nicht stapelbar.</i><br><span class="FlavorText">Deine Planung ist präzise, deine Ausführung furchterregend.<br>Während einer Jagd ist dein Terrorradius um <span class="Highlight1">7 Meter</span> erhöht. Andernfalls ist dein Terrorradius um <span class="Highlight2">7 Meter</span> verringert und dein Blickfeld ist <span class="Highlight3">moderat</span> erhöht.<br><i>Blickfeldboni sind nicht stapelbar.</i><br><span class="FlavorText">Deine Planung ist präzise, deine Ausführung furchterregend.<br>Während einer Jagd ist dein Terrorradius um <span class="Highlight1">6 Meter</span> erhöht. Andernfalls ist dein Terrorradius um <span class="Highlight2">6 Meter</span> verringert und dein Blickfeld ist <span class="Highlight3">leicht</span> erhöht.<br><i>Blickfeldboni sind nicht stapelbar.</i><br><span class="FlavorText">Beobachten und zuschlagen
 Eine übernatürliche Verbundenheit fesselt dich an den Killer. Wenn du in die Richtung des Killers schaust, wird euch durch eure Verbundenheit die Aura des anderen angezeigt. Dieser Effekt tritt nur ein, wenn du dich außerhalb des Terrorradius des Killers befindest.<br>Als Besessenheit des Killers gilt dieser Effekt bis zu einer maximalen Reichweite von <span class="Highlight1">72 Metern</span>. Anderenfalls gilt er bis zu einer maximalen Reichweite von <span class=Eine übernatürliche Verbundenheit fesselt dich an den Killer. Wenn du in die Richtung des Killers schaust, wird euch durch eure Verbundenheit die Aura des anderen angezeigt. Dieser Effekt tritt nur ein, wenn du dich außerhalb des Terrorradius des Killers befindest.<br>Als Besessenheit des Killers gilt dieser Effekt bis zu einer maximalen Reichweite von <span class="Highlight1">72 Metern</span>. Anderenfalls gilt er bis zu einer maximalen Reichweite von <span class=Eine übernatürliche Verbundenheit fesselt dich an den Killer. Wenn du in die Richtung des Killers schaust, wird euch durch eure Verbundenheit die Aura des anderen angezeigt. Dieser Effekt tritt nur ein, wenn du dich außerhalb des Terrorradius des Killers befindest.<br>Als Besessenheit des Killers gilt dieser Effekt bis zu einer maximalen Reichweite von <span class=Objekt der Besessenheit
 Dies stärkt das Potential der eigenen Aura-Lesefähigkeit. Dies erhöht den Bereich der Aura-Lesefähigkeit um <span class="Highlight1">8 Meter</span>.<br><span class="FlavorText">"Aufpassen ist es, was mich die ganzen Jahre am Leben gehalten hat. Das und mein gutes Aussehen natürlich."-Ace</span>
 Dies stärkt das Potential der eigenen Aura-Lesefähigkeit. Dies erhöht den Bereich der Aura-Lesefähigkeit um <span class="Highlight1">6 Meter</span>.<br><span class="FlavorText">"Aufpassen ist es, was mich die ganzen Jahre am Leben gehalten hat. Das und mein gutes Aussehen natürlich."-Ace</span>
 Dies stärkt das Potential der eigenen Aura-Lesefähigkeit. Dies erhöht den Bereich der Aura-Lesefähigkeit um <span class="Highlight1">4 Meter</span>.<br><span class="FlavorText">"Aufpassen ist es, was mich die ganzen Jahre am Leben gehalten hat. Das und mein gutes Aussehen natürlich."-Ace</span>
 Mit offener Hand
-Du <b>suchst</b> einen Überlebenden heim.<br>Jedes Mal, wenn du deiner Besessenheit nachgehst und sie entkommen lässt, erhältst du einen Bonus bis hin zu maximal 3 Boni. Jeder Bonus verbessert deine Bewegungsgeschwindigkeit um <span class="Highlight1">5%</span>. Jeder Offensivangriff verbraucht einen Bonus.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim.<br>Jedes Mal, wenn du deiner Besessenheit nachgehst und sie entkommen lässt, erhältst du einen Bonus bis hin zu maximal 3 Boni. Jeder Bonus verbessert deine Bewegungsgeschwindigkeit um <span class="Highlight1">4%</span>. Jeder Offensivangriff verbraucht einen Bonus.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim.<br>Jedes Mal, wenn du deiner Besessenheit nachgehst und sie entkommen lässt, erhältst du einen Bonus bis hin zu maximal 3 Boni. Jeder Bonus verbessert deine Bewegungsgeschwindigkeit um <span class="Highlight1">3%</span>. Jeder Offensivangriff verbraucht einen Bonus.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Spiele mit deinem Essen
-Das Beste kommt zum Schluss
+Erdrückende Präsenz
+Allein mit deiner Gegenwart löst du bei anderen Grauen aus. Überlebende in deinem Terrorradius sind <b>ineffizient</b>.<br>Die Item-Verbrauchsraten betroffener Überlebender sind um <span class="Highlight1">50%</span> erhöht.<br><span class="FlavorText">Allein mit deiner Gegenwart löst du bei anderen Grauen aus. Überlebende in deinem Terrorradius sind <b>ineffizient</b>.<br>Die Item-Verbrauchsraten betroffener Überlebender sind um <span class="Highlight1">45%</span> erhöht.<br><span class="FlavorText">Allein mit deiner Gegenwart löst du bei anderen Grauen aus. Überlebende in deinem Terrorradius sind <b>ineffizient</b>.<br>Die Item-Verbrauchsraten betroffener Überlebender sind um <span class="Highlight1">40%</span> erhöht.<br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim.<br>Jedes Mal, wenn du deiner Besessenheit nachgehst und sie entkommen lässt, erhältst du einen Bonus bis hin zu maximal 3 Boni. Jeder Bonus verbessert deine Bewegungsgeschwindigkeit um <span class="Highlight1">5%</span>. Jeder Offensivangriff verbraucht einen Bonus.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim.<br>Jedes Mal, wenn du deiner Besessenheit nachgehst und sie entkommen lässt, erhältst du einen Bonus bis hin zu maximal 3 Boni. Jeder Bonus verbessert deine Bewegungsgeschwindigkeit um <span class="Highlight1">4%</span>. Jeder Offensivangriff verbraucht einen Bonus.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim.<br>Jedes Mal, wenn du deiner Besessenheit nachgehst und sie entkommen lässt, erhältst du einen Bonus bis hin zu maximal 3 Boni. Jeder Bonus verbessert deine Bewegungsgeschwindigkeit um <span class="Highlight1">3%</span>. Jeder Offensivangriff verbraucht einen Bonus.<br><i>Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Spiele mit deinem Essen
+Du <b>suchst</b> einen Überlebenden heim. Solange deine Besessenheit andauert, wird der Cooldown deines nächsten erfolgreichen Angriffs nach <span class="Highlight1">20 Sekunden</span> in einer Jagd um <span class="Highlight2">40%</span> verringert. Der Cooldown erfolgreicher Angriffe bleibt nach einer Jagd <span class="Highlight3">5 Sekunden</span> aktiv und wird zurückgesetzt, wenn die Jagd vor Ablauf der <span class="Highlight3">5 Sekunden</span> wieder aufgenommen wird.<i>Nur eine Besessenheit pro Spiel</i>.<br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim. Solange deine Besessenheit andauert, wird der Cooldown deines nächsten erfolgreichen Angriffs nach <span class="Highlight1">20 Sekunden</span> in einer Jagd um <span class="Highlight2">35%</span> verringert. Der Cooldown erfolgreicher Angriffe bleibt nach einer Jagd <span class="Highlight3">5 Sekunden</span> aktiv und wird zurückgesetzt, wenn die Jagd vor Ablauf der <span class="Highlight3">5 Sekunden</span> wieder aufgenommen wird.<i>Nur eine Besessenheit pro Spiel</i>.<br><span class="FlavorText">Du <b>suchst</b> einen Überlebenden heim. Solange deine Besessenheit andauert, wird der Cooldown deines nächsten erfolgreichen Angriffs nach <span class="Highlight1">20 Sekunden</span> in einer Jagd um <span class="Highlight2">30%</span> verringert. Der Cooldown erfolgreicher Angriffe bleibt nach einer Jagd <span class="Highlight3">5 Sekunden</span> aktiv und wird zurückgesetzt, wenn die Jagd vor Ablauf der <span class="Highlight3">5 Sekunden</span> wieder aufgenommen wird.<i>Nur eine Besessenheit pro Spiel</i>.<br><span class="FlavorText">Das Beste kommt zum Schluss
 Weil mehrere deiner Freunde dem Killer in die Hände fallen, erhöhen sich deine Überlebenschancen durch eine unerklärliche Kraft. Jeder getötete oder geopferte Überlebende unterbricht die Aura-Lesefähigkeit des Killers dir gegenüber.<br><li>1 Getöteter oder Geopferter: Verringert den Aura-Lesebereich des Killers um <span class="Highlight1">50%</span>.</li><li>2 Getötete oder Geopferte: Verringert den Aura-Lesebereich des Killers um <span class="Highlight2">75%</span>.</li><li>3 Getötete oder Geopferte: <span class="Highlight3">Immun</span> gegenüber des Aura-Lesens des Killers.</li><br><i>Erhöht die Chancen, zur <b>Besessenheit</b> des Killers zu werden. Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Weil mehrere deiner Freunde dem Killer in die Hände fallen, erhöhen sich deine Überlebenschancen durch eine unerklärliche Kraft. Jeder getötete oder geopferte Überlebende unterbricht die Aura-Lesefähigkeit des Killers dir gegenüber.<br><li>1 Getöteter oder Geopferter: Verringert den Aura-Lesebereich des Killers um <span class="Highlight1">35%</span>.</li><li>2 Getötete oder Geopferte: Verringert den Aura-Lesebereich des Killers um <span class=Weil mehrere deiner Freunde dem Killer in die Hände fallen, erhöhen sich deine Überlebenschancen durch eine unerklärliche Kraft. Jeder getötete oder geopferte Überlebende unterbricht die Aura-Lesefähigkeit des Killers dir gegenüber.<br><li>1 oder mehr Getötete oder Geopferte: Verringert den Aura-Lesebereich des Killers um <span class="Highlight1">40%</span>.</li><br><i>Erhöht die Chancen, zur <b>Besessenheit</b> des Killers zu werden. Nur eine Besessenheit pro Spiel.</i><br><span class="FlavorText">Einziger Überlebender 
+Du bist äußerst sorgfältig und präzise im Umgang mit Maschinen.<br>Die Geräusche, die du bei der Reparatur verursachst und die Distanz, die sie zu hören sind, sind um <span class="Highlight2">8 Meter</span> verringert. Bei einem misslungenen Reparatur-Fähigkeitscheck besteht eine Chance von <span class="Highlight1">50%</span>, dass der Generator nicht explodiert.<br><span class="FlavorText">Du bist äußerst sorgfältig und präzise im Umgang mit Maschinen.<br>Die Geräusche, die du bei der Reparatur verursachst und die Distanz, die sie zu hören sind, sind um <span class="Highlight2">4 Meter</span> verringert. Bei einem misslungenen Reparatur-Fähigkeitscheck besteht eine Chance von <span class="Highlight1">40%</span>, dass der Generator nicht explodiert.<br><span class="FlavorText">Du bist äußerst sorgfältig und präzise im Umgang mit Maschinen.<br>Bei einem misslungenen Reparatur-Fähigkeitscheck besteht eine Chance von <span class="Highlight1">30%</span>, dass der Generator nicht explodiert.<br><span class="FlavorText">Technikerin
 Am Ende wird alles gut; das weißt du doch.  Dein Selbstvertrauen bestärkt das Gefühl der Hoffnung für jene um dich herum. Für jeden anderen Überlebenden, der noch lebt, gibt es einen <span class="Highlight1">3%</span> Glücksbonus für alle verbleibenden Überlebenden.<br><span class="FlavorText">"Was soll ich sagen? Ich bin bloß ein sehr glücklicher Kerl... "Ich bin mir sicher, dass etwas davon auf dich abfärbt." -Ace</span>
 Am Ende wird alles gut; das weißt du doch.  Dein Selbstvertrauen bestärkt das Gefühl der Hoffnung für jene um dich herum. Für jeden anderen Überlebenden, der noch lebt, gibt es einen <span class="Highlight1">2%</span> Glücksbonus für alle verbleibenden Überlebenden.<br><span class="FlavorText">"Was soll ich sagen? Ich bin bloß ein sehr glücklicher Kerl... "Ich bin mir sicher, dass etwas davon auf dich abfärbt." -Ace</span>
 Am Ende wird alles gut; das weißt du doch.  Dein Selbstvertrauen bestärkt das Gefühl der Hoffnung für jene um dich herum. Für jeden anderen Überlebenden, der noch lebt, gibt es einen <span class="Highlight1">1%</span> Glücksbonus für alle verbleibenden Überlebenden.<br><span class="FlavorText">"Was soll ich sagen? Ich bin bloß ein sehr glücklicher Kerl... "Ich bin mir sicher, dass etwas davon auf dich abfärbt." -Ace</span>
 Erhöhe den Einsatz
+Ist es eine Gabe oder ein Fluch? Der Entitus hat im Herzen des Doktors einen teuflischen und unauslöschlichen Funken entfacht. Nun kann er nach Belieben Energie erzeugen, die Elektrokrämpfe verursacht. Seine heimtückische Behandlungsmethode verändert den Verstand von allen, die damit in Berührung kommen. Die Opfer des abscheulichen Funkens verlieren den Bezug zur Realität, und je länger sie ihm ausgesetzt sind, desto tiefer verfallen sie dem Wahnsinn.<br><li>Gewährt die Fähigkeit, zwischen dem <b>Bestrafungs-</b> und <b>Behandlungsmodus</b> zu wechseln.</li><li>Im <b>Behandlungsmodus</b> wird ein statisches Feld anhand deines Terrorradius erzeugt, das den <b>Wahnsinn</b> von Überlebenden je nach ihrer Entfernung zum Doktor erhöht.</li><li>Der <b>Behandlungsmodus</b> gewährt die Fähigkeit, einen <b>Schocktherapieangriff</b> aufzuladen und einzusetzen, der den <b>Wahnsinn</b> der Überlebenden stark erhöht.</li><li>Überlebende, die <b>Wahnsinn I, II oder III</b> verfallen, schreien und verraten dem Doktor ihre Position.</li><li><b>Wahnsinn II</b> und <b>III</b> lösen bei Überlebenden Halluzinationen aus, die vom Doktor als <b>Auren</b> wahrgenommen werden.</li><li>Bei <b>Wahnsinn III</b> schreien Überlebende regelmäßig und verraten dem Doktor ihre Position.</li><li>Bei <b>Wahnsinn III</b> können Überlebende nicht interagieren, bis sie <b>sich beruhigen</b>.</li><li>Mehr <b>Symptome</b> sind mit Add-ons verfügbar.</li>
+Carters Funken
+Carters Funken
+Carters Funken
 Die Macht der Hexe entspringt einem geschwärzten Finger, der als Auslöser für ihre grausamen Kraft benutzt wird. Die Hexe biegt und formt den Schlamm nach ihrem Willen. Mit einfachen rituellen Zeichnungen erstellt sie trügerische Duplikate ihrer selbst aus Schlamm und Abfall, die sie anschließend für verschiedene Effekte verwenden kann.<br><li>Dies gewährt die Fähigkeit zum Erstellen und Erhalten von <b>10</b>Phantomfallen.</li><li> Dies gewährt die Fähigkeit zum sofortigen Reisen zu ausgelösten Phantomen, bei Anwesenheit in einem Umkreis von <b>32 Metern</b>.</li>
 Geschwärzter Auslöser
 Die Dunkelheit in seinem Inneren nährt seinen Entschluss, seinen Opfern das Leben zu nehmen. Das Aktivieren von Diabolik ermöglicht Dem Wandler, sein Opfer deutlich zu sehen und mehr bösartige Kraft aufzubauen, indem er sie stalkt. Die 3 Kraftstufen von Diabolik haben unterschiedliche Nutzen:<br><br>DIABOLIK I: Enorm verringerter Terrorradius. Gewährt Immunität für Wahrnehmungs-Perks. Leicht verringerte Bewegungsgeschwindigkeit. Leicht verringerte Wirkung.<br><br>DIABOLIK II: Leicht verringerter Terrorradius. Leicht erhöhte Bewegungsgeschwindigkeit. Leicht erhöhte Wirkung.<br><br>DIABOLIK III: Normaler Terrorradius. Greift mit doppeltem Schaden an. Diabolik III hält für 60 Sekunden bis seine Stärke deutlich abgesenkt wird.<br><span class="FlavorText">Diabolik
@@ -1133,6 +1221,8 @@ EHRENPREIS I
 EHRENPREIS I
 EHRENPREIS I
 EHRENPREIS I
+EHRENPREIS I
+EHRENPREIS I
 EHRENPREIS II
 EHRENPREIS II
 EHRENPREIS II
@@ -1147,6 +1237,10 @@ EHRENPREIS II
 EHRENPREIS II
 EHRENPREIS II
 EHRENPREIS II
+EHRENPREIS II
+EHRENPREIS II
+EHRENPREIS III
+EHRENPREIS III
 EHRENPREIS III
 EHRENPREIS III
 EHRENPREIS III
@@ -1206,6 +1300,7 @@ Lockere Jeans
 Reliquienverehrung
 Reparieren
 Repariere den Gegenwert von {1} ganzen Generator(en).
+Reparaturgeschwindigkeit
 Reparaturen
 Rette {1} Überlebende(n) vom Haken mit {0}.
 Widerstandsfähigkeit
@@ -1220,6 +1315,9 @@ Gummihandschuhe
 Gummischürze und Haken
 Verrostete Kette
 Bonustreffer
+Angriffsbonus
+Geschockt
+Neue Wahnsinn-Stufe
 Falle ausgelöst
 Set Trap
 Phantomangriff
@@ -1229,6 +1327,7 @@ Schutz
 Schutz
 Stalker
 Diabolik
+Feng Min
 Ace Visconti
 William Laurie Strode
 Sabotieren (Saboteur)
@@ -1236,6 +1335,7 @@ Sabotieren (Werkzeugkiste)
 Falle sabotieren (Saboteur)
 Falle sabotieren (Werkzeugkiste)
 Sabotiere den Gegenwert von {1} ganzen Haken.
+Sabotagegeschwindigkeit
 Saboteur
 Opfer
 Opfer
@@ -1258,6 +1358,7 @@ Einstellwerkzeuge
 Schattengeborener
 Schnurrbart-Jake
 Schutzwald
+Schocktherapie
 Werkstattschmierstoff
 Zerfetztes Nummernschild
 Würgerkranz
@@ -1266,6 +1367,7 @@ Tuch der Trennung
 Tuch der Vereinigung
 Unterzeichnete Kassenbuchseite
 Hauptschlüssel
+Fähigkeiten
 Schlachthaushose
 Gerissenes Fleisch
 Schlampiger Schlachter
@@ -1275,6 +1377,7 @@ Jemand hat schnell etwas auf dieses Rindenstück gemalt, das allem Anschein nach,
 Zündkerze
 Spezialisierte Werkzeuge, hergestellt, um schnell und ohne großen Aufwand, Bärenfallen zu legen.<br><li><b>Verringert deutlich</b> die Einstellzeit der Bärenfallen.</li><li>Beeinflusst vom Tüftler-Perk.</li><li>Betrifft alle Bärenfallen.</li><li>Effekt summiert sich.</li>
 Geschwindigkeitsreduzierer
+Geschwindigkeit
 Spione des Schattens
 Nagelschuhe
 Kalter Rückenschauer
@@ -1307,10 +1410,19 @@ Grubenschacht
 Überlebenden gefunden
 Schwitzhosen
 Bartnelkenduftkissen
+Zu Bestrafung wechseln
+Zu Behandlung wechseln
 LEHRFÄHIGE PERKS
 DAS BLUTNETZ
 DER ENTITUS
 Totalreflexions-Optik
+Stärke: <b>Carters Funken</b><br><li>Gewährt die Fähigkeit, zwischen dem <b>Bestrafungs-</b> und <b>Behandlungsmodus</b> zu wechseln.</li><li>Benutze den <b>Behandlungsmodus</b>, um den <b>Wahnsinn</b> von Überlebenden zu steigern.</li><li>Im <b>Behandlungsmodus</b> wird ein statisches Feld anhand deines Terrorradius erzeugt, das den <b>Wahnsinn</b> von Überlebenden je nach ihrer Entfernung zum Doktor erhöht.</li><li>Überlebende, die <b>Wahnsinn I, II oder III</b> verfallen, schreien und verraten dem Doktor ihre Position.</li><li><b>Wahnsinn II</b> und <b>III</b> lösen bei Überlebenden Halluzinationen aus.</li><li>Bei <b>Wahnsinn III</b> schreien Überlebende regelmäßig und verraten dem Doktor ihre Position.</li><li>Bei <b>Wahnsinn III</b> können Überlebende nicht interagieren, bis sie <b>sich beruhigen</b>.</li><li><b>Mehr Symptome</b> sind mit Add-ons verfügbar.</li><br><li>Lehrbare Perks: <b>Erdrückende Präsenz, Beobachten und zuschlagen, Überladen</b>.</li>
+Waffe: <b>Klaue</b><br>Stärke: <b>Geschwärzter Auslöser</b><br><li>Dies gewährt die Fähigkeit zum Erstellen und Erhalten von <b>10 Phantomfallen</b>.<li>Dies gewährt die Fähigkeit zum sofortigen Reisen zu ausgelösten Phantomen, bei Anwesenheit in einem Umkreis von 32 Metern.</li><li>Überlebende, die den Fallenbereich betreten, lassen ein Phantom der Hexe erscheinen, das sie desorientiert.</li><br>Lehrbare Perks: <b>Fluch: Aufgezehrte Hoffnung, Fluch: Ruin, Fluch: Das Dritte Siegel</b>
+Waffe: <b>Hammer</b><br>Stärke: <b>Kettensäge</b><br><li>Verfalle in einen Amoklauf bei Aktivierung einer Aufladung.</li><li>Eingeschränkte Steuerbarkeit während des Sprints.</li><li>Löst automatisch Todesstatus bei erfolgreichem Schlag aus.</li><br>Lehrbare Perks: <b>Tüftler, Lichtgeborener, Beständig</b>
+Waffe: <b>Küchenmesser</b><br>Stärke: <b>Diabolik</b><br><li>Stalke Überlebende, um <b>Diabolik</b> aufzuladen.<li><b>Diabolik</b> hat 3 einzigartige Stufen, die die Fähigkeit zur Jagd von Überlebenden beeinflussen (siehe Ausstattung für Details).</li><li>Die weiße Hervorhebung von Überlebenden wird rot, wenn sie das Maximum für <b>Diabolik</b> erreicht haben.</li><br>Lehrbare Perks: <b>Das Beste kommt zum Schluss, Erlöschendes Licht, Spiele mit deinem Essen</b>
+Waffe: <b>Knochensäge</b><br>Stärke: <b>Spencers Letzter Atem</b><br><li>Du kannst dich zweimal <b>teleportieren</b>, bevor du ermüdest.</li><li><b>Teleportiere</b> dich bei der Aktivierung einer Aufladung bis zu <b>20 Meter</b> weit.</li><li>Du kannst nach der Teleportation einen <b>tödlichen Teleportationsangriff</b> ausführen.</li><br>Lehrbare Perks: <b>Stridor, Thanatophobie, Der Ruf einer Krankenschwester</b>
+Waffe: <b>Hackbeil</b><br>Stärke: <b>Bärenfalle</b><br><li>Lege <b>Bärenfallen</b>, um Opfer des Fallenstellers unbeweglich zu machen und zu verletzen.</li><li>Beginnt ein Spiel mit <b>1 Bärenfalle</b>.</li><li>5 verfügbare <b>Bärenfallen</b> werden zufällig auf der Katze platziert.</li><br>Lehrbare Perks: <b>Brutale Stärke, Erregung, Zermürbende Präsenz</b>
+Waffe: <b>Azarovs Axt</b><br>Stärke: <b>Jammerglocke</b><br><li>Aufladbare Aktion, die nahezu völlige Unsichtbarkeit gewährt.</li><li>Schnellere Fortbewegung bei Unsichtbarkeit.</li><br>Lehrbare Perks: <b>Schattengeborener, Räuber, Bluthund</b>
 Tangarkranz
 Teerflasche
 Getrübte Münze
@@ -1448,6 +1560,8 @@ Hinübersteigen
 Pflanzenöl
 Vigos Leichentuch
 Nummernschild aus Virginia
+Sicht
+Kondition
 Jammerglocke
 Jammerglocke
 Wasserfest, atmungsaktiv und winddicht sind die Eigenschaften, die diese Windjacke so großartig machen.
@@ -1699,6 +1813,7 @@ Ritual des Letzten Atemzugs
 Genaue Teleportation
 Tödliche Teleportation
 Überraschungsteleportation
+ANNEHMEN
 VERSTANDEN
 ÄNDERUNGEN ÜBERNEHMEN
 ZURÜCK
@@ -1714,6 +1829,7 @@ LOBBY ERSTELLEN
 CREDITS
 ANPASSEN
 TÄGLICHE RITUALE
+ABLEHNEN
 DIE GRUPPE VERLASSEN
 EXTRAS
 GEHE IN DIE LOBBY
@@ -1739,6 +1855,7 @@ SPIELEN
 SPIELE ALS KILLER
 SPIELE ALS ÜBERLEBENDER
 DRÜCKE EINE BELIEBIGE TASTE
+DRÜCKE EINE BELIEBIGE TASTE
 VORHERIGE
 PRIVATE PARTIE
 FORTSCHRITT
@@ -1750,6 +1867,7 @@ NEUES BLUTNETZ ERSTELLEN
 RITUAL LÖSCHEN
 AUF STANDARD ZURÜCKSETZEN
 ZURÜCK ZUR LOBBY
+SPEICHERN UND SCHLIESSEN
 DURCH LISTE SCROLLEN
 EINSTELLUNGEN UND STEUERUNG
 SCHREIN
@@ -1760,6 +1878,7 @@ ABSENDEN
 ÜBERLEBE MIT FREUNDEN
 ÜBERLEBENDER
 ÜBERLEBENDEN-TUTORIAL
+ÜBERLEBENDE
 ROLLE WECHSELN
 ZU KILLER WECHSELN
 ZU ZUSCHAUER WECHSELN
@@ -1786,6 +1905,7 @@ BLUTNETZ
 TAPFERKEIT
 BOOSTS VERLOREN
 BRUTALITÄT
+KAMERA-EMPFINDLICHKEIT
 CHARAKTER
 CHARAKTER-PERKS
 CHARAKTERE
@@ -1899,6 +2019,7 @@ SCHREIN DER GEHEIMNISSE WIRD ERNEUERT IN
 SLOT GESPERRT
 STATUS
 ÜBERLEBEN
+ÜBERLEBENDER
 ÜBERLEBENDER<br>RANG
 STEUERUNG FÜR ÜBERLEBENDE
 ÜBERLEBENDER-TUTORIAL-VIDEOS
@@ -1958,12 +2079,11 @@ Preis
 <li>2 bis 5 Spieler können spielen.</li><li>Das Spiel kann beginnen, wenn es 1 Killer gibt, nicht mehr und nicht weniger!</li><li>Items, Add-ons, Perks und Opfergaben, die in anderen Modi gesammelt wurden, können genutzt werden; sie gehen nicht verloren.</li><li>Es werden keine Blutpunkte verdient.</li><li>Keine items, Add-ons oder Opfergaben werden verdient.</li><li>Du kannst Ränge weder gewinnen noch verlieren.</li>
 Eine neue Spielrunde beginnt. Dein Rang wird zurückgesetzt:
 Eine neue Version des Spiels ist jetzt verfügbar. Du musst dein Gerät zuerst aktualisieren, um die Netzwerkfunktionen nutzen zu können.
-Es wird ein Profil mit Zugang zu Xbox Live benötigt.
 ALTERSBESCHRÄNKUNG
 ANWENDUNG ANGEHALTEN
-VERFÜGBAR AUF DEM PLAYSTATION STORE!
+VERFÜGBAR IM PlayStation®Store!
 VERFÜGBAR IM STEAM STORE!
-VERFÜGBAR AUF DEM XBOX ONE-MARKTPLATZ!
+VERFÜGBAR IM Xbox Store!
 Du erreichst die Tutorials jederzeit durch Drücken der [ESC]-Taste und Hilfe in der Optionsliste.
 Legt fest, ob das Spiel im Vollbild oder Fenstermodus ausgeführt wird.
 Bereits im Besitz. Kaufe erneut & erhalte:
@@ -1978,6 +2098,7 @@ Passt die Auflösung automatisch der Framerate an.
 Auf Steam verfügbar
 VERBRENNE {0}
 MATCHMAKING ABGEBROCHEN
+KEINE VERBINDUNG MÖGLICH
 KLICKE HIER ZUM AUSGEBEN VON
 BLUTPUNKTEN
 DEMNÄCHST VERFÜGBAR
@@ -1986,6 +2107,8 @@ VERBINDUNGSFEHLER
 VERBINDUNGSFEHLER
 ERSTELLTE LOBBY
 Stimmt den Raumklang (Audio-Balance) für Kopfhörer oder Lautsprecher ab.
+Keine Verbindung zu Onlinediensten möglich. Bitte versuche es später erneut.
+Die Liste der verfügbaren Inhalte kann nicht abgerufen werden. Bitte versuche es später erneut.
 Kann nicht mit {0} Killer(n) begonnen werden.
 Verändert die Sprache des Spiels. <FONT COLOR="#dd0000">Das Spiel muss neu gestartet werden, um diese Änderung anzuwenden.</FONT>
 Klicke hier, um zu chattenAbsolviere die Rituale und der Entitus wird dich belohnen.
@@ -1996,6 +2119,7 @@ Credits
 TÄGLICHE RITUALE
 Tägliche Herausforderungen für Blutpunkte.
 Tägliche Rituale
+Die Server von Dead by Daylight sind momentan nicht verfügbar. Bitte versuche es später erneut.
 Legt fest, ob das Spiel stummgeschaltet werden soll, wenn es im Hintergrund läuft.
 Legt die Auflösung fest, mit der das Spiel ausgeführt wird. <FONT COLOR="#dd0000">Dies kann nicht geändert werden, wenn die Auto-Einstellung aktiviert ist.</FONT>
 Vom Server getrennt
@@ -2025,6 +2149,7 @@ Das Erhöhen deines Blutnetz-Ansehenlevels hat die folgenden Effekte:<br><ul><li>
 Kehrt die Steuerung der Y-Achse um.
 FEHLER BEI SPIELBEITRITT
 FEHLER BEI LOBBYBEITRITT
+FEHLER BEI LOBBYBEITRITT
 DER LOBBY BEIGETRETEN
 Beitritt zu privatem Spiel abgelehnt
 Vom Server verbannt
@@ -2043,9 +2168,9 @@ NEUES EVENT
 NEUE VERSION VERFÜGBAR
 KEINE SPIELE GEFUNDEN
 KEINE NETZWERKVERBINDUNG
+KEINE NETZWERKVERBINDUNG
 Neuigkeiten
 Die aktuellsten Neuigkeiten, Entwicklerupdates und Patch-Hinweise.
-FEHLER: ONLINE-STATUS
 PATCH-NOTIZEN
 PATCH ERFORDERLICH
 ANSEHEN {0}
@@ -2062,11 +2187,14 @@ MELDEN
 AUF STANDARD ZURÜCKSETZEN
 ZUR LOBBY ZURÜCKKEHREN?
 Reports remaining: 
+Sollen alle Tastenbelegungen auf Standard zurückgesetzt werden?
+Sollen alle Tastenbelegungen auf Standard zurückgesetzt werden?
 FEHLER BEIM SPEICHERN
 SUCHE NACH SPIELEN
 SPIELENDE
 KATEGORIE AUSWÄHLEN
 QUELLE:
+BLUTPUNKTE AUSGEBEN
 ENTKOMMENDER ÜBERLEBENDER
 SYSTEMUPDATE ERFORDERLICH
 Sprich:
@@ -2096,7 +2224,6 @@ Warnung
 Du kannst einer Lobby nicht beitreten, während du ein Spiel suchst.
 Du wurdest vom Server getrennt, da ein Fehler bei der Validierung deines Kontos mit Easy Anti-Cheat (Fehler-Code {0}) aufgetreten ist.
 Du wurdest vom Server getrennt, weil ein Fehler bei der Verifikation und Authentifikation deines Steam-Kontos (Fehler-Code {0}) aufgetreten ist.
-Du wurdest von deinem aktuellen Profil abgemeldet.
 Du wurdest vom Server getrennt, weil ein Fehler bei der Validierung des Host-Kontos mit Easy Anti-Cheat (Fehler-Code {0}) aufgetreten ist.
 Du wurdest vom Server getrennt, weil ein Fehler bei der Verifizierung und Authentifikation des Host-Steam-Kontos (Fehler-Code {0}) aufgetreten ist.
 Es scheint, du hast Verbindungsprobleme. Bitte beachte, dass harte Strafen für häufigen Verbindungsabbruch erteilt werden. 
@@ -2113,8 +2240,10 @@ HOCH
 NIEDRIG
 MEDIUM
 MAXIMAL
+Artefakt
 Gewöhnliche(r/s)
 Seltene(r/s)
+Spektral
 Lehrbar
 Äusserst seltene(r/s)
 Ungewöhnliche(r/s)
